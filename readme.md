@@ -7,6 +7,8 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 
 The first 500 to 1000 pairs should have you covered sufficently, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
+![Relevant kerning pairs sorted by frequency of occurrence](charts/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")
+
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
 
 
@@ -109,10 +111,6 @@ I try to avoid overengineering here. The key components were written on a couple
 
 ## Code quality
 Sorry, these scripts are neither fully PEP8 compliant, nor following the Python naming conventions fully. Variable names are self explaining, but long (CamelCase). As a compromise I tend to favor slightly longer lines over forced line breaks for a better code overview. Do not hesitate to propose better (shorter) variable names and simplified, accessible code.
-
-
-![Relevant kerning pairs sorted by frequency of occurrence](charts/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")
-
 
 
 <!--
