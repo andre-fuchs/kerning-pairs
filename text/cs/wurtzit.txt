@@ -1,0 +1,5 @@
+Wurtzit je minerál obsahující sirník železa a zinku ((Zn,Fe)S); je polymorfní modifikací sfaleritu. Často vytváří soustředně vrstevnaté a paprsčité agregáty.
+Poprvé byl wurtzit popsán roku 1861 z naleziště poblíž Příbrami. Učinil tak Charles Friedel, nese jméno jeho učitele, francouzského chemika Charles-Adolphe Wurtze.
+Wurtzit má krystalovou strukturu patřící do šesterečné soustavy. Sestává z atomů zinku a síry vrstvených podle vzorce ABABAB. Rozměry jeho jednotkové buňky jsou:
+c = 6.23 Å = 623 pmVyskytuje se v hydrotermálních usazeninách společně se sfaleritem, pyritem, chalkopyritem, barytem a markazitem.
+V tomto článku byl použit překlad textu z článku Wurtzite na anglické Wikipedii.

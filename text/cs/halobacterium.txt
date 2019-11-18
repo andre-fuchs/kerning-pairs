@@ -1,0 +1,6 @@
+Halobacterium je rod aerobních tyčinkovitých archeí z kmene Euryarchaeota, třídy Halobacteria. Slouží jako dobrý modelový organismus pro vědecké výzkumníky.
+Druhy tohoto rodu jsou adaptované k vysokým koncentracím soli v prostředí (halofilové) a mnoho z jejich proteinů vůbec nefunguje v prostředí s nízkým obsahem soli. Buňka obsahuje z důvodu zachování rovnováhy s prostředím velké množství draslíkových iontů.Jsou obalené plazmatickou membránou (klasická lipidová dvouvrstva) a navíc S-vrstvou z glykoproteinů. Halobacterium roste především na aminokyselinách, ačkoliv se zdá, že geny pro rozklad glukózy a oxidaci tuků obsahuje.
+DasSarma, S. 2004. Genome sequence of an extremely halophilic archaeon, in Microbial Genomes, pp. 383–399, C.M. Fraser, T. Read, and K.E. Nelson (eds.), Humana Press, Inc, Totowa, NJ.
+RE Buchanan and NE Gibbons, eds. Bergey's Manual of Determinative Bacteriology. 8th ed.. vyd. Baltimore: The Williams & Wilkins Co., 1974. Kapitola Family V. Halobacteriaceae fam. nov.. 
+RS Breed, EGD Murray, and NR Smith, eds. Bergey's Manual of Determinative Bacteriology. 7.. vyd. Baltimore: The Williams & Wilkins Co., 1957. Kapitola Genus XII. Halobacterium Elazari-Volcani, 1940, s. 207–212. 
+ELAZARI-VOLCANI, B. Studies on the microflora of the Dead Sea. [s.l.]: Doctoral dissertation, Hebrew University, Jerusalem, 1940. S. pp. 1-116 and i-xiii. 

@@ -1,0 +1,4 @@
+Panoráma je jakýkoliv široký, celkový rozhled / výhled / pohled na krajinu nebo nějaký celek. Používá se často také na označení širokoúhlé reprezentace obrazu v malbě, kresbě, fotografii, filmu a videu nebo v trojrozměrném modelu.
+Fotografie, která zobrazuje velký úhel pohledu. Může být planární, cylindrická nebo sférická (kubická).
+V tomto článku byl použit překlad textu z článku Panoráma (rozhľad) na slovenské Wikipedii.
+(anglicky) Open source GNU GPL program to create arbitrary panoramas; includes links to the first published papers on automated estimation of projective relationship between multiple pictures of the same subject matter.

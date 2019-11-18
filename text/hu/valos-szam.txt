@@ -1,0 +1,56 @@
+A valós számok halmaza és a számegyenes pontjai között kölcsönösen egyértelmű megfeleltetés létesíthető. Ez a Birkhoff-féle "vonalzó"-axióma. 
+A valós számok halmaza végtelen, hisz tartalmazza a szintén végtelen számú természetes, egész és tört számokat, tehát összességében a racionális számok halmazának és az irracionális számok  halmazának unióját jelenti. Az irracionális számok definíciója szerint nincs olyan szám, amely egyszerre racionális és irracionális lenne, és a két halmaz elemein kívül más nem tartozik a valós számokhoz. (Vannak viszont számok, amelyek se racionális se irracionális számok, mert nem valós számok, a nagyságuk nem meghatározható a valós számegyenesen vett rendezéssel a 0-hoz képest, tehát nem 0,  nem is pozitív és nem is negatív számok. Például a nem valós komplex számok.) A valós számokat a tizedestörtekkel azonosíthatjuk: a véges valamint a végtelen szakaszosan ismétlődő tizedestörtek a racionális számoknak, míg a végtelen, szakaszosan nem ismétlődő tizedestörtek az irracionális számoknak felelnek meg.
+A számhalmaz létrehozásában alapvető volt a görögök felfedezése, miszerint kettőnek a négyzetgyöke (a négyzetátló hosszának mérőszáma) nem racionális szám, bár pontos, matematikailag kielégítő definícióra a 19. századig kellett várni.
+   (a latin realis szóból, ami valósat, valóságosat jelent). Unicode-ja U+211D.
+A Birkhoff-féle "vonalzó"-axióma miatt a valós számok halmaza alkalmas folytonos problémák megoldására. Ugyan a racionális számok halmaza is összefüggő, de nem teljes, azaz vannak racionális számokból álló sorozatok, melyek határértéke irracionális. Folytonos problémák esetén a közelítő megoldások egy valóban létező megoldást közelítenek. Ezt az elvet sokoldalúan alkalmazzák az analízisben, a geometriában és a topológiában. A hosszakat, felszíneket, felületeket, térfogatokat szintén emiatt definiálják valós számokként, és nemcsak a kör meg a gömb miatt. A tapasztalati tudományokban is megmarad ez az elv.
+A valós számok megalkotása a racionális számokból a 19. századi matematika fontos lépése volt, mivel lehetővé tette az analízis szilárd alapját. Az első pontos kontrukció  Karl Weierstraßtól származik. Ez korlátos sorozatokat használ a valós számok definiálásához.A ma használt konstrukciók:
+Dedekind-szeletek: Racionális számok felülről korlátos részhalmazainak legkisebb felső korlátaiként definiálja a valós számokat.
+Cauchy-sorozatok ekvivalenciaosztályai: Ez a konstrukció Georg Cantortól származik. Két Cauchy-sorozat ekvivalens, ha megfelelő tagjaik különbsége a nullához tart. Könnyen ellenőrizhető, hogy ez valóban ekvivalencia, és megállapítható, hogy a racionális számok által indukált összeadás és kivonás jóldefiniált. Ezekkel a műveletekkel a valós számok testet alkotnak. A racionális számok indukálnak egy teljes rendezést is, amivel a valós számok halmaza rendezett test.
+Racionális intervallumok egymásba skatulyázott sorozatainak ekvivalenciaosztályai.
+A racionális számok, mint topologikus csoport teljessé tétele abban az értelemben, mint kanonikus uniform struktúra.Mindezek a módszerek teljessé teszik a racionális számokat, és izomorfia erejéig ugyanahhoz a struktúrához vezetnek, a valós számok testéhez. Mindegyik módszer a racionális és a valós számok más-más tulajdonságaira és kapcsolatára világítanak rá:
+A Dedekind-szeletek módszeréből azonnal látszik a teljes rendezés, a sűrűség és az, hogy minden felülről korlátos halmaznak van legkisebb felső korlátja.
+A Cauchy-sorozatok metrikus térként topológiailag teszik teljessé a racionális számokat. Ezzel azonnal látható, hogy a racionális számok sűrűek a valós számok között, és minden Cauchy-sorozatnak van határértéke. Ez a módszer több más matematikai struktúra esetén is alkalmazható.
+Az intervallumskatulyázás a valós számok kiszámítását követi, és azt mutatja, hogy egy valós szám tetszőlegesen közelíthető racionális számokkal. A tetszőleges pontosságú közelítés bizonyítja egy valós határérték létezését.
+Az uniform struktúraként való teljessé tétel egy általánosabb módszer, aminek alkalmazásához sem rendezésre, sem távolságfogalomra nincs szükség.
+A valós számok egy modelljének nevezzük azt az R halmazt, amely tartalmaz két elemet (0 és 1), értelmezünk rajta két bináris műveletet (+ és *, összeadás és szorzás) és egy bináris relációt (≤), valamint ezek kielégítik a következő tulajdonságokat:
+Az összeadás és a szorzás kompatibilis a rendezéssel, azaz minden x, y, z-re az R-ből:
+Minden nem üres részhalmazának ha van felső korlátja R-ben, akkor van legkisebb felső korlátja (szuprémuma) is R-ben.Az utolsó tulajdonság fontos, mivel az különbözteti meg például a racionális számok halmazától, mivel az a halmaz, amelynek az elemeinek négyzete kisebb kettőnél, rendelkezik racionális felső korláttal (2 például ilyen), de a legkisebb felső korlátja (a gyök kettő) nem eleme a halmaznak.
+A valós számok egy ekvivalens axiómarendszere a ha van felső korlát, akkor szuprémum is van helyett az arkhimédeszi axiómát és a Cantor-axiómát választja. Ezzel egyes tételek bizonyítása könnyebb:
+Arkhimédeszi axióma: minden valós számhoz található nála nagyobb természetes szám.
+Cantor-axióma: egymásba skatulyázott zárt intervallumoknak van közös pontja.Ezekkel a tulajdonságokkal kimutatható, hogy bármely két modell ami ezeket kielégíti, izomorf.
+Ha egy sorozat monoton nő és felülről korlátos, akkor konvergens. Hasonlóan, egy alulról korlátos monoton csökkenő sorozat is konvergens. A kettőt összetéve kapjuk, hogy ha egy monoton sorozat korlátos, akkor konvergens
+Az arkhimédészi axióma és az intervallumskatulyázási axióma, amely szerint tetszőleges egymásba skatuyázott korlátos zárt intervallumok metszete nem üres.
+Az infimumaxióma, ami azt állítja, hogy minden nemüres, alulról korlátos részhalmaznak van legnagyobb alsó korlátja.
+A Heine-Borel-axióma, mely szerint hogyha egy zárt, korlátos sorozatot akárhány nyílt intervallum fed le, kiválasztható véges sok, melyek szintén fednek.
+A Bolzano-Weierstraß-axióma, ami azt mondja, hogy minden korlátos végtelen halmaznak van torlódási pontja.
+Az összefüggőségi axióma, miszerint a valós számok a szokásos topológiával összefüggő teret alkotnak.A teljességet a folytonos függvények bevezetésével is le lehet írni:
+A középérték-axióma: A valós számok egy szakaszán folytonos valós függvény felveszi a két szélső érték közötti összes értéket.
+A korlátossági axióma: Korlátos zárt intervallumon definiált valós függvény értékkészlete felülről korlátos.
+A maximumaxióma: Korlátos zárt intervallumon definiált valós függvény felveszi maximumát.
+    {\displaystyle \mathbb {Q} =\left\{\dots ,-{\tfrac {2}{1}},-{\tfrac {1}{2}},-{\tfrac {1}{1}},0,{\tfrac {1}{1}},{\tfrac {1}{2}},{\tfrac {2}{1}},{\tfrac {1}{3}},\dots \right\}=\left.\left\{{\tfrac {p}{q}}\right|p\in \mathbb {Z} ,q\in \mathbb {N} \setminus \{0\}\right\}}
+Kiszámítható és nem kiszámítható számok.Racionálisak azok a számok, melyek előállnak két egész szám hányadosaként. Egy szám irracionális, ha valós, és nem írható fel két egész szám hányadosaként. Az irracionális számokat a pitagoreusok fedezték fel. Ilyenek például a nem négyzetszám egészek négyzetgyökei, a nem köbszám egészek köbgyökei, satöbbi. Példák: 
+Az algebrai számok egész együtthatós polinomok gyökei; vagyis van egy egész együtthatós polinom, melybe behelyettesítve a számot a polinom értéke nulla. Igazából gyakrabban tekintenek az algebrai számokra a komplex számok részhalmazaként, mivel ezeknek a polinomoknak komplex gyökeik is vannak. Algebraiak a gyökkifejezések, például az 
+  -edik gyökök és véges összegeik, de nemcsak ezek, hiszen a negyediknél magasabb fokú polinomok nem oldhatók meg gyökjelekkel.
+A transzcendens számok az algebrai számok komplementer halmaza. Minden transzcendens szám irracionális. A legismertebb transzcendens számok a 
+  . Mindezek a számok kiszámíthatóak, szemben a nem kiszámítható számokkal, mint egy Specker-sorozat határértéke.
+   számossága, de megegyezik a természetes számok hatványhalmazának számosságával, amit 
+Az ismert szűkebb számkörök, a racionális számok, az algebrai számok, a kiszámítható számok mind megszámlálhatóak. A racionális számok megszámlálása bizonyítható Cantor módszerével. A nem megszámlálhatóság a kiszámíthatatlan transzcendens számok hozzávételével adódik.
+A halmazelméletben Cantor felfedezései után adódott a kérdés: Van számosság a megszámlálható és a kontinuum végtelen között? Vagy a valós számokra megfogalmazva: A valós számok minden nem megszámlálható részhalmaza kölcsönösen egyértelműen megfeleltethető-e a valós számoknak? Ez a kontinuumhipotézis, mely függetlennek bizonyult a szokásos axiómarendszertől, mint a Zermelo-Fraenkel-axiómáktól a kiválasztási axiómával együtt. Nem bizonyítható, nem cáfolható ebben a rendszerben.
+abszolútérték által definiált metrikában. Ezzel a generált topológia megegyezik a metrikus tér által generált generált topológiával. Mivel a racionális számok sűrű, de megszámlálható részhalmazt alkotnak, azért néha ezeket a számokat a racionális számokra korlátozzák.
+A racionális számokkal szemben a valós számok lokálisan kompakt teret alkotnak. Ez azt jelenti, hogy tetszőleges 
+   valós számnak van nyílt környezete, melynek lezártja kompakt. A Heine–Borel-tétel szerint bármely 
+A valós számok halmaza lokálisan kompakt, de nem kompakt. A kiterjesztett valós számok halmaza ennek kompaktifikálása, 
+    {\displaystyle {\overline {\mathbb {R} }}:=\mathbb {R} \cup \{-\infty ,+\infty \},}
+    {\displaystyle {\mathfrak {B}}:=\{B_{r}(-\infty )\mid r\in {\mathbb {Q} }^{+}\}}
+    {\displaystyle B_{r}(-\infty ):=\{x\in \mathbb {R} \mid x<-{\tfrac {1}{r}}\}}
+    {\displaystyle {\mathfrak {B}}:=\{B_{r}(+\infty )\mid r\in {\mathbb {Q} }^{+}\}}
+    {\displaystyle B_{r}(+\infty ):=\{x\in \mathbb {R} \mid x>{\tfrac {1}{r}}\}}
+   homeomorfia. Affin-lineáris függvényekkel a zárt intervallumok homeomorfak egymással. Minden monoton sorozatnak van határértéke; például az 
+  , így a kiterjesztett valós szűámok halmaza teljesen rendezett. A testaxiómák nem vihetők át, hiszen az
+George B. Thomas, Maurice D. Weir, Joel Hass, Frank R. Giordano: Thomas-féle Kalkulus I. kötet ISBN 978-963-279-011-4
+Oliver Deiser: Reelle Zahlen – Das klassische Kontinuum und die natürlichen Folgen. Springer-Verlag, 2007, ISBN 3-540-45387-3.
+Klaus Mainzer: Reelle Zahlen In: Heinz-Dieter Ebbinghaus et al.: Zahlen. 3. Auflage. Springer, Berlin/Heidelberg 1992, ISBN 3-540-55654-0, Kapitel 2.
+Otto Forster: Analysis 1. Differential und Integralrechnung einer Veränderlichen. 4. Auflage. vieweg, 1983, ISBN 3-528-37224-9.
+Harro Heuser: Lehrbuch der Analysis, Teil 1. 5. Auflage. Teubner-Verlag, 1988, ISBN 3-519-42221-2.
+John M. H. Olmsted. The Real Number System. New York: Appleton-Century-Crofts (1962) 
+Ez a szócikk részben vagy egészben  a   Reelle Zahl című német Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.

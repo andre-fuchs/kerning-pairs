@@ -1,0 +1,6 @@
+PL/M (zkratka Programming Language for Microcomputers = programovací jazyk pro mikropočítače) je vysokoúrovňový programovací jazyk vyvinutý Garym Kildallem roku 1972 pro mikroprocesory Intel.
+Jazyk začleňoval ideje z PL/1, Algol a XPL, a měl integrovaný makroprocesor. Neobsahoval žádné standardní vstupní nebo výstupní rutiny jako jiné moderní jazyky (Pascal, nebo BASIC). PL/M je původní implementace jazyka pro operační systém CP/M. 
+PL/M kompilátory byly provedeny pro tyto procesory / jednočipy: Intel 4004, 8008, 8080, 8085, 8051, 8052, 8096, 80196, 8086/8088, 80186/80188, 80286 a 80386. Zatímco některé PL/M kompilátory byly nativní, což znamená, že běžely na systémech s použitím stejného mikroprocesoru, např. pro operační systém Intel ISIS, existovaly také křížové překladače, které běžely na jiném operačním systému (DOS od Microsoftu nebo VAX/VMS od Digital Equipment Corporation).
+PL/M již není delší dobu společností Intel podporován, ale trh s náhradními nástroji, jako je PL/M-to-C existují (externí odkazy viz níže).
+PL/M 386 Programmer’s Guide (PDF) – RadiSys Corporation, prosinec 1999. Obsahuje popis syntaxe PL/M v BNF notaci.
+XTRAN Demonstration: Translating PL/M to C – Komerční produkt od Pennington Systems, Inc.V tomto článku byl použit překlad textu z článku PL/M na anglické Wikipedii.

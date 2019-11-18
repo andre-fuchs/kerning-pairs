@@ -1,0 +1,8 @@
+A hidrogén anion a hidrogén negatív ionja, jele H−. A hidrogén anion fontos alkotórésze a csillagok, például a Nap légkörének. A kémiai neve hidrid.
+A hidrogén anion a domináns foton elnyelő anyag a csillagközi térben. A  0,75–4,0 eV energiájú fotonokat nyeli el, ami az infravöröstől a spektrum látható részébe nyúlik. Előfordul a Föld ionoszférájában is.Létét elsőként elméleti úton bizonyította Hans Bethe 1929-ben. A H− szokatlan tulajdonsága, hogy szabad állapotban nem rendelkezik kötött gerjesztett állapottal, ezt véglegesen 1977-ben bizonyították be, és részecskegyorsítókban kísérletileg is vizsgálták.A kémiában a hidrid anion −1-es oxidációs számú hidrogén. A hidridekben formálisan hidrogén anion található, ezek többsége azonban valójában eléggé kovalens vegyület. Ilyen például a borohidrid (BH−4).
+Ez a szócikk részben vagy egészben  a   Hydrogen anion című angol Wikipédia-szócikk ezen változatának fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+Bethe, H. (1929). „Berechnung der Elektronenaffinität des Wasserstoffs”. Z. Phys. 57, 815. o. DOI:10.1007/BF01340659.  
+Bryant, H. C. (1977). „Observation of Resonances near 11 eV in the Photodetachment Cross Section of the H− Ion”. Phys. Rev. Lett. 38, 228. o. DOI:10.1103/PhysRevLett.38.228.  
+Hill, R. N. (1977). „Proof that the H− Ion Has Only One Bound State”. Phys. Rev. Lett. 38, 643. o. DOI:10.1103/PhysRevLett.38.643.  
+Rau, A. R. P. (1996). „The Negative Ion of Hydrogen”. J. Astrophys. Astr. 17, 113. o.  
+Srinivasan, G.. Chapter 5, From White Dwarfs to Black Holes: The Legacy of S. Chandrasekhar. Chicago: University of Chicago Press (1999)

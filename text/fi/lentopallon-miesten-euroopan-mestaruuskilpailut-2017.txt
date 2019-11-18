@@ -1,0 +1,1 @@
+Alkulohkoissa joukkueiden järjestys määräytyy ensisijaisesti voitettujen otteluiden määrän perusteella. Toissijaisesti ratkaisevat ottelupisteet, joita saa 3-0 ja 3-1 -voitosta 3, 3-2 -voitosta 2 ja 2-3 -tappiosta 1. Voittojen ja ottelupisteiden ollessa tasan ratkaisee eräsuhde, sitten eräpisteiden suhde ja lopuksi keskinäinen ottelu.

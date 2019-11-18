@@ -1,0 +1,1 @@
+To lista wszystkich zarejestrowanych wikipedystów, którzy byli głównymi autorami artykułów uznanych za medalowe. Lista jest uporządkowana malejąco według liczby artykułów, alfabetycznie, gdy kilku wikipedystów ma taką samą liczbę haseł. Każda gwiazdka oznacza (i jest podlinkowana) do jednego medalu. Byłe artykuły na medal są oznaczone gwiazdką o rdzawym kolorze.

@@ -1,0 +1,4 @@
+International Electrotechnical Commission (IEC) on kansainvälinen sähköalan standardointiorganisaatio. 
+Tunnetuimmat IEC-standardit liittyvät sähkölaitteiden liitäntöihin, esimerkiksi PC:n virtajohto on määritelty IEC:n standardissa.
+IEC:n jäseninä ovat kansalliset järjestöt. Standardin hyväksyminen vaatii sitä, että kolme neljännestä kansallisista järjestöistä kannattaa sitä.
+IEC:n tietotekniikka-alan standardit tehdään yhteistyössä ISO-standardointiorganisaation kanssa työryhmässä nimeltä JTC1 (Joint Technical Committee). Suomenkielisessä Wikipediassa luettelo merkittävimmistä JTC1-standardeista on ISO-standardointiorganisaation sivulla.

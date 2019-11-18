@@ -1,0 +1,8 @@
+Elektrochemie je obor chemie, který zkoumá procesy probíhající na rozhraní elektrod (kovových nebo polokovových, příp. grafitových) a elektrolytu.
+Počátky elektrochemie spadají do 16. století. Okolo roku 1550 angličan Wiliam Gilbert experimentoval s magnetismem a elektřinou. Díky jeho práci bývá označován jako otec magnetismu. Objevil několik metod výroby magnetů.
+V roce 1663 sestrojil německý fyzik Otto von Guericke první elektrický generátor, který pro výrobu elektřiny využíval tření.
+V roce 1800 angličtí chemici Wiliam Nicholson a Johann Ritter elektrolyticky rozložili vodu na vodík a kyslík.
+V roce 1832 Michael Faraday formuloval dva základní elektrochemické zákony, které jsou založeny na jeho experimentech.
+V roce 1886 Paul Héroult a Charles Martin Hall vyvinuli elektrolytickou metodu pro získání hliníku z bauxitu. Metoda byla založena na principech popsaných Faradayem.
+V roce 1937 sestrojil Arne Tiselius první sofistikovanou elektroforetickou aparaturu a roku 1948 získal Nobelovu cenu za jeho práci v oblasti elektroforézy proteinů.
+V roce 1949 byla založena International Society of Electrochemistry (Mezinárodní elektrochemická společnost).

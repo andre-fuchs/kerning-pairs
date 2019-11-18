@@ -1,0 +1,180 @@
+Kong Valdemars Jordebog er den gængse betegnelse for en gruppe tekster fra det 13. århundrede, Valdemar Sejrs tid. Teksterne er den første art matrikulation af kongens ejendom.
+Jordebogen er som tekst-empirisk kildemateriale et værdifuldt grundlag for stednavneforskningen og studiet af sociale strukturelle elementer som rigs-konstitution og godsbesiddelse i Valdemarernes Danmark.
+Bogen er en del af et større manuskript Codex Holmiensis A 41. I Danmark blev jordebogen først publiceret af P.F. Suhm 1792 som Liber census Daniæ (dansk: Danske skattebog), og det er skat og matrikulation, der traditionelt danner rammen for forståelsen af jordebogens indhold. I artiklen følges O. Nielsens tekstafgrænsning publiceret 1873. Samme afgrænsning genfindes i den seneste udgave af (Aakjær 1943).
+Sammenlignet med samlingsbindets øvrige tekstdele er jordebogen for det meste optegnelser med fiskalt indhold. Den består fortrinsvis af navneord og tal. Inden for denne typologi er der tydeligt markerede og indholdsmæssigt forskellige afsnit, men desværre findes der ikke en forklaring på motiv.
+Sandsynligvis er afsnittene i "Kong Valdemars Jordebog" først sammenstykket ved afskriftens tilblivelse ca. år 1300. De oprindelige tekststykker er dateret forskelligt; de menes nedskrevet 1231-1265.
+Tekstens afgrænsning har en forvirret historie, der er beskrevet under Jordebogens afgrænsning. Tekstens enkelte afsnit har en selvstændig karakter, og det er ikke sjældent de enkelte afsnit, der skrives om eller refereres til. En afgrænsning foreligger med (Nielsen 1873).
+Teksten som helhed består overvejende af navneord og tal uden almindelig syntaks. En lignende typologi kendes fra en del andre samtidige tekster: Kongerækker, paverækker og dødebøger samt til dels også kalendarier og annaler.[kilde mangler] Jordebogen er en selvstændig teksttype og almindeligt kendt - se nedenfor Det historiske indhold. Navneordene falder i forskellige kategorier:
+Specielle tekstelementer er to symboler, der minder om versalerne F og C, samt varierede farver og initialerne af det følgende stednavn. Tekstfordelingen på den enkelte side skrives ofte i 2-3 spalter. Sproget er overvejende latin, mens stednavne er på dansk.
+Afsnitsinddeling og deres titler er nogenlunde almindelige, men forekommer ikke i manuskriptet. De tre første afsnit regner Nielsen for mest i overensstemmelse med betegnelsen Kong Valdemars Jordebog.
+(1.) "Kongens Jordebog", "hovedstykket"Den indledende overskrift er Jylland (latin: Iucia) med undertitlen Det Herrens år 1231 er dette skrevet.
+Listen optegner især stednavne, men også personnavne. Afsnittet er generelt skrevet som en tabularisk oversigt i to spalter.
+Versalen F markerer et syssel (olddansk:susæl) eller en landsdel: Vtland (frisisk område), Feonia, Alsæ, Ærræ, Thosland (Tåsinge), Langeland, Laland, Falstria, Syaland, Møn, Scaniæ, Halland, Blekyng
+Versalen C er skrevet med lidt mindre skrift og markerer et herred i teksten forkortet hr, men bruges også i flæng enkelte steder.Afsnittet består hovedsageligt af linjer indledt med versalen C, men brydes et par gange i denne opstilling  fx for Ditmarsken, der står på en side for sig selv, fulgt af en blank side; lignende eksempler er Hjulby på Fyn og tilføjelsen til Hindsholm også på Fyn. "Hovedstykket"s oplysninger har også et variant indhold - se følgende afsnit Enkelte teksteksempler.
+(2.) "Kronens jordebog", "Kongelevlisten"Afsnittet er konsekvent holdt i tre spalter og med en indledende sætning skrevet uden særlig markering: "Dette hører til kununglef i Jylland" (latin: Ista pertinent ad kununglef in iucia)
+Versalen C er skrevet lidt mindre og markerer (før Sjælland) feonia, laland, falstria, alsia, ærræ, (efter Blekinge) hallandia, thosland, langeland, Ymbræ (Femern), Rø (Rygen) ogBurghændeholm (Bornholm); 
+Afsnittet indledes med den umarkerede sætning "Her er ø-navnene" (latin: Hec sunt nomina insularu)
+og er holdt i to spalter på de to første sider og tre på den sidste fulde side.
+Versalen F markerer Vvæstænland og betegner iflg. Nielsen området vest for Jylland.Teksten består altovervejende af ønavne, dyrenavne samt 'hus', nogen gange forkortet h, og 'clostær'. Dyrenavnene er: da (då), ra (rå), hiort, hio, haræ, har, marth (mår), æbin (egern?), hors (hest).
+(4.) "Kongens vintergæsteri", "Natholdslisten", "Vinternatholdslisten"Afsnittet er skrevet ud i et og indledes uden særlig markering med ordene: "Kongens vintergæsteri er i to nætter" (latin: Procuracio hiemalis dni regis est de dua noctibus).
+Dog er opstillingen 'typografisk' særpræget. Sidste del af "Ølisten" når halvvejs ned på første side. "Kongens vintergæsteri" starter alligevel øverst på siden, og skrives først i fuld bredde efter "Ølisten"s sidste linje.
+ Teksten opremser diverse fødevarer - grise, okser, får, høns, salt, sild, ost, smør, malt, porse, peber og kommen - men også pengebeløb til diverse stillinger, herunder drot, marsk og skænk (latin: dapifero, marscalco, pincerne).
+(5.) "Hallandslisten"Afsnittet her består af underafsnit med nogen syntaks og skrevet ud i sidens fulde bredde, men stadig meget liste-agtig. Afsnittet indledes med: Her er de indtægter i Halland der hører til kongens dominium. (latin: Hii sunt reddit in hallandia prtinentes ad dnm rege).
+Versalen F bruges på listens første side og markerer en landsdel: Fyæræ, Vviskærdal. Stednavnene er senere kendt som herreder, og Nielsen angiver i oversættelsen her Fjære herred og Viske herred.
+Versalen C bruges på listens to næste sider og markerer et herred eller en landsdel: Henøflæ (Himle herred, som ovenfor)."Hallandslisten" afsluttes med to resumerende underafsnit, der markeres af versalen C.
+Naturalierne omfatter: frumenti, ordeo, auene (korn, byg, havre), boues, porcos, oues, gallinam, anserem (okse, svin, får, høne, gås), pisces, salmones (fisk, laks), brasei, pernas, butiri, casei, mellis, wadmal, sale (malt, flæsk, smør, ost, honning, vadmel, salt).
+Termerne omfatter befolkning, mønt, mål og vægt: incolis, rustici, colonis (indbygger, bonde, landboer/fæstebonde); mansio, molendino, foro, opidis, opida siluestria, prouincia (gård, mølle, torve(rettighed), byer, skovbyer, herred); nauis (skib/skibsrede); danske termer: hafnæ, quærsæt (havne og kværsæde); warstudh, warstuth, wintærstud, winterstudh, wintærstudh (vårstud og vinterstud) - se også nedenfor Afgifter og taksering.Den latinske term dominum oversættes ikke, men indikerer her jordbesiddelse.
+Personnavne forekommer i relation til skibene som "Nauigium thorlaci" (dansk: Thorlaks skib).
+(6.) "Hallands grænser"Afsnittet er skrevet på dansk. Det indledes med versalen F og ordene "Landæmærkæ byrius i" hvorefter følger et stednavn - "byrius" oversættes med 'begynde'.
+Teksten er skrevet ud i et og er jordebogens mest syntaksfattige del og består af 'i' og stednavn som i fiæræ. I klæuræås etc. Versalen C markerer et herred og et nyt underafsnit.
+(7.) Skødenotitser mm vedrørende Halland, "Hallands grænseregulering", "Hallandske adkomster"Afsnittet er på latin og er et af jordebogens mere syntaksprægede tekststykker og ikke tabularisk opsat.
+Linjeskift med foranstillet versal C markerer de følgende skødenotitser. Dog forekommer et enkelt indskudt versal C.I dette afsnit er der 34 personnavne, heriblandt kong Valdemar, kong Kristoffer og hertug Knud, hertug af Estland (en), mens resten ikke bærer nogen titel. Listens ene kvindenavn Gundbiør er jordbesidder.
+(9.) "Falsterlisten"Afsnittet indledes med "Beskrivelse af en vis del af Falster" (latin: Descripcio cuiusdam partis falstrie).
+Afsnittet har markerede linjeskift med foranstillet versal C efterfulgt af stednavn.Optegnelsen er ikke umiddelbart tabularisk da versalen C også forekommer i den løbende tekst - se også Enkelte teksteksempler.
+(14.) "Estlandslisten" Teksten er ordnet tabularisk, men også meget skiftende: Indtrykket er at optegnelserne forekommer i klynger. Versalerne F og C forekommer enkelte steder. Teksten består overvejende af stednavne og personnavne og mangler generelt både syntaks og terminologi.
+De gennemgående termer er parochia, rex, monachi, dominus: Sogn, konge, munk. Dominus er oversat med "Hr.".(17.) "Broderlisten", "Broderskabslisten" Teksten er holdt i to spalter på nær den sidste side, hvor teksten er skrevet i fuld sidebredde. Listen består af stednavne, personnavne, embedstitler og betegnelsen latin: fratres (dansk: brødre).
+Embedstitlerne omfatter: Episcopus, Prepositus (bisp, provst); rex, marscalcus, cancellarius, camerarius (konge, marsk, kansler, kammermester).Den eneste almindelige syntaks-konstruktion er isti tres fratres (her tre brødre), der kun forekommer en enkelt gang.
+Listen indeholder 215 personnavne fra Jyllands sysler samt Fyn og Sjælland. 50 navne på listen afspejler kristendommens indflydelse; heraf hed de 18 Niels (Nigles, Nicgles, Nicles - Sankt Nikolaus), 16 hed Peter (Peter, Pæter - Apostlen Peter) og otte hed Johannes/Jon (Iones, Ion - Apostlen Johannes).
+Ifølge Kristian Hald omfattede Istedsyssel det frisiske område, og her findes også frisiske og saksiske navne som Occa, Poppo, Wirik, Liæf, Folklef, Radolf.
+Oprindeligt kildemateriale dokumenterer, at flere af grupperne består af biologisk beslægtede brødre.
+Det mest tankevækkende i "Broderlisten" er vel dels motivet for den oprindelige optegnelse, dels dens indføjelse i «Codex Holmiensis A41». Med udgangspunkt i hird-betegnelsen fandt T.E.Christiansen (1966) et holdepunkt for beskrivelsen af "Broderlisten".
+I 2006 blev listen beskrevet i  projekt-temaet "Danske korstog i middelalderen" ved Syddansk Universitetscenter.
+læg 18 (8.) Optegnelse om det gods Haquinus Palnesøn tilskødede kong Christoffer; (10.) Lollandslisten; (11.) Femernlisten; læg 6-8 (12.) Indtægtslisten; (13.) den mindre Estlandsliste og de preussiske provinser; (15.) Plovtalslisten; (16.) Bylisten
+Eksemplerne er efter Nielsens udgave med sidetal yderste til højre. I oversættelsen er der tilføjet parenteser med forklarende oplysninger samt kantede parenteser for at angive, hvor Nielsen har tilføjet ord. (...) markerer udeladt tekst. Stednavne følger Nielsens stavemåde. 
+"Valdemars jordebog er det vigtigste kildeskrift til oplysning om Danmarks indre tilstand i middelaldren" (Nielsen 1873, s.II)
+Kontinentale regnskabsbøger for kirkegods er kendt siden 800-tallet - se Rösener (1999). Lignende lister kendes fra 1300-tallets jordebøger: "Ribe kapitels jordebog", "Århus Kannikebords Jordebog" og jordebogen for Sko kloster (sv). De er sammen med kong Valdemars jordebog de tidligste skandinaviske godsoptegnelser. Den tidligste kontinentale optegnelse for fyrstelige besiddelser er Codex Falkensteinensis (de) (ca. 1166).
+I nyere moderne tids tysksproget litteratur er der tradition for at studere godsoptegnelserne fra tidlig middelalder og højmiddelalder under tematiseringen Grundherrschaft (de)
+Godsoptegnelsen i "Kong Valdemars jordebog" er omfattende og alle kongedømmets regioner listes. En lignende optegnelse er Englands Domesday Book fra 1086.
+Siden den ældre danske historietradition - Suhm 18. århundrede, Steenstrup 19. århundrede - har jordebogen været anset som vidnesbyrd for skattetaksering.
+Steenstrups første part af "Studier over Kong Valdemars Jordebog" er en samlet fremstilling af jordebogens institutionelle baggrund.
+Vurderingen af det historiske Indhold som et Embedsværk og en statslig eller og monarkisk Skattetaksering er ikke uden Forbehold - blandt andet bør man "strax opgive den Tanke at kunne finde Ensartethed i Danmarks ældste Skatteforhold".
+"Det er jo i virkeligheden fantastisk, at der så tidligt som 1240 findes en dansk Kilde, som vurderer en hel Landsdels skattegrundlag - herred for herred for udskrivning af en skat, ingen var fritaget for.",
+"I første halvdel af det 14. årh., hvor møntskatten for længst var opgivet, brugtes plovvurderingen af kongemagten ved pålæg af ekstraskatter".
+Naturligvis bringer temaet 'skatte-matrikulation' et tal-teknisk materiale, der også har sat sit præg på de historiske specialstudier: Fra Erslevs værk "Valdemarernes storhedstid" (1898) til Ulsigs artikel om "Befolkningsfald, landgildefald og jordpriser i det 14. århundrede" (2001). For et overblik til datidens mængde-vurderinger henvises til håndbogen "Mål og vægt" (Rasmussen 1975) og Gissels kommentar til Fauerholdt Jensens fagligt-matematiske afhandlinger (Gissel 1993).
+Formodningen om et dansk kancelli i det 12. og 13. århundrede underbygges blandt andet af vidnesbyrd om kansler-embedet (latin: cancellarius). Cancellarius forekommer også i "Broderlisten".
+I Arups Danmarkshistorie fra 1925 ses jordebogen hhv. samlingsbindet "som et vidnesbyrd om, at kancelliet c. 1260 blev fastere organiseret",
+mens det hos Kroman kun bemærkes jordebogen tematisk "viser en direkte tilknytning til centraladministrationen og kancelliet".
+Her har hovedstykket formentlig "været benyttet gennem længere tid og har modtaget rettelser og tilføjelser".
+Men specielt kalendariets karakteristika kan tydes som at den har været i brug til at datere kongelige breve, som jævnfør Jexlevs studie over kongebreve
+kalendariet er del af «Codex Holmiensis A 41», se nedenfor Manuskriptets øvrige dele.
+Ifølge Nielsen findes stykket om "Hallandslistens grænser" også i Vestgøtalagen (sv). Selv om der både er et tematisk og substantielt sammenfald mellem teksterne, så viser afvigelserne snarere, at der "fra dansk side stilledes krav, der ikke godkendtes fra svensk side".
+Også relevant er den såkaldte diplomskrifttype. Den forekommer ikke i jordebogen, men er kendt fra samtidige danske dokumenter. Diplomskriften har - som kanslerembedet - en tradition, der går videre end dansk historie. Den gotiske kursiv optræder i løbet af det 13. århundrede og afløser det karolingiske diplomskrift (9.-13. århundrede), der igen går tilbage til den merovingiske kancelliskrift. Ifølge Kroman er der palæografiske vidnesbyrd i jordebogen som indikerer forlægget til afskriften har været skrevet med diplomskrift.
+Det er almindeligt antaget et så omfattende arbejde må være blevet gennemført under en eller anden form for organisation.
+Det betyder også tilblivelsen af optegnelserne hhv. enkelte afsnit i jordebogen,
+en "kommission (...) har gennemført de krævende undersøgelser, der ligger bag fikseringen af tallene for de mere end 100 landsbyer."
+når det faktisk er på baggrund af en udledt regelmæssighed i de optegnede beløb fra "Falsterlisten" at C.A. Christensen antager
+Med reference til bl.a. Paul Johansen (de) mener C.A. Christensen "Falsterlisten"s udseende afspejler kommissionens arbejdsforløb.
+Vurderingen er udgået fra Egenseborg i den nordlige del af Falster og går herfra sydover til Gedser for herefter over Tingsted at vende tilbage til Egenseborg.
+Med C.A. Christensen kaldes Egenseborg for kongsborg og gården i Gedser for kongsgård
+Det giver ialt 180 ørtug og balancerer med de 7,5 mr.Men for at det skal gå op med 5 bol behøves en faktor-størrelse:
+Landsbyens bolstørrelse havde først og fremmest en produktionsteknisk funktion,
+Den deskriptive fremstilling af landsbyens foranderlige bolstørrelse er et andet tema,
+men netop omregning viser sig at være en ledetråd i forståelsen af de tidlige godsoptegnelser.
+Således i C. A. Christensens fokus er den matematiske konsekvens af de variable bolstørrelser, der udover at indikere ottingen som beregningsenhed frem for bol, også vedrører faktorstørrelsen:
+"Landsbyernes ørtug-tal er bestemt af den værdi, man har tillagt den enkelte otting.
+"Det centrale problem bliver, hvorfor man i en række tilfælde har følt det som en naturlig ting at taksere ottingerne efter en talrække, der beherskes af en enhed på 1½ ørtug."
+Den eksakte udredning er sandt at sige vanskelig, og summarisk er C. A. Christensens analytiske resultat de 1½ ørtug indikerer relationen mellem den monetære enhed og mængdemålet pund
+Det var med andre ord omregningen mellem naturalie-værdier - udtrykt i pund, skæppe, læst eller tønde - og pengebeløb der kom til at medføre den naturlige præference for faktor-intervallet på 1½-ørtug.
+C.A. Christensens forskningsresultat er egentlig mere intrikat - den vigtige iagttagelse er identifikationen af "et pund eller 1/12 del af den lybske læst på 24 tønder"
+men for redegørelsen heraf må henvises til C.A. Christensens egen fremstilling.
+Det valuare udgangspunkt er fra Jyske Lov: "Den bonde, som har mark guld eller mera, skall utreda tredingshafn(...)".
+Rasmussen (1975) bruger ordsammenstillingen "guldvurdering", der ret beset betegner en guldvægt. Vurderingen er ikke redegjort som så, men bliver værdisat i guld.
+Det svarer til at omtale tyske priser i euro og danske priser i kroner. Hvor svært gennemskueligt datidens godsadministration er kan godtgøres med et citat: "Størrelsen og værdien af en mark gulds jord var ingenlunde den samme i de forskellige byer. Ikke desto mindre fremgår det bl.a. af Jyske Lov [håndfæstet 1241], at mark gulds jord har været benyttet som fast jordvurderings- og matrikuleringsenhed."
+Mark jord i skyldlatin: terra in censu og formentlig beregnet efter udsæd giver et afgiftsbeløb (Nielsen 1873, s.III-IV).
+Jordskylden kendes fra "Århus Kannikebords Jordebog", der siger om hele Sjælland, at otte øre gør en bol (latin: Semper enim quasi per totam Sielandia census octo orarum facit unum bool).
+For C.A. Christensens synspunkt repræsenterer jordskylden, som den findes angivet i kildeteksterne, et beregningsgrundlag for det afgiftspligtige beløb,
+men det fremgår ikke klart, hvordan denne tradition skal afgrænses i tid. C.A. Christensens yngste eksempler er fra 1300-tallet.
+Betegnelsen landgilde benyttes i øvrigt synonymt om jordskyld - også for optegnelserne i "Kong Valdemars Jordebog", se Erslevs "Valdemarernes storhedstid" (1898).
+Fra det 16. århundrede er det veldokumenteret, at fastsættelsen af landgilden var fastlagt efter forhandlinger mellem jordbesidderen og bønderne - kaldt "besigtigelse".
+Som regel findes guldvurderingen i jordebogens optegnelser for Jylland og Fyn, mens jordskylden hører til Sjælland og Falster (Nielsen 1873, s.III-IV).
+Navngivne afgifteri datidens kildetekster kendes jævnfør 1200-tallets landskabslove:
+For inne: Abels forordning af 1252.Leding, med dens to følgetermer hafnæ og quærsæt (havne, kværsæde)
+Hafnæ betegner en person, der hører til en skibsrede eller et skib, latin: naues, nauigio.
+Leding som så forekommer flere steder og skrives latin: expedicio. I den syntaktiske sammenhæng handler det om en værdisat fritagelse, der ellers betegnes med quærsæt.
+Hos Steenstrup forbindes arnegæld og midsommersgæld med afgifter, der hører til en købstad
+den danske term 'købstad' kendes fra 1400-tallet, mens den bagvedliggende latinske term ville forenses kendes fra 1300-tallet, leges forenses fra 1200-tallet.
+For en skematisk oversigt over skriftlige regulativer i det 13.-16. århundrede, der vedrører byer i Jylland og Skåne samt på Fyn (1 stk), Ærø (2 stk), Falster (3 stk) og Sjælland, se Jacobsen (1991, s.437-439) - Varnæs, nær ved Åbenrå, findes ikke nævnt her.
+Det er ikke let at finde et overskueligt mønster i optegnelserne. Med undtagelse af ledingtermerne står vurderinger og afgifter typisk ikke markeret særskilt. Forsåvidt "Leding og inne bestod i ydelse af legemligt arbejde" (Nielsen 1873, s.V), så er det kun afgifts-typerne stud og jordskyld der kan siges at være indikeret med afgifts-beløbene. Som forstået ud fra lovteksterne er stud en afgift i naturalier.
+Jordebogens afgiftsbeløb indikerer derfor en "bestræbelse for at samle indtægterne til en enhed for den lettere oversigts skyld", mens det alligevel også i jordebogen forekommer stud er specificeret i gæsteri eller naturalier.
+Nielsen (1873, s.I) vurderer, at jordebogen først og fremmest skildrer kongens indtægter. En skelnen mellem skat og afgift forstås af Nielsen: skatten må forventes optegnet på en fuldstændig måde. Da omstændighederne for nedskrivningen af jordebogens tekst i øvrigt ikke er kendt, bliver det til en ligning med to ubekendte - dvs. teksten kan være overleveret ufuldstændig. Nielsens synspunkt er, at overleveringen er troværdig. Her bemærker Nielsen blandt andet hovedstykkets fragmentariske karakter, der alligevel optegner "så godt som alle større ejendomme, der siden i andre kilder nævnes som kongelige personers fædrenearv".
+Med troværdigheden fastslået findes yderligere: for "Hallandslisten"s tilsyneladende komplette optegnelse af antal bønder, at summerne ikke kan sammenlignes med anførte beløbs-summer og for beløbs-størrelserne på Sjælland, som anført i "Hovedstykket", at de heller ikke kan sammenlignes med den antageligt komplette optegnelse for plovtal på Sjælland jævnfør "Plovtalslisten".
+"Kong Valdemars jordebog" stammer fra et samlingsbind. Der kendes også en afskrift af samlingsbindet. Jordebogs-titelen forstås nogen gange som reference til samlingsbindet.
+Opbevaret i Rigsarkivet. «C 8», også kendt som «Codex Holmiensis A 41», «Codex ex-Holmiensis A 41» (ca. år 1300). Faksimile: Aakjær (1943). Jordebogen på læg 2-8 og læg 18
+Opbevaret i Bremen. Ukendt dokument-navn (17. århundrede). En afskrift af «Codex Holmiensis A 41» .
+Samlingsbindet er et kodeks i oktav-format, og menes oprindelig - dvs. afskrift og indbinding er nogenlunde samtidig.
+Kodekset har 20 læg, hvoraf 5 er nummererede. Indbindingen har dog ikke fulgt nummereringen: Læg 2-5 er nummereret 1-4, og læg 18 nummereret 5.
+På grund af variationer i skriften er det muligt at tro, at afskriften er skrevet af flere. Siden slutningen af 1800-tallet har der været delte meninger om, hvor i teksten en ny skriver kom til og også om antallet af skrivere.
+dels på baggrund af en skærpelse af kriterierne for den palæografiske bedømmelse,
+men også hjulpet på vej af P.G. Thorsens observation fra 1852 at en af skriverne må kunne identificeres med den navngivne skriver frater Johannes Jutæ (dansk: Jens Jyde), fra «AM 455 12°» - en afskrift af de sjællandske love.
+Noteringerne med blyant er nok senere tilføjelser af en navngiven skriver, nemlig den lærde yngre Stephanius.
+Observationen af, at Jens Jyde er en af skriverne, er overordentlig vigtig, for på den baggrund er afskriftens tilblivelse fra cistercienser-klosteret i Sorø omkring år 1300.
+Der er ingen sikre belæg for at skriftet er blevet benyttet i middelalderen til forlæg for afskrift eller som kilde til information. Kun fra Peder Olsens skrifter (16. århundrede) kan der siges at være spor efter et kendskab til kodekset.
+Sådanne tilføjelser er et typisk indicium for, at et manuskript har cirkuleret uden for klosterets arkiver. Omvendt er manglen på indicier for, at manuskriptet ikke har cirkuleret.
+Det er på den baggrund sandsynligt, at kodekset har været i Sorø, til Stephanius i det 17. århundrede har fået det til sin samling. Relationen til Stephanius er dels manuskriptets blyantsnotitser, dels en bemærkning af Stephanius i en publikation fra 1629 skrevet og udgivet i Leiden, der stærkt tyder på Stephanius er i besiddelse af manuskriptet. Det er sandsynligvis på denne tid kodekset er blevet afskrevet. Stephanius' tilknytning til Sorø-klosteret tæller også med. Hans far, den ældre Stephanius, var nemlig rektor for den uddannelsesinstitution som klosteret var omdannet til efter reformationen.
+I slutningen af det 17. århundrede kommer manuskriptet i Johan Gabriel Sparfvenfeldts (sv) besiddelse. Det er mindre klart, hvordan det skete, og hvad der gik forud. Men manuskriptets proveniens herfra er nogenlunde sikker.
+Mens det står til troende, at Sparfvenfeldt købte et håndskrift for 12 skilling i en københavnsk marskandiserbod, så er Kromans synspunkt at "der ikke kan være tvivl om, at det er Sparfvenfeldt, der har foretaget udskillelsen af jordebogslæggene" nok utvetydig, men ikke yderligere beskrevet. Om det nu er Sparfvenfeldt der har taget nogle læg fra «Codex Holmiensis A 41» og indbundet dem særskilt, så er det omkring 1694 den egentlige historie begynder om kong Valdemars Jordebog, der nu er et selvstændigt værk. Sparfvenfeldt skænker begge værker - samlingsbindet og læggene - til det svenske kongelige rigsantikvariat, der senere hen bliver del af det svenske kongelige bibliotek. Samlingsbindet kodificeres i rigsantikvariatet engang efter 1705, som Codex Holmiensis A 41, mens arkiveringen af de udtagne læg er ukendt.
+I 1753 afskriver Langebek værket; han når kun at publicere enkelte afsnit. Måske mere vigtigt er det, at Langebek har navngivet værket i et brev: Kong Waldemari II Jordebog. Men titelen stammer faktisk fra en svensker, idet den ved nogle disputats-forelæsninger i Lund 1744 blev udgivet som  "Extract af Kong Waldemars Jorde-bock, som är giord MCCXXXI". Udgivelsen betegner begyndelsen til "Offentlighedens kendskab til Kong Valdemars Jordebog" (Kroman 1936, s.7). 1792 publiceres jordebogen i Danmark efter Langebeks afskrift og under titlen Liber census Daniæ.
+Sparfvenfeldts udgave eksisterer indtil 1851, i hvilket år de udskilte læg atter indføjes i «Codex Holmiensis A 41», ved bibliotekar Gustaf Edvard Klemming.
+I 1929 kommer samlingsbindet til København. Den svenske kodificering bibeholdes først, men kodekset er senere kodificeret «C 8», pt. ved Rigsarkivet.
+Omkring 2012 blev kodekset omhyggeligt restaureret, og teksten forventes digitaliseret.
+Kriterierne for jordebogens afgrænsning er ikke nærmere beskrevet, hverken hos Sparfvenfeldt eller Nielsen.  Sparfvenfeldt udtog formentlig de nummererede læg og satte dem i rækkefølge, men tilføjede også læg 6 og 7 fra «Codex Holmiensis A 41». Nielsen har fulgt Sparfvenfeldts udgave og hertil tilføjet læg 8 fra «Codex Holmiensis A 41». Det står klart at Nielsen formoder en indbyrdes relevans mellem tekstafsnittene; en relevans der hos Kroman prædikeres kameralistisk.
+Nielsen bemærker tankevækkende, at titlen "Kong Valdemars Jordebog" mest gælder de 3 første afsnit - ud af i alt 17 - mens titelen "Liber Census Daniæ" generelt er "mindre rigtig".
+Det bemærkelsesværdigt tankevækkende er at bemærkningen forekommer som første sætning i indledningen til Nielsens udgave der bærer titelen "Liber Census Daniæ. Kong Valdemars jordebog". Afgrænsningen vandt alligevel hævd. Svend Aakjærs udgave, der også er den nyeste publikation, følger Nielsens afgrænsning. Hos Aakjær findes alle afsnittene gengivet, og udgivelsen omfatter hertil faksimiler af de udvalgte dele af «Codex Holmiensis A 41».
+Forståelsen af titlen er ikke helt gængs. Vnouček betegner Sparfvenfeldts udgave som "kong Valdemars jordebogs egentlige tekst",
+mens titlen - forkortet "KVC" (engelsk: King Valdemar's cadastre) - refererer til samlingsbindet. En skematisk oversigt over kodeksets læg, tekstafsnit og historik med O. Nielsens version, findes hos Kroman (1936, s.85-86).
+"Valdemars årbog". Årbogen omtaler begivenheder fra 1074 til 1219. Forlægget er sandsynligvis blevet til omkring 1219 på basis af en samtidig årbog fra Lund. Afskriften i «Codex Holmiensis A41» er af senere dato.
+Et kalendarium, en kongerække, en paverække samt en liste over kejser- og kongeriger
+Et itinerarium (en) for sejladsen fra Ribe til Acaron (de), og et andet itinerarie for sejladsen fra Utlengi i Blekinge til Reval i Estland
+Kendte værker fra samtiden: "Provincialis" (ukendt forfatter); "Continuatio distinctonum, quas dominus Innocencius papa III composuit sub figuris de sacramentis" (ukendt forfatter); en teologisk afhandling af Alanus ab Insulis (de); "De regis filio captiuato" er formentlig forfattet af Bernhard af Clairvaux; latinske vers af biskop Hildebert af Tours (de); 2. og 3. strofe af et digt fra biskop Marbod af Rennes (de); benediktinerordenens reformprogram udstedt af pave Gregor IX, men ufuldstændigt
+Samlingsbind med et så varieret indhold som «Codex Holmiensis A 41» er sjældne.
+Kroman nævner "Claus Billes rulle" fra samme periode, men bevaret i en senere afskrift.
+Samlingsbindet «UUB C 92», ligeledes fra 1300-tallet, beskrives derimod som "ett renodlat historiskt samlingsverk".
+Opbevaret i Uppsala universitetsbibliotek. «C 92», også «UUB C 92» (1290,1305,1320).
+Opbevaret i Uppsala. «De la Gardie 50» (16. århundrede). En afskrift af "Claus Billes rulle" (formodentlig 14. århundrede)Et engelsk kodeks fra det 13. århundrede, "The black book of the exchequer" fremhæves af Jexlev, idet dette håndskrift har en sikker proveniens, der fører til det engelske kancelli.
+I sammenligning med «Codex Holmiensis A 41» er  "The black book of the exchequer" er blevet opdateret og taget i brug igennem 300 år.
+Kodekset har et blandet indhold: skattelister, talkolonner, kamerale notitser samt den juridiske afhandling "Dialogus de Scaccario" (en) - der ikke er særskilt beskrevet af Jexlev. Den indeholder også fire pennetegninger og et kalendarium der alle typemæssigt kan sammenlignes med de tilsvarende dele i «Codex Holmiensis A 41». Specielt kombinationen af kalendarium, pennetegninger og kamerale tekster genfindes i flere engelske kodeks - deres navn og datering beskrives dog ikke.
+Samlingsbindets formål og virkeWeibull (1916) antog, at de enkelte læg i «Codex Holmiensis A 41» havde en særskilt brug, inden læggene blev bundet sammen i et kodeks, mens Kroman (1936, s.27-30) mener læggenes forskellighed (i øvrigt ubeskrevet, men se ex Vnouček (2014)) må afspejle, at afskriften er blevet til gennem længere tids, og at flere læg har været under udarbejdelse på samme tid.
+Senest har Vnouček atter antaget Weibulls ide om, at læggene har været benyttet enkeltvis.
+Lige som Lovéns forstår «UUB C 92», forstår Kroman «Codex Holmiensis A 41» som en afspejling af datidens historiske interesse, men suppleret med litterære værker samt påskønnelsen af jordebogens omfattende toponymiske materiale (egenavne)..
+Kroman sandsynliggør klosteret i Sorø, som et sted hvor "litterære sysler" og interessen for historiske og topografiske emner trivedes.
+blandt andet på baggrund af den anvendte skrifttype samt formodentlige afskrivningsfejl.
+Vnouček, Jıří (2014), "King Valdemar's cadastre: The conservation and observation of a once-divided manuscript",  i Driscoll, M.J., Proceedings of the fourteenth international seminar held at the University of Copenhagen, 17th-19th October 2012, Care and conservation of manuscripts, 14, Museum Tusculanum Press, University of Copenhagen, s. 43–80, ISBN 9788763542043. 
+Lovén, Christian; Gejrot, Claes (2012), Historieskrivning ved Uppsala domkyrka under högmedeltiden, Svenska skrifter, 96, Uppsala: Svenska fornskriftsällskapet, ISBN 9789197988100.  (link til academia.edu - betinger login)
+Freed, John B. (2005), "The Creation of the Codex Falkensteinensis (1166)",  i Weiler, Björn; MacLean, Simon, Representations of power in medieval Germany 800-1500, Brepols, s. 189–210. 
+Fenger, Ole (2000), "Kongelev og krongods", Historisk Tidsskrift, 100 (2): 257–284. 
+Rösener, Werner (1999), "Das Kloster und die Bauern" (PDF),  i Gerchow, Jan, Das Jahrtausend der Mönche. Klosterwelt Werden 799-1803, Essen, Köln: Ruhrlandmuseum Essen, Wienand, s. 113–118. 
+Gissel, Svend (1991), "Mønt, mål og vægt i dansk middelalder" (PDF), Jyske samlinger (19): 534–546. 
+Jacobsen, Grethe (1991), "Dansk købstadlovgivning i middelalderen" (PDF), Jyske Samlinger (19): 393–438. 
+Jexlef, Thelma (1988), "Kong Valdemars jordebog. Et nyt forsøg på at vurdere håndskriftets tilblivelse",  i Enemark, Poul; Ingesman, Per; Jensen, Jens Villiam, Kongemagt og Samfund i Middelalderen, Arusia - Historiske Skrifter, VI, Århus: Arusia - Historiske Skrifter, s. 75–92. 
+Ulsig, Erik; Kjær Sørensen, Axel (1981), "Studier i Kong Valdemars Jordebog - Plovtalsliste og Møntskat" (PDF), Historisk Tidsskrift, 14 (1): 1–26. 
+Rasmussen, Poul (1975), Mål og vægt, Dansk Historisk Fællesforenings Håndbøger (2 udgave), København. 
+Hald, Kristian (1974), Personnavne i Danmark - middelalderen, Dansk Historisk Fællesforenings Håndbøger, København. 
+Christensen, C.A. (1970), "Falsterlistens tal og talforhold samt deres tolkning" (PDF), Historisk Tidsskrift, 12 (4): 401–421. 
+Kristensen, Anne K.G. (1969), Danmarks ældste annalistik, København: Gyldendalske Boghandel, Nordisk Forlag. 
+Christiansen, Tage E. (1966), "Isti tres fratres: Broderlisten i Kong Valdemars Jordebog",  i Christiansen, Tage E.; Ellehøj, Svend; Ladewig Petersen, Erling, Middelalderstudier, Munksgaard, s. 77–112. 
+Kristensen, Marius (1939), "(Anmeldelse) Kong Valdemars Jordebog. Et Haandskrifts Historie, af Erik Kroman. Udg. af Rigsarkivet. (Kbh. 1936). (Også på Tysk: Ueber die Herkunft der Handschrift des Liber Census Daniae, von Erik Kroman. Acta philologica Scandinavica XI. 1936)", Historisk Tidsskrift, 10 (5): 723–729. 
+Kroman, Erik (1936), Kong Valdemars jordebog. Et håndsskrifts historie, København: Rigsarkivet, Levin & Munksgaard. 
+Steenstrup, Johannes (1874), Nogle studier over Kong Valdemars jordebog, Kjøbenhavn: Rudolp Klein. 
+Nielsen, O., (red.) (1873), Liber Census Daniæ. Kong Valdemar den Andens Jordebog (PDF), København: G.E.C. Gads forlag.  (pdf søgbar)
+Aakjær, Svend, (red.) (1943), Kong Valdemars jordebog, 1, København: Samfund til udgivelse af gammel nordisk litteratur. 
+Liber traditionum comitatus Neuenburg-Falkenstein, Repertorium "Geschichtsquellen des deutschen Mittelalters", geschichtsquellen.de: Bayerische Akademie der Wissenschaften, 2012. 
+Redaktionen, (red.) (2012), "Kong Valdemars jordebog", Danmarkshistorien, Den Store Danske (online almen tilgængelig), denstoredanske.dk: Gyldendal. 
+Jespersen, Mikkel Leth, (Anmeldelse) Broderliste, broderskab, korstog, BogFeature, historie-online.dk: Dansk Historisk Fællesråd; Skalk, ISSN 1901-1180. 
+Albert Sandklef: "Hallands Bönder" (Særtryk af Hallands Historia Från äldsta tid till freden i Brömsebro 1645; Halmstad)
+Olaf Olsen (red.): Gyldendal og Politikens Danmarkshistorie, Bd. 4: Ole Fenger: "Kirker rejses alle vegne" (1050-1250); København 1989; ISBN 87-89068-06-8; s. 328-337
+Anders Andrén: "Städer och kungamakt - en studie i Danmarks politiska geografi före 1230" (Scandia, bind 49 (1983), nr 1)
+Poul Rasmussen: "Valdemars jordebog" (Kulturhistorisk Leksikon for nordisk middelalder; bind 19; 2. oplag; Rosenkilde og Bagger 1982; sp. 456-460)
+Erik Ulsig og Axel Kjær Sørensen: "Studier i Kong Valdemars Jordebog - Plovtalsliste og Møntskat" (Historisk Tidsskrift, 14. række, Bind 1; 1981)
+Gissel, Svend (1968), Landgilde og udsæd på Sjælland, Landbohistoriske skrifter, 3, København: Landbohistorisk Selskab. 
+Svend Aakjær: "Måleenheder i landmål og jordvurdering i middelalderens Danmark" (Historie/Jyske Samlinger, Ny række, Bind 5 (1959); s. 275-303)
+Chr.B.Graversen: Hallandslistens naturalieværdier" (Historisk Tidsskrift, 11. række, Bind 5; 1956)
+Runquist, Kjell (1950), "De medeltida danska jordvärderingsenhetarne med särskild anknytning til guldvärdering och skyldtaxation under valdemarstiden", Historisk Tidsskrift, 11 (3): 397–449. 
+Mogens Lebech: "Jyllands gamle Retskredse." (Historie/Jyske Samlinger, 5. række, Bind 2; 1935)
+Svend Aakjær (anmeldelse af): "Paul Johansen: Die Estlandliste des Liber Census Daniae. København og Reval 1933" (Historisk Tidsskrift, 10. række, Bind 2; 1932)
+Nørlund, Poul (1929), "De ældste Vidnesbyrd om Skyldtaxationen" (PDF), Historisk Tidsskrift, 9 (6): 54–95. 
+Sture Bolin: "Hallandslistan i kung Valdemars jordebok. En kritisk studie" i Projekt Runeberg (Scandia, Bind 2 (1929), s. 161-228)
+Weibull, Lauritz (1916), Liber Census Daniæ - Kung Valdemars Jordebok, Lund: H.Hagerups forlag. 
+Kr. Erslev: Valdemars Jordebog: Hallandslisten og "Hovedstykket" (Historisk Tidsskrift, 8. række, Bind 6; 1915)
+Ellen Jørgensen: "Regula St. Benedicti i „Kong Valdemars Jordebog'." (Historisk Tidsskrift, Bind 8. række, 1; 1907)
+Johannes C. H. R. Steenstrup: "Nogle Bidrag til vore Landsbyers og Bebyggelsens Historie" (Historisk Tidsskrift, 6. række, Bind 5; 1894)
+Kr. Erslev: "Kong Valdemars jordebog og den nyere kritik" (Historisk Tidsskrift, 4. række, Bind 5; 1875)EstiskTiina Kala: "Liber Census Daniae ja/või "Codex Ex-Holmensis"?" (Tuna 1, 2005; s. 22-31)

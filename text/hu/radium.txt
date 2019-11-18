@@ -1,0 +1,12 @@
+A rádium (vegyjele Ra, rendszáma 88) egy radioaktív kémiai elem, az alkáliföldfémek csoportjának utolsó, 6. eleme.
+Pierre és Marie Curie fedezte fel az uránszurokércben 1898. december 21-én. Elemi állapotban először 1902-ben állította elő Marie Curie és ő nevezte el rádiumnak (radius = sugár lat.), utalva a radioaktivitásra.
+Mind a 28 ismert Ra-izotóp radioaktív; felezési idejük 1600 év (226Ra) és 0,18 µs (216Ra) között van.
+1 g 226Ra-izotópban másodpercenként 3,7·1010 mag bomlik el; ez egyúttal az aktivitás elavult definíciója is: 1 curie (Ci) = 3,7·1010 bomlás·s−1 Az aktivitás SI-egysége a becquerel (jele: Bq). 1 Bq = 1 s−1.
+A  rádium sötétben világít, felületén levegő jelenlétében nagyon gyorsan fekete nitridréteg képződik.
+A rádium minőségi és mennyiségi meghatározása kibocsátott sugárzása alapján történik.
+A rádium rendkívül ritka elem; részaránya a földkéregben mindössze 9,5·10−11 tömegszázalékra tehető. A természetes radioaktív 
+bomlási sorok közbülső terméke, ezért urán- és tóriumásványok mellett fordul elő. Legfontosabb ásványai: uránszurokérc, karnotit. Hét tonna uránszurokérc körülbelül 1 g rádiumot tartalmaz.
+Ásványait savakban vagy lúgokban oldják, majd sósavat vagy hidrogén-bromidot adnak hozzá, ekkor rádium-klorid  vagy rádium-bromid keletkezik, aminek oldatából/olvadékából elektrolízissel állítják elő.Oldat esetében higanykatódot alkalmaznak,mert a rádium reagál vízzel hidrogént szabadítva fel:
+Ra+2H2O=Ra(OH)2+H2Higanykatódon a redukálódó rádium ionok amalgám ötvözetet képeznek a higannyal,az elektrolízis befejezése után a higany ledesztilállható,így gyakorlatilag tiszta Ra fémet kapunk.
+A teljes művelet rendkívül bonyolult,mert kb. 50 egyéb kémiai elemet kell elkülöníteni az uránércekből.
+A rádiumot a sugárterápiából más olcsóbb sugárforrások már szinte teljesen kiszorították. Berilliummal együtt kényelmesen kezelhető, nagyenergiájú neutronforrás. A rádium bomlásakor keletkező radioaktív gázt, a radont felfogják és belégzéses gyógykezelésre (inhalációs terápia) alkalmazzák.

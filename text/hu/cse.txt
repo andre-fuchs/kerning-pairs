@@ -1,0 +1,11 @@
+A csillagászati egység egy SI-n kívüli távolságegység, mely a csillagászatban használatos. Régi definíciója szerint a Nap és a Föld átlagos távolsága.
+A csillagászati egység az égi mechanikában használatos hosszúságegység. Eredeti definíciója szerint a Föld-Hold rendszer tömegközéppontja Nap körüli pályájának fél nagytengelye.A Nemzetközi Csillagászati Unió azonban pontos kilométerértéket megadva újradefiniálta, elhagyva az eddigi mért érték hibaértékét.  Jele: CsE. További elterjedt rövidítése az AU az angol „Astronomical Unit”-nak megfelelően.
+A Hold a Földtől 0,0026 CsE-re találhatóTovábbi csillagászati távolságegységek: fényév, parszek.
+A csillagászatban csak távolságarányok mérhetőek könnyen, tényleges hosszak nehezen, ezért sokáig az égitestek közötti egységeket csak csillagászati egységben lehetett tudni.
+Az első komolyabb lehetőség a mérésre a Vénusz és a Merkúr Nap előtti elvonulásának megfigyelése volt különböző helyekről. Abból, hogy az égitest a Nap előtt a két helyről különböző helyen látszik áthaladni, a távolság meghatározható. Az 1769-es Vénusz átvonulás megfigyelésében részt vett: Hell Miksa és Sajnovics János a norvégiai Vardø szigeten, valamint James Cook Tahitin. Kepler is csak a Nap-Föld távolsághoz tudta viszonyítani a bolygók távolságát.
+Fontos szerepe van az égitestek radarral való vizsgálatának, mely a második világháború idején, a repülőgépek távoli felismerésére kifejlesztett radartechnika melléktermékeként született meg. Ez idő tájt (1940-ben) sikerült meghatározni egy csillagászati egység pontos értékét is.
+Magyarországon Bay Zoltán csoportjának a világon az elsők között sikerült radarral megmérnie egy másik égitest távolságát: a Holdét.
+↑ IAU1206 – News Release:  Major Astronomy Meeting Draws to a Close, 2012. augusztus 31. (Hozzáférés: 2012. szeptember 25.)
+↑ IAU1206 – Resolution B2:  Resolution B2, 2012. augusztus 31. (Hozzáférés: 2012. szeptember 25.)
+↑ Index 2012-09-25:  Mostantól hivatalos a csillagászati egység, 2012. szeptember 25. (Hozzáférés: 2012. szeptember 26.)
+Cleave Books (angol) – Hosszegységek átváltása. cleavebooks.co.uk. (Hozzáférés: 2012. szeptember 25.)

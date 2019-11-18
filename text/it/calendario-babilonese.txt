@@ -1,0 +1,14 @@
+Il calendario babilonese era un modello di calendario lunare teorico sviluppato dagli astronomi babilonesi, che consisteva di mesi lunari sinodici medi.
+Il calendario lunare babilonese fu utilizzato come un sistema uniforme di registrazione del tempo e di previsione di eventi lunari e planetari. Ha quindi avuto il carattere di un calendario astronomico di previsione, le cui previsioni corrispondevano con le registrazioni di eventi reali nel calendario babilonese.
+I Babilonesi divisero il mese sinodico medio in 30 unità di effemeridi planetarie; queste unità sono state applicate anche in termini di calcolo del cerchio massimo come unità di tempo.
+Le unità di tempo così determinate non recavano alcun nome speciale, ma le chiamavano semplicemente "giorni", che potevano durare al massimo un giorno del calendario effettivo del calendario babilonese.
+Nel calendario lunare babilonese, il giorno della comparsa della prima falce di luna cadeva sempre il primo o il trentesimo giorno, considerando che il principio era: se si osserva il giorno della prima falce il 30, questo giorno è considerato il primo giorno del mese successivo.
+I nomi babilonesi dei mesi lunari e dei mesi del calendario, che ebbero origine nel periodo antico babilonese (2000-1600 a.C.), derivano dal precedente calendario di Nippur.
+Lis Brack-Bernsen: Zur Entstehung der babylonischen Mondtheorie – Beobachtung und theoretische Berechnung von Mondphasen. Steiner, Stuttgart 1997, ISBN 3-515-07089-3.
+Hermann Hunger: Kalender. In: Dietz-Otto Edzard u.a.: Reallexikon der Assyriologie und vorderasiatischen Archäologie. Band 5. de Gruyter, Berlin 1980, ISBN 3-1100-7192-4, S. 297–303.
+Jean Meeus: Astronomische Algorithmen – Anwendungen für Ephemeris Tool 4,5. 2. Auflage. Barth, Leipzig 2000, ISBN 3-335-00400-0.
+Jean Meeus: Astronomical Tables of the Sun, Moon and Planets. 2. Auflage. Willmann-Bell, Richmond 1995, ISBN 0-943396-02-6.
+Otto Neugebauer: A History of ancient mathematical astronomy. Springer, Berlin 1975 (Nachdruck 2006, ISBN 3-540-06995-X).
+Otto Neugebauer: The exact sciences in antiquity. 2nd edition. Brown University Press, Providence RI 1957, (Auch: Unabridged, slightly corrected reprint. Dover Publications, New York NY 2004, ISBN 0-486-22332-9, (Dover classics of science and mathematics)).
+Anton Pannekoek: Calculation of dates in the Babylonian tables of planets - Proceedings XIX -. Akadedemie van Wetenschappen te Amsterdam, Amsterdam 1916, S. 684–703.
+Francis Richard Stephenson: Historical Eclipses and Earth's rotation. Cambridge University Press, Cambridge 1997, ISBN 0-521-46194-4

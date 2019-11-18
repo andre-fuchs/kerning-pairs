@@ -1,0 +1,11 @@
+Celsiův stupeň (značený °C) je jednotka teploty, kterou v roce 1742 vytvořil švédský astronom Anders Celsius.
+Původně byla stupnice obrácená, protože Celsius stanovil dva pevné body: 100 °C pro teplotu tání ledu a 0 °C pro teplotu varu vody (obojí při tlaku vzduchu 1013,25 hPa). Carl Linné stupnici později otočil, a proto je dnes bod tání 0 °C a bod varu 100 °C. 
+Dnes je Celsiův stupeň (jako odvozená jednotka soustavy SI) definována pomocí základní jednotky kelvin: 1 °C je jednotka teploty rovná 1 K, používaná v Celsiově teplotní stupnici, ve které je teplotě trojného bodu vody přiřazena teplota 0,01 °C.
+  ,kde K je číselná hodnota termodynamické teploty v Kelvinově stupnici, C je číselná hodnota teploty v Celsiově stupnici.
+  ,kde F je číselná hodnota teploty ve Fahrenheitově stupnici, C je číselná hodnota teploty v Celsiově stupnici.
+    {\displaystyle 0\,^{\circ }\mathrm {F} =-17{,}{\overline {7}}\,^{\circ }\mathrm {C} }
+  ,kde R je číselná hodnota teploty v Réaumurově stupnici, C je číselná hodnota teploty v Celsiově stupnici.
+  ,kde Ra je číselná hodnota termodynamické teploty v Rankinově stupnici, C je číselná hodnota teploty v Celsiově stupnici.
+Na stupně Celsia platí stejná pravidla českého pravopisu jako na procenta, tj. měly by se psát s mezerou mezi svojí značkou a číslem a to i přesto, že v matematice se značka stupně přidružuje k číslu (360°). Např. 1 °C znamená jeden stupeň Celsia, kdežto 1°C (bez mezery) znamená jednostupňový (s dodatkem, že jde o stupně Celsia), což však není běžné. Z mezinárodního hlediska se používá vždy mezera.
+Pro stupeň Celsia existuje samostatný symbol v Unicode „℃“ (U+2103). Kompatibilní normální formou NFKD i NFKC je dvojice symbolu stupně (°) a písmene C. Tak se také značka běžně zapisuje, například na většině míst v tomto článku.
+V typografickém systému TeX a jeho běžně používaném balíku LaTeX se používá (v matematickém módu definovaný) znak \circ v horním indexu. 1 °C se vysází pomocí $1\,^\circ{\rm C}$. V LaTeXovém balíku gensymb je definován příkaz \celsius pro stupeň Celsia, který funguje v matematickém režimu i mimo něj, a v balíku textcomp příkaz \textcelsius. Analogicky jsou definovány příkazy \degree a \textdegree pro samotný stupeň.

@@ -1,0 +1,14 @@
+Limita posloupnosti je matematická konstrukce, vyjadřující, že se hodnoty zadané posloupnosti blíží libovolně blízko k nějakému bodu. Právě tento bod je pak označován jako limita. Tato skutečnost se zapisuje 
+   má limitu A, pokud se jejími hodnotami můžeme k A libovolně přiblížit. Tedy pro každé kladné číslo 
+   platí, že existuje nějaký člen posloupnosti, od kterého jsou už její hodnoty od A vzdáleny méně, než 
+    {\displaystyle \forall \varepsilon >0:\exists n\in \mathbb {N} :\forall k\geq n:\left|a_{k}-A\right|<\varepsilon }
+    {\displaystyle \forall \varepsilon >0:\exists n_{1}\in \mathbb {N} :\forall n\geq n_{1}:\left|a_{n}-A\right|<\varepsilon }
+    {\displaystyle \forall \varepsilon >0:\exists n_{2}\in \mathbb {N} :\forall n\geq n_{2}:\left|a_{n}-B\right|<\varepsilon }
+  Pokud má posloupnost vlastní limitu, pak ji označujeme jako konvergentní. V opačném případě hovoříme o divergentní posloupnosti.
+K ověření konvergence lze použít tzv. Bolzano-Cauchyovu podmínku, která říká, že existuje-li ke každému 
+   konvergentní. V úplných metrických prostorech se jedná o nutnou a postačující podmínku konvergence posloupnosti. Posloupnost splňující BC podmínku se také nazývá Cauchyovská posloupnost.
+Posloupnost je na daném intervalu stejnoměrně konvergentní, konverguje-li v každém bodě 
+    {\displaystyle \lim _{n\to \infty }{\frac {a_{n}}{b_{n}}}={\frac {a}{b}}\;{\mbox{ pro }}b\neq 0}
+Tato věta je založena na axiomu výběru. Proto v některých logických systémech (např. intuicionistická logika) neplatí.
+Podle Bolzano-Weierstrassovy věty má každá ohraničená posloupnost alespoň jeden hromadný bod. Pokud je těchto hromadných bodů více (i nekonečně mnoho), vždy existuje jeden nejmenší a jeden největší (tzv. limes superior a limes inferior dané posloupnosti), což zapisujeme
+    {\displaystyle \lim _{n\to \infty }a_{n}=\lim _{n\to \infty }\sup a_{n}=\lim _{n\to \infty }\inf a_{n}=a}

@@ -1,0 +1,6 @@
+Superoxid draselný (KO2) je sloučenina draslíku a kyslíku. Je to jedna z mála existujících solí se superoxidovým aniontem O=O-. Další jsou: CsO2, RbO2 a nejméně stabilní NaO2. Superoxid draselný nelze pojmenovat jako „oxid drasličitý“, stejně jako ostatní superoxidy, protože draslík zde vystupuje jako jednomocný kation K+. Vyrábí se spalováním roztaveného draslíku v čistém kyslíku:
+K + O2 → KO2Používá se jako oxidační činidlo, jako pohlcovač oxidu uhličitého CO2 a vlhkosti, zároveň produkujícím kyslík v systémech obnovy vydýchaného vzduchu v uzavřeném koloběhu v kosmických lodích, ponorkách a podobně.
+4 KO2 + 2 CO2 → 2 K2CO3 + 3 O2S větším množstvím vody reaguje až explozivně, také reaguje s ethanolem. Je nestabilní a při zahřívání ve vakuu odštěpuje kyslík:
+    {\displaystyle {\mathsf {KO_{2}\ {\xrightarrow {\ 290^{o}C}}\ K_{2}O_{2}\ {\xrightarrow {\ 530^{o}C}}\ K_{2}O}}}
+    {\displaystyle {\mathsf {2KO_{2}+2HCl\ {\xrightarrow {\ \ }}\ 2KCl+H_{2}O_{2}+O_{2}\uparrow }}}
+    {\displaystyle {\mathsf {2KO_{2}+H_{2}SO_{4}\ {\xrightarrow {\ \ }}\ K_{2}SO_{4}+H_{2}O+O_{3}\uparrow }}}

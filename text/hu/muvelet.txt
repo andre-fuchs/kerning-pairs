@@ -1,0 +1,37 @@
+A művelet a matematikában általában speciális függvényt jelent, mely esetében adott halmaz néhány eleméhez (azaz elemek rendezett véges sorozataihoz) rendelünk ugyanebbe a halmazba eső elemeket. Nemcsak a matematika, de az informatika és más tudományágak is építenek erre a fogalomra, a műveletfogalommal magával azonban a matematika algebra nevű ága foglalkozik, mely utóbbit úgy is meghatározhatnánk, mint a műveletek elméleti, matematikai vizsgálatát, tudományát.
+Általában a „művelet” szóval rokon értelemben (néha azonban tágabb vagy részlegesebb fogalmat jelölve) használjuk az összekapcsolás és az operáció vagy operátor szavakat is.
+Amikor a hétköznapi életben matematikai műveletről beszélünk, általában ezt a fogalmat, a belső művelet fogalmát értjük alatta (különösen pedig a kétváltozós belső műveletét).
+Definíció. Legyen adott az A halmaz. Az A halmazon értelmezett – avagy az A halmaz feletti – belső (vagy homogén) n-változós (vagy n-áris, n∈ℕ+) műveleten egy
+    {\displaystyle {\mbox{ }}_{A^{n}\ :=\ {\begin{matrix}\underbrace {{\mbox{ }}_{A\times A\times ...\times A}} \\{\mbox{ }}_{\mbox{n-szer}}\end{matrix}}}}
+A definícióba tehát beleértjük, hogy a művelet mint függvény értelmezési tartománya An (D(μ) = An), azaz mindegyik x∈An elem-n-esre értelmezve kell hogy legyen a μ(x) függvényérték.
+A „belső” jelzőt azért kell alkalmazni, mert léteznek „külső” műveletek is. Ha félreértés veszélye nem fenyeget, „művelet”-en általában belső műveletet értünk, és a „belső” jelzőt elhagyjuk.
+μ(a1, a2, …, an) = an+1 esetén az a1, a2, …, an elemeket a μ művelet argumentumainak vagy operandus(z)ainak (tényezők, tagok, koordináták) nevezzük; míg magát az an+1∈A elemet a μ művelet ezen argumentumokon vett eredményének, vagy értékének.
+A művelet neveként alkalmazott szimbólumot (itt: μ) műveleti jelnek (vagy, inkább az informatikában, mint a matematikában) operátornak is nevezzük (az „operátor” szó a matematikában mást is jelenthet, ld. operátor (matematika)).
+Egyváltozós avagy unáris művelet egy A1 → A, tehát egy, az A-n értelmezett egyváltozós A → A függvény.
+A hétköznapi élet és az elemi matematika köréből ismert legfontosabb példák és ellenpéldák:
+az ellentettképzés az egész számok között, vagyis amikor egy egész számból képezzük az ellentettjét, a számot -1-gyel szorozva. Ez egy e(z): ℤ → ℤ; e(z) := -z egyváltozós függvény.
+Minden nem nulla t(∈ℚ\{0}) törtszám esetében képezni tudjuk a t reciprokát, azaz az 1/t számot. Tehát a r(t): ℚ\{0} → ℚ\{0}; r(t):=1/t előírással értelmezett reciprok-függvény egyváltozós művelet. Az s(t): ℚ → ℚ; s(t):=1/t előírással értelmezett függvény viszont nem egyváltozós művelet ℚ-n, mivel a 0-hoz nem tud semmit sem rendelni, 0-ra nincs értelmezve!
+A „matematikai művelet” fogalmának leggyakrabban előforduló típusa a kétváltozós/bináris (avagy binér) belső művelet, röviden kétváltozós művelet.
+Kétváltozós avagy bináris művelet egy A2 → A alakú függvény, azaz az A-n értelmezett kétváltozós A×A → A alakú függvény.
+A hétköznapi élet és az elemi matematika köréből ismert legfontosabb példák és ellenpéldák:
+az összeadás, a kivonás és a szorzás az egész számok között, vagyis amikor két egész számból képezzük az a+b összeget vagy az a-b különbséget. Ezek a +(z, y): ℤ×ℤ → ℤ; +(z,y) := z+y , illetve a -(z, y): ℤ×ℤ → ℤ; -(z,y) := z-y, illetve a ·(z, y): ℤ×ℤ → ℤ; ·(z,y) := z·y kétváltozós függvények.
+Az osztás viszont nem művelet sem az egész, de még a racionális számok körében sem. A nem nulla racionális számok körében viszont művelet.
+Háromváltozós avagy ternáris művelet egy A3 → A alakú függvény, azaz az A-n értelmezett háromváltozós A×A×A↦A alakú függvény. Ritkábban ugyan, de ezek is fontosak a matematikában.
+Könnyű háromváltozós műveletet kétváltozós művelet segítségével definiálni, például +(a,b,c): ℤ×ℤ×ℤ↦ℤ; +(a,b,c) = (a+b)+c,
+μ(a,b,c): ℤ×ℤ×ℤ↦ℤ; μ(a,b,c) = „az argumentumok közül a nem-szigorú értelemben véve legkisebb” (minimumképzés).
+Ha a μ: An → A n-változós művelet, értelmezhető hozzá a ρμ n+1-változós reláció a következőképp: ha a1, a2, …, an∈A, akkor legyen
+Ez esetben ρ-t a μ művelet asszociáltjának nevezzük; illetve fordítva is; összességében, a relációt és a műveletet is egymás asszociáltjának mondjuk és a következő jelöléseket alkalmazzuk:
+Megjegyzés: halmazelméleti szempontból a művelet is függvény, tehát reláció. A relációfogalom halmazelméleti felépítését elfogadva, egy művelet és asszociált relációja teljességgel azonos, csupán ugyanannak a fogalomnak kétféle (egy „operatív” és egy „predikatív”) jelöléséről van szó.
+Többféle megállapodás, hagyomány alakult ki a matematikában az idők során az n-változós belső műveletek jelölésére (a prefix, infix, index stb. írásmódok). Ezeket a műveleti jel szócikkben, illetve saját szócikkeikben tárgyaljuk.
+Legyen adott két diszjunkt halmaz, az O (ún. operátortartomány) és az A (alaphalmaz); tehát O∩A = ∅. Az A halmazon értelmezett – avagy az A halmaz feletti – n-változós (vagy n-áris, n∈ℕ+) külső (vagy inhomogén) műveleten egy
+    {\displaystyle {\mbox{ }}_{O^{n}\ :=\ {\begin{matrix}\underbrace {{\mbox{ }}_{O\times O\times ...\times O}} \\{\mbox{ }}_{\mbox{n-szer}}\end{matrix}}}}
+Az O halmaz elemeit operátoroknak szokás nevezni. Legyen ω1, ω2, …, ωn∈O és a∈A, ekkor a b =μ(ω1, ω2, …, ωn,a)∈A elemet a μ külső művelet eredményének nevezzük.
+A „külső” jelzőt azért kell alkalmazni, mert léteznek belső műveletek is, sőt általában csak az utóbbiakat nevezzük egyszerűen „művelet”-nek. Az operátortartomány elemeit gyakran – hagyományosan – görög kisbetűkkel jelölik.
+Nullváltozós avagy nulláris (külső) művelet egy μ: O0×A↦A függvény. Mivel általában az B0 := ∅ és az ∅×B = B×∅ = B megállapodással szoktunk élni (tetszőleges B halmaz esetén), nulláris művelet egy ∅×A↦A, azaz egy A↦A egyváltozós függvény; ami semmi más, mint egy egyváltozós belső művelet. Ezt szokás egyetlen A-beli a elemmel azonosítani.
+Egyváltozós avagy unáris külső művelet egy O1×A↦A, tehát egy, O×A↦A alakú függvény.
+Ez a fogalom központi fontosságú a lineáris algebra felépítésében (ld. modulus, vektortér).
+Legismertebb példa külső műveletre a vektorok szorzása skalárral. Legyen V az euklideszi tér sík- vagy a térvektorainak halmaza, ℝ pedig a valós számok halmaza. Értelmezhető az ismert módokon (ld. vektor) a vektorok számmal (skalárral) való szorzása, a v∈V vektor α∈ℝ skalárral való szorzatát („α-szorosra nyújtás”) αv-vel jelöljük; így egy s: ℝ×V→V; s(α, v) = αv V-feletti egyváltozós külső művelet, melynek operátortartománya a valós számok ℝ halmaza.
+Legyen adott a diszjunkt O operátortartomány és A alaphalmaz felett értelmezett μ: (0n×A)→A n-változós külső művelet. Ekkor tekintve a rögzített ω = (o1, o2, …, on)∈On elemet, értelmezhető a következő egyváltozós művelet:
+Tehát minden ω∈On és minden μ külső művelet esetén értelmezhető egy belső művelet A-n, melynek eredménye ugyanaz, mint ha eme elem koordinátáival a külső műveletet hajtanánk végre.
+Egy adott A halmazon gyakran többféle művelet értelmezhető. A halmaz és a műveletek rendszere matematikai struktúrát alkot.
+Maurer Gyula, Virág Imre. Bevezetés a struktúrák elméletébe. Kolozsvár: Dacia könyvkiadó (1976)

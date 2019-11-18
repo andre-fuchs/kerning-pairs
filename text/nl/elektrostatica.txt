@@ -1,0 +1,15 @@
+Elektrostatica is de leer van de rustende of statische elektriciteit, waarin de eigenschappen van statische elektrische ladingen worden bestudeerd. Statica is afgeleid van het Griekse staticos, dat in evenwicht betekent.
+Een van de fundamentele vergelijkingen in de elektrostatica is de Wet van Coulomb, die de krachtenwerking tussen twee puntladingen beschrijft:
+    {\displaystyle F={\frac {\left|q_{1}q_{2}\right|}{4\pi \varepsilon _{0}r^{2}}}}
+De wet van Coulomb beschrijft de wisselwerking tussen twee puntladingen. Men kan stellen dat het elektrostatische veld van de ene lading interfereert met de andere lading, en andersom.
+    {\displaystyle {\vec {E}}={\frac {q_{1}}{4\pi \varepsilon _{0}r^{3}}}{\vec {r}}}
+    {\displaystyle \oint \limits _{S}{\vec {E}}\cdot \,\mathrm {d} {\vec {S}}={\frac {Q_{s}}{\varepsilon _{0}}}}
+   en pas de stelling van Gauss omgekeerd toe. Dat geeft de totale elektrostatische flux door het oppervlak:
+    {\displaystyle {\frac {Q_{p}}{\varepsilon _{0}}}=\oint \limits _{S}{\vec {E}}}
+  Aangezien het veld in alle punten op de bol hetzelde is (symmetrie), kan het elektrostatisch veld in een punt hiervan afgeleid worden: 
+  Op analoge wijze kan het veld opgewekt door een elektrisch geladen lijn, vlak, bol, enz., eenvoudig afgeleid worden (eventueel bij benadering). Het mag duidelijk zijn dat het veld veroorzaakt door een geladen bol identiek is aan het veld veroorzaakt door een puntlading, zolang men het veld buiten de bol bekijkt.
+Beschouw een oneindig lange ladingslijn en een symmetrisch oppervlak rond die lijn, namelijk een cilinder met als as de ladingslijn, hoogte h, en straal van boven- en ondervlak 
+Vanwege de symmetrie van de opstelling moet het elektrisch veld loodrecht staan op ladingslijn. 
+    {\displaystyle \oint \limits _{S}{\vec {E}}\cdot d{\vec {S}}=\oint \limits _{\text{mantel}}{\vec {E}}\cdot \,\mathrm {d} {\vec {S}}+\oint \limits _{\text{boven+ondervlak}}{\vec {E}}\cdot \,\mathrm {d} {\vec {S}}}
+    {\displaystyle \oint \limits _{S}{\vec {E}}\cdot \,\mathrm {d} {\vec {S}}=\oint \limits _{\text{mantel}}E=E\,Opp_{\text{mantel}}=2\pi hr_{0}\,E}
+    {\displaystyle 2\pi hr_{0}\,E={\frac {\lambda h}{\varepsilon _{0}}}\Rightarrow E={\frac {\lambda }{2\pi \varepsilon _{0}r}}}

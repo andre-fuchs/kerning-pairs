@@ -1,0 +1,5 @@
+Sedmiúhelníková čísla jsou figurální čísla odpovídající sedmiúhelníku. Nté sedmiúhelníkové číslo je počet stejně velkých „bodů“, ze kterých lze sestavit pravidelný sedmiúhelník, jehož strana má délku n.
+1, 7, 18, 34, 55, 81, 112, 148, 189, 235, 286, 342, 403, 469, 540, 616, 697, 783, 874, 970, 1071, 1177, 1288, 1404, 1525, 1651, 1782, … (Posloupnost A000566 v databázi On-Line Encyclopedia of Integer Sequences).
+V posloupnosti 7úhelníkových čísel se sudá a lichá čísla opakují vždy podle vzoru ...liché, liché, sudé, sudé...
+5 sedmiúhelníkových čísel je o 1 menší než trojúhelníkové číslo a 55 je zároveň trojúhelníkové a čtvercové pyramidové číslo.
+    {\displaystyle \sum _{n=1}^{\infty }{\frac {2}{n(5n-3)}}={\frac {1}{15}}{\pi }{\sqrt {25-10{\sqrt {5}}}}+{\frac {2}{3}}\ln(5)+{\frac {{1}+{\sqrt {5}}}{3}}\ln \left({\frac {1}{2}}{\sqrt {10-2{\sqrt {5}}}}\right)+{\frac {{1}-{\sqrt {5}}}{3}}\ln \left({\frac {1}{2}}{\sqrt {10+2{\sqrt {5}}}}\right)}

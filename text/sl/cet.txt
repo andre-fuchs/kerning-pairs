@@ -1,0 +1,1 @@
+Srednjeevropski čas (CET - Central European Time) je eno izmed imen časovnega pasu, ki je eno uro pred univerzalnim koordiniranim časom. Uporablja se v večini evropskih (tudi v Sloveniji) in nekaterih severnoafriških državah. Časovni zamik je ob standardnem času UTC+1 in ob poletnem času UTC+2.

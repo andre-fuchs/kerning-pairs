@@ -1,0 +1,1 @@
+Rubikin käärme on pulmapeli, jossa tavoitteena on muotoilla akseliston avulla toisiinsa kytketyistä osista erilaisia kappaleita. Peli koostuu 24:stä osasta, jotka kääntyvät akseliston avulla. Paloja kytkee toisiinsa kaksi liitosta, lukuun ottamatta "käärmeen päitä", joita yhdistää kokonaisuuteen yksi liitos. 

@@ -1,0 +1,19 @@
+A bolygóközi por (vagy kozmikus por) apró porszemcsékből áll, amik egy csillagrendszer központi égitestje körül keringenek a bolygók közötti térben.
+Naprendszerünkben a bolygóközi por nem csak a Nap fényét szórja szét (állatövi fény), hanem hősugárzást is kibocsát az 5-50 mikrométeres elektromágneses sávban (Levasseur-Regourd, A.C. 1996). A port alkotó szemcsék jellemző átmérője 10-100 mikrométer közötti (Backman, D., 1997). A Naprendszerben lévő összes bolygóközi por tömege egy 15 km átmérőjű aszteroida tömegének felel meg (2,5 g/cm³ átlagsűrűséget számításba véve).
+A bolygóközi por forrásai között ott vannak: az aszteroidák egymással való ütközései, üstökösök aktivitása és ütközései a belső Naprendszerben, ütközések a Kuiper-övben (Backman, D., 1997). A tudományos közösségben régóta tartó vita, hogy a bolygóközi por forrásának inkább az aszteroidák egymással való ütközései, vagy az üstökösök aktivitása tekinthető-e.
+A porrészecskéket érő főbb hatások: a sugárnyomás, a befelé ható Poynting-Robertson hatás, a napszél nyomása (jelentős elektromágneses összetevőkkel), szublimáció, kölcsönös ütközések, és a bolygók gravitációs vonzásának állandóan változó hatásai (Backman, D., 1997).
+A porrészecskék létezése rendkívül rövid idejű egy naprendszer korához képest: például egy csillag körül keringő 100 millió éves porrészecske nagyobb égi objektumok darabja lehet, amiről a csillagászati „közelmúltban” vált le, semmiképpen nem a csillagrendszer kialakulásának idején.
+Az állatövi fényt okozó por 99,9%-ban a „közelmúltban” jött létre, és csak 0,1%-ban származik a csillagközi anyagból.
+A sugárzásoktól leginkább érintett por béta meteoroid néven ismert, tömege általában kisebb, mint 1,4 x 10−12 g, és többnyire a központi csillagtól spirál alakban távolodik a Naprendszer széle felé.
+Létezését az 1990-es években, az LDEF mesterséges hold segítségével sikerült megerősíteni. A szemcsék mérete és mennyisége a Naptól való távolságtól függ: a Föld távolságában átlagos méretük kisebb 0,5 mikrométernél, átlagos gyakoriságuk 6 beütés/m²/nap.
+1951-ben Fred Whipple leírta, hogy a 100 mikrométernél kisebb mikro-meteoritok megolvadás nélkül képesek behatolni a Föld légkörébe.  Ezeknek a részecskéknek a laboratóriumi vizsgálata az 1970-es években kezdődött a sztratoszférába felbocsátott léggömbökkel, D. E. Brownlee repüléseivel, majd később a Lockheed U-2 repülőgéppel.
+Az LDEF mesterséges hold közel hatéves adatgyűjtése szerint a Földre irányuló por szemcséinek tömege 10−9–10−4 g, méretük 10–500 μm közötti. Eszerint a Földre 40 ezer tonna bolygóközi por hullik évente.
+Jackson A.A.; Zook, H.A. (1988). „A Solar System Dust Ring with the Earth as its Shepherd”. Nature 337 (6208), 629. o. DOI:10.1038/337629a0.  
+Jackson A.A.; Zook, H.A. (1992). „Orbital evolution of dust particles from comets and asteroids”. Icarus 97, 70–84. o. DOI:10.1016/0019-1035(92)90057-E.  
+Backman, Dana (1997). „Exozody Workshop, NASA-Ames, October 23–25, 1997”. Extrasolar Zodiacal Emission - NASA Study Panel Report. 
+Dermott, S.F. Jayaraman, S., Xu, Y.L., Gustafson, A.A.S., Liou, J.C., (1994. június 30.). „A circumsolar ring of asteroid dust in resonant lock with the Earth”. Nature 369 (6483), 719–23. o. DOI:10.1038/369719a0.  
+Dermott, S.F. (1997). „Signatures of Planets in Zodiacal Light”. Extrasolar Zodiacal Emission - NASA Study Panel Report. 
+Levasseur-Regourd, A.C. (1996). „Optical and Thermal Properties of Zodiacal Dust”. Physics, Chemistry and Dynamics of Interplanetary
+Reach, W. (1997). „General Structure of the Zodiacal Dust Cloud”. Extrasolar Zodiacal Emission - NASA Study Panel Report. 
+Reach, W.T.; Franz, B.A.; Weiland, J.L. (1997). „The Three-Dimensional Structure of the Zodiacal Dust Bands”. Icarus 127 (2), 461. o. DOI:10.1006/icar.1997.5704.
+Ez a szócikk részben vagy egészben  az   Interplanetary dust cloud című angol Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.

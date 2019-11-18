@@ -1,0 +1,8 @@
+Deset je přirozené číslo, které následuje po číslu devět a předchází číslu jedenáct. Číslo deset odpovídá počtu prstů na rukou a má význačné postavení mezi přirozenými čísly.
+Zapisuje se zpravidla (v desítkové soustavě, stejně jako základy ostatních pozičních soustav) jako dvoumístné, složené z arabských číslic (odleva) jedničky a nuly: 10. Neobsahuje (paradoxně) znak odpovídající názvu. V pozičních číselných soustavách s větším základem, než deset, se zpravidla vyznačuje písmenem A.
+Zápis římskými číslicemi je X (jediný znak). Tutéž číselnou hodnotu má i hebrejské písmeno jód.
+Antický filozof a matematik Pythagoras (Pythagorejská škola, Předsokratovská (kosmologická) filozofie) považoval číslo 10 ve své filozofii za vrchol a dosažení dokonalosti. Číslo 10 totiž vznikne součtem čísel 1, 2, 3 a 4, kterým rovněž přisuzoval v rámci filozofie specifické vlastnosti. 1 považoval za jeden konkrétní bod, 2 pak za přímku, co má začátek a konec, 3 za plochu (už pomocí 3 bodů můžeme definovat základní plochu), která má začátek, konec a „prostor mezitím“, 4 pak považoval za prostor. 10 vznikne součtem těchto 4 „magických“ a významných čísel a právě proto je podle něj vrcholem dokonalosti.
+Dělitelnost: číslo n je dělitelné desítkou beze zbytku, pokud končí číslicí nula.
+V mezinárodní soustavě jednotek SI se desetinásobek jednotky označuje předponou deka.
+V rámci judaismu představuje desítka „množství sjednocené a uspořádané do jednoho celku“.
+V tomto článku byl použit překlad textu z článku 10_(number) na anglické Wikipedii.

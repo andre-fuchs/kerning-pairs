@@ -1,0 +1,2 @@
+In de complexe analyse, een deelgebied van wiskunde is de stelling van Montel een stelling over families van holomorfe functies. De stelling is vernoemd naar Paul Montel en beweert dat een familie van holomorfe functies, die is gedefinieerd op een open deelverzameling van complexe getallen, dan en slechts dan normaal is als deze familie lokaal begrensd is. Dat wil zeggen voor een familie 
+   die complex-differentieerbare zijn in een omgeving van elk punt, zijn de onderstaande twee uitspraken equivalent.

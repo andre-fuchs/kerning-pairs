@@ -1,0 +1,6 @@
+RNA viry jsou viry, které ve své částici (virionu) obsahují ribonukleovou kyselinu (RNA). Dělí se na viry s dvojšroubovicí RNA, jednovláknové +RNA viry (jejich RNA má "sense" charakter, takže může být rovnou transkribována) a jednovláknové -RNA viry (jejich RNA má "antisense" charakter, takže musí být přeložena do mRNA). Viry nesoucí RNA, které ji ale zpětně přepisují do DNA, se většinou vyčleňují do vlastní kategorie retrovirů (např. HIV).
+pomocí ní je v procesu translace vytvářen cílový proteinPodle přítomnosti dodatečných lipidových a bílkovinných obalů se stejně jako DNA viry dělí na
+neobalené viry – např. pikornaviry (viry dětské obrny, virus slintavky a kulhavky aj.)
+obalené viry – např. ortomyxoviry (viry chřipky)V hostitelské buňce se normálně nevyskytuje RNA dependentní RNA polymeráza, takže si jej musí virové částice kódovat (+RNA viry) či přímo přinést s sebou (-RNA).
+Mezinárodní výbor pro taxonomii virů (ICTV) vytvořil v r. 2018 pro RNA viry (včetně RNA viroidů) speciální vyšší taxon úrovně realm s názvem Riboviria.
+virus hepatitidy A, C, D a E (naproti tomu virus hepatitidy B je DNA retrovirus)

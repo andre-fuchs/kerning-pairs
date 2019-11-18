@@ -1,0 +1,4 @@
+Export (nebo vývoz) je objem zboží, služeb (technologií, licencí, autorských práv), který určitý stát je schopen vyrobit a vyvézt do zahraničí.
+Pro každou zemi je vývoz přínosem; je-li hodnota exportu vyšší než hodnota dovozu, rozdíl tvoří přírůstek hrubého domácího produktu. Velká část dnes bohatých zemí své jmění získala právě díky exportu svých výrobků do zahraničí (například Japonsko, USA).
+Čistý vývoz (X nebo NX) je rozdíl mezi exportem a importem daného státu: NX = Ex − Im, kde
+V případě, že jeho hodnota je kladná, pak vývoz převyšuje dovoz a hodnota NX udává o kolik (peněžních jednotek). V opačném případě dovoz převyšuje vývoz.

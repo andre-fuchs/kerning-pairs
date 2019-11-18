@@ -1,0 +1,26 @@
+Pohon je obecný technický pojem, který popisuje způsob tvorby a předávání mechanického výkonu, zejména uvádění do pohybu, který definuje:
+jakým způsobem je dodávána energie nutná pro práci stroje (nebo energii samotnou),
+být transformátory, obecnou kauzalitu zachovávat (převodovka mění rychlost na rychlost a moment na moment),
+nebo být gyrátory, kauzalitu obracet: úsilí zdroje na tok výstupu a zároveň tok zdroje na úsilí výstupu (hydrodynamický měnič převádí rychlost ze vstupu na moment na výstupu, jako servomotor).Pohony také mohou i měnit jednu formu mechanické energie na druhou:
+rotační pohyb na posuvný (z motoru přes páku s jednou volnou podporou na pérový kývavý dopravník v dolech)Obecně jsou pohony kompletní dvojbrany:
+stejně jako i reakci zátěže zpět na zdroj.Za dvojbran obecně, tedy ani za pohon, naopak nelze považovat jiná pohyblivá mechanická zařízení. Například soustrojí tryska-klapka:
+natož s reverzibilním přenosem výkonu, v generátorovém režimu.Zdaleka ne každé mechanicky pohyblivé zařízení použitelné jako senzor lze obecně nazvat pohonem a tedy moci měřit jeho výkon.
+Je běžné, že se od pohonu požaduje různý výstupní mechanický výkon, a to při stále stejném napájení, zato v různých pracovních bodech stroje. Například zvýšení vytvářeného mechanického výkonu o 20 kW jednou při 100 otáčkách za minutu, podruhé při 700 ot/min.
+Řízení výkonu pohonu lze obecně řešit buď děličem při napájení větší než potřebnou energií, nebo si brát právě jen potřebnou energii.
+k řízení energie už odebírané ze zdroje je zas potřeba výkonový měnič napájení, třeba transformátor nebo hydrodynamický měnič.
+Je třeba rozlišovat mezi regulátorem samotným, a mezi řešením, jak se nakládá s přebytečnou energií. Sám mechanismus pro změnu výkonu totiž stále nestačí, je ho potřeba nějak řídit, podle regulační odchylky skutečného stavu od požadovaného:
+ručně, zkušenou obsluhou, kdy její chybný zásah může zapříčinit i zničení pohonu;
+Pohon sám může, anebo nemusí, mít schopnost pracovat v několika různých režimech:
+ustálený chod pod zátěží, typicky jmenovité hodnoty výkonu při napájení plným napětím/tlakem.
+rozběh, s velkým rozdílem požadovaného stavu proti stavu momentálnímu, tedy s velkým výkonovým nárokem.
+běh naprázdno, bez zatížení, kdy je sice stroj připojen ke zdroji energie, ale protože je momentální rychlost soustavy stejná s rychlostí pohonu při daném napájení, nedochází k předávce žádného výkonu: Rovnovážný stav. Takový stav může být u některých řešení i jen teoretický, mimo snesitelné parametry, mohlo by dojít ke zničení stroje ještě před dosažením rovnováhy: např. u podbuzeného sériového ss. motoru.
+Dobrzďování při překročení jmenovité nebo požadované rychlosti. Například zda je energie rekuperována zpět do zdroje, pokud je toho pohon vůbec schopen.
+doběh po odpojení napájení, tedy jízda setrvačností nebo brzdění, opět je-li takové odpojení zdroje vůbec možné.
+Brzdí se pak buď jinak než pohonem, tedy dalším zařízením na stroji: brzdou bubnovou/čelisťovou, elektrodynamickou, magneticky přitaženou třecí "bačkorou" u tramvají apod.,
+nebo pohonem samotným: Přechodem pohonu do generátorového režimu, je-li toho schopen, a mařením té energie v masivním chlazení. Typicky jde o baterie rezistorů nebo třeba i o jednostranně zamčenou hydromechanickou spojku.
+setrvačníkový pohon - využívá momentu setrvačnosti vysoce hmotných rotačních částí pohonu
+buď teplo s následným mechanickým pohybem (v pístovém motoru, anebo klasicky pro ohřev plamenem), nebo
+dovnitř šlapacího kola: psíci na otáčení rožněm ve starých kuchyních, koně chodící na pásu uvnitř tramvaje, dělníci ve středověkých jeřábech
+animální trakce – zápřah vhodného zvířete do tahu (nejčastěji kůň nebo osel, tur domácí, pes domácí, sob polární)
+buď sériová kaskáda motor-generátorových přeměn (např. palivo - stálý pohyb - elektřina - proměnlivý pohyb),
+nebo možnost přepínání paralelních zdrojů/přeměn (např. palivo-spalování / baterie-elektromotor)

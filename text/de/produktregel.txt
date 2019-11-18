@@ -1,0 +1,33 @@
+Die Produktregel oder Leibnizregel (nach G. W. Leibniz) ist eine grundlegende Regel der Differentialrechnung. Sie führt die Berechnung der Ableitung eines Produktes von Funktionen auf die Berechnung der Ableitungen der einzelnen Funktionen zurück.
+Eine Anwendung der Produktregel in der Integralrechnung ist die Methode der partiellen Integration. Für den Fall, dass eine der beiden Funktionen konstant ist, geht die Produktregel in die einfachere Faktorregel über.
+    {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} x}}x^{2}=f'(x)=u'(x)v(x)+u(x)v'(x)=1\cdot x+x\cdot 1=2x.}
+    {\displaystyle (u\color {Blue}v\color {Black})'=u'\color {Blue}v\color {Black}+u\color {Blue}v\color {Black}'}
+    {\displaystyle {\begin{aligned}f(x)&=(x^{2}-4)\cdot \color {Blue}(x^{3}+1)\\f'(x)&=2x\cdot \color {Blue}(x^{3}+1)\color {Black}+\color {Black}(x^{2}-4)\cdot \color {Blue}3x^{2}\\\end{aligned}}}
+    {\displaystyle \Delta (u(x)\cdot v(x))=u(x)\cdot \Delta v(x)+v(x)\cdot \Delta u(x)+\Delta u(x)\cdot \Delta v(x).}
+    {\displaystyle {\Delta (u(x)\cdot v(x)) \over \Delta x}=u(x)\cdot {\Delta v(x) \over \Delta x}+v(x)\cdot {\Delta u(x) \over \Delta x}+{\Delta u(x) \over \Delta x}\cdot \Delta v(x)}
+  erhält, wie behauptet. Dies ist auch im Wesentlichen die Argumentation, wie sie sich in einem ersten Beweis der Produktregel 1677 in einem Manuskript von Leibniz findet. Die Produktregel, die er dort gemeinsam mit der Quotientenregel beweist, war damit eine der ersten Regeln zur Anwendung der Infinitesimalrechnung, die er herleitete. Er benutzte allerdings keinen Grenzwert, sondern noch Differentiale und schloss, dass 
+   wegfällt, weil es im Vergleich zu den anderen Summanden infinitesimal klein sei. Euler benutzte noch dasselbe Argument, erst bei Cauchy findet sich ein Beweis mit Grenzwerten:
+    {\displaystyle \lim _{\Delta x\to 0}{\frac {u(x+\Delta x)\cdot v(x+\Delta x)-u(x)\cdot v(x)}{\Delta x}}}
+    {\displaystyle \lim _{\Delta x\to 0}{\frac {u(x+\Delta x)-u(x)}{\Delta x}}\cdot v(x+\Delta x)+\lim _{\Delta x\to 0}u(x)\cdot {\frac {v(x+\Delta x)-v(x)}{\Delta x}}.}
+   Linearkombinationen (Summen, Differenzen, Produkte mit Zahlen) gebildet, ebenso aus den Werten von 
+   der rechte. Der Beweis überträgt sich deswegen auf alle Produktbildungen, die sowohl im linken als auch im rechten Faktor linear sind. Insbesondere gilt die Produktregel auch für
+Matrix-Vektor-Produkte.Vektoren bzw. Matrizen sind dabei als Funktionen einer unabhängigen Variablen zu verstehen.
+    {\displaystyle {\frac {(f_{1}\cdots f_{n})'}{f_{1}\cdots f_{n}}}={\frac {f_{1}'}{f_{1}}}+\cdots +{\frac {f_{n}'}{f_{n}}}}
+  -ter Ordnung für ein Produkt aus zwei Funktionen war schon Leibniz bekannt und wird entsprechend manchmal ebenfalls als Leibnizsche Regel bezeichnet. Sie ergibt sich aus der Produktregel mittels vollständiger Induktion zu
+   sind Binomialkoeffizienten. Die obige Formel enthält die eigentliche Produktregel als Spezialfall. Sie hat auffallende Ähnlichkeit zum binomischen Lehrsatz
+  Diese Ähnlichkeit ist kein Zufall, der übliche Induktionsbeweis läuft in beiden Fällen vollkommen analog; man kann die Leibnizregel aber auch mit Hilfe des binomischen Satzes beweisen.
+Für höhere Ableitungen von mehr als zwei Faktoren lässt sich ganz entsprechend das Multinomialtheorem übertragen. Es gilt:
+    {\displaystyle (u_{1}u_{2}\ldots u_{k})^{(n)}\,=\sum _{n_{1}+\ldots +n_{k}=n}{n \choose n_{1},\ldots ,n_{k}}\,u_{1}^{(n_{1})}u_{2}^{(n_{2})}\ldots u_{k}^{(n_{k})}}
+Verallgemeinert man auf Funktionen mit höherdimensionalem Definitionsbereich, so lässt sich die Produktregel wie folgt formulieren: Es seien 
+    {\displaystyle {\frac {\partial }{\partial x}}(uv)=\left({\frac {\partial }{\partial x}}u\right)\cdot v+u\cdot {\frac {\partial }{\partial x}}v.}
+   lokal differenzierbare Funktionen, so gilt die folgende Beziehung zwischen den äußeren Ableitungen:
+    {\displaystyle \alpha ,\beta \in \mathbb {N} _{0}^{n},U\subseteq \mathbb {R} ^{n}~und~u,v\in C^{\alpha }(U,\mathbb {R} ).}
+    {\displaystyle D^{\alpha }(uv)=\sum _{\beta \leq \alpha }{\alpha  \choose \beta }D^{\beta }uD^{\alpha -\beta }v}
+   differenzierbare Funktionen, so gilt ebenfalls eine Produktregel, wobei die Funktion des Produktes von einer Bilinearform 
+    {\displaystyle [x_{0},\ldots ,x_{n}](f\cdot g)=\sum _{i=0}^{n}([x_{0},\ldots ,x_{i}]f)\cdot ([x_{i},\ldots ,x_{n}]g)}
+  -graduierten Algebren („Superalgebren“) muss der Begriff der Derivation jedoch durch den der Antiderivation ersetzt werden. Die entsprechende Gleichung lautet dann
+    {\displaystyle \mathrm {d} (\omega \wedge \eta )=\mathrm {d} \omega \wedge \eta +(-1)^{|\omega |}\cdot \omega \wedge \mathrm {d} \eta .}
+Die Produktregel für Funktionen wird in jedem Buch erläutert, das Differentialrechnung in allgemeiner Form behandelt.
+Otto Forster: Analysis 1. Differential- und Integralrechnung einer Veränderlichen. 7. Auflage. Vieweg, Braunschweig 2004, ISBN 3-528-67224-2.
+Otto Forster: Analysis 2. Differentialrechnung im Rn. Gewöhnliche Differentialgleichungen. 6. Auflage. Vieweg, Braunschweig 2005, ISBN 3-528-47231-6.
+Herleitung der Produktregel und zahlreiche Beispiele (Memento  vom 29. Februar 2008 im Internet Archive)

@@ -1,0 +1,10 @@
+A tőzsde nyilvános, központosított és szervezett piac, olyan hely, ahol meghatározott árukat, meghatározott időben, meghatározott személyek adhatnak-vehetnek szigorú eljárási szabályok szerint. A magyarországi tőzsde jogi személy, nyereségorientált részvénytársaság. Üzletet csak tőzsdeügynökön (alkusz) keresztül lehet kötni. A tőzsdei kereskedelemben részt vevő áruknak vagy értékpapíroknak nem kell jelen lenniük, mivel az egyes áruk helyettesíthetők, illetve egymással kicserélhetők. Az eladni és vásárolni szándékozók árelképzelései befutnak a tőzsdei üzletkötőkhöz (brókerek), akik ezeket megpróbálják a piacon érvényesíteni. A tőzsde nemcsak piac, hanem a modern gazdaságban nélkülözhetetlen gazdasági értékelő és információs központ is.
+Az a szerződés, amelyet a tőzsdei kereskedési joggal rendelkezők a tőzsdén forgalmazott árukra vonatkozóan egymással kötnek.
+határidős/termin: későbbi időpontban történik a teljesítés, gyakran spekulációs céllal, itt nem a vásárlás a lényeg, hanem az árfolyam-különbözet. Speciális fajtája az opciós ügylet.Opciós ügylet:
+Az eladó vagy a vevő az opciós díj megfizetésével jogot vásárol magának a későbbi döntéshez.
+A tőzsdén információs táblák mutatják a legfontosabb tudnivalókat, pl. árfolyamokat, ajánlatokat, megkötött ügyleteket.
+Az ügyleteket szóban vagy számítógépen lehet megkötni, a tőzsdei levezető a megegyezés után kiállítja a kötjegyet és a tőzsdei nap végén a kötjegy segítségével készítik el a szerződést.
+A tőzsde helyettesíthető tömegáruk koncentrált piaca, ahol a kereskedelem szervezett keretek között, meghatározott szokványok szerint történik.
+Az adott tőzsdén forgó papírokat jól jellemző részvénycsomag értékének változását mutatja egy bázisidőponthoz viszonyítva. Követi a gazdasági folyamatokat és a befektetők várakozásait.
+- Az európai-kontinentális tőzsde közjogi jellegű, felügyeletet az állam gyakorol felette.
+- Az angol-amerikai típusú tőzsdék magánjogi alapon működő intézmények, amelyek általában részvénytársasági formában működnek.

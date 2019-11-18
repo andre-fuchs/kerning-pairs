@@ -1,0 +1,9 @@
+break – zlomitCož v tomto případě znamená dostat se z vězení uzavřeného operačního systému (konkrétně iOS).
+Po jailbreaku lze do iPhonu instalovat neoficiální aplikace (nevydávané v App Store), které mají přístup do souborového systému. Lze to provést přes aplikace:
+Instalace neoficiálních aplikací je asi nejobvyklejší důvod jailbreaku, ale po JB lze i různými způsoby (přes SSH, nainstalované aplikace) upravovat systémové soubory – mazat je, přejmenovávat atd.
+Jailbreak lze provést následujícími nástroji (některé jsou pro starší FW, jiné pro novější):
+instalace aplikací na změnu vzhledu GUI (např. SummerBoard, WinterBoard, Customize, …)
+instalace nelegálních (cracknutých) aplikacíUnlock telefonu – softwarové odemknutí zahraničního iPhone pro použití s jakýmkoliv operátorem.
+Zakladatel Cydie Jay Freeman odhaduje, že 8,5 % iPhonů a iPodů je jailbreaknutých.
+Diskutuje se o možném neuznání reklamace (při důvodu reklamace kvůli SW závadě). Zatím nejsou známy případy neuznání reklamace kvůli HW závadě na telefonu s jailbreakem.
+První červ pro iPhone se objevil na telefonech, které prošly jailbreakem. Ovšem na začátku roku 2011 proběhlo soudní líčení, kde byl nakonec jailbreak uznán legálním.

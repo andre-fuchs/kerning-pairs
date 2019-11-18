@@ -1,0 +1,2 @@
+Et serielån er et lån med variabelt terminbeløp. Avdraget på beløpet holder seg konstant gjennom perioden mens rentedelen av lånet er variabelt. Dette fører til at innbetalingene er variable med store beløp i begynnelsen av låneperioden ettersom rentedelen tar en stor del av terminbeløpet. I slutten av perioden er terminbeløpet lavere ettersom man betaler mindre i renter, mens det rene avdraget holder seg konstant.
+Denne lånetypen er mindre brukt enn annuitetslån, hvor summen av avdrag og renter er konstant gjennom avdragsperioden.

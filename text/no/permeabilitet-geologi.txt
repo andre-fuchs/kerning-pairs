@@ -1,0 +1,10 @@
+Permeabiliteten til et porøst materiale er et mål for evnen materialet har til å transportere væske eller gass, gjennomstrømmeligheten.
+Permeabiliteten er en materialegenskap som måler konnektivitet til porene i materialet.  Egenskapen er uavhengig av hvilken væske som strømmer i materialet, så lenge dette er en newtonsk væske med laminær strøm.  Materialer med gode transportegenskaper sies å være (høy)permeable, mens et materiale som ikke transporterer væske kalles impermeabelt.
+Dimensjonen til permeabilitet er lengde² eller areal, og SI-enheten er m².  Mye brukt er også enheten darcy.
+   slik den inngår i Darcys lov vil være en tensor.  Arbeidet til Lars Onsager viser at tensoren er symmetrisk.
+Generelt er det ingen sammenheng mellom porøsitet og permeabilitet i et materiale.  Store porer med liten konnektivitet kan gi opphav til høy porøsitet, men lav permeabilitet.  Romlig variasjon i ett og same materiale vil likevel ofte være korrelert, slik at høyere porøsitet svarer til høyere permeabilitet.
+I sedimentære bergarter er permeabilitet i vertikal retning som oftest vesentlig lavere enn i den horisontale retningen.
+Et mini-permeameter kan brukes til å gi hurtige estimat av permeabiliteten til et materiale.  Dette er basert på å måle trykkfall over en gasstrøm gjennom materialet,  basert på bruk av luft, nitrogen eller helium.  En måling kan utføres i løpet av sekunder.
+Mer nøyaktige målinger må utføres ved hjelp av strømningseksperiment i et laboratorium.  Dette kan gjennomføres både med gass eller væske.  Ved bruk av gass må en korrigere for Klinkenbergeffekten.
+I oljereservoar utføres storskala brønntester for å estimere permeabiliteten i et større område rundt brønnen. En slik test krever vanligvis fra en til to uker å gjennomføre.
+Permeabiliteten kan også estimeres indirekte ved korrelasjoner mot andre materialegenskaper.  I oljereservoar kan ulike brønnlogger brukes som utgangspunkt for å estimere permeabiliteten.

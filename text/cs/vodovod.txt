@@ -1,0 +1,17 @@
+Vodovod je zařízení pro potrubní nebo podobnou dopravu vody. Veřejná vodovodní síť zajišťuje zásobování vodou  pro velký počet spotřebitelů   pitné vody. Vodovodní síť tvoří dálková a místní vedení, která jsou vedena ve veřejných prostorách, a to tak, aby bylo možné snadno provádět opravy, nejčastěji souběžně s komunikacemi. Soukromé vodovodní rozvody zajišťují rozvod vody z veřejné sítě uvnitř objektu nebo dopravu vody z neveřejného zdroje, například z vlastní studny.
+Zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů, ve znění pozdějších předpisů definuje rozlišení mezi soukromým vodovodem a veřejným vodovodem v ČR.
+Nejstarší zprávy o stavbách sloužících k přepravě vody pocházejí z období vlády egyptského faraóna Ramesse II., asi 1300 př. n. l. Ve starověké Číně se pro výrobu vodovodů používaly kmeny bambusu; ve starověkém Římě se stavěly pro rozvod vody četné akvadukty.
+Zbytky jednoho z nejstarších vodovodů v českých zemích byly objeveny koncem roku 2005 v Plzni. Tento vodovod byl dřevěný a pochází z doby okolo roku 1300.
+Samostatný vodovod (není zapojen do sítě, zásobuje jeden nebo několik objektů z místního zdroje)
+Gravitační (spádový) – k dopravě vody není třeba energie na provoz čerpadel, voda stéká samospádem z výše položených vodovodních nádrží (vodojemů) do níže položených míst. Výškový rozdíl mezi spotřebitelem a vodojemem musí být takový, aby u nejvýše položených výtoků byl k dispozici tlak alespoň 250 kPa.
+Výtlačné – nejčastěji používaný typ vodovodu, jelikož vodní zdroj se nachází často ve stejné výšce jako spotřebiště. V tomto případě je voda ze zdroje čerpadly vháněna do tlakových zásobníků vody. V těchto uzavřených tlakových nádobách je požadovaný tlak vody udržován stlačeným vzduchem.
+Větvená síť – z vodojemu vede hlavní větev vodovodního řadu, ze které vedou odbočky ke koncovým spotřebitelům. Výhodou jsou malé náklady na výstavbu, nevýhodou je, že v případě poruchy hlavního řadu není voda dodávána velkému počtu obyvatel
+Okruhová síť – vodovodní řady jsou do okruhu zapojeny tak, aby bylo možné všechny části rozvodu zásobovat ze dvou stran. To je výhodné při poruchách. Výhodou je také stálá cirkulace vody a vyrovnanější tlakové poměry v síti
+sklolaminátUvnitř trubek se v závislosti na použitém materiálu a na obsahu minerálů rozpuštěných ve vodě více či méně usazuje vodní kámen.
+Čerpací stanice – slouží k vytvoření potřebného přetlaku ve vodovodní sítiArmaturní šachty – zřizují se z důvodu přístupu k uzávěrům, odvzdušňovacím a redukčním ventilům nebo vodoměrům. Dno šachty má mít odvodnění, aby při poruše nedošlo k zaplavení šachtyPřechod přes řeku – buď vzdušný přechod, kdy je potrubí připevněno na mostní konstrukci, nebo jako průchod pode dnem koryta. Potrubí musí být uloženo do hloubky minimálně 80 cm. Na obou březích musí být vybudovány armaturní šachtyVodojemy – slouží k akumulaci vody
+Vzdušník– armatura, která umožňuje odvzdušnění vodovodní sítě, umísťuje se do vrcholových bodů potrubí
+Kalník – armatura, která umožňuje vypouštění kalu z vodovodní sítě, umísťuje se do nejnižších bodů potrubí
+Zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů 
+Jásek, J. a kol. (2000) Vodárenství v Čechách, na Moravě a ve Slezsku. Praha: Milpo Média. ISBN 80-86098-15-X  
+Chejnovský, P. (2010) Zdravotní vodohospodářské stavby. Praha: Sobotáles. ISBN 978-80-86817-40-8
+Lokální šablona odkazuje na jinou kategorii Commons než přiřazená položka Wikidat:

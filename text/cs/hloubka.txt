@@ -1,0 +1,2 @@
+Hloubka označuje obvykle vertikální vzdálenost dvou bodů. Hloubka označuje vzdálenost pod určitou úrovní (dolů). Vzdálenost nad danou úrovní (vzhůru) bývá označována jako výška. Fyzikální veličina, která slouží k určení hloubky, se označuje jako délka.
+Slovo hloubka užito v termínech z fotografické optiky hloubka ostrosti a z počítačové grafiky barevná hloubka.

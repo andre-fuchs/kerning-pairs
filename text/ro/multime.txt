@@ -1,0 +1,60 @@
+Mulțimea este unul dintre cele mai importante concepte ale matematicii moderne. Deși teoria mulțimilor a apărut abia la sfârșitul secolului XIX, aceasta este acum omniprezentă în educația matematică, încă din școala elementară. Acest articol este o scurtă introducere în ceea ce matematicienii numesc teoria "intuitivă" sau "naivă" a mulțimilor; pentru mai multe detalii vezi articolul teoria naivă a mulțimilor. Pentru o considerație riguroasă, axiomatică, vezi teoria axiomatică a mulțimilor.
+Mulțimea este un concept primar care nu se definește prin raportare la alte noțiuni mai generale, ci se descrie / se definește ostensiv. O descriere intuitivă a conceptului este dată de considerarea mulțimii drept un număr de elemente oarecare puse laolaltă. Numărul de elemente al unei mulțimi e denumit și cardinalitate. Pentru mulțimile infinite se folosește termenul cardinalitate, și nu numărul de membri, care ar fi neclar. În cazul mulțimilor finite pot apărea paradoxuri, pentru a căror evitare au fost construite teorii axiomatice ale mulțimilor.
+În mod neriguros o mulțime este un ansamblu bine definit de obiecte, considerată ca un întreg. Obiectele dintr-o mulțime sunt numite elemente. Elementele unei mulțimi pot fi de orice natură: numere, persoane, litere ale alfabetului, alte mulțimi, etc. Prin convenție, mulțimile sunt notate cu majuscule cursive: A, B, C etc.
+Două mulțimi A și B se numesc egale, și aceasta se notează A = B, dacă dețin (sunt formate din) aceleași elemente.
+Nu toate mulțimile au descrieri precise; ele pot fi doar colecții arbitrare, fără vreo regulă exprimabilă, care să specifice care anume elemente fac parte dintr-o mulțime.
+B este mulțimea culorilor de pe steagul Franței.Prin convenție, o mulțime poate fi definită listând explicit elementele sale între acolade, de exemplu:
+D = {roșu, alb, albastru}De notat că cele două descrieri diferite definesc aceeași mulțime. De exemplu, pentru mulțimile definite mai sus, A și C sunt identice, deoarece ele au exact aceiași membri. Notația A = C este folosită pentru a exprima această egalitate. Analog, pentru mulțimile definite mai sus, B = D.
+Identitatea mulțimilor nu depinde de ordinea în care elementele sunt listate, nici de prezența repetițiilor în listă. De exemplu, {6, 11} = {11, 6} = {11, 11, 6, 6}.
+Pentru mulțimi mari (cu multe elemente) scrierea întregii liste de elemente conținute poate deveni nepracticabilă. De exemplu, E = {primele o mie de numere pozitive} ar fi, ca listă, foarte greoaie - atât la scris cât și la citit. Totuși matematicienii rareori descriu o mulțime de genul E în cuvinte, ca mai sus, preferând să folosească formulări simbolice:
+  Pentru a descrie o mulțime de genul mulțimii E se poate folosi uneori și o listă abreviată, unde elementele specificate urmează un șablon (un model, o schemă) evident cititorului. Faptul că se folosește o abreviere este atunci indicat explicit prin simbolul "..." (trei puncte).
+Când se folosește această notație, trebuie avut grijă să se indice suficiente elemente pentru a face clar șablonul. De exemplu, următoarea mulțime ar putea să reprezinte, în funcție de context, atât primele șaisprezece numere întregi, cât și primele cinci puteri ale lui doi (cât și alte mulțimi), fiind deci neclară (neunivocă):
+  Un alt pericol apare dacă proprietatea definitorie implică un șablon mai puțin evident, în care cazuri listele abreviate chiar trebuie evitate. De exemplu, definiția (derutantă)
+F = {primele douăzeci de numere mai mici cu patru decât un pătrat perfect},și în plus chiar și această ultimă definiție ar putea fi falsă, deoarece numărul de reguli care să producă mulțimea F de mai sus este nesfârșit (infinit).
+În asemenea condiții, matematicienii descriu proprietatea caracteristică a membrilor mulțimii folosind o notație matematică. De exemplu:
+  În această descriere, bara verticală ("|") se citește cu proprietatea că (sau astfel încât). În loc de bara verticală se mai poate folosi și simbolul două puncte (":"). Formula de mai sus se citește:
+  , unde n este un număr întreg cuprins între 0 și 19 inclusiv.Evident că se poate forma și o listă explicită, completă, a conținutului (a membrilor) lui F, prin evaluarea expresiei 
+Conceptul care descrie dacă un obiect este sau nu element al unei anumite mulțimi (altfel spus, dacă îi aparține sau nu) este notat cu simbolurile 
+   al apartenenței a fost introdus de către matematicianul italian Giuseppe Peano în anul 1889, iar apoi adus la forma actuală 
+   de către matematicianul englez Bertrand Russel, în 1903. Această metodă de notație permite transcrierea unei propoziții cum ar fi ”Socrate este muritor” în forma matematizată :
+Articol principal: Cardinal (matematică)Cardinalitatea, numită și "puterea" unei mulțimi, desemnează bogăția ei de membri. Fiecare mulțime descrisă mai sus are un număr bine definit și finit de membri; de exemplu mulțimea 
+   are trei membri. La mulțimile finite, cardinalitatea este chiar numărul respectiv de membri. Cardinalitatea mulțimilor se notează punând mulțimea între bare verticale, de exemplu 
+O mulțime poate avea și zero membri (niciun membru). O astfel de mulțime este denumită mulțimea vidă (sau mulțimea nulă) și este reprezentată prin simbolul 
+O mulțime poate avea însă și un număr infinit (nesfârșit) de mare de membri; de exemplu, mulțimea tuturor punctelor (idealizate) de pe o linie (idealizată și ea); mulțimea tuturor numerelor iraționale. În ceea ce privește bogăția lor în membri, există mai multe soiuri de mulțimi infinite (de infinituri), și anume unele mai bogate, iar altele mai puțin bogate în membri.
+Pentru compararea cardinalităților a 2 mulțimi infinite, în loc de a încerca să se numere întâi separat membrii lor și apoi să se compare cele 2 rezultate, se folosește metoda "împerecherii" membrilor lor: se cercetează dacă poate fi găsită măcar o singură corespondență biunivocă (1 la 1) între cele 2 mulțimi atunci când ele se iau membru cu membru (altfel spus, dacă există o "funcție bijectivă" sau o bijecție între cele 2 mulțimi), sau dacă nu cumva în una din cele 2 mulțimi de comparat, după orice încercare de "împerechere" pe baza unei reguli, rămâne totuși întotdeauna un surplus de membri ne-împerecheați. În acest caz mulțimea cu surplusul are o cardinalitate (putere) mai mare decât cealaltă.
+Există o cea mai "mică" mulțime infinită. Este vorba de orice parte infinită din mulțimea numerelor naturale. Cardinalitatea ei se notează cu 
+   (alef) fiind prima literă din alfabetul ebraic. Astfel de mulțimi se numesc "numărabile", deoarece sunt echipotente cu mulțimea numerelor naturale 1, 2, 3,... . Reunind 2 mulțimi infinite de putere 
+   este de exemplu mulțimea punctelor de pe o linie, sau și mulțimea punctelor dintr-un patrat, aceste două mulțimi fiind echipotente. Puterea lor se notează cu litera 
+   (c gotic). Această notație provine de la cuvântul latin "continuum". Astfel de mulțimi se mai numesc și "de puterea continuului".
+S-a dovedit că nu se poate deduce dacă există sau nu mulțimi cu puterea situată între 
+  . Altfel spus, sunt permise ambele ipoteze: atât ipoteza continuului, cât și contrara acesteia.
+   o are de exemplu mulțimea tuturor funcțiilor care se pot defini pe o mulțime de putere 
+O putere și mai mare o are mulțimea tuturor funcțiilor care se pot defini pe o mulțime de putere 
+În felul acesta se pot construi (mental) mulțimi infinite cu puteri din ce în ce mai mari, fără o limită superioară.Cercetările cele mai recente încearcă să găsească o nouă axiomă independentă de sistemul de axiome ZFC care, adăugată la sistemul ZFC, rezolvă problemele actuale legate de ipoteza continuului. 
+Există deja 2 candidați pentru o astfel de axiomă nouă, numiți unul Projective Determinacy (PD) și celălalt Woodin's Martin's Maximum (WMM). Conform acestora se pare că ipoteza continuului este falsă, deci ar exista o cardinalitate, probabil chiar una singură, situată între  
+Dacă fiecare membru al mulțimii A este și membru al mulțimii B, atunci A se spune că este submulțime a lui B, și se scrie că 
+Dacă A este o submulțime a lui B, dar nu este egală cu B, atunci A se numește submulțime proprie a lui B, ceea ce se scrie 
+   {1,2,3,4}Mulțimea vidă este o submulțime a tuturor mulțimilor și orice mulțime este o submulțime a ei însăși:
+   elemente, cardinalul mulțimii părților se calculează ca o sumă a numerelor de mulțimi cu 
+    {\displaystyle \Rightarrow |{\mathcal {P}}(M)|=C_{n}^{0}+C_{n}^{1}+C_{n}^{2}+...+C_{n}^{n}=2^{n}}
+Există unele mulțimi care au atât de mare importanță matematică și sunt referite atât de des încât ele au obținut nume și notații simbolice speciale, pentru a se opera mai ușor cu ele. Una din acestea este mulțimea vidă 
+   reprezintă mulțimea tuturor numerelor întregi (pozitive, negative sau zero). Deci 
+   reprezintă mulțimea tuturor numerelor raționale (adică mulțimea tuturor fracțiilor proprii și improprii). Astfel, 
+    {\displaystyle \mathbb {Q} =\left\{{\begin{matrix}{\frac {a}{b}}\end{matrix}}:a,b\in \mathbb {Z} ,b\neq 0\right\}}
+    {\displaystyle {\begin{matrix}{\frac {11}{6}}\end{matrix}}\in \mathbb {Q} }
+  . Toți întregii sunt în această mulțime deoarece fiecare întreg a poate fi exprimat ca fracția 
+   reprezintă mulțimea tuturor numerelor reale. Aceasta include toate numerele raționale, împreună cu toate numerele iraționale (adică numere care nu pot fi scrise ca fracții, cum ar fi 
+    {\displaystyle \mathbb {N} \subset \mathbb {Z} \subset \mathbb {Q} \subset \mathbb {R} \subset \mathbb {C} }
+  ; toate aceste mulțimi au un număr infinit de membri, dar cardinalitățile lor sunt diferite:
+Există mai multe moduri de a construi o mulțime nouă din alta sau altele deja existente.
+Două mulțimi pot fi "adunate". Operația, numită "reuniunea" lui A cu B și notată A U B, este muțimea tuturor entităților care sunt membri fie ai lui A, fie ai lui B.
+    {\displaystyle \{1,2,verde\}\cup \{alb,galben,verde\}=\{1,2,alb,galben,verde\}}
+    {\displaystyle A_{1}\cup A_{2}\cup \cdots \cup A_{n}{\overset {not}{=}}\bigcup _{1\leq i\leq n}A_{i}}
+O nouă mulțime poate fi construită și prin determinarea membrilor pe care două mulțimi date îi au în comun. "Intersecția" dintre A și B, notată A ∩ B, este mulțimea tuturor entităților (membrilor) care aparțin atât mulțimii A cât și mulțimii B. Dacă A ∩ B  =  ø, atunci A și B se numesc mulțimi disjuncte (fără membri comuni).
+    {\displaystyle A_{1}\cap A_{2}\cap \cdots \cap A_{n}{\overset {not}{=}}\bigcap _{1\leq i\leq n}A_{i}}
+Două mulțimi pot fi "scăzute". Complementul relativ al lui A în B (numit și diferența dintre mulțimile B și A), notat B − A (sau și B \ A), este mulțimea tuturor elementelor care fac parte din B, dar nu și din A. De notat că nu este greșit să se "scoată" dintr-o mulțime elemente care nu îi aparțin, cum ar fi eliminarea elementului verde din mulțimea {1,2,3}; doar că această operație nu are nici un efect.
+În anumite cazuri, toate mulțimile despre care se discută sunt considerate submulțimi ale unei mulțimi universale U. În astfel de cazuri U − A se numește complementul absolut (față de U), sau pur și simplu complementul lui A, și este notat cu A′.
+Dacă U este mulțimea numerelor întregi, E este mulțimea întregilor pari, și O este mulțimea întregilor impari, atunci complementul lui E față de U este O: 
+en  Halmos, Paul R., Naive Set Theory, Princeton, N.J.: Van Nostrand (1960) ISBN 0-387-90092-6
+en  Stoll, Robert R., Set Theory and Logic, Mineola, N.Y.: Dover Publications (1979) ISBN 0-486-63829-4
+N. I. Vilenkin, excursie în teoria mulțimilor, editura enciclopedică română, București, 1972

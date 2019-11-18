@@ -1,0 +1,4 @@
+Het project freedesktop.org heeft als doel te werken aan de interoperabiliteit en gedeelde basistechnologie voor vrije desktops van het X Window System. Het project werd in 2000 gestart door Havoc Pennington van Red Hat.
+De focus ligt bij de gebruiker, er zijn namelijk verschillende ontwikkelingsinfrastructuren voor X, maar de gebruiker zou daar niet van mogen merken. De belangrijkste vrije desktops, KDE, GNOME en Xfce, werken nauw samen met het project en gebruiken veel technologieën ervan in hun software.
+X.Org Server, de meestgebruikte implemenatie van het X Window System. Het project is een afsplitsing van het oude XFree86.
+Standard Icon Naming Specification, definiëring namen voor de meest voorkomende pictogrammen en de gebruikte metaforen.

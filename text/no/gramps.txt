@@ -1,0 +1,1 @@
+Gramps (tidligere GRAMPS, et akronym for Genealogical Research and Analysis Management Programming System) er et slektsforskningsprogram lisensiert under GNU General Public License. Gramps er programmert i Python ved hjelp av PyGTK, som er brukt som et grensesnitt mellom Python og GTK+. Det benytter seg av Graphviz for å fremstille grafer mellom slektsforhold.

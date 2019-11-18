@@ -1,0 +1,5 @@
+Komolý jehlan je prostorové těleso - část jehlanu, která leží mezi dvěma rovnoběžnými rovinami procházející tímto jehlanem. Jinak řečeno, jde o „jehlan s uříznutým vrškem“. Komolý jehlan je množina všech bodů, které získáme průnikem jehlanu a rovinné vrstvy, pokud vrchol jehlanu leží vně vrstvy.
+  kde v je výška komolého jehlanu, tzn. vzdálenost obou podstav, S1 je obsah dolní podstavy a S2 obsah horní podstavy. Pro S2=0 přejde vztah na vzorec pro objem jehlanu.
+    {\displaystyle V={\frac {v}{3}}[2A(S_{1},S_{2})+G(S_{1},S_{2})]=v\cdot h(S_{1},S_{2}),}
+    {\displaystyle h(S_{1},S_{2})={\frac {S_{1}+S_{2}+{\sqrt {S_{1}S_{2}}}}{3}}={\frac {2}{3}}A(S_{1},S_{2})+{\frac {1}{3}}G(S_{1},S_{2})}
+  je Heronův průměr obsahů podstav jehlanu, vážený aritmetický průměr aritmetického a geometrického průměru s váhami 2 a 1. Udává, jaký obsah podstavy by musel mít hranol, aby měl stejný objem jako daný komolý jehlan se stejnou výškou. Je o něco větší než obsah středního řezu (v polovině výšky). Ten je totiž dán odmocninovým průměrem, který lze vyjádřit jako (nevážený) aritmetický průměr aritmetického a geometrického průměru obsahů podstav.

@@ -1,0 +1,6 @@
+ARMAN (zkratka slov Archaeal richmond mine acidophilic nanoorganisms) je nedávno[kdy?] objevená skupina archeí s nevyjasněnou klasifikací. Tyto extrémně acidofilní organismy žijí v kyselých dolech v severní Kalifornii. O jejich objevení se zasloužil Brett Baker z University of California Berkeley.
+Jednotlivé nalezené skupiny archeí se zatím označují jako ARMAN-1, ARMAN-2 a ARMAN-3 a řadí se do kmene Euryarchaeota. Jsou přítomné v kyselých důlních vodách s pH pod 1,5. Jejich abundance v rámci mikrobiální komunity však nepřesahuje 5-25%. 
+Velikost jejich buněk (asi 200 nm) je na hranici možností pro život. Buňky obsahují jen asi 92 ribozomů, ve srovnání například s 10 000 ribozomy bakterie E. coli.
+V tomto článku byl použit překlad textu z článku Archaeal Richmond Mine Acidophilic Nanoorganisms na anglické Wikipedii.
+Brett J. Baker, Gene W. Tyson, Richard I. Webb, Judith Flanagan, Phil Hugenholtz and Jill F. Banfield (2006) Lineages of acidophilic Archaea revealed by community genomic analysis. Science. 314,1933-1935. Abstract
+Comolli, LR, Baker BJ, Downing, KH, Siegerist CE and Banfield JF (2008) Novel archaea have ultra-small cell size and few ribosomes, yet host multiple virus populations. ISME Journal, in press.

@@ -1,0 +1,19 @@
+Az Euler-féle szám (jele: e) egy matematikai állandó, amit a természetes logaritmus alapjaként használnak. Irracionális és transzcendens. Értéke 30 értékes jegyre megadva:
+e = 2,718 281 828 459 045 235 360 287 471 35…A π és a képzetes egység i mellett az e az egyik legfontosabb állandó a matematikában.
+Az e szám Euler-féle számként is ismert Leonhard Euler matematikus után, de Napier-állandónak is nevezik John Napier skót matematikusnak, a logaritmusfüggvény megalkotójának tiszteletére.
+    {\displaystyle e=\sum _{n=0}^{\infty }{1 \over n!}={1 \over 0!}+{1 \over 1!}+{1 \over 2!}+{1 \over 3!}+{1 \over 4!}+\cdots }
+  ahol n! a faktoriálisa az n természetes számnak.Az e az a pozitív valós szám, amelyre
+Az ex exponenciális függvény az egyetlen függvény (konstanssal való szorzás erejéig), amely önmaga deriváltja, és így önmaga primitív függvénye:
+  , ahol C konstans.Az e irracionális (bizonyítás) és transzcendens szám (bizonyítás). Az első szám volt, amiről bebizonyították, hogy transzcendens (kivéve azokat a számokat, amiket szándékosan transzcendensre konstruáltak). A bizonyítást Charles Hermite 1873-ban végezte el. Sejtések szerint normális szám, azaz számjegyei véletlenszerűen fordulnak elő. Szerepel az Euler-képletben, amely az egyik legfontosabb matematikai azonosság:
+Az e lánctört alakba fejtve egy érdekes mintát tartalmaz (A005131 sorozat az OEIS-ben), ami így írható le:
+    {\displaystyle e^{x}=\sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}=\lim _{n\to \infty }\left(1+{\frac {x}{n}}\right)^{n}}
+John Napier logaritmusról írt művében jelentek meg az első utalások az e számra 1618-ban. A függelék nem adott közelítést magára a számra, de tartalmazott egy táblázatot a természetes logaritmusról. Ezt a táblázatot feltehetően William Oughtred készítette. Az e számot elsőként Jacob Bernoulli használta, amikor ennek a kifejezésnek az értékét kereste:
+  A szám első ismert alkalmazása Gottfried Wilhelm Leibniz és Christiaan Huygens levelezésében jelent meg 1690-ben és 1691-ben, ahol is b-vel jelölték. Elsőként Leonhard Euler használta az e betűt 1727-ben, és az 1736-ban megjelent Mechanicá-ban. Egyes kutatók az ezt követő években a c betűt használták, de végül az e terjedt el.
+Az e betű választásának okai ismeretlenek, de egyes elméletek szerint az exponenciális szó első betűjéből ered. Egy másik elgondolás szerint ez az első magánhangzó az a után, amivel Euler egy másik számot jelölt. Ez az elgondolás nem magyarázza meg, hogy Euler miért használta ezeket a magánhangzókat. Nem valószínű, hogy a saját nevének kezdőbetűjét használta volna, hiszen nagyon szerény volt, és mindig megadta a mások munkáinak a kellő tiszteletet.
+Az e az egyik leghíresebb matematikai konstans, ezért a matematikán kívül is népszerű. Néhány példa:
+2004-ben az IPO (a Google leányvállalata) 2 718 281 828 dolláros növekedést akart.
+Donald Knuth a METAFONT verziószámait úgy állapította meg, hogy azok az e számot közelítsék. Így a verziószámok 2, 2.7, 2.71, 2.718, …
+Szintén a Google tehet egy rejtélyes hirdetőtábláról [1] amely először a Szilícium-völgyben, majd a Massachusetts állambeli Cambridge-ben jelent meg, amely így szólt {az első tízjegyű prímszám, amely az e egymást követő számjegyeiben található}.com. Aki megoldotta a feladatot és meglátogatta a megjelölt weblapot, egy sokkal nehezebb megfejtendő feladatot talált. (Az első tízjegyű prímszám, amely az e számjegyeiben előfordul, a 7427466391, amely meglepő módon csak a 101. számjegynél kezdődik.) [2]
+A neper (Np) mértékegység, ami két szám arányát adja meg, e-alapú logaritmust használ (ellentétben a decibel 10-es alapjával). Felhasználása: nyomás, térerősség, jelszint stb.
+    {\displaystyle A={\frac {1}{2}}\cdot \log _{e}{\frac {P_{2}}{P_{1}}}\ [Np]}
+O'Connor, J.J., and Roberson, E.F.; The MacTutor History of Mathematics archive: "Az e szám"; University of St Andrews Scotland (2001)

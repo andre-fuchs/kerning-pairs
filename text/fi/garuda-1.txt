@@ -1,0 +1,2 @@
+Sen valmisti yhdysvaltalainen Lockheed Martin ja se on ko. yhtiön malli A2100-AX. Satelliitti laukaistiin avaruuteen 12. helmikuuta 2000 ja sen tulisi toimia vuoteen 2013 asti. 
+Sen hyötykuormaan kuuluu vain kaksi L-kaistan transponderia, mutta se kykenee lähettämään 140:lle rajatulle alueelle (spot beam), joten se voi välittää samanaikaisesti 11 000 puhelua. Sen sähköteho on suuri: 14 000 W. Sen sijainti geosynkrooniselle kiertoradalla on 107.63° E. 

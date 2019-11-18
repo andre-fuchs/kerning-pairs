@@ -1,0 +1,3 @@
+Osa, též symetrála, je přímka určující souměrnost množiny bodů nebo tělesa. Množina bodů je osově souměrná podle přímky p, jestliže s každým bodem obsahuje také jeho obraz souměrný podle osy p. Dva body jsou souměné podle dané osy, jestliže jimi určená úsečka je kolmá na osu a její střed leží na ose.
+V rovině to znamená, že dvojice útvarů je souměrná podle osy, když jsou útvary zrcadlově převrácené.
+V trojrozměrném prostoru to znamená, že množina bodů (či těleso) se nemění otáčením kolem osy. Například válec je souměrný podle spojnice středů podstav. O takových tělesech říkáme, že mají rotační symetrii.

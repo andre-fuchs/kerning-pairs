@@ -1,0 +1,2 @@
+Wardriving er handlingen å kjøre med en bærbar PC eller PDA for å finne lokalisere trådløse nettverk. Vanlige programmer for å gjøre dette er NetStumbler og InSSIDer for Windows, Kismet for Linux og KisMac for Mac.
+Wardriving kan også gjøres med GPS, og karter over plasseringen av basestasjoner kan lages av tjenester som WiGLE.

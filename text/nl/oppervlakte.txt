@@ -1,0 +1,7 @@
+Oppervlakte verwijst in het Nederlands zowel naar een verschijningsvorm als naar de afmeting daarvan.
+Het oppervlak is het scheidingsvlak aan bijvoorbeeld de bovenkant tussen een lichaam en zijn omgeving.
+Het oppervlak van bijvoorbeeld een voetbal is bolvormig en is 3-dimensionaal.De oppervlakte is een afmeting, het stelt de grootte van dit scheidingsvlak of een deel ervan voor.In de normale taal worden beide begrippen door elkaar gehaald.
+De SI-eenheid van oppervlakte is de vierkante meter: m². Deze is afgeleid van de SI-eenheid meter. In het dagelijks gebruik kan de vlaktemaat ook in andere eenheden worden uitgedrukt, bijvoorbeeld in are of bunder.
+In het Engels zijn er voor beide begrippen verschillende vertalingen: surface voor de verschijningsvorm en area voor de afmetingen. In het Duits en het Frans wordt datzelfde onderscheid gemaakt.
+De maattheorie levert een exacte en algemene definitie voor het begrip oppervlakte aan de hand van een maat.  Voor vlakke tweedimensionale figuren hanteert men de Lebesgue-maat op 
+  . Voor gekromde oppervlakken bestaat enerzijds het volumebegrip uit de differentiaalmeetkunde, anderzijds de Haar-maat uit de theorie der Lie-groepen.

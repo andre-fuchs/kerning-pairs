@@ -1,0 +1,3 @@
+Tvar je celková vizuální podoba, vzhled, obrys nebo povrch rovinného nebo prostorového útvaru, rozložení a rozvržení jeho hmoty bez ohledu na materiál a další vlastnosti. Označování jednotlivých tvarů je často odvozeno z geometrie. Dvě tělesa mají stejný tvar, jestliže existuje podobné zobrazení, kdy jedno z nich je vzorem a druhé obrazem.
+Pojem geometrický útvar je společný název pro množiny bodů studované v geometrii, např. přímka, rovina, mnohoúhelník, kružnice, koule.
+Zobecněním pojmu tvar se zabývá matematická věda topologie, vnímáním tvarů tvarová psychologie.

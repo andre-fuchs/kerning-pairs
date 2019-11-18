@@ -1,0 +1,25 @@
+Ekonomika (hospodářství) je shrnutí hospodaření určitého subjektu, například státu, organizace nebo jednotlivce. Věda, která zkoumá finanční chování subjektů, jež se ekonomicky projevují, se nazývá ekonomie.
+hospodaření: ekonomické činnosti, jako je plánování, organizace, výroba, prodej či investování
+hospodárnost: využití dostupných prostředků ekonomickými subjekty tak, aby bylo dosaženo minimálních nákladů a zároveň maximálního možného ziskuV ekonomice lze rozpoznat děje jako výrobu, přerozdělování, směnu a spotřebu statků a služeb.
+V ekonomickém životě společnosti mají zásadní význam následující ekonomické subjekty:
+domácnosti: sestávající z jednotlivých členů, kteří mají vlastní ekonomické potřeby, hledají proto cesty k získání statků a služeb (např. směnou), mezi subjekty jsou domácnosti zpravidla nejpočetnější
+firmy (podniky): výrobní, prodejní subjekty či subjekty poskytující služby, jsou ekonomicky činné za účelem zisku
+stát (vláda, samospráva): sestávající ze všech orgánů státní moci, tyto definují pravidla, v rámci kterých budou ekonomické procesy probíhat, stát sám o sobě má též, podobně jako firmy, své vlastní potřeby, kterým vyhovuje vynakládáním dalších prostředků, mezi úkoly státu v ekonomice náleží zejména zvyšování efektivnosti, spravedlivosti a stability ekonomického systému
+zahraniční subjekty: domácnosti, firmy a vlády mimo národní ekonomiku, vstupující do ní zvenčí, platí pro ně ve většině případů zvláštní režim vztahů, musí být zajištěno ošetření jejich postavení v rozdílných právních systémech
+neziskové subjekty: spolky, nadace a strany s ekonomicky obdobným postavením, jako domácnosti s větším důrazem na autonomní přerozdělování; jejich cílem je bezprostřední dosahování konkrétních potřeb bez organizování výroby a směny.
+zóny, sektory a čtverce jsou pro velikost pojmenovaného subjektu a prostředí i objektu a systému (4 kategorie) součástí souvislostí podle velikosti zónování (druhy: 12×3, 9×4, 6×6, aj. dělení kruhu času). Tento vynález je starý , ale neznámo používaný řídce a směřuje k uspořádání činností do struktury světa (kontinentu , států, území, regionu, revíru, obce, rodiny, osob), aj. 36 kategorií) a tedy částí dle Komenského.
+Každá ekonomika musí pro zajištění svého fungování splnit několik základních úkolů, které lze shrnout do tří otázek:
+jak vyrábět: stanovení vyrábějícího subjektu, způsobu výroby, určení zdrojů a nástrojů výroby
+pro koho vyrábět: pravidla, podle kterých dojde k rozdělení produktů mezi spotřebiteleVzhledem k tomu, jakým způsobem výše uvedené otázky řeší různé ekonomické systémy, je možné rozeznávat následující významné skupiny:
+zvykový systém: v současnosti existuje už jen u primitivních kultur, ekonomické chování je zde určováno tradicí (zvyklostmi), uplatňován naturální (směnný) obchod
+centrálně plánovaný systém: v minulosti aplikován v ekonomikách východního bloku a v průběhu 20. století v některých dalších zemích, ekonomika je řízena na základě centrálního plánu, další činnosti jsou určovány plánováním na nižších úrovních, charakteristický je státní (a podnikový) monopol
+tržní systém: v 19. století částečně uplatňovaný vyspělými (především) evropskými zeměmi, charakteristická je zcela (liberální) neregulovaná ekonomika, na kterou má vliv pouze trh, bez jakýchkoliv zásahů ze strany státu
+smíšený systém: vychází z tržního systému, zapracovává však možnost zásahů státu, a to v případech, kdy standardní tržní mechanismy selžou, dnes smíšený systém zcela převládá ve vyspělých ekonomikách.
+V ekonomice je možné rozeznat[zdroj?] pět sektorů, lišících se druhem ekonomické činnosti:
+primární sektor (prvovýroba) - získání produktů a surovin z přírody a obdělávání půdy (těžba, lesnictví, zemědělství, rybářství)
+sekundární sektor (druhovýroba) - zpracování produktů z prvovýroby a výroba hmotných statků - průmysl
+terciární sektor (služby) - doprava, zdravotnictví, obchod, školství, kultura a komunální služby
+kvartérní sektor (znalostní sektor) - věda, výzkum, vysokoškolské vzdělávání, poradenství
+kvintérní sektor (nejpokročilejší technologie) - high-tech (informační technologie, biotechnologie, nanotechnologie)
+SOUKUPOVÁ VĚRA, STRACHOTOVÁ DANA. Podniková ekonomika, verze 2.0 [online]. VŠCHT v Praze, 2006. Dostupné online. 
+Ekonomika v souvislostech. Jan Vávra, Miloslav Lapka, Eva Cudlínová (eds.). Praha : Univerzita Karlova v Praze, Filozofická fakulta, 2015. 170 s. ISBN 978-80-7308-571-1 (print), ISBN 978-80-7308-635-0 (online: pdf).

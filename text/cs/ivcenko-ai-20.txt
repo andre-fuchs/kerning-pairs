@@ -1,0 +1,2 @@
+Ivčenko AI-20 je turbovrtulový motor, který poháněl např. letouny Il-18, An-10, An-12 a An-32. Konstrukce motoru AI-20 vznikla pod vedením A. G. Ivčenka. Vyráběl se od roku 1955.
+Motor byl navrhován pro provoz při okolních teplotách v rozmezí od -60 do +55 °C. Vyráběl se ve verzích AI-20 o výkonu 4000 k (2942 kW), AI-20K o výkonu 4180 k (3075 kW) a AI-20M, s výkonem 4250 k (3125 kW).  První dva stupně turbíny mají chlazené lopatky. Motor pohání stavitelnou levotočivou vrtuli přes planetový reduktor.

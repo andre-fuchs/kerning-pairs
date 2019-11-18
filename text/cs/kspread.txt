@@ -1,0 +1,1 @@
+KSpread je open source tabulkový procesor z kancelářského balíku KOffice, které je integrováno s grafickým prostředím KDE.

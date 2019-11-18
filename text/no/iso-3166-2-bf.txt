@@ -1,0 +1,3 @@
+ISO 3166-2:BF er Burkina Fasos del av ISO 3166-2, som er del av ISO 3166-standarden utgitt av International Orginazation for Standardization (ISO), som definerer koder for navna til hovedinndelingene (f.eks. delstater eller fylker) av alle land med kode i ISO 3166-1. 
+45 provinserHver kode består av to deler, atskilt av en bindestrek. Første del er BF, ISO 3166-1 alfa-2-koden for Burkina Faso. Andre del er enten:
+Følgende endringer i Burkina Fasos oppslag har blitt kunngjort i nyhetsbrev fra ISO 3166/MA siden ISO 3166-2 først ble utgitt i 1998:

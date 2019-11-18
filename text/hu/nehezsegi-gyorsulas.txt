@@ -1,0 +1,14 @@
+A nehézségi gyorsulás a g, az a gyorsulás, mellyel a Föld nehézségi erőterében szabadon eső tárgy a levegő ellenállását figyelmen kívül hagyva mozogna. 
+A nehézségi gyorsulás azonos a térerősség nagyságával is, ebben az értelemben a mértékegysége N/kg. Ennek a gömbszimmetrikus erőtérnek a középpontja a Föld tömegközéppontja.
+Ha a Földet egy homogén tömegeloszlású gömbnek tekintjük, akkor a Newton-féle gravitációs törvény szerint az R sugarú, M tömegű Föld és a felszínén lévő m tömegű test között fellépő vonzóerőre felírható:
+  ahol a zárójelben lévő kifejezés a gravitációs gyorsulás, ebben a közelítésben maga a g, vagyis:
+  A számszerű értéket megkaphatjuk, ha a fenti képletbe behelyettesítjük az egyes mennyiségeket:
+    {\displaystyle g=G{\frac {M}{R^{2}}}=(6,67384\times 10^{-11}){\frac {5,9736\times 10^{24}}{(6,37101\times 10^{6})^{2}}}=9,822{\frac {m}{s^{2}}}}
+A Föld forgása miatt fellépő centrifugális erő hatása miatt azonban a nehézségi erő a gravitációs erő és a centrifugális erő eredője, ezért a nehézségi gyorsulás függ a földrajzi szélességtől és a tengerszint feletti magasságtól. A földrajzi hosszúságtól a nehézségi gyorsulás nem függ.
+A nehézségi gyorsulás értéke a Földön a 45° földrajzi szélességen, tengerszinten
+gn= 9,80665 m/s²Ezt az értéket a 45. szélességi körhöz igen közel eső helyen, a zürichi Műszaki Főiskolán mérték ki, és 1901-ben a harmadik Általános Súly- és Mértékügyi Konferencián nemzetközi alapértékként elfogadták mint fizikai állandót (konvencionális valódi értéket), akkoriban még cgs mértékegységű formában.
+A nehézségi gyorsulás értéke a Földön szélesség és magasság függvényében a Nemzetközi Gravitációs Formula 1967 szerint számítható:
+    {\displaystyle g_{\phi }=9,780318\left(1+0,0053024\sin ^{2}\phi -0,0000058\sin ^{2}2\phi \right)-3,086\times 10^{-6}h}
+A nehézségi gyorsulás egy adott helyen mért értéke több okból is eltér a fenti számolásokkal kapható értéktől. Például, mert a Föld – épp a centrifugális erő hatása miatt - nem tökéletesen gömb alakú, és mert a tömegeloszlása nem homogén. 
+A Föld felszíne alatt lévő ásványi kincsek jelentősen befolyásolják a helyi sűrűségviszonyokat, így a g értékét. A térerősség mérésével ezek a területek jól feltérképezhetők. A nehézségi gyorsulás pontos mérésére Eötvös Loránd speciális torziós ingát fejlesztett ki.
+A nehézségi gyorsulást a gyorsulás nem hivatalos, de nagyon szemléletes egységének is használják. Ha azt olvassuk, hogy egy pilótát 3g gyorsulás (= 3 x 9,81 = 29,43 m/s²) ért, akkor tudjuk, hogy minden testrészének súlya az eredetinek háromszorosára nőtt.

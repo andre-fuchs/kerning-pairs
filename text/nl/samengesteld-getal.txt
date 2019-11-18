@@ -1,0 +1,3 @@
+Een samengesteld getal is een positief en geheel getal, dat minstens twee keer door een priemgetal is te delen.
+Ieder natuurlijk getal groter dan 1 is ofwel een priemgetal of een samengesteld getal. Het natuurlijke getal 14 is bijvoorbeeld een samengesteld getal omdat het door de getallen 2 en 7 is te delen. Wanneer een getal, dat het kwadraat is van een ander getal, in priemfactoren wordt ontbonden, is het aantal priemgetallen dat daarvoor nodig is een even getal.
+Voor samengestelde getallen n>4 geldt de gelijkheid: (n-1)! ≡ 0 mod n. Vergelijk dit met de stelling van Wilson.Anders: (n-1)! voor samengestelde getallen n>4 is door n te delen.

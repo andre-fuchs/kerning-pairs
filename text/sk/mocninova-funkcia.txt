@@ -1,0 +1,36 @@
+Mocninová funkcia je typ elementárnej matematickej funkcie jednej premennej, v ktorej vystupuje len jeden člen s mocninou. Mocninová funkcia je špeciálnym prípadom polynomickej funkcie. Najznámejším príkladom mocninovej funkcie je špeciálny prípad kvadratickej funkcie. Podľa stupňa mocniny premennej sa rozlišujú mocninové funkcie rôznych druhov. V začiatkoch budovania matematickej teórie o funkciách boli predmetom skúmania práve mocninové funkcie, z ktorých bolo odvodené množstvo vlastností a vzťahov. K mocninovým funkciám sa neskôr pridružili aj ďalšie funkcie a spolu vytvorili skupinu pod názvom elementárne funkcie. Pomocou základných mocninových funkcií je možné modelovať veľmi veľa jednoduchých situácii a javov. Svoje opodstatnenie našli v samotnej matematike, vo fyzike, ekonómii a v mnohých ďalších oblastiach.
+Krajne asymetrickým rozdelením/rozložením sa zaoberal napr. český geograf, demograf a štatistik Jaromír Korčák v dielach Deux types fondamentaux de distribution statistique (1938) lebo 
+    {\displaystyle f:\mathbb {R} \mapsto \mathbb {R} ;x\mapsto f(x)=n\cdot x^{a}}
+   ide o mocninovú funkciu s kladným celočíselným mocniteľom alebo s prirodzeným mocniteľom.
+Mocninové funkcie sa rozlišujú podľa stupňa mocniny premennej, ktorú obsahujú. Lineárna a konštantná funkcia sú špeciálnym prípadom mocninovej funkcie. Obvykle sa ale v definícii týchto funkcii nepíšu mocniny. V nasledovnej tabuľke sú mocninové funkcie s ich názvami nanajvýš tretieho stupňa:
+Vlastnosti mocninových funkcií sú závislé od stupňa mocniny. Grafy tohto typu funkcií sú rôzne, čo závisí opäť od veľkosti a druhu mocniteľa. Napríklad parabola alebo hyperbola. Mocninové funkcie s kladným mocniteľom majú tú spoločnú vlastnosť, že všetky prechádzajú začiatkom sústavy súradníc. Ostatné vlastnosti sa navzájom líšia. Keďže vlastnosti závisia od mocniteľa, je lepšie obmedziť sa na funkcie s celočíselným párnym resp. nepárnym mocniteľom.
+    {\displaystyle f:\mathbb {R} \mapsto \mathbb {R} ;x\mapsto f(x)=n\cdot x^{2a}}
+    {\displaystyle f:\mathbb {R} \mapsto \mathbb {R} ;x\mapsto f(x)=n\cdot x^{2a+1}}
+    {\displaystyle f:\mathbb {R} \mapsto \mathbb {R} ;x\mapsto f(x)=n\cdot x^{-2a}}
+    {\displaystyle f:\mathbb {R} \mapsto \mathbb {R} ;x\mapsto f(x)=n\cdot x^{-2a-1}}
+Súčtom viacerých mocninových funkcií vznikne polynóm určitého stupňa. Spravidla sa označuje symbolom 
+   označuje premennú. Stupeň polynómu sa určí podľa najvyššej mocniny, ktorú obsahuje. Polynómy tvoria nadradenú skupinu funkcií k mocninovým, nazvanú polynomické funkcie.
+    {\displaystyle a_{0}+a_{1}x+a_{2}x^{2}+\cdots +a_{n}x^{n}+\cdots =\sum _{n=0}^{\infty }a_{n}x^{n}}
+    {\displaystyle a_{0}+a_{1}(x-x_{0})+a_{2}(x-x_{0})^{2}+\cdots +a_{n}(x-x_{0})^{n}+\cdots =\sum _{n=0}^{\infty }a_{n}(x-x_{0})^{n}}
+  . K určeniu polomeru konvergencie sa používajú klasické metódy pre konvergenciu nekonečných číselných radov. Ak je polomer konvergencie nenulový, potom je súčet mocninového radu spojitá funkcia v 
+    {\displaystyle \sum _{n=0}^{\infty }\int _{a}^{b}a_{n}x^{n}=\int _{a}^{b}a_{0}\,\mathrm {d} x+\int _{a}^{b}a_{1}x\,\mathrm {d} x+...}
+    {\displaystyle (n\cdot x^{a})':=\lim _{h\to 0}{\frac {n(x+h)^{a}-nx^{a}}{h}}}
+    {\displaystyle {\begin{array}{rl}(nx^{a})':=&\lim \limits _{h\to 0}{\dfrac {n(x+h)^{a}-n\cdot x^{a}}{h}}=\lim \limits _{h\to 0}{\dfrac {n\cdot \sum \limits _{i=0}^{a}{a \choose i}x^{a-i}\cdot h^{i}-n\cdot x^{a}}{h}}=\lim \limits _{h\to 0}{\dfrac {n\cdot (x^{a}+a\cdot x^{a-1}h+\cdots +h^{a})-n\cdot x^{a}}{h}}=\\=&\lim \limits _{h\to 0}{\dfrac {h\cdot (n\cdot a\cdot x^{a-1}+\cdots +n\cdot h^{a-1})}{h}}=n\cdot a\cdot x^{a-1}\end{array}}}
+    {\displaystyle F(x)=n\int x^{a}\,{\textrm {d}}x={\frac {n\cdot x^{a+1}}{a+1}}+C;\;a\neq -1}
+Tento integrál sa nazýva aj tabuľkový integrál. Primitívna funkcia k mocninovej funkcii je od nej o jeden stupeň vyššia (hodnota mocniny sa zvýši o jeden stupeň). To znamená, že primitívna funkcia k lineárnej je kvadratická, ku kvadratickej je kubická atď. Špeciálnym prípadom je nepriama úmernosť, kde primitívna funkcia vyzerá nasledovne
+    {\displaystyle F(x)=n\int {\frac {1}{x}}\,{\textrm {d}}x={\ln |x|}^{n}+C;\;x\neq 0}
+    {\displaystyle n\int _{U}x^{a}\,{\textrm {d}}x={\frac {n(\beta ^{a+1}-\alpha ^{a+1})}{a+1}}}
+    {\displaystyle n\int _{U}{\frac {1}{x}}\,{\textrm {d}}x=\ln \left|{\frac {\beta }{\alpha }}\right|^{n}}
+Pomocou mocninových funkcií je možné modelovať rôzne jednoduché situácie z bežného života. Príkladom môžu byť ekonomické aplikácie, fyzikálne aplikácie i aplikácie priamo v matematike.
+Jednoduchou, ale významnou fyzikálnou aplikáciou mocninových funkcií je opis dráhy telesa pri voľnom páde. Tento jav popisuje funkcia
+   je gravitačná konštanta. Podľa druhu mocninovej funkcie ide o kvadratickú funkciu, kde ako premenná vystupuje čas - 
+V matematike by sa dala aplikácia hľadať pri výpočtoch obsahov a objemov. Aby vznikla funkcia jednej premennej, je možné opísať závislosť obsahu štvorca od veľkosti jeho strany. Tento jav sa dá popísať funkciou obsahu štvorca
+   a vyjadruje dĺžku strany štvorca. Iný príklad by bol na výpočet obsahu rovnoramenného pravouhlého trojuholníka. Táto funkcia je
+Aplikácia kubickej funkcie by sa dala hľadať pri výpočte objemu kocky a táto funkcia potom vyzerá nasledovne
+Podobne ako pri trojuholníku, z funkcie objemu kocky by sa dala vyjadriť funkcia objemu ihlana. Zovšeobecnením predchádzajúceho je možné zistiť, že všetky matematické vzorce pre výpočet nejakej kvantity, sú závislé od hodnôt, ktoré do vzťahu dosadzujeme. Všetky tieto predpisy sú teda funkcie a hodnoty, ktoré sa do nich dosadzujú, sú chápané ako premenné.
+Aplikácie nepriamej úmernosti možno hľadať v praktických situáciách. Nepriama úmernosť vyjadruje taký vzťah dvoch veličín, že nárast jednej spôsobí pokles druhej a opačne. Všeobecne sa problémové úlohy nepriamej úmernosti riešia cez tzv. trojčlenku. Jednoduchý príklad objasňuje základný princíp nepriamej úmernosti: Auto prejde pri rýchlosti 100 km/h určitú vzdialenosť za 30 minút. Ako dlho by autu trvala rovnaká cesta, ale pri rýchlosti 120 km/h? Zostavením trojčlenky
+    {\displaystyle \uparrow {\begin{array}{ccc}100&\cdots &30\\120&\cdots &y\\120:100&=&30:y\end{array}}\downarrow }
+Výpočtom danej rovnice dostávame výsledok, že auto prejde pri rýchlosti 120 km/h danú vzdialenosť za 25 minút. Na trojčlenku sa dá pozrieť aj všeobecnejšie. Ak by sme potrebovali opakovať ten istý algoritmus s inou rýchlosťou, potom treba zopakovať celý výpočet trojčlenky. Jednoduchým odvodením všeobecného vzťahu je možné vyhnúť sa počítaniu cez trojčlenku a chápať zápis ako funkciu:
+    {\displaystyle \uparrow {\begin{array}{ccc}100&\cdots &30\\x&\cdots &f(x)\\x:100&=&30:f(x)\end{array}}\downarrow }
+  , ktorá vyjadruje počítaný čas. Z matematického hľadiska ide o mocninovú funkciu - nepriamu úmernosť a číslo 3000 nazýva koeficient nepriamej úmernosti 
+Korčákov zákon čiže zaujímavá história Prírodnej duality štatistického rozloženia (po česky)

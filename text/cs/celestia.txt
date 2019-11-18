@@ -1,0 +1,4 @@
+Celestia je open source, 3D astronomický program pro operační systém Windows, Mac OS X, a Linux vytvořený Chrisem Laurelem. Program je uvolněn pod GNU GPL licencí. Poslední verze 1.6.1 je z 10. června 2011. Program je založený na katalogu Hipparcos.
+Program umožňuje zobrazení objektů ve velikosti od umělých satelitů po celé galaxie ve třech rozměrech pomocí OpenGL. Na rozdíl od většiny softwarových planetárií je uživateli umožněno volně cestovat vesmírem. Více než 10 GB dodatečného obsahu, který je výsledkem práce malé komunity, doplňuje základní program.
+Program Celestia však není součástí programu Celestia 2000, vlastního programu ESA.
+Podobným softwarem jsou open source programy Stellarium a KStars, a dále proprietární Orbiter, XEphem (oba jsou freeware) či komerční Starry Night.

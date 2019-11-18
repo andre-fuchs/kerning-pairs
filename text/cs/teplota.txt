@@ -1,0 +1,232 @@
+V obecném významu je to vlastnost předmětů a okolí, kterou je člověk schopen vnímat a přiřadit jí pocity studeného, teplého či horkého.
+V přírodních a technických vědách a jejich aplikacích je to skalární intenzivní veličina, která je vzhledem ke svému pravděpodobnostnímu charakteru vhodná k popisu stavu ustálených makroskopických systémů.
+Teplota je základní fyzikální veličinou soustavy SI s plným názvem termodynamická teplota, jednotkou kelvin (K) a vedlejší jednotkou stupeň Celsia (°C).
+Nejnižší možnou teplotou je teplota absolutní nuly (0 K; −273,15 °C), ke které se lze libovolně přiblížit, avšak nelze jí dosáhnout.
+Teplota je ústředním pojmem termiky a klíčovou veličinou pro popis tepelných jevů. Projevuje se i v mnoha dalších fyzikálních jevech a závisí na ní mnohé makroskopické mechanické, elektromagnetické i chemické vlastnosti látek. Její význam zasahuje do širokého spektra oborů lidské činnosti, je důležitým pojmem např. v průmyslových aplikacích, lékařství a ekologii.
+Teplota jako pojem byla primárně zavedena pro podnět či příčinu určitého druhu smyslových pocitů a podráždění. Zde má původ i její mezinárodní název (latinské slovo „temperatura“ lze přeložit jako „příjemný pocit“). Již potřeba popsat lépe tyto pocity vedla ke snahám kvantifikaci a měření teploty.
+Postupně bylo pozorováno, že zvýšení teploty působí změnu rozměrů, tvaru nebo skupenství předmětů. Tyto jevy tak umožňovaly pomocí viditelných projevů indikovat velikost teploty a začít ji měřit.
+Nejprve se začalo používat měření teploty pomocí roztažnosti kapalin. První doklady jsou ze starověku. Hérón Alexandrijský popsal vzduchový termoskop, který je nejstarším doloženým přístrojem k indikaci tepelných stavů. Základ pro moderní a přesné měření později poskytly závislosti elektrických jevů na teplotě.
+  , přičemž velké symboly se zpravidla používají pro termodynamickou (absolutní) teplotu
+Jednotkou v soustavě SI (a zároveň základní jednotkou této soustavy) je 1 kelvin, značka K.1 kelvin je definován fixací číselné hodnoty Boltzmannovy konstanty, aby byla rovna 1,380 649×10−23, je-li vyjádřena jednotkou J K−1, rovnou kg m2 s−2 K−1, kde kilogram, metr a sekunda jsou definovány pomocí  
+   (frekvence hyperjemného přechodu z neporušené základní hladiny v atomu césia 133Cs) a dvou fundamentálních konstant 
+1 kelvin je 273,16. část termodynamické teploty trojného bodu vody.Dalšími používanými jednotkami jsou:stupeň Celsia; 1 °C = 1 K
+Oba výše uvedené vztahy platí pro jednotky teplotního rozdílu; pro vyjádření teploty se však tyto jednotky používají v odlišných stupnicích s jinak nastaveným nulovým bodem.Z jednotek přirozených soustav lze uvést Planckovu teplotu:
+   označují postupně rychlost světla ve vakuu, redukovanou Planckovu, Newtonovu gravitační a Boltzmannovu konstantu.
+Z pozorování vyplynulo, že vnímání teplejšího a chladnějšího koresponduje se změnou objemu látek: se zvýšeným pocitem teplého se objem zvyšoval. Roztažnost se stala měřítkem teploty, průběh se však lišil podle použité teploměrné látky. Bylo však objeveno, že průběhy jsou (při konstantním tlaku) vzájemně lineární pro zředěné plyny – ty se tak staly nejvhodnější teploměrnou látkou pro přesná měření. Lineární závislost umožnila přesnou kvantifikaci teploty 
+   jako fyzikální veličiny a vznik dobře definovaných teplotních stupnic, jako je Celsiova teplotní stupnice.
+Navíc bylo zjištěno, že pro všechny dostatečně zředěné plyny je vždy směrnice závislosti objemu na Celsiově teplotě (při konstantním tlaku) stejná a rovná 1/(273,15 °C). Také rozpínavost plynů vykazovala stejné chování včetně číselné hodnoty směrnice závislosti tlaku plynu na teplotě (při konstantním objemu). To umožnilo s velkými výhodami zavést tzv. absolutní teplotu 
+   se stupnicí počínající hodnotou 0 K (odpovídající nulovému objemu a tlaku zředěného plynu).
+Absolutní teplota je přímo úměrná objemu ideálního plynu při konstantním tlaku, resp. tlaku ideálního plynu při konstantním objemu.
+Kinetická teorie umožnila vyjádření tlaku pomocí pohybových vlastností jednotlivých částic (molekul) plynu. Ve spojení se stavovou rovnicí dala absolutní teplotě konkrétní interpretaci – absolutní teplotě je úměrná střední kinetická energie neuspořádaného posuvného pohybu molekuly jednoatomového (ideálního) plynu:
+    {\displaystyle \left\langle {\frac {1}{2}}mv^{2}\right\rangle ={\frac {3}{2}}kT}
+   je Boltzmannova konstanta (úhlovou závorkou značena střední hodnota),resp. vnitřní energie jednoatomového (ideálního) plynu:
+   je molární plynová konstanta.Absolutní teplota je mírou vnitřní energie ideálního plynu.
+Teplota nemusí být mírou velikosti pouze neuspořádaného posuvného pohybu molekul (u víceatomových molekul se projevují rotace, a také vibrace se stupni volnosti odpovídajícími potenciální energii); při nízkých teplotách, kdy začnou převládat kvantové vlastnosti, navíc ekvipartiční teorém přestává platit: některé stupně volnosti kvůli diskrétnosti energetických stavů tzv. „zamrzají“.Energie dodávaná soustavě se může předávat nejen pohybu částic, ale i přeměnit ve změnu jejich potenciální energie, a to nejen vůči vnějšímu působení, ale i vnitřním silám, nebo v nárůst („rozmrzání“) stupňů volnosti (v obou případech přírůstek vnitřní energie bez zvýšení teploty; druhý případ známý u skupenských přeměn); závislosti vnitřní energie a teploty se tak mohou velmi lišit: Zatímco pro jednoatomový plyn platí závislost vnitřní energie na první mocnině teploty, u energie elektronového plynu je to závislost na druhé mocnině teploty a u pevných látek při nízké teplotě a u fotonového plynu dokonce čtvrté mocnině teploty.Kinetická teorie také dokázala kvantifikovat lokální fluktuace v ustáleném systému a stanovit kvadratickou neurčitost teploty; pro jednoatomový plyn např. platí:
+    {\displaystyle {\frac {\sqrt {\left\langle T^{2}\right\rangle -\left\langle T\right\rangle ^{2}}}{T}}={\sqrt {\frac {3}{2}}}{\frac {1}{\sqrt {N}}}}
+  , tedy relativní kvadratická neurčitost klesá s druhou odmocninou počtu částic 
+  .Teplota je pojem statistický, který je vhodný k popisu chování systémů s velkým počtem částic, pro který jsou lokální fluktuace zanedbatelné.
+   (a dokazuje, že ji lze pro ustálené termodynamické systémy zavést) jako libovolnou monotónní funkci vnitřní energie homogenního ustáleného systému, která nezávisí na jiném vnitřním parametru systému a která má stejnou hodnotu ve všech jeho subsystémech (dle konvence se vybírá jako rostoucí funkce vnitřní energie). Zpřesňuje pojem měření teploty jako uvedení soustavy "měřený systém – teploměr", ve které je umožněna tepelná výměna, do tzv. termodynamické rovnováhy, pro kterou postuluje (tzv. nultý termodynamický zákon, zvaný dříve nultá hlavní věta termodynamická):
+Dva systémy v tepelném kontaktu mají v případě termodynamické rovnováhy stejnou teplotu. Rovnost teploty je přitom vlastností tranzitivní: rovná-li se teplota prvního a druhého systému v tepelném kontaktu a rovná-li se teplota druhého a třetího systému v tepelném kontaktu, rovná se i teplota prvního a třetího systému; tyto systémy budou při uvedení do tepelného kontaktu také ve stavu termodynamické rovnováhy.Teplota je tedy stavová veličina charakterizující termodynamickou rovnováhu systému. Jinak řečeno, ze znalosti teplot dvou systémů můžeme usoudit, zda při uvedení do tepelného kontaktu budou ve stavu termodynamické rovnováhy, nebo zda a jakým směrem bude probíhat přenos tepla.
+Z druhého zákona termodynamiky vyplývá (tzv. Carnotova věta), že účinnost všech vratných Carnotových cyklů pracujících mezi danými dvěma teplotami 
+   je shodná (tedy nezávislá na jiných vnitřních či vnějších parametrech ani pracovní látce) – lze ji zapsat jako funkci pouze těchto teplot 
+    {\displaystyle \eta ={\frac {|Q_{2}|-|Q_{1}|}{|Q_{2}|}}={\frac {F(\vartheta _{2})-F(\vartheta _{1})}{F(\vartheta _{2})}}}
+   nazval Kelvin termodynamickou teplotou a namísto závislosti na obecné teplotě 
+    {\displaystyle {\frac {|Q_{1}|}{|Q_{2}|}}={\frac {\Theta _{1}}{\Theta _{2}}}}
+  .Poměr dvou termodynamických teplot je rovný poměru tepla odevzdaného chladiči a tepla přijatého od ohřívače při vratném Carnotově cyklu pracujícím mezi těmito dvěma teplotami. Pomocí dvou bodů lze takto definovat celou termodynamickou teplotní stupnici. Jeden z bodů – nulová termodynamická teplota – je dán implicitně jako teplota chladiče, při které má vratný Carnotův cyklus účinnost 100%; tato teplota je však podle třetího zákona termodynamiky nedosažitelná.
+    {\displaystyle {\frac {|Q_{1}|}{\Theta _{1}}}={\frac {|Q_{2}|}{\Theta _{2}}}}
+    {\displaystyle \oint \limits _{\circlearrowleft }{\frac {\mathrm {d} Q}{\Theta }}=0}
+   , platný pro libovolný vratný děj.Z něho vyplývá alternativní formulace definice termodynamické teploty:
+Termodynamická teplota je převrácenou hodnotou integračního faktoru, kterým je třeba vynásobit diferenciální přírůstek tepla přijatého termodynamickým systémem při vratném ději, abychom dostali totální diferenciál (diferenciál entropie, exaktní diferenciální rovnice).
+V případě, že se nekoná práce (zobecněné souřadnice, tedy vnější extenzivní parametry 
+   jednotlivých druhů částic systému, lze vztah přepsat jako definiční vztah teploty pomocí entropie a vnitřní energie:
+    {\displaystyle {\frac {1}{\Theta }}=\left({\frac {\partial S}{\partial U}}\right)_{\left\{x_{i}^{\mathrm {ext} }\right\}{,}\,\left\{N_{i}\right\}}}
+V termodynamice lze odvodit obecný vztah pro závislost termodynamické teploty na obecné teplotě:
+    {\displaystyle \ln {\frac {\Theta }{\Theta _{0}}}=\int \limits _{\vartheta _{0}}^{\vartheta }{\frac {\left({\frac {\partial p}{\partial \vartheta }}\right)_{V}}{p+\left({\frac {\partial U}{\partial V}}\right)_{\vartheta }}}\mathrm {d} \vartheta }
+   je vnitřní energie.Dosazením vlastností ideálního plynu vyjádřených pomocí absolutní teploty 
+   (nebo spočtením účinnosti vratného Carnotova cyklu pro ideální plyn) se lze přesvědčit, že při koherentní volbě jednotky termodynamická teplota a absolutní teplota jsou si rovny (níže je proto používáno jen označení 
+Je třeba poznamenat, že všechny definice požadují systém ve stavu termodynamické rovnováhy (u termodynamické teploty skryto ve „vratnosti“ děje), jinak nemá pojem teploty dobrý smysl.
+   kterými lze realizovat daný makroskopický stav systému; tento počet je u běžných systémů prudce rostoucí funkcí energie. Z pravděpodobnostního rozboru myšleného rozdělení izolovaného systému v rovnovážném stavu s vnitřní energií 
+    {\displaystyle \ln \Omega (U_{1}+U_{2})=\ln \Omega (U_{1})+\ln \Omega (U_{2})+{\text{konst.}}\,}
+    {\displaystyle {\frac {\partial \ln \Omega (U_{1})}{\partial U_{1}}}={\frac {\partial \ln \Omega (U_{2})}{\partial U_{2}}}\,}
+  .Boltzmann (r. 1896) zkoumal možné analogie statistických veličin s termodynamickými a z jediné možné korespondence odvodil:
+    {\displaystyle T={\frac {1}{k}}\left({\frac {\partial \ln {\Omega }}{\partial U}}\right)^{-1}}
+   je počet možných rozlišitelných mikrostavů (tzv. termodynamická pravděpodobnost) a 
+   je Boltzmannova konstanta.Boltzmann také odvodil pro izolovaný systém (a proto vhodný pro soubory neinteragujících částic) tzv. Boltzmannův distribuční zákon pro relativní zastoupení mikrostavů s energií 
+    {\displaystyle {\frac {N_{i}}{N}}={\frac {g_{i}\mathrm {e} ^{-{\frac {E_{i}}{kT}}}}{\sum _{i}g_{i}\mathrm {e} ^{-{\frac {E_{i}}{kT}}}}}}
+  , ve kterém absolutní teplota vystupuje ve jmenovateli exponentu.Statistická definice teploty nebo Boltzmannův zákon umožňují rozšíření pojmu teploty i na systémy s konečným počtem energetických stavů příslušným danému stupni volnosti (tedy na kvantové systémy s diskrétním spektrem energie a konečnou dolní a horní mezí). V případě, že budou mít omezenu interakci s jinými stupni volnosti, se kterými je spojena „klasická“ teplota, lze jim připsat vlastní teplotu pomocí statistické definice nebo pomocí obsazenosti jeho energetických hladin. Příkladem může být např. teplota spinů částic ve vnějším magnetickém poli. Přitom tato teplota může dosáhnout nekonečné hodnoty (obsazenost hladin vyšší energie bude stejná jako hladin nižší energie) nebo ji dokonce přesáhnout do oblasti záporných absolutních teplot v případě systémů s inverzním obsazením hladin (díky podmínce omezené interakce s jinými stupni volnosti nedojde k rychlé relaxaci do rovnovážného stavu s kladnou teplotou).
+Posloupnost stoupajících absolutních teplot tedy začíná „těsně nad“ nedosažitelnou absolutní nulou T = 0 K a (u některých systémů) může stoupat až k nekonečné hodnotě T = +
+Existence záporných teplot je ale považována za mylnou, když je („ze školních učebnic“) nekonzistentně použita Boltzmannova definice (pro normální distribuce), místo Gibbsovy definice teploty a entropie. Užití záporných teplot (Boltzmannovy definice) by vedlo k účinnosti větší než 100% (Carnotova věta).
+Relativisticky vhodné zavedení teploty a její transformační vztahy představují doposud pro fyziku nevyřešený problém, a to již v rámci speciální teorie relativity. Planck ve shodě s Einsteinem odvodil v r. 1908 transformační vztah:
+   a index 0 značí klidovou souřadnou soustavu.Ott odvodil v r. 1963 právě „opačný“ transformační vztah
+  .Navíc zjistil, že neexistuje univerzální spojitá transformace teploty, která by byla konzistentní pro záření černého tělesa.
+Rozpory vznikají proto, že jsou použita odlišná zavedení teploty, která se v nerelativistickém případě rovnají, a různé kovariantní tvary termodynamických zákonů. Koncept pojmu teplota se v relativistickém případě rozpadá na několik měřitelných veličin. Experimentální průkaz je za současných schopností nemožný.[zdroj?]Pro změnu teploty zrychlením se uvažuje hypoteticky tzv. Unruhův jev.
+Teplota se měří tak, že se uvede do vzájemného styku těleso, jehož teplotu chceme měřit, a srovnávací těleso. Po vytvoření tepelné rovnováhy je teplota tělesa rovna teplotě srovnávacího tělesa, které se obvykle nazývá teploměrem.
+K určování teploty se využívá závislosti vhodně zvolených fyzikálních veličin na teplotě. To umožňuje převést měření teploty na měření jiné fyzikální veličiny.
+Mezi teplotně závislé veličiny patří např. délkové rozměry a objem pevných a kapalných těles, tlak plynů (teplotní roztažnost a rozpínavost), elektrický odpor vodičů nebo polovodičů, elektromotorické napětí termoelektrických článků.
+Pro měření vysokých teplot se využívá detekce radiometrických vlastností elektromagnetických vln, které tělesa o vysoké teplotě vyzařují. Teploměry založené na tomto principu se zpravidla nazývají pyrometry.
+Vysoké teploty např. v keramických pecích lze přibližně měřit pomocí Segerových jehlánků.
+nelze aplikovat princip „kolikrát se vejde jednotka do měřené veličiny“. Základní jednotka kelvin je přesto pomocí tohoto principu definována. Pro přesné měření teploty v metrologii a pro tvorbu teploměrných etalonů proto definice nestačí; je nutné mít praktickou realizaci celého rozsahu měřených teplot.
+Stanovovat teplotu přímo podle definice termodynamické teploty je nepřesné. Neexistuje ani žádný vhodný fyzikální jev, kterého by bylo možno využít pro celý rozsah měřených teplot. Řešením je proto mezinárodní teplotní stupnice, založená na přesně definovaných a prakticky realizovatelných referenčních bodech teploty a na přesné metodice použité pro interpolaci mezi těmito referenčními body. Referenčními body mohou být teploty tuhnutí, teploty kondenzace (zjišťované ve výparnících - hypsometrech) nebo teploty trojných bodů vhodných látek. Interpolace se provádí pomocí etalonových odporových teploměrů a termoelektrických článků, u vysokých teplot pomocí spektrální hustoty zářivé energie nebo spektrální hustoty zářivosti černého tělesa.
+V současnosti se používá Mezinárodní teplotní stupnice z roku 1990 (ITS-90), která je schopna obsáhnout rozsah teplot již od 0,65 K.
+Následující tabulka uvádí definice historických i současných teplotních stupnic pomocí referenčních bodů teploty:
+*    Původně definována pomocí Celsiovy stupnice (teplotní rozdíl 1 K ≡ 1 °C), poté naopak Celsiova teplota podle teploty termodynamické. Namísto dřívější horní referenční hodnoty 273,16 K = 0,01 °C pro teplotu trojného bodu vody je od 20. 5. 2019 definován 1 kelvin tak, aby Boltzmannova konstanta k měla danou hodnotu 1,380 649×10−23 J⋅K−1. 
+**   Referenční body byly v původním návrhu obrácené (podobně jako u Delisleovy stupnice); dnes definována pomocí Kelvinovy stupnice (teplotní rozdíl 1 °C ≡ 1 K)
+***  Teplota chladicí směsi ledu, vody a salmiaku nebo mořské soli (−17,8 °C) a „tělesná teplota zdravého člověka“ (36,5 °C)
+Pomocí následující tabulky lze jednoduše přepočítat číselnou hodnotu teploty z jedné do druhé
+Následující tabulka uvádí hodnoty vybraných zajímavých teplotních bodů v různých stupnicích.
+Z veličinových vztahů, ve kterých vystupuje důležitým způsobem teplota, lze jako důležité vybrat:
+    {\displaystyle \mathrm {d} U=\delta W+\delta Q+\sum _{i}\mu _{i}\mathrm {d} N_{i}\,}
+    {\displaystyle \oint \limits _{\circlearrowleft }{\frac {\delta Q}{T}}\geqq 0}
+    {\displaystyle \mathrm {d} U=T\mathrm {d} S-p\mathrm {d} V+\sum _{i}\mu _{i}\mathrm {d} N_{i}\,}
+    {\displaystyle \mathrm {d} H=T\mathrm {d} S+V\mathrm {d} p+\sum _{i}\mu _{i}\mathrm {d} N_{i}\,}
+    {\displaystyle \mathrm {d} F=-S\mathrm {d} T-p\mathrm {d} V+\sum _{i}\mu _{i}\mathrm {d} N_{i}\,}
+    {\displaystyle \mathrm {d} G=-S\mathrm {d} T+V\mathrm {d} p+\sum _{i}\mu _{i}\mathrm {d} N_{i}\,}
+  a z nich plynoucí vztahy včetně tzv. Maxwellových relacía některé další, např.: 
+    {\displaystyle p+\left({\frac {\partial U}{\partial V}}\right)_{T}=T\left({\frac {\partial p}{\partial T}}\right)_{V}}
+U systémů, ve kterých se nekoná práce a nemění se složení systému (např. neprobíhá fázový přechod), je změna teploty mírou tepla předávaného při tepelném kontaktu. Teplota je proto využívána v kalorimetrii. Vychází se přitom ze znalosti chování tepelných kapacit při změnách teploty.
+Z ekvipartičního teorému lze pro různé druhy molekul (jednoatomové, dvouatomové, víceatomové lineární a víceatomové nelineární) odvodit v kinetické teorii hodnoty molární tepelné kapacity plynů, které jsou nezávislé na teplotě. Ve skutečnosti u víceatomových molekul dochází k jejich růstu, neboť při určité teplotě začínají "rozmrzat" nové stupně volnosti, které díky kvantové mechanice mají diskrétní úrovně energie až od určité minimální hladiny: nejprve se projeví dosažení minimálních úrovní rotačních stavů a přibližně o řád výše i stavů vibračních. Pro teploty vybuzení těchto stavů platí:
+   jsou moment setrvačnosti molekuly, resp. úhlová frekvence jejích vlastních kmitů (spočtená pro klasický oscilátor).Kvantové jevy se projeví také u teplotní závislosti molární tepelné kapacity pevných látek. Kvantovou teorii tepelných kapacit pevných látek zpracoval Debye. Pro nízké teploty odvodil závislost molární tepelné kapacity na třetí mocnině teploty. Teprve pro teploty 
+   začíná platit Dulongův-Petitův zákon rovnosti a konstantnosti molárních tepelných kapacit krystalických látek; 
+   je tzv. Debyeova teplota, rovná podílu energie fononu elastických vln v krystalu a Boltzmannovy konstanty.
+Teplota ustáleného stavu se řídí stavovou rovnicí reálného plynu (příkladem dobrého přiblížení je van der Waalsova rovnice), ze které lze odvodit změnu teploty při různých rovnovážných (kvazistatických) tepelných dějích. Rozdíly vzhledem k ideálnímu plynu se projevují nejvíce u nízkých tlaků a souvisejí se skupenskou přeměnou do kondenzované fáze.
+Rozdíly oproti ideálnímu plynu se projevují i v dalších jevech. Nejznámější je Joulův-Thomsonův jev, při kterém se při adiabatické expanzi do vakua přes pórovitou přepážku mění teplota plynu. Pro každý plyn (a daný tlak) existuje tzv. inverzní teplota; expanduje-li přes přepážku plyn s teplotou nižší než inverzní, dále se ochlazuje, naopak plyn s vyšší teplotou se zahřívá.
+   neznačí teplotu, ale čas.Teplota ovlivňuje koeficienty difuze a (dynamické) viskozity.
+Pro difuzi v plynech lze odvodit, že koeficient difuze roste přímo úměrně druhé odmocnině teploty.
+U difuze v kapalinách roste koeficient difuze s teplotou rychleji než u plynů.Dynamická viskozita plynů roste přímo úměrně druhé odmocnině teploty
+   lze interpretovat jako aktivační energii k přesunutí molekuly kapaliny do sousední rovnovážné polohy.U Brownova pohybu v kapalinách o viskozitě 
+Teplota je hybným potenciálem pro vedení tepla (obdoba elektrického potenciálu pro vedení el. proudu).
+Při vedení tepla v ustáleném teplotním poli je tepelný výkon šířený přes elementární plochu 
+   přímo úměrný záporně vzatému gradientu teploty, koeficientem úměrnosti je tepelná vodivost 
+    {\displaystyle {\frac {\mathrm {d} Q}{\mathrm {d} t}}=-\lambda \mathrm {d} S\nabla T\,}
+Fázový přechod je skokovou změnou nějaké vlastnosti (nebo její derivace) při změně nějaké proměnné, v tomto případě teploty.
+Pro běžný jednosložkový systém se jedná o změny jeho skupenství, případně změny jeho krystalické struktury.
+    {\displaystyle {\frac {\mathrm {d} p}{\mathrm {d} T}}={\frac {H}{T\Delta V}}\,}
+   změna objemu.Ve fázovém diagramu existují dva druhy důležitých teplotních bodů, specifických pro danou látku. Jedná se o
+kritickou teplotu, při níž se stírá rozdíl mezi kapalným a plynným skupenství a vzniká tím superfluidní fáze
+teplotu trojného bodu (jednoho nebo více), tedy stavu, ve kterém jsou v rovnováze současně tři fáze.
+U vícesložkových systémů má teplota vliv na mísení resp. oddělování složek, rozpustnost (spolu s koncentracemi těchto složek). Naopak platí, že koncentrace příměsí ovlivňuje charakteristické teploty - způsobuje např. změnu teploty skupenských přeměn. Pro dostatečně zředěné roztoky je tento vliv popsán Raoultovým zákonem. Podle něj se rozpuštěnou příměsí sníží teplota tuhnutí roztoku oproti teplotě tuhnutí čistého rozpouštědla úměrně molární koncentraci příměsi. Koeficient úměrnosti se nazývá kryoskopická konstanta. Naopak teplota varu roztoku se zvýší úměrně molární koncentraci příměsi, koeficient úměrnosti se nazývá ebulioskopická konstanta.
+Zejména kryoskopický jev má široké uplatnění v analýze látek, ale i v technické praxi - známou aplikací je zimní solení vozovek.
+Teplota ze své podstaty má vliv pouze na vlastnosti spojitých prostředí, uplatňuje se tedy v mechanice kontinua (a s ní úzce spojené akustice).
+Zvýšení teploty vede ke zvýšení poměru kinetické energie částic látky a potenciální energie jejich vazeb. To může vyvolat:
+překonání potenciálových bariér pro chemické reakce.Makroskopicky se tyto změny projeví jako:
+zvýšení objemu pevných látek a kapalin, jakož i zvýšení objemu nebo tlaku plynů (teplotní roztažnost a rozpínavost)Pokud změny teplot budou probíhat v dostatečném odstupu od teplot fázových přechodů, lze změny objemu přiblížit u kondenzovaných látek lineární závislostí
+   (indexem 0 značeny referenční hodnoty).(Přesně a v celém rozsahu teplot platí pouze pro ideální plyn.)změny reologických vlastností, tedy
+změny tuhostí (snížení u kovů, zvýšení např. u kaučuku) resp. jejich převrácených hodnot - modulů pružnosti, případně změny jejich anizotropie spojené s krystalovou strukturou
+změny mezí úměrnosti, pružnosti, kluzu a pevnosti u deformace v tahu a obdobné změny mezních bodů u ostatních druhů deformace
+změny skupenství.Změny objemů a tuhostí pevných látek a kapalin se také projeví ve změně rychlosti šíření mechanických vln, včetně vln zvukových.
+  -krát. Přitom u pevných látek odpovídá podélným vlnám modul pružnosti v tahu, příčným vlnám modul pružnosti ve smyku a podélným vlnám v kapalinách modul objemové pružnosti.
+Polarizační a magnetizační vlastnosti dielektrik a magnetik lze vhodně popsat pomocí elektrické a magnetické susceptibility 
+Pro velké množství dielektrik lze teplotní závislost elektrické susceptibility zapsat vztahem
+    {\displaystyle \chi ^{(\mathrm {e} )}=\chi _{\mathrm {k} }^{(\mathrm {e} )}+{\frac {C}{T}}}
+   jsou látkově specifické konstanty.Pro většinu diamagnetik a některá paramagnetika je magnetická susceptibilita nezávislá na teplotě, pro některá paramagnetika se řídí Curieovým zákonem 
+  , tedy teplotní závislost magnetické susceptibility lze zapsat souhrnným vztahem
+    {\displaystyle \chi ^{(\mathrm {m} )}=\chi _{\mathrm {k} }^{(\mathrm {m} )}+{\frac {C}{T}}}
+   jsou látkově specifické konstanty.U elektricky a magneticky uspořádaných látek (feroelektrika, feromagnetika a antiferomagnetika) se při teplotě nižší než jistá mezní teplota (feroelektrická Curieova teplota, feromagnetická Curieova teplota resp. Néelova teplota pro antiferomagnetika) vyskytuje spontánní uspořádání a s ním spojená spontánní polarizace resp. magnetizace. Ta s teplotou klesá a nad mezní teplotou tyto látky přecházejí na paraelektrické a paramagnetické. Závislost na teplotě lze s výjimkou okolí mezní teploty popsat obdobnými vztahy pro elektrickou i magnetickou susceptibilitu. Pro teploty pod mezní teplotou je to tzv. Blochův zákon:
+    {\displaystyle {\frac {\chi _{\mathrm {max} }^{(\mathrm {e} )}-\chi ^{(\mathrm {e} )}(T)}{\chi _{\mathrm {max} }^{(\mathrm {e} )}}}=C''T^{\frac {3}{2}}}
+    {\displaystyle {\frac {\chi _{\mathrm {max} }^{(\mathrm {m} )}-\chi ^{(\mathrm {m} )}(T)}{\chi _{\mathrm {max} }^{(\mathrm {m} )}}}=C''T^{\frac {3}{2}}}
+    {\displaystyle \chi _{\mathrm {max} }^{(\mathrm {e} )},\chi _{\mathrm {max} }^{(\mathrm {m} )}\,}
+   susceptibility při maximálním uspořádání (při nulové absolutní teplotě);pro teploty nad mezní teplotou vztah (pro feromagnetika nazývaný Curieův-Weissův zákon):
+   je parametr s rozměrem teploty, pro feroelektrika a feromagnetika blízký Curieově teplotě.V případě plazmatu se sice jedná o vodivé prostředí, nicméně je zde možné zavést dielektrickou konstantu jako obdobu permitivity pro šíření elektromagnetických vln (tzv. Langmuirovské kmity). Pro obdobu elektrické susceptibility pak platí pro vlny s úhlovou frekvencí 
+    {\displaystyle \chi ^{(\mathrm {e} )}(\omega ,\kappa )=-{\frac {e^{2}n_{0}}{\varepsilon _{0}m_{\mathrm {e} }\omega ^{2}}}\left(1+{\frac {3kT\kappa ^{2}}{m_{\mathrm {e} }\omega ^{2}}}\right)}
+   jsou elementární náboj, permitivita vakua, početní hustota a hmotnost elektronů.
+Rezistivita vodičů je dána příspěvky třech mechanismů s různou závislostí na teplotě:
+   způsobený rozptylem elektronů na příměsových atomech je teplotně přibližně nezávislý a závisí na koncentraci příměsových atomů,
+   způsobený vzájemným působením elektronů na sebe.Poslední dva příspěvky jsou závislé na teplotě.
+   (rovná podílu energie fononu elastických vln v krystalu a Boltzmannovy konstanty, zpravidla několik setin kelvinu) je významný příspěvek od kmitů mřížky:
+    {\displaystyle \rho _{\mathrm {ph} }\propto {\frac {m_{\mathrm {e} }}{\hbar e^{2}}}\,{\frac {kT}{n_{0}}}\,}
+   jsou Planckova konstanta, elementární náboj, hmotnost a početní hustota elektronů.Pro teploty podstatně nižší než Debyeova teplota 
+   je nejvýznamnější příspěvek od rozptylu na příměsích, protože zbylé dva příspěvky s teplotou klesají:
+    {\displaystyle \rho _{\mathrm {ph} }={\frac {m_{\mathrm {e} }}{\hbar e^{2}}}\,{\frac {kT}{n_{0}}}\,\left({\frac {T}{T_{\mathrm {D} }}}\right)^{4}\,}
+    {\displaystyle \rho _{\mathrm {el} }={\frac {m_{\mathrm {e} }}{\hbar e^{2}}}\,{\frac {(kT^{2})}{n_{0}E_{\mathrm {F} }}}\,\xi \left({\frac {T}{T_{\mathrm {D} }}}\right)\,}
+    {\displaystyle E_{\mathrm {F} },\xi \left({\frac {T}{T_{\mathrm {D} }}}\right)\,}
+   jsou Fermiho energie elektronového plynu, resp. opravný faktor řádu nejvýše 1, zpravidla však mnohem menší.Pro rezistivitu polovodičů (při uvažování mechanismu vlastní vodivosti) lze z pásového modelu odvodit následující teplotní závislost:
+   jsou energetická šířka zakázaného pásu resp. materiálová konstanta slabě závislá na teplotě.Závislost rezistivity 
+   elektronového plazmatu je dána Drudeho vztahem s explicitně vyjádřenou střední volnou dráhou elektronu:
+    {\displaystyle \rho \propto {\frac {e^{4}{\sqrt {m_{\mathrm {e} }}}}{(kT)^{\frac {3}{2}}\varepsilon _{0}}}}
+   jsou permitivita vakua, elementární náboj a hmotnost elektronu.Pro vedení proudu ve vakuu (např. ve vakuových elektronkách) je nutné uvolnění nosičů elektrického náboje. Jedním z mechanismů je termická emise elektronů (termoelektronová emise). Ve statistické fyzice lze odvodit závislosti počtu elektronů ve vodivostním pásu schopných opustit katodu na teplotě. Z ní plyne pro hustotu nasyceného emisního proudu (tj. elektrický proud z jednotkové plochy) následující teplotní závislost (tzv. Richardsonův-Dushmanův vztah):
+    {\displaystyle j_{s}={\frac {em_{\mathrm {e} }}{2\pi ^{2}\hbar ^{3}}}\,T^{2}\,\mathrm {e} ^{\frac {W}{kT}}}
+   jsou výstupní práce elektronů z daného materiálu, resp. Planckova konstanta, elementární náboj a hmotnost elektronu.
+Z termoelektrických a termomagnetických jevů mnohé přímo závisejí na rozdílu teplot nebo naopak teplotní rozdíl vytvářejí:
+Seebeckův termoelektrický jev (1821): Mezi koncovými průřezy kovového vodiče, je-li mezi nimi udržován teplotní rozdíl 
+   je tzv. termoelektrický koeficient.Thomsonův termoelektrický jev (1851): Prochází-li homogenním vodičem, ve kterém není ve všech místech stejná teplota, elektrický proud hustoty 
+    {\displaystyle {\frac {\partial ^{2}Q}{\partial t\,\partial V}}=-\xi \,\mathbf {i} \cdot \nabla T\,}
+   je tzv. Thomsonův koeficient.Ettingshausenův termomagnetický jev (1886): Při vedení proudu v magnetickém poli kolmo ke směru vektoru magnetické indukce vzniká vedle příčného elektrického napětí (Hallův jev) také příčný teplotní rozdíl úměrný proudové hustotě a magnetické indukci.
+Righiův-Leducův termomagnetický jev (1887): Při vedení tepla v magnetickém poli kolmo ke směru vektoru magnetické indukce vzniká vedle příčného elektrického napětí (Nernstův jev) také příčný teplotní rozdíl úměrný proudové hustotě a hustotě tepelného toku.
+Spinový Seebeckův termomagnetický jev (2008): Mezi koncovými průřezy zmagnetované kovové tyče, je-li mezi nimi udržován teplotní rozdíl 
+  , vzniká (uspořádáním elektronových spinů) přídavný magnetický indukční tok (přesněji magnetomotorické napětí).
+Tepelným pohybem nosičů náboje vznikají v elektrických obvodech fluktuace elektrického proudu. Střední hodnota těchto odchylek je sice nulová, střední hodnota jejich kvadrátů již nulová není a závisí na teplotě. Fluktuace se zpravidla popisují tzv. korelační funkcí, tedy středovanou hodnotou součinu proudu ve dvou časových okamžicích 
+  . Ta je přímo úměrná teplotě a exponenciálně klesá s časem mezi těmito okamžiky. Vzhledem k časové proměnlivosti fluktuací (které se tak chovají jako přídavné střídavé proudy) je vhodné provést spektrální rozklad těchto fluktuací:
+    {\displaystyle \left\langle I(t_{0}=0)\cdot I(t)\right\rangle =\int \limits _{-\infty }^{\infty }\langle I^{2}\rangle _{\omega }\mathrm {e} ^{\mathrm {i} \omega t}\,}
+    {\displaystyle \langle I^{2}\rangle _{\omega }={\frac {kT}{\pi }}\,{\frac {R}{{\big |}Z{\big |}^{2}}}\,}
+   je (komplexní) impedance obvodu.Z tohoto vztahu vyplývá, že pro obvody s malým odporem mohou být fluktuace významné pro rezonanční frekvence, pro které je reaktance nulová.
+S teplotou se mění některé optické vlastnosti prostředí. Tyto změny jsou zpravidla dány změnami elektromagnetických vlastností prostředí. Např. optická hustota prostředí je zejména závislá na výše uvedených změnách elektrické permitivity (závislost na magnetické permeabilitě je vzhledem k ní u běžných optických prostředí zanedbatelná). Konkrétní tvar závislosti na teplotě vyplývá z toho, že fázová rychlost světla v prostředí je úměrná převrácené hodnotě druhé odmocniny elektrické permitivity.
+Teorie vysvětluje čárové optické spektrum pomocí kvantových energetických přechodů v elektronových obalech atomů. Přirozená šířka spektrální čáry (tj. rozdíl úhlových frekvencí, pro které je spektrální hustota zářivého výkonu poloviční oproti maximální spektrální hustotě zářivého výkonu dané spektrální čáry o úhlové frekvenci 
+  ) je rovna součiniteli tlumení emitujícího oscilátoru. Reálná emise záření je však ovlivněna neuspořádaným tepelným pohybem částic látky. Protože úhlové frekvence se mění při pohybu zdroje vlnění vůči pozorovateli podle tzv. Dopplerova jevu, celkové záření látky pocházející od mnoha částic bude mít danou spektrální čáru rozšířenu (tzv. Dopplerovské rozšíření spektrální čáry) o:
+    {\displaystyle \Delta \omega =2\omega _{0}{\sqrt {2\ln 2{\frac {kT}{m_{\mathrm {a} }c^{2}}}}}\,}
+   je hmotnost emitujícího atomu.Zahřátá hmotná prostředí se projevují sáláním, tedy vydáváním elektromagnetického záření, aniž by bylo iniciováno jiným dopadajícím zářením nebo vnějšími změnami elektromagnetického pole. V uzavřené dutině uvnitř zahřátého prostředí se ustálí termodynamická rovnováha zahřátých stěn a tohoto záření, tak zvaného záření absolutně černého tělesa. Kirchhoff v r. 1862 odvodil, že spektrální hustota zářivého výkonu závisí jen na teplotě a nezávisí na vlastnostech a druhu látkového prostředí (tzv. 1. Kirchhoffův zákon tepelného vyzařování).
+Planck v r. 1900 podal teoretické zdůvodnění tvaru spektra tohoto záření, včetně jeho závislosti na teplotě. To je dáno např. pro spektrální hustotu energie následujícím vztahem (Planckův vyzařovací zákon):
+    {\displaystyle w(\omega )\,\mathrm {d} \omega ={\frac {\hbar }{\pi ^{2}c^{2}}}{\frac {\omega ^{3}}{e^{\frac {\hbar \omega }{kT}}-1}}\ \mathrm {d} \omega ,}
+   označují rychlost světla ve vakuu, Planckovu, resp. Boltzmannovu konstantu, 
+   je celková objemová hustota tepelného záření v dutině.Na základě vyzařovacího zákona je možno rozšířit pojem teploty i na objekty, které nesplňují podmínky klasického termodynamického rovnovážného systému:
+    {\displaystyle \sigma ={\frac {\pi ^{2}}{60}}{\frac {k^{4}}{c^{2}\hbar ^{3}}}\,}
+   = 5,670 400(40)·10−8.Tzv. efektivní teplota povrchu tělesa je definována jako teplota, pro kterou výkon vyzařovaný jednotkovou plochou absolutně černého tělesa je roven výkonu vyzařovanému jednotkovou plochou povrchu daného tělesa. Toto rozšíření pojmu teplota lze aplikovat i v případech, kdy pro daný povrch lokálně neplatí podmínka rovnovážného stavu, ale povrch je vzhledem ke své velikosti dostatečně daleko. Efektivní teplota je proto používána např. v astronomii pro charakteristiku povrchů hvězd.
+Pro maximum Planckovy rozdělovací funkce přepsané do tvaru rozdělení podle vlnové délky lze odvodit tzv. Wienův posunovací zákon:
+    {\displaystyle \lambda _{\mathrm {max} }T={\frac {2\pi }{\mathrm {x} }}{\frac {\hbar c}{k}}\,}
+    {\displaystyle \mathrm {x} \mathrm {e} ^{\mathrm {x} }=5(\mathrm {e} ^{\mathrm {x} }-1)\,}
+   = 4,965 114 231…Hmotnému prostředí, které vydává záření podobného spektra jako absolutně černé těleso, můžeme přiřadit radiační teplotu odpovídající maximu tohoto spektra podle Wienova posunovacího zákona. Toto rozšíření pojmu teplota lze aplikovat i v případech, kdy hustota částic prostředí je tak nízká, že nejsou splněny podmínky vnitřní rovnováhy systému.
+Analogie se zářením absolutně černého tělesa se využívá i ve fotometrii a optice barev, tj. pro viditelnou část spektra. Zde se pro popis vlastností světelných zářičů definuje:
+   je absolutní teplota černého tělesa, při které by byl jeho jas (při stejné vlnové délce) stejný, jako spektrální jas daného zářiče. Platí:
+    {\displaystyle {\frac {1}{\Theta }}-{\frac {1}{\Theta _{\mathrm {black} }}}={\frac {\lambda k}{hc}}\,\ln \alpha _{\lambda }\,}
+   daného zářiče je absolutní teplota černého tělesa, při které by vysílalo světlo, které vzbuzuje v normálním lidském oku stejný barevný vjem jako daný zářič.
+Některé fyzikální jevy, které mají kvantovou podstatu, se projevují pouze v oblasti teplot blízkých absolutní nule. Přitom se může jednat o jevy s makroskopickými projevy.
+Důležitou skupinou těchto jevů jsou jevy založené na kolektivním kvantovém chování, při kterém se částice látky (fermiony) sdružují do tzv. Cooperových párů - bosonů. Projeví se to odlišnými makroskopickými charakteristikami látek. Mezi tyto jevy patří
+Niels Bohr zavedl pro některé jaderné reakce model složeného jádra (vzniklého záchytem částice jádrem a „rozpuštěním“ její energie mezi nukleony jádra), ze kterého přebytek energie odnášejí „vypařující se“ částice. Jejich spektrum lze dobře popsat Maxwellovým spektrem pro tok molekul z povrchu teplé kapaliny (toto platí pro neutrony; pro protony je narušeno elektromagnetickým působením), proto se nazývá „evaporačním spektrem“. K jeho stanovení je potřeba znát jadernou teplotu (teplotu atomového jádra), kterou lze zavést pomocí statistické definice teploty.
+Termodynamická koncepce popisu jaderných spekter excitovaných jader byla poprvé použita v r. 1936-37 současně několika fyziky. V prvním přiblížení z ní vyplývá, že střední energie na 1 excitovaný nukleon je přímo úměrná jaderné teplotě, resp. energie excitovaného jádra je úměrná kvadrátu jaderné teploty; pro jádra s nukleonovým číslem A≈100 je pro excitační energii 
+Zejména pro radioaktivní přeměny s emisí záření γ (ale i pro některé jaderné reakce) je teplota prostředí důležitá pro Dopplerovské rozšíření rezonanční křivky spektra záření γ (resp. účinného průřezu jaderné reakce), podobně jako v optice. Díky němu je možná částečná rezonanční absorpce tohoto záření, neboť u některých jader vyrovnává energetický rozdíl mezi energií pro emisi a absorpci (způsobený zpětným rázem jádra plynoucím ze zákona zachování hybnosti).
+Teplota je důležitou veličinou také v aplikované jaderné fyzice, např. ve fyzice jaderných reaktorů. Důsledkem štěpných jaderných reakcí je vývin tepla, který ovlivňuje teplotní pole v jaderném reaktoru. Teplota naopak ovlivňuje hustoty materiálů v aktivní zóně reaktoru i jejich jaderné vlastnosti. Neutronová bilance štěpné reakce je tedy závislá na teplotě. Přitom je důležitá teplota paliva (ovlivňuje hustotu a tedy pravděpodobnost interakcí a způsobuje Dopplerovské rozšíření rezonančních úrovní) i teplota moderátoru (ovlivňuje zpomalovací a difuzní charakteristiky prostředí a tím i spektrum neutronů potřebných pro štěpení, na němž závisí účinný průřez štěpné reakce).
+  , charakterizující násobící schopnost štěpné jaderné reakce. Její vliv na teplotě se popisuje pomocí teplotních koeficientů reaktivity, definovaných jako derivace reaktivity podle teploty dané složky aktivní zóny reaktoru 
+  . Pro dynamickou stabilitu reaktoru je zjednodušeně řečeno nutné navrhnout aktivní zónu se zápornými teplotními koeficienty reaktivity, neboť pak nemůže dojít k nekontrolovatelnému nárůstu štěpných reakcí (zpětná vazba zajistí při rostoucí teplotě od vyvíjeného tepla zpomalení reakce).
+Astrofyzika běžně pracuje s teplotou vesmírných těles, mezihvězdného plynu, plazmatu, reliktního záření apod. Na teplotě např. závisí spektrální třídy hvězd.
+Zajímavá je závislost teploty na energii, která z tohoto vztahu vyplývá - teplota je nepřímo úměrná energii, tedy teplota černé díry s rostoucí energií klesá.
+Tento přehled uvádí pouze výběr oblastí, jevů a aplikací, pro které je teplota jako pojem nebo jako veličina důležitá, se stručnou charakteristikou, jak se v nich teplota uplatňuje. Slouží spíše jako rozcestník ke speciálním stránkám.
+Zvyšování teploty se projeví uvolňováním částic v kondenzovaných látkách a zvyšováním jejich kinetické energie ve vzájemných srážkách. Z tohoto důvodu se zvyšuje schopnost překonání potenciálových bariér chemických vazeb - teplota má rozhodující vliv na chemické reakce a jejich rychlost. Jako příklad lze uvést následující závislosti:
+    {\displaystyle {\frac {\mathrm {d} \ln K}{\mathrm {d} T^{-1}}}={\frac {-\Delta H}{R}}\,}
+Rozdíly teploty mezi zemským jádrem a povrchem planety jsou příčinou vzniku konvexních proudů v plasticko-tekutých vrstvách Země, v jejichž důsledku pak dochází k pohybům i v zemské kůře a souvisejícím geologickým jevům.
+Procesy v zemské atmosféře jsou z velké části založeny na teplotních rozdílech (způsobené zahříváním povrchu planety Sluncem) a jimi vyvolanému proudění vzduchu. To je dále příčinou mořských proudů.
+Protože podnebí a počasí jsou důležitými faktory pro mnoho oblastí lidské činnosti, věnuje se pozornost jejich pravidelnému sledování. Na něm je založena i předpověď počasí.
+Teplota vzduchu se měří ve výšce 2 metry nad zemským povrchem ve stínu (v meteorologické budce). Zpravidla se udává
+průměrná denní teplota (jedná se o aritmetický průměr z teploty vzduchu naměřené v 7 hodin, teploty ve 14 hodin a dvojnásobně započtené teploty v 21 hodin, vše místního středního slunečního času).Vedle toho se také sleduje
+přízemní minimální teplota (minimum naměřené za noc ve výšce 5 cm nad zemským povrchem),
+rosný bod (teplota, při které dosáhl vzduch maximální možné vlhkosti) v různých výškách.K základním klimatickým údajům patří roční průběhy maximální a minimální teploty vzduchu a maximální a minimální povrchové teploty moří a oceánů.
+Biochemické procesy mohou probíhat pouze v omezeném rozsahu teplot. Teplota je proto důležitým faktorem podmínek pro život. Proto je také teplota zemského povrchu, přízemní atmosféry a vodstva klíčovým faktorem pro ekologii.
+Proto se u některých živých organismů vyvinula schopnost vnímání vnitřní nebo okolní teploty (termorecepce) a u některých živočichů schopnost aktivní regulace vnitřní teploty (teplokrevnost).
+Teplota je indikátorem fyziologických procesů v organismech, proto se její měření používá v lékařské diagnostice.
+Vysoká či nízká teplota nebo změny teploty se používají také v různých léčebných, rehabilitačních a kosmetických terapiích (studené zábaly, pocení, laserové vypalování, zahřívání infralampou, teplotní léčba prostaty, vymrazování bradavic, studené a teplé koupele, horký parafín apod.) nebo přípravě lékařských nástrojů (sterilizace).
+Petrochemie, chemický průmysl - teplota je důležitým faktorem v chemických technologiích, jako jsou např.:
+Keramický průmysl, průmysl stavebních hmot - využití vysoké teploty k vypalování stavebních hmot (cement, cihly, tvárnice) a keramiky
+Dopravní a energetický průmysl - na teplotním rozdílu závisí účinnost tepelných strojů (parní a spalovací motory, parní a plynové turbíny, tepelná čerpadla)
+Požární ochrana - teplota jedním ze základních faktorů podmínek hoření; zavádí se nové pojmy:
+Zvýšenou teplotou se mění u mnohých potravinářských surovin mechanické, chemické, aromatické a chuťové vlastnosti. Proto se v potravinářství a gastronomii používá při přípravě a úpravě jídel mnoho postupů založených na zahřívání (vaření, pečení, smažení, pražení).
+Vysokou teplotou nebo naopak chladem či zmrazením lze zvýšit dobu uchovatelnosti potravin (konzervace potravin).
+Teplota je důležitá pro rozvinutí řádných chuťových a aromatických vjemů při konzumaci jídel a nápojů. Proto se v gastronomii dbá na správnou teplotu jídel a nápojů při jejich podávání.
+Z faktorů závislých na teplotě se v uměleckých oborech významně projevuje závislost rychlosti šíření zvukových vln a teplotní roztažnost látek. Proto se se změnou teploty mění i rezonanční vlastnosti (frekvence - tedy objektivní výška tónu) strun, ozvučných desek i vzduchových sloupců - změna teploty si vyžádá nové naladění většiny hudebních nástrojů.
+Fyzikální veličiny zpravidla nebývají inspirací pro umělce; týká se to i teploty. Přesto se v názvech uměleckých děl najde několik výjimek (v závorce naznačeno "zdůvodnění" názvu):
+Celsius 41.11: The Temperature at Which the Brain... Begins to Die (2004) (tělesná teplota, při které mozek začíná umírat)Divadelní hry:
+Vedle stejnojmenných adaptací Bradburyho románu lze v této oblasti uvést i postřeh Járy Cimrmana z úvodního semináře hry Posel z Liptákova: "Teplé pivo je lepší než studená Němka".
+Svobod E., Bakule R.: Molekulová fyzika, 1. vydání, Academia, Praha 1992, ISBN 80-200-0025-9
+Feynman R. P., Leighton R. B., Sands M.: Feynmanovy přednášky z fyziky - díl 1/3, 1. české vydání, Fragment, 2000, ISBN 80-7200-405-0.
+Feynman, R. P., Leighton, R. B., Sands, M.: Feynmanovy přednášky z fyziky - díl 2/3, 1. české vydání, Fragment, 2006, ISBN 80-7200-420-4.
+OBDRŽÁLEK, Jan. Úvod do termodynamiky, statistické fyziky a molekulové fyziky. Praha: MatFyzPress, Nakladatelství MFF UK, 2015. ISBN 978-80-7378-287-0. (čes.) 
+OBDRŽÁLEK, Jan. Řešené příklady z termodynamiky, statistické fyziky a molekulové fyziky. Praha: MatFyzPress, Nakladatelství MFF UK, 2015. ISBN 978-80-7378-300-6. (čes.) 
+Reif F.: Statistical Physics. Berkley Physics Course, Vol. 5. McGraw-Hill, New York 1967
+Maršák Z.: Termodynamika a statistická fyzika, 1. vydání. Ediční středisko ČVUT, Praha 1981
+Bazarov I. P., Gevorkjan E. V., Nikolajev P. N.: Termodinamika i statističeskaja fizika. *Izdatelstvo Moskovskogo universiteta, Moskva 1986
+Landau L. D., Lifšic E. M.: Teoretičeskaja fizika, tom V. - Statističeskaja fizika. Nauka, Moskva 1976
+Odehnal M.: Supravodivost a jiné kvantové jevy, 1. vydání. Academia, Praha 1992, ISBN 80-200-0225-1
+Sedlák B., Štoll I.: Elektřina a magnetismus, 1. vydání, Academia, Praha 1993, ISBN 80-200-0172-7
+Achiezer A. I., Achiezer I. A.: Elektromagnetizm i elektromagnitnyje volny. Vysšaja škola, Moskva 1985
+Šindelář V., Smrž L., Beťák Z.: Nová soustava jednotek, 3. vydání, SPN, Praha 1981
+ISO 80000-5:2009, Quantities and units - Part 9: Physical chemistry and molecular physics
+ČSN EN ISO 80000-9:2011, Veličiny a jednotky - Část 9: Fyzikální chemie a molekulová fyzika
+Kreidl Marcel: Měření teploty - senzory a měřicí obvody - 1.díl edice senzory neelektrických veličin, BEN - technická literatura, 2005, ISBN 80-7300-145-4
+Lysenko Vladimír: Detektory pro bezdotykové měření teplot - 2.díl edice senzory neelektrických veličin, BEN - technická literatura, 2006, ISBN 80-7300-180-2

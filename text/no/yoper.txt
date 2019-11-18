@@ -1,0 +1,1 @@
+YOPER eller Yoper Linux, en forkortelse for Your Operating System, er en tidligere Linuxdistribusjon fra New Zeeland. Distribusjonen benyttet skrivebordsmiljøene KDE, LXDE og Xfce i tillegg til vindusbehandleren Fluxbox. Distribusjonen hadde 32-biter x86 (i686) som plattform. Den la vekt på å tilby optimaliseringer for å gjøre den til den raskeste plattform.

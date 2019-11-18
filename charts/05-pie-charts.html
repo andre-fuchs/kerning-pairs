@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<script src="datasets/count_comparison.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<style>
+    .canvas {
+        max-width: 100%;
+        /* max-height: 500px;   */
+        margin-bottom: 3em; 
+    }
+    .pie {
+        max-width: 30%;
+    }
+    .pie-large {
+        max-width: 50%;
+    }
+    .piecharts, .bar {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bar .column-left {
+        width: 33%;
+    }
+    .bar .column-right {
+        width: 67%;
+    }
+</style>
+</head>
+<body>
+
+
+<canvas id="canvas9" class="canvas pie pie-large"></canvas>
+
+<div class="piecharts">
+    <canvas id="canvas7" class="canvas pie"></canvas>
+    <canvas id="canvas3" class="canvas pie"></canvas>
+    <canvas id="canvas8" class="canvas pie"></canvas>
+    <canvas id="canvas4" class="canvas pie"></canvas>
+    <canvas id="canvas6" class="canvas pie"></canvas>
+    <canvas id="canvas5" class="canvas pie"></canvas>
+</div>
+
+
+<script>
+
+    /* 
+        To Do:
+        Labels inside large Pie Chart
+        https://github.com/jerairrest/react-chartjs-2/issues/149    
+    */
+
+
+pieColors = {
+	red: 'rgb(255, 99, 132)',
+	orange: 'rgb(255, 159, 64)',
+	yellow: 'rgb(255, 205, 86)',
+	green: 'rgb(75, 192, 192)',
+	blue: 'rgb(54, 162, 235)',
+	purple: 'rgb(153, 102, 255)',
+	grey: 'rgb(127, 129, 133)'
+};
+
+Chart.defaults.global.defaultFontFamily = "'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif";
+Chart.defaults.global.legend.labels.usePointStyle = true;
+Chart.defaults.global.legend.labels.boxWidth = 15;
+Chart.defaults.global.tooltips.backgroundColor = '#000';
+
+var ctx3 = document.getElementById('canvas3').getContext('2d');
+var ctx4 = document.getElementById('canvas4').getContext('2d');
+var ctx5 = document.getElementById('canvas5').getContext('2d');
+var ctx6 = document.getElementById('canvas6').getContext('2d');
+var ctx7 = document.getElementById('canvas7').getContext('2d');
+var ctx8 = document.getElementById('canvas8').getContext('2d');
+var ctx9 = document.getElementById('canvas9').getContext('2d');
+
+var randomScalingFactor = function() {
+    return Math.round(Math.random() * 100);
+};
+
+var config3 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countInterpunktion,
+                countTotal - countInterpunktion,
+            ],
+            backgroundColor: [
+                pieColors.red,
+                pieColors.blue,
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Interpunktuation',
+            'Other',
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countInterpunktion/countTotal * 1000) / 10 + ' % incl. Punctuation',
+            fontColor: pieColors.red
+        },
+        responsive: true,
+        legend: {
+            display: false
+        },
+    }
+};
+
+var config4 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countLeerzeichen,
+                countTotal - countLeerzeichen,
+            ],
+            backgroundColor: [
+                pieColors.purple,
+                pieColors.blue,
+                
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Leerzeichen',
+            'Other',
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countLeerzeichen/countTotal * 1000) / 10 + ' % incl. Space',
+            fontColor: pieColors.purple
+        },
+        responsive: true,
+        legend: {
+            display: false
+        },
+    }
+};
+
+var config5 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countSonderzeichen,    
+                countTotal - countSonderzeichen,        
+            ],
+            backgroundColor: [
+                pieColors.grey,
+                pieColors.blue,
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Sonderzeichen',
+            'Other',
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countSonderzeichen/countTotal * 1000) / 10 + ' % incl. Special Characters',
+            fontColor: pieColors.grey
+        },
+        responsive: true,
+        legend: {
+            display: false
+        },
+    }
+};
+
+var config6 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countNumbers,
+                countTotal - countNumbers,
+            ],
+            backgroundColor: [
+                pieColors.yellow,
+                pieColors.blue,
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Numbers',    
+            'Other',
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countNumbers/countTotal * 1000) / 10 + ' % incl. Numbers',
+            fontColor: pieColors.yellow
+        },
+        responsive: true,
+        legend: {
+            display: false
+        },
+    }
+};
+
+var config7 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countBuchstabenOnly,
+                countTotal - countBuchstabenOnly,
+            ],
+            backgroundColor: [
+                pieColors.green,
+                pieColors.blue,
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Letters Only',
+            'Total',
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countBuchstabenOnly/countTotal * 1000) / 10 + ' % Pure Letter Pairs',
+            fontColor: pieColors.green
+        },
+        responsive: true,
+        legend: {
+            display: false
+        },
+    }
+};
+
+var config8 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countVersalien,    
+                countTotal - countVersalien,        
+            ],
+            backgroundColor: [
+                pieColors.orange,
+                pieColors.blue,
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Versalien',
+            'Other',
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countVersalien/countTotal * 1000) / 10 + ' % incl. Uppercase Letters',
+            fontColor: pieColors.orange
+        },
+        responsive: true,
+        legend: {
+            display: false
+        },
+    }
+};
+
+var config9 = {
+    type: 'pie',
+    data: {
+        datasets: [{
+            data: [
+                countGreater100,    
+                countGreater10 - countGreater100,
+                countGreater1 - countGreater10,        
+            ],
+            backgroundColor: [
+                pieColors.blue,
+                'rgba(54, 162, 235, .66)',
+                'rgba(54, 162, 235, .33)'
+            ],
+            label: 'Shares'
+        }],
+        labels: [
+            'Every page',
+            'Every 10 pages',
+            'Every 100 pages'
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: Math.round(countGreater100/countTotal * 1000) / 10 + ' % on every page',
+            fontColor: pieColors.blue
+        },
+        responsive: true,
+        legend: {
+            display: true
+        },
+    }
+};
+
+
+var chart3 = new Chart(ctx3, config3);
+var chart4 = new Chart(ctx4, config4);
+var chart5 = new Chart(ctx5, config5);
+var chart6 = new Chart(ctx6, config6);
+var chart7 = new Chart(ctx7, config7);
+var chart8 = new Chart(ctx8, config8);
+var chart9 = new Chart(ctx9, config9);
+
+</script>
+
+</body>
+</html>

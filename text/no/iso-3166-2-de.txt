@@ -1,0 +1,2 @@
+ISO 3166-2:DE er Tysklands del av ISO 3166-2, som er del av ISO 3166-standarden utgitt av International Orginazation for Standardization (ISO), som definerer koder for navnene til hovedinndelingene (f.eks. delstater eller fylker) av alle land med kode i ISO 3166-1. 
+Hver kode består av to deler, atskilt av en bindestrek. Første del er DE, ISO 3166-1 alfa-2-koden for Tyskland. Andre del består av to bokstaver.

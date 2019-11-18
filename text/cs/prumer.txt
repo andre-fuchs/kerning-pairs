@@ -1,0 +1,3 @@
+Průměr (geometrie) – úsečka spojující dva body na kružnici nebo kouli a procházející středem, případně její délka
+Míra polohy – nějaká veličina, která jistým způsobem představuje „typickou“ hodnotu sledované vlastnosti v daném souboru dat. Konkrétně:
+Aritmetický průměr – samotným pojmem průměr ve statistickém významu se nejčastěji rozumí právě aritmetický průměr

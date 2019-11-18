@@ -1,0 +1,3 @@
+A leptonok olyan elemi részecskék, amelyek nem vesznek részt az erős kölcsönhatásban (kvarkok), és nem is közvetítenek kölcsönhatást. Ide tartozik az elektron, a müon, a tau (τ) részecske és a nekik megfelelő neutrínók, valamint ezek antirészecskéi.
+Az első két sor (szürke) az első elemirészecske-családba tartozó leptonokat mutatja, a következő kettő (kék) a második család leptonjait, az utolsó kettő (narancs) a harmadikba tartozókat.
+A lepton elnevezés a görög könnyű (λεπτός) szóból ered, mivel (legalábbis az elnevezéskor ismertek) könnyebbek mint a hadronok.

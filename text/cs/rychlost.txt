@@ -1,0 +1,38 @@
+Rychlost je charakteristika pohybu, která určuje, jakým způsobem se mění poloha tělesa (hmotného bodu) v čase.
+Rychlost je vektorová fyzikální veličina, neboť udává jak velikost změny, tak i její směr.
+Pokud dva běžci závodí na stejné trati, pak se pohybují po stejné trajektorii a po skončení závodu mají za sebou také stejnou dráhu. Pokud však jeden ze závodníků doběhne do cíle dříve, nebudou pohyby obou závodníků stejné. Závodníci urazí tedy danou dráhu v rozdílném čase. Veličina charakterizující rozdíl v těchto pohybech je právě rychlost.
+Pokud není uvedeno jinak, označuje rychlost časovou změnu polohy při mechanickém pohybu. Obecněji se rychlost používá pro označení časové změny jakéhokoliv pohybu (např. rychlost chemické reakce, rychlost společenských změn apod.).
+Časová změna rychlosti se nazývá zrychlení, záporné zrychlení se nazývá zpomalení; obě veličiny vyjadřuji změnu resp. přírůstek či úbytek okamžité rychlosti v nekonečně krátkém čase (jedná se o druhou derivaci dráhy podle času).
+Další používané jednotky: V běžné praxi (rychlost dopravních prostředků, větru apod.) se používá kilometr za hodinu, km/hod., km·h−1 (1 m·s−1 = 3,6 km·h−1), v (některých) anglicky mluvících zemích je namísto něho běžná míle za hodinu
+V námořní praxi a v letectví se užívá jednotka uzel (anglicky „knot“, zkratka „kn“ nebo „kt“), což je námořní míle za hodinu
+Vzhledem k vysokým rychlostem astronomických objektů se v astronomii někdy používá tisícinásobek hlavní jednotky SI: kilometr za sekundu. km/s.
+Od okamžité rychlosti se průměrná rychlost liší tak, že je definována jako celková vzdálenost uražená za určitý čas. Např. pokud je vzdálenost 80 kilometrů ujetá za 1 hodinu, pak je průměrná rychlost 80 kilometrů za hodinu. Podobně, pokud je 320 kilometrů ujeto za 4 hodiny, je průměrná rychlost opět 80 kilometrů za hodinu. Pokud je vzdálenost v kilometrech (km) vydělena časem v hodinách (h), výsledkem jsou kilometry za hodinu (km/h). Průměrná rychlost nepopisuje změny rychlosti, které mohly nastat v kratších časových intervalech (protože průměrná rychlost je celková vzdálenost dělená celkovým časem cesty). Takže průměrná rychlost se značně liší od okamžité rychlosti. Průměrná rychlost se vypočítá:
+    {\displaystyle \mathbf {v_{p}} ={\frac {\mathbf {r} \left(t_{1}\right)-\mathbf {r} \left(t_{2}\right)}{t_{1}-t_{2}}}}
+Okamžitá rychlost je rychlost v daném časovém okamžiku. Jelikož je časový okamžik nekonečně krátký, vypočte se okamžitá rychlost jako první derivace dráhy podle času, tedy limitním přechodem od průměrné rychlosti:
+    {\displaystyle \mathbf {v} =\lim _{t_{1}\to t_{2}}{\frac {\mathbf {r} \left(t_{1}\right)-\mathbf {r} \left(t_{2}\right)}{t_{1}-t_{2}}}={\frac {\mathrm {d} \mathbf {r} (t)}{\mathrm {d} t}}={\mathrm {d} \mathbf {s}  \over \mathrm {d} t}}
+Při pohybu po kružnici se k vyjádření rychlosti používají dvě různé veličiny – obvodová rychlost a úhlová rychlost, které se odlišují rozměrem i jednotkami.
+v = ω · r,kde ω je úhlová rychlost, r je poloměr kružnice. Ve vektorovém vyjádření:
+Při určování rychlosti v relativistické mechanice se postupuje podobně jako u klasické (nerelativistické) rychlosti.
+Pro hmotný bod, který se pohybuje prostorem, lze rychlost ve vztažné soustavě S vyjádřit složkami
+    {\displaystyle v_{x}^{\prime }={\frac {\mathrm {d} x^{\prime }}{\mathrm {d} t^{\prime }}}}
+    {\displaystyle v_{y}^{\prime }={\frac {\mathrm {d} y^{\prime }}{\mathrm {d} t^{\prime }}}}
+    {\displaystyle v_{z}^{\prime }={\frac {\mathrm {d} z^{\prime }}{\mathrm {d} t^{\prime }}}}
+  Toto vyjádření je stejné jako v klasické mechanice. Rozdíl však spočívá v tom, že jednotlivé souřadnice (prostorové i časové) se v teorii relativity transformují odlišně než v klasické fyzice.
+Předpokládejme, že soustava S'  se vůči soustavě S pohybuje konstantní rychlostí 
+   lze vyjádřit prostřednictvím speciální Lorentzovy transformace. Jejich diferencováním dostaneme
+    {\displaystyle \mathrm {d} x^{\prime }={\frac {\mathrm {d} x-w\mathrm {d} t}{\sqrt {1-{\frac {w^{2}}{c^{2}}}}}}}
+    {\displaystyle \mathrm {d} t^{\prime }={\frac {\mathrm {d} t-{\frac {w}{c^{2}}}\mathrm {d} x}{\sqrt {1-{\frac {w^{2}}{c^{2}}}}}}}
+    {\displaystyle v_{x}^{\prime }={\frac {v_{x}-w}{1-{\frac {wv_{x}}{c^{2}}}}}}
+    {\displaystyle v_{y}^{\prime }=v_{y}{\frac {\sqrt {1-{\frac {w^{2}}{c^{2}}}}}{1-{\frac {wv_{x}}{c^{2}}}}}}
+    {\displaystyle v_{z}^{\prime }=v_{z}{\frac {\sqrt {1-{\frac {w^{2}}{c^{2}}}}}{1-{\frac {wv_{x}}{c^{2}}}}}}
+  , přechází tyto vztahy ve vztahy pro klasickou (nerelativistickou) transformaci rychlosti
+  Vyjádření rychlosti v soustavě S prostřednictvím složek rychlosti v soustavě S'  získáme záměnou čárkovaných a nečárkovaných veličin a záměnou znaménka u rychlosti 
+    {\displaystyle v_{x}={\frac {v_{x}^{\prime }+w}{1+{\frac {wv_{x}^{\prime }}{c^{2}}}}}}
+    {\displaystyle v_{y}=v_{y}^{\prime }{\frac {\sqrt {1-{\frac {w^{2}}{c^{2}}}}}{1+{\frac {wv_{x}^{\prime }}{c^{2}}}}}}
+    {\displaystyle v_{z}=v_{z}^{\prime }{\frac {\sqrt {1-{\frac {w^{2}}{c^{2}}}}}{1+{\frac {wv_{x}^{\prime }}{c^{2}}}}}}
+  Jedním z důsledků uvedených transformačních vztahů je skutečnost, že rychlost světelného paprsku bude ve všech inerciálních vztažných soustavách stejná, což odpovídá druhému postulátu speciální teorie relativity. Máme-li totiž v soustavě S světelný paprsek pohybující se rychlostí světla 
+  Dalším z důsledků těchto transformačních vztahů je také skutečnost, že pokud je rychlost v menší než rychlost světla 
+  , bude menší než rychlost světla ve všech inerciálních vztažných soustavách. Např. pokud se v soustavě S'  pohybuje hmotný bod rychlostí 
+   ve směru osy x a samotná soustava S'  se pohybuje vzhledem k soustavě S rychlostí 
+   ve stejném směru, byla by podle klasické mechaniky rychlost pohybu hmotného bodu v soustavě S rovna 
+    {\displaystyle v_{x}={\frac {0{,}9c+0{,}8c}{1+{\frac {(0{,}8c)(0{,}9c)}{c^{2}}}}}=0{,}988\,4c<c}

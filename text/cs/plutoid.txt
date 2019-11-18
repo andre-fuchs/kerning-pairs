@@ -1,0 +1,7 @@
+Plutoid je objekt sluneční soustavy, který je podobný planetě a musí splňovat následující kritéria:
+má dostatečnou hmotnost, aby jeho gravitace překonala vnitřní síly a dosáhl přibližně kulového tvaru,
+není satelitem.Pojmenovávány mají být pouze takové plutoidy, které mají absolutní hvězdnou velikost větší než + 1 mag.
+Termín plutoid byl pro pojmenování trpasličí planety, která obíhá Slunce za dráhou Neptuna, určen rezolucí IAU0804 výkonného výboru Mezinárodní astronomické unie (IAU) 11. června 2008 v Oslu. Původně byl v roce 2006 navrhován název „pluton“, který však byl nakonec po protestech geologů odmítnut, neboť tento výraz používají pro těleso magmatického původu, nacházející se většinou v hlubinách zemské kůry.
+V současnosti (prosinec 2012) jsou známy pouze čtyři objekty, které s jistotou patří do skupiny plutoidů:
+HaumeaZ těchto těles patří tři mezi tělesa Kuiperova pásu, pouze Eris je řazena mezi tělesa rozptýleného disku.
+ Plutoid chosen as name for Solar System objects like Pluto [online]. The International Astronomical Union (IAU), 2008-06-11 [cit. 2008-06-17]. Dostupné v archivu pořízeném dne 2011-07-02. (anglicky) KUBALA, Petr. Plutoidy aneb nová kategorie ve sluneční soustavě [online]. Česká astronomická společnost, 2008-06-13 [cit. 2008-06-17]. Dostupné online.

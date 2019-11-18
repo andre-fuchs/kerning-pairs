@@ -1,0 +1,3 @@
+K hraní Keyboard Mania (zkráceně KM) hráč potřebuje klávesy (USB periferie). Jedny klávesy musí mít rozsah dvou oktáv.
+Ve spodní části obrazovky se nachází obrázek kláves, který je přeškrtnutý červenou čárou, která bliká do rytmu. Z horní části obrazovky budou padat 'noty' směrem dolu k červené čáře. Pro černé klávesy platí kratší čárky padající po čáře a pro bílé klávesy platí ty podlouhlejší padající ve sloupcích. Hráčovým úkolem je stisknout danou klávesu, když se nota překryje s čárou.
+KM můžete hrát na dvě oktávy (mód Single) nebo na čtyři (Double Play). Každý z obou módů má dvě obtížnosti.

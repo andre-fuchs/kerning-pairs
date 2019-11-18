@@ -1,0 +1,11 @@
+Schwenkova věta je matematická věta z teorie grafů, která stanovuje podmínky řešitelnosti problému jezdcovy procházky.
+Pro jakoukoliv šachovnici o rozměrech m × n polí, kde m ≤ n, je uzavřené řešení jezdcovy procházky vždy možné, s výjimkou následujících případů:
+Představme si typickou šachovnici střídající černá a bílá pole. Kdykoliv se jezdec pohne, skončí vždy na poli opačné barvy. Pokud tedy stojí na bílém poli, následujícím skokem se ocitne na poli černém. Pokud stojí na černém, skočí na bílé. Proto při uzavřené procházce navštíví jezdec stejný počet bílých a černých polí.
+Protože ale obě čísla m a n jsou lichá, je počet polí šachovnice rovněž lichý a tedy počet bílých a černých polí na šachovnici je nutně odlišný (například šachovnice 5 × 5 má 13 polí jedné barvy a 12 druhé).
+Má-li jezdec dokončit uzavřenou procházku, musí navštívit stejný počet bílých a černých polí, ovšem uvažovaná šachovnice má odlišný počet bílých a černých polí, proto na ní uzavřenou procházku nelze dokončit. Mohou však existovat řešení otevřená.
+Na první pohled je jasné, že pokud m = 1 nebo 2, není jezdcova procházka vůbec možná: jezdec není schopen navštívit každé pole této šachovnice (s výjimkou triviálního případu „šachovnice“ 1 × 1 pole).
+   druhou (např. černá pole). Jak již bylo uvedeno výše, jezdec musí při svém pohybu střídat bílá a černá pole (
+   jako množinu červených polí. Počty zelených a červených polí si jsou rovny. Je zřejmé, že z pole v 
+  . To však evidentně není pravda, neboť červeno-zelený vzor na diagramu neodpovídá černo-bílému šachovnicovému vzoru; množina červených polí není stejná jako množina černých polí (a množina zelených není stejná jako množina bílých).
+Z toho plyne, že výše uvedený předpoklad byl nepravdivý a na šachovnici 4 × n nelze pro žádné n nalézt řešení jezdcovy procházky.
+K důkazu věty je nutné prokázat ještě opačnou implikaci, tj. že na všech obdélníkových šachovnicích, které nespadají do jedné ze tří výše uvedených kategorií, lze uzavřené řešení jezdcovy procházky nalézt.

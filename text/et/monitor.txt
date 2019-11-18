@@ -1,0 +1,5 @@
+"Monitor" (ld 'nõuandja', 'hoiataja') on mitme tähendusega sõna ja mõne seadme nimetus.
+Monitor on televisioonisaate pildi omadusi kontrollida ja jälgida võimaldav seade.
+Monitoriks on nimetatud ka kuvarit, kuna see võimaldab saada tagasisidet arvuti tegevusest, seega kui kuvarit kasutatakse arvuti monitoorimiseks võib selle kohta öelda "monitor", võrdle ka konsooliga.
+monitor – seade, mis kogub töötava süsteemi kohta jõudlusstatistikat ning on ühendatud vahetult keskprotsessori plaadiga
+monitor – abi- ja juhtimisfunktsioone täitev tarkvara, mis paikneb harilikult püsimälukiibis ning sisaldab käivitus- ja diagnostikarutiine

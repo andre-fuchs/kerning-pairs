@@ -1,0 +1,3 @@
+Charge-coupled device – je elektronická součástka používaná pro snímání obrazové informace.
+Carbonate compensation depth, karbonátová kompenzační hloubka – hloubka, pod níž nedochází k trvalému ukládání karbonátů.
+CloneCD Control File – je textový popisovač (s příponou .ccd) používaný programem CloneCD, k označení vlastností CD/DVD diskových obrazů.

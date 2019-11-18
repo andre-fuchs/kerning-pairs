@@ -1,0 +1,14 @@
+I farmaci antivirali sono una categoria di chemioterapici attivi contro infezioni causate dai virus.
+In particolare, la loro azione si manifesta in vari stadi della replicazione virale.
+Hanno sia azione profilattica sia terapeutica verso malattie virali, alcune note fin dall'antichità.
+Spesso è possibile intervenire preventivamente mediante profilassi con vaccini o sieri; questo è un vantaggio, poiché nel momento in cui si riconoscono i sintomi, i virus sono tanto numerosi che i farmaci possono avere effetti non immediati.
+I farmaci sono considerati efficaci se interferiscono con la replicazione virale senza modificare le normali funzioni cellulari; poiché i virus sono parassiti intracellulari obbligati questo non è sempre possibile.
+Esistono farmaci ad applicazione topica per trattare herpes labiale, oculare o genitale, che riducono lo sfogo senza però eliminare completamente l'infezione.
+Gli interferoni sono proteine prodotte dal corpo e coinvolte nella risposta immunitaria e nella funzionalità cellulare; nel 2011 è stata scoperta l'efficacia dell'interferone nel ridurre l'infiammazione nelle persone con epatite B o C.
+metisazone (1962), profilattico del vaiolo non in atto, agisce provocando la formazione di RNA messaggero di lunghezza minore rispetto al normale con conseguente blocco della sintesi di alcune proteine necessarie per incapsidare il DNA;
+inibitori delle neuraminidasi (zanamivir), agiscono a livello di enzimi coinvolti nell'attivazione dei virus dell'influenza A e B.
+I farmaci aventi attività chemioterapica si distinguono in base alla loro azione:
+antimetaboliti dell'adenosina e guanosina (vidarabina, ribavirina...);Blocco della trascrittasi inversa, sono inibitori nucleosidici o non nucleosidici, spesso usati contro ceppi di virus che provocano AIDS;Stimolazione dei processi immunitari dell'ospite (levamisolo):
+inibitori delle proteasi (inibiscono il processamento dei polipeptidi virali e quindi la maturazione dei virioni)
+inibitori della fusione (prevengono la fusione della membrana virale con quella dei linfociti T)
+I principali effetti avversi riguardano danni epatici, quindi è necessario controllare periodicamente la funzionalità del fegato e sospendere il trattamento se necessario.

@@ -1,0 +1,3 @@
+Znalost je strukturovaný souhrn vzájemně souvisejících poznatků a zkušeností z určité oblasti nebo k nějakému účelu. Získává se zejména praxí nebo studiem.
+Znalost je reprezentace neboli kognitivní model určité věci, vzájemných vztahů entit a operací, které je s takovými entitami možné provádět. Umožňuje provádět myšlenková pozorování a experimenty a předpovídat tak chování skutečné věci nebo vytvářet strategie umožňující s danou věcí dosáhnout určeného cíle. Má větší informační hodnotu než pouhá data nebo informace a menší informační hodnotu než moudrost.
+Znalosti bývají typicky utříděny v nějakém hierarchickém systému znalostí. V počítačové terminologii se mechanizované systémy znalostí nazývají expertní systémy.

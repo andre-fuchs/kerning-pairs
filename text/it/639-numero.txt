@@ -1,0 +1,2 @@
+È un numero composto, con i seguenti 6 divisori: [[1 (numero)]|1]], [[3 (numero)]|3]], [[9 (numero)]|9]], [[71 (numero)]|71]], [[213 (numero)]|213]], 639. Poiché la somma dei suoi divisori (escluso il numero stesso) è [[297 (numero)]|297]] < 639, è un numero difettivo.
+È parte delle terne pitagoriche(639, 852, 1065), (639, 2480, 2561), (639, 2840, 2911), (639, 7548, 7575), (639, 22680, 22689), (639, 68052, 68055), (639, 204160, 204161).

@@ -1,0 +1,5 @@
+Atribut (z lat. ad-tribuere, přidělovat, připisovat, přisuzovat) je rozlišovací rys, podstatná vlastnost nějakého objektu.
+v ikonografii rozlišovací znak významné postavy, např. světce (korouhev sv. Václava). Vizte Ikonografie#Atribut,
+dodatečná, obvykle jednobitová (příznak) informace připojená k souboru v souborovém systému (tzv. atribut souboru),
+šířeji informace připojená k entitě v čemkoli-jakém koli kontextu, např. atributová gramatika,
+pojmenovaná datová položka vnořená do značky, typicky ve značkovacích jazycích rodiny SGML-XML-HTML.

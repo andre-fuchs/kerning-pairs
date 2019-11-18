@@ -1,0 +1,7 @@
+A vegyipar folyamatainak alapvető lépéseit vegyipari műveleteknek nevezzük. Ezek alapos ismerete a vegyészmérnöki tudomány körébe tartoznak.
+A fogalom angol megfelelője, unit operations, a múlt század elején jött használatba, amikor 1923-ban egy könyvben, annak szerzői kifejtették, hogy a kémiai ipar folyamatait le lehet bontani olyan alapvető lépésekre amelyek ugyanazon fizikai törvények alapján állnak és azoknak kémiai folyamatokban általános érvényességük van. Ezeket öt osztályba lehet sorolni:
+Vegyipari anyagmozgatás: Folyékony anyagok szállítása (Hidrodinamika), szuszpenziók szűrése és fluidizálás (vagyis pulverizált, porrá tört anyagok gázzal folyékonnyá tett ún. fluidizált keveréke is)
+Anyagátadás, beleértve gázabszorpciót, desztillációt, extrakciót, adszorpciót és szárítást,
+Mechanikai anyagkezelés, ú.m. Szilárd anyagok szállítása, törés, aprítás, táblázás és szitázás, ill. rostázás.Egy másik osztályozás szerint van:
+Reakció (kémiai reakció)Mindezeket a kémiai ipar széles körben használja üzemtervezésre, azok felépítésére és üzemfejlesztésre.
+Az irodalmi anyag főforrása egy először 1956-ban megjelent könyv, aminek négy főrészében a szerzők a 28 legfontosabb kémia műveleteket tárgyalják és amit vegyészmérnökoktatásra ma is széles körben használnak.

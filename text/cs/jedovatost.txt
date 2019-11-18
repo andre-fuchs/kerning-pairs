@@ -1,0 +1,8 @@
+Toxicita je vlastnost chemických sloučenin spočívající ve vyvolání otravy osob nebo zvířat, které látku požily, vdechly nebo vstřebaly kůží.
+V zásadě všechny chemické sloučeniny mohou být při užití příliš velkého množství toxické. Například i požití velkého množství vody může rozvrátit homeostázu a způsobit člověku smrt. Rovněž prakticky všechny syntetické léky jsou ve větším množství toxické, přičemž čím jsou účinnější, tím jsou toxičtější.[zdroj?]
+Aby bylo možno toxicitu měřit a srovnávat, byla zavedena stupnice označovaná zkratkou LD (z anglického lethal dose – smrtná dávka). Nejčastěji se lze setkat s variantou LD50, tzn. označení dávky, po které uhynulo 50 ze 100 laboratorních potkanů, kterým byla látka podána různými způsoby (především orálně). Někdy se používá i varianta LD90 pro úhyn 90 %.
+Jinou stupnicí, užívanou pro plynné sloučeniny, je smrtná koncentrace ve vdechovaném vzduchu, ve zkratce LC.
+Toxicita je buď akutní (po jednorázové aplikaci), nebo chronická (po opakované aplikaci).
+Při udávání hodnot LD je nutno zároveň s dávkou na kg a koncentrací zkoumané sloučeniny uvést i způsob aplikace, např. perorální (ústy), perkutánní (kůží), inhalační (vdechováním), parenterální (mimostřevní, např. nitrožilní, nitrosvalový, podkožní), rektální (konečníkový), dále uvést druh zvířete, jeho pohlaví, stáří a dobu pozorování zvířete po aplikaci. U chronické toxicity je krom uvedených údajů nutné uvádět i intervaly aplikací a dobu celého pokusu.
+Zde se využívá několik stupnic dle organizmu, na který má látka působit. Nejčastěji se látky dělí dle působení na člověka a na včely. V případě toxicity pro člověka jsou na obalech používaných látek uváděny značky:
+bez značky – látka, u níž není toxicita udána. (Není totéž jako látka netoxická.)

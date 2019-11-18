@@ -1,0 +1,27 @@
+Mapa je zmenšené, zevšeobecněné a vysvětlené znázornění objektů a jevů na Zemi, ostatních nebeských tělesech nebo nebeské sféře, sestrojené obvykle podle některého ze zobrazení na rovině a vyjadřující pomocí smluvených znaků rozmístění a vlastnosti objektů a jevů vázaných na jmenované povrchy. Pokud se jedná o zobrazení na kouli, nazýváme ji glóbus.
+Mapu můžeme označit za model reálného světa, v žádném případě není dokonalým obrazem naší reality. Nelze na ní nalézt vše, ale naopak může znázornit i jevy, které nejsme jinak schopni vnímat. Skutečnost může potlačit i zdůraznit. Souborně informace zaznamenané na mapách označujeme jako „prostorové informace“.
+Na rozdíl od glóbu má každá mapa určité zkreslení. Toto zkreslení deformuje plochy, délky, úhly a tvary zemského povrchu. Zkreslení je tím větší, čím menší je měřítko mapy. Pomocí měřítka nelze z map malých měřítek přesně odečítat ani vzdálenosti ani úhly. Zkreslení nedosahují v celé ploše mapy stejných hodnot, ale mění se. Myšlené spojnice míst se stejným zkreslením se nazývají ekvideformáty.
+Jako první, kdo dokázal přenášet obraz kulového tělesa Země na papír, byl Gerhard Mercator (Mercatorova projekce) v roce 1569. Tento objev výrazně zlepšil polohové informace obsažené v mapě, což umožnilo následně mořeplavcům obeplutí Země a přinesení jasného důkazu, že je Země kulatá.
+Délkové zkreslení: Je závislé na poloze bodu a na směru úsečky, která z něho vychází. Určuje se ve směru poledníkovém a rovnoběžkovém.
+Plošné zkreslení: Je poměr plochy na mapě k jejímu obrazu na referenční ploše. 
+Úhlové zkreslení: Je rozdíl velikosti úhlu na zobrazovací ploše a jeho obrazu na referenční ploše.
+Prvky tvořící obsah mapy lze členit podle jejich původu, charakteru a významu na:
+Mapy lze členit z mnoha hledisek (účel užití, způsob vzniku, vyjadřované skutečnosti, měřítka, územního rozsahu atd.).
+topografické (místopisné, podrobné, zobrazující zejména geografickou realitu co nejpodrobněji)
+všeobecně zeměpisné (zobrazují rozsáhlé geografické celky s vysokou mírou generalizace základních fyzickogeografických i socioekonomických prvků)
+tematické (účelové, speciální, s přednostně vymezenou tematikou v rozsahu jednoho nebo skupiny obsahových prvků, ostatní prvky mohou být potlačeny nebo vynechány)
+mapy zemských polokoulí (hemisféry; západní, východní, severní, jižní polokoule)
+mapy států, jejich skupin či částí (regionů daných politickosprávním, hospodářským nebo fyzicko-geografickým vymezením)
+mapy pro státní správu a územní plánování (státní mapová díla, katastrální, technicko-hospodářské, politické)
+mapy pro propagační, reklamní a propagandistické účely (agitační, reklamní, propagační)
+mapy pro zemědělství a lesnictví (lesnické, zemědělské, myslivecké, fytocenologické)
+mapy malého měřítka (měřítko větší než 1:1 000 000, znázorňují obrovské území, jsou značně zkreslené – zkreslení působí hlavně zakřivení Země)
+mapy velkého měřítka (měřítka menší než 1:200 000, zobrazují pouze malá území, jsou minimálně zkreslené – zkreslení způsobuje hlavně členitý georeliéf)
+mapy digitální (mapové prvky jsou vyjádřeny v digitální formě, rozčleněny do tematických vrstev a uloženy v paměti počítače)
+mapy původní (vzniklé na základě přímého a původního mapování, viz topografické mapy, též prvotním využitím leteckých a kosmických snímků, nebo prvotním zpracováním statistických údajů, viz tematické mapy)
+mapy odvozené (zpracované na podkladě již existujících map nebo digitálních databází, zpravidla většího měřítka a podrobnějšího obsahu)
+mapy prognostické (odhad vývoje jevu v budoucnosti)podle vzniku lze definovat také
+mapy staré (stará mapová díla, vytvořená v minulosti)mapy historické (zpětně rekonstruovat stav území v určitém historickém období)
+Mapové zobrazení neboli kartografická projekce je způsob, jakým se převádí zobrazení povrchu Země (či jiného nebeského tělesa) z trojrozměrného zakřiveného povrchu referenčního elipsoidu či koule do roviny.
+Protože experti v Sovětském svazu byli schopni na základě volně dostupných informací vytvořit jedny z nejpodrobnějších map světa, a protože jakákoliv mapa nese informace, která může být zneužita, začala se ve 30. letech 20. století provádět v Sovětském svazu falzifikace map. Na veřejně dostupných mapách bylo měněno téměř vše, od označení domů a jejich polohy na ulicích po polohu cest a vodních těles. Zkreslování map se v Sovětském svazu provádělo až do devadesátých let 20. století, kdy se začalo pracovat s leteckou a vesmírnou fotografií.Přesné mapy měla k dispozici pouze armáda a tajné služby. Tyto mapy byly často podrobné do takové míry, kterou neznali ani obyvatelé dané oblasti, např. u silnic byla vyznačena šířka, materiál, podloží a kvalita, u mostů nosnost a stavební materiál, nebo na jaké palivo jsou kamna pastevců v horách.Podobně se "upravovaly" údaje v mapách i řadě dalších zemí, V současné době se mění často údaje na mapách digitálních, aby bylo možné prokázat jejich zneužití neoprávněným uživatelem.
+SEMOTANOVÁ, Eva: Mapy Čech, Moravy a Slezska v zrcadle staletí. Praha: Libri 2001.

@@ -1,0 +1,1 @@
+Anemometre kan deles inn i to klasser: de som måler vindens hastighet, og de som måler vindens trykk, men ettersom det er en nær sammenheng mellom trykket og hastigheten, vil et anemometer konstruert for å gi informasjon om hastigheten, også gi informasjon om trykket og omvendt.

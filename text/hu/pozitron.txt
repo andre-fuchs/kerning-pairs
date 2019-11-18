@@ -1,0 +1,6 @@
+A pozitron az elektron antirészecskéje. A legtöbb adata azonos vele, a töltés jellegűek ellentétesek (elektromos töltés, leptontöltés), ezeket lásd az elektronnál.
+Nagy energiájú gamma-sugárzás létrehozhat elektron-pozitron párt atommag jelenlétében, ha energiája nagyobb, mint az elektron nyugalmi energiájának duplája: 1,022 MeV (két részecske keletkezik). Ez a párkeltés.
+A pozitron anyag jelenlétében hamarosan találkozik egy elektronnal, ilyenkor megsemmisül és nagy energiájú fotonokat kelt. Ez az annihiláció. Ezen alapszik a pozitronemissziós tomográf (PET).
+Paul Dirac jósolta meg 1928-ban elméleti megfontolásokból (lásd antirészecske).
+Carl David Anderson fedezte fel 1932-ben a kozmikus sugárzásban, melyet mágneses térben lévő ködkamrával vizsgált. A ködkamrafelvételeken nem tudható, hogy pozitron, vagy ellentétes irányban haladó elektron hagyta a nyomot. Anderson úgy tudta meg a mozgásirányt, hogy a ködkamrába akadályt tett, amin a pozitron áthaladva energiát veszített. A kijövő részecske pályája jobban görbül, mint az eredetié, így a haladási irány meghatározható. A mágneses tér és a görbület irányából a haladási irány ismeretében már meghatározható a töltés előjele.
+Magyarított interaktív Flash animáció a párkeltésről (párképződésről) és a pozitronannihilációról. Szerző: David M. Harrison

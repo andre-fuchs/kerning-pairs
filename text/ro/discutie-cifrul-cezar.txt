@@ -1,0 +1,5 @@
+  Toate aceste articole sunt articlole de calitate. Deci care este corect pana la urma? diego_pmc 28 martie 2008 19:24 (EET)
+Toate sunt corecte. Acel număr depinde de mărimea alfabetului utilizat. Cel românesc are 31 de litere, cel englezesc 26, iar cel spaniol 27. — KlaudiuMihăilă Mesaj 29 martie 2008 10:09 (EET)
+De ce ROT13 este trecut ca si cand ar fi o metoda de criptare diferita. ROT13 este cezar cu K(cheia)=13.
+   functia de decriptare pentru cheia k. Ca sa nu vi se para ciudat ca pe engleza scrie ca 
+Daca nu mi se da un raspuns pe aci o sa incerc sa fac eu modificarile + referinte cand ies din sesiune.

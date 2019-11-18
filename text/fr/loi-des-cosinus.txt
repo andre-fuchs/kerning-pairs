@@ -1,0 +1,60 @@
+En mathématiques, la loi des cosinus est un théorème de géométrie couramment utilisé en trigonométrie, qui relie dans un triangle la longueur d'un côté à celles des deux autres et au cosinus de l'angle formé par ces deux côtés. Cette loi s'exprime de façon analogue en géométrie plane, sphérique ou hyperbolique.
+En ce qui concerne la géométrie plane, elle est également connue sous les noms de théorème d'Al-Kashi en France, ou encore théorème de Pythagore généralisé. Il généralise en effet le théorème de Pythagore aux triangles non rectangles. Bien qu'un résultat similaire (avec des longueurs seulement) fût déjà connu d'Euclide, le nom francisé du mathématicien perse Ghiyath al-Kashi (1380-1429) apparut dans les années 1990 dans les manuels scolaires édités en France, les appellations théorème de Pythagore généralisé ou loi des cosinus étant utilisées jusque-là.
+Soit un triangle ABC, dans lequel on utilise les notations usuelles exposées sur la figure 1 : d'une part α, β et γ pour les angles et, d'autre part, a, b et c pour les longueurs des côtés respectivement opposés à ces angles.
+Les Éléments d'Euclide datant du IIIe siècle av. J.-C., contenaient déjà une approche géométrique de la généralisation du théorème de Pythagore : les propositions 12 et 13 du livre II, traitent séparément le cas d'un triangle obtusangle et celui d'un triangle acutangle.
+L'absence de fonction trigonométrique et d'algèbre oblige à formuler le théorème en termes de différences d'aires. Aussi la proposition 12 énonce-t-elle :
+« Dans les triangles obtusangles, le carré du côté qui sous-tend l'angle obtus est plus grand que les carrés des côtés qui comprennent l'angle obtus, de deux fois le rectangle compris sous celui des côtés de l'angle obtus sur le prolongement duquel tombe la perpendiculaire, et sous la droite prise extérieurement de la perpendiculaire à l'angle obtus. »
+En notant ABC le triangle d'angle obtus C et H le pied de la hauteur issue de B (cf.  Fig. 2 ci-contre), les notations modernes permettent de résumer l'énoncé ainsi : 
+Il fallut attendre la trigonométrie arabo-musulmane au Moyen Âge pour voir le théorème évoluer dans sa forme et dans sa portée. Durant la même période sont établies les premières tables trigonométriques, pour les fonctions sinus et cosinus. En 1428, on trouve un énoncé du théorème, utilisant les cosinus, dans l'œuvre d'al-Kashi, Les clés de l'arithmétique.
+C'est au début du XIXe siècle que les notations algébriques modernes permettent d'écrire le théorème sous sa forme actuelle et qu'il prend dans de nombreuses langues le nom de loi (ou théorème) des cosinus.
+Plus généralement, le théorème s'utilise en triangulation (voir Fig. 3) pour résoudre un triangle, à savoir déterminer
+  Ces formules sont instables numériquement dans le cas de triangles en épingle, c'est-à-dire lorsque c est petit devant a et b — ou, de façon équivalente, lorsque γ est petit devant 1.
+Il existe un corollaire de la loi des cosinus : pour deux triangles directement semblables ABC et A'B'C'
+Tout comme le théorème de Pythagore,  la loi des cosinus possède de nombreuses démonstrations, certaines utilisant des propriétés sur les aires comme celles d'Euclide ou la loi des cosinus, d'autres utilisant des propriétés trigonométriques ou liées au cercle. Enfin, la loi des cosinus peut être vue comme une application des propriétés sur le produit scalaire.
+La démonstration d'Euclide par la proposition 12 (angle obtus) et 13 (angle aigu) s'appuie sur le théorème de Pythagore et fait intervenir le point H pied de la hauteur issue de B. Pour Euclide cette propriété est une propriété sur des aires. Pour l'angle obtus (proposition 12), Euclide construit le carré extérieur au triangle AHB de côté [AH] et remarque que 
+Dans son livre Clé de l'arithmétique en 1429, Al-Kashi généralise le théorème de Pythagore et introduit dans l'égalité la trigonométrie.
+Pour lui aussi, cette propriété est liée aux aires. Ainsi dans un triangle acutangle ABC, il mène par A et par B les hauteurs du triangle qui découpent dans les carrés s'appuyant sur CB et CA des rectangles.
+Dans la figure ci-contre, on prouve l'égalité des aires des rectangles verts en prouvant l'égalité des aires des triangles
+CAM et FAM par glissement d'un sommet parallèlement à une base.On fait de même pour les rectangles rouges.
+Quant aux rectangles bleus, dont les côtés ont pour longueur  CL ( = CA) et CE ( = CB cos C), pour l'un, et CI ( = CB) et CD( = CA cos C) pour l'autre, ils ont même aire égale à CA × CB × cos C.
+Une démonstration analogue est envisageable pour un triangle obtusangle en opérant par soustraction d'aires.
+Un certain nombre des démonstrations du théorème font intervenir un calcul d'aires. Il convient en effet de remarquer que 
+   devient obtus rendant une étude par cas obligatoire.La figure 6a (ci-contre) découpe un heptagone de deux manières différentes de sorte à démontrer le théorème d'Al-Kashi dans le cas d'un angle aigu. Interviennent :
+en gris, quelques triangles supplémentaires, identiques au triangle ABC et en même nombre dans les deux découpages.L'égalité des aires de droite et de gauche donne
+  .La figure 6b (ci-contre) découpe un hexagone de deux manières différentes de façon à démontrer le théorème d'Al-Kashi dans le cas d'un angle obtus.  La figure montre
+en bleu, deux fois le triangle ABC, à droite comme à gauche.L'égalité des aires à droite et à gauche donne
+  .Une démonstration rigoureuse nécessiterait de prouver que les deux découpages sont effectivement identiques, ce qui utilise principalement les cas d'égalité des triangles.
+La figure 7 (ci-contre) indique la manière de procéder pour démontrer  la loi des cosinus dans le cas d'un triangle à angles aigus en utilisant le théorème de Pythagore sur un sous-triangle rectangle formé en prenant le pied de la hauteur. Seule la dernière étape n'est pas indiquée sur la figure : le théorème de Pythagore s'applique au triangle rectangle dont l'hypoténuse est le côté c :
+    {\displaystyle c^{2}=(b-a\cos \gamma )^{2}+(a\sin \gamma )^{2}=b^{2}-2ab\cos \gamma +a^{2}\cos ^{2}\gamma +a^{2}\sin ^{2}\gamma .}
+  La méthode est en tous points similaire pour les angles obtus, et conduit à un résultat identique.
+On considère le cercle de centre B et de rayon [BC] (cf. figure ci-contre). Il coupe la droite (AC) en C et K.  La puissance du point A par rapport au dit cercle est : 
+    {\displaystyle \mathrm {AB} ^{2}-\mathrm {BC} ^{2}={\overline {\mathrm {AC} }}\cdot {\overline {\mathrm {AK} }}={\overline {\mathrm {AC} }}\cdot ({\overline {\mathrm {AC} }}+{\overline {\mathrm {CK} }})}
+  .Contrairement aux précédentes, pour cette démonstration, il n'est pas nécessaire de recourir à une étude par cas. En effet, les mesures algébriques permettent de traiter pareillement un angle aigu (
+On trouve trace de l'utilisation de la puissance d'un point par rapport à un cercle pour déterminer tous les angles d'un triangle dont les longueurs sont connues, dans l'œuvre de Nicolas Copernic, Des révolutions des sphères célestes. Il présente ainsi deux algorithmes, l'un utilisant le théorème de Pythagore généralisé présent dans l'œuvre d'Euclide, l'autre utilisant la puissance d'un point par rapport à un cercle.
+Ainsi dans une figure analogue à celle ci-contre, il fait remarquer que, a et c étant connus, la puissance du point A par rapport au cercle tracé est connue
+  Ne manipulant pas les mesures algébriques, Nicolas Copernic présente deux cas de figure pour l'angle obtus et l'angle aigu, travaille sur un cercle dont le rayon correspond au plus petit côté, et ne présente pas de formule, mais un algorithme de calcul. Une utilisation analogue de la puissance d'un point par rapport à un cercle pour retrouver la règle du cosinus est faite par Pitiscus.
+En utilisant le calcul vectoriel, plus précisément le produit scalaire, il est possible de retrouver  la loi des cosinus en quelques lignes :
+Le développement de la trigonométrie sphérique dans le monde arabo-musulman  et le travail d'al-Battani sur celle-ci, conduisent Delambre dans son Histoire de l'astronomie du Moyen Âge à attribuer à al-Battani, la première version de la loi des cosinus en trigonométrie sphérique. Cependant, pour Anton von Braunmühl (en), le travail d'al-Battani ne met pas en évidence de formule générale, et il faut attendre Regiomontanus, qui s'appuyant sur les travaux d'al-Battani, énonce et démontre la loi à l'aide des sinus verses,.
+Dans un triangle sphérique ABC (Fig. 9), les dimensions réduites a, b et c correspondent à la mesure angulaire des segments de grand arc [BC], [AC] et [AB] et la loi des cosinus s'écrit :
+Considérons un triangle sphérique ABC dans une sphère de centre O et de rayon 1, de sorte que OA = OB = OC = 1. Le vecteur 
+   est le vecteur tangent en C au grand cercle passant par A et C. En effet, il appartient au plan OAC et il est orthogonal à 
+    {\displaystyle {\overrightarrow {\mathrm {OA} }}\cdot {\overrightarrow {\mathrm {OC} }}=\cos(b)}
+  . On obtient alors la loi des cosinus en effectuant le produit scalaire des deux vecteurs, ce qui donne :
+  Lorsque le rayon de courbure tend vers l'infini, c’est-à-dire lorsque a, b et c tendent vers 0, la loi des cosinus sphérique se simplifie pour donner la version euclidienne de la même loi. Pour le montrer, on utilise les développements limités suivants :
+  .Lorsque le rayon de courbure devient très grand devant les dimensions du triangle, on retrouve la loi des cosinus euclidienne à partir des développements limités
+    {\displaystyle \cos _{R}(BC)=\cos _{R}(AB)\cdot \cos _{R}(AC)+{\frac {1}{R^{2}}}\sin _{R}(AB)\cdot \sin _{R}(AC)\cdot \cos({\widehat {BAC}})}
+    {\displaystyle \cos(BC)=\cos(AB)\cdot \cos(AC)+\sin(AB)\cdot \sin(AC)\cdot \cos({\widehat {BAC}})}
+    {\displaystyle \cosh(BC)=\cosh(AB)\cdot \cosh(AC)-\sinh(AB)\cdot \sinh(AC)\cdot \cos({\widehat {BAC}})}
+    {\displaystyle \cos _{\infty }(x)=\lim _{R\rightarrow \infty }\cos _{R}(x)=\lim _{R\rightarrow \infty }\cos(x/R)=1}
+    {\displaystyle \sin _{\infty }(x)=\lim _{R\rightarrow \infty }\sin _{R}(x)=\lim _{R\rightarrow \infty }R\cdot \sin(x/R)=x}
+  .Il est moins aisé de retrouver la formule d'Al-Kashi. En effet, une transposition simple revient à écrire :
+    {\displaystyle \sin _{\infty }(AB)\cdot \sin _{\infty }(AC)\cdot \cos({\widehat {BAC}})=AB\cdot AC\cdot \cos({\widehat {BAC}})}
+    {\displaystyle \lim _{R\rightarrow \infty }{\frac {1}{R^{2}}}AB\cdot AC\cdot \cos({\widehat {BAC}})=0}
+    {\displaystyle \cos _{R}(x)=\cos(x/R)=1-{\frac {1}{2}}\cdot {\frac {x^{2}}{R^{2}}}+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}}
+    {\displaystyle 1-{\frac {1}{2}}\cdot {\frac {BC^{2}}{R^{2}}}+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}}
+    {\displaystyle ={\Bigg (}1-{\frac {1}{2}}\cdot {\frac {AB^{2}}{R^{2}}}+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}{\Bigg )}\cdot {\Bigg (}1-{\frac {1}{2}}\cdot {\frac {AC^{2}}{R^{2}}}+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}{\Bigg )}+{\frac {1}{R^{2}}}{\Bigg (}AB+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}{\Bigg )}\cdot {\Bigg (}AC+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}{\Bigg )}\cdot \cos({\widehat {BAC}})}
+    {\displaystyle 1-{\frac {1}{2}}\cdot {\frac {BC^{2}}{R^{2}}}=1-{\frac {1}{2}}\cdot {\frac {AB^{2}}{R^{2}}}-{\frac {1}{2}}\cdot {\frac {AC^{2}}{R^{2}}}+{\frac {1}{R^{2}}}\cdot AB\cdot AC\cdot \cos({\widehat {BAC}})+o{\bigg (}{\frac {1}{R^{2}}}{\bigg )}}
+On considère un tétraèdre A1A2A3A4 de l'espace euclidien. La figure 10 ci-contre présente les notations concernant les sommets, faces et angles dans le tétraèdre :   
+    {\displaystyle s_{4}^{2}=s_{1}^{2}+s_{2}^{2}+s_{3}^{2}-2s_{1}s_{2}\cos \theta _{12}-2s_{1}s_{3}\cos \theta _{13}-2s_{2}s_{3}\cos \theta _{23}.\,}
+W. Gellert, H. Küstner, M. Hellwich et H. Kästner (trad. de l'allemand par un collectif, sous la direction de Jacques-Louis Lions), Petite encyclopédie des mathématiques [« Kleine Enzyklopädie der Mathematik »], Paris, K. Pagoulatos/Didier, 1980, 896 p. (ISBN 978-2278035267)
+Antoine Arnauld, Nouveaux éléments de géométrie, Paris, Charles Savreux, 1667, p. 295-296 (sixième théorème)

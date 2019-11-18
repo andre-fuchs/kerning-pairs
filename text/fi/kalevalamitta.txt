@@ -1,0 +1,64 @@
+Kalevalamitta eli nelipolvinen trokee on itämerensuomalaisten kielten parissa lauluissa käytetty runomitta, joka on eräs trokeisen tetrametrin muoto. Sitä käytettiin kaikentyyppisessä runoudessa: mytologisissa runoissa ja kertovissa sankarirunoissa eli epiikassa, lyyrisissä lauluissa, riittirunoissa kuten häälauluissa ja loitsuissa, sananlaskuissa sekä ylistys- pilkkarunoissa. Nimitys kalevalamitta perustuu Elias Lönnrotin Kalevala-teoksen nimeen. Kielihistoriallisin perustein kalevalamitan on arveltu syntyneen jo ennen ajanlaskua alkua.
+Kalevalamittaa on tutkittu Henrik Gabriel Porthanin ajoista lähtien. Sen säännöt muotoili laajojen aineistojen pohjalta melko kattavasti Elias Lönnrot, ja myöhemmin työtä jatkoi muun muassa Matti Kuusi. Kalevalasäkeen metrisiä variaatioita on esitellyt Aulis Rintala. Pentti Leinon mukaan kalevalamitta on kehittynyt kiinteässä yhteydessä kielen kanssa: kielen ja murteen muutokset ja erikoispiirteet näkyvät runomitan säännöstön vaihteluina. 
+Vaikka tutkimuksissa on määritelty klassisen kalevalamitan säännöt hyvinkin tarkasti, elävässä runoudessa ei ollut kyse tiukoista säännöistä vaan ennemminkin suuntaa antavista mieltymyksistä, säännönmukaisuuksista. Laulajilla itsellään saattoi olla hyvinkin selkeitä näkemyksiä siitä, miten hyvä runo rakentui. Parhaidenkin laulajien runoissa oli mitallisia poikkeuksia, esimerkiksi Arhippa Perttusen runoissa on "mittavirheitä" noin 2,7 %, yhtä paljon kuin Lönnrotin Kalevalassa. Ainakin osaa poikkeavuuksista voi pitää myös tietoisina tyylipiirteinä. Mittaan ja sen variaatioon vaikutti myös se, että runot olivat joitain loitsuja ja sananlaskuja lukuun ottamatta laulettua perinnettä. Erityisesti virolainen regilaul (runolaulu), jonka runomitta tunnetaan regivärss-nimellä, ei noudata klassisen kalevalamitan kaikkia perussääntöjä ja tyylikeinoja.lähde tarkemmin?Nykyään kalevalamitta tunnetaan ennen muuta Kalevalan runomittana, mistä se on saanut nimensäkin. Sitä voidaan kutsua myös suomalaiseksi mitaksi (esimerkiksi Niemi: Vanhan suomalaisen runomitan synnystä, Ravila: Vanhan suomalaisen runomitan probleema).
+Tunnetuista suomalaisista runoilijoista kalevalamittaa on käyttänyt muun muassa Eino Leino Helkavirsissään. Muualla maailmassa on esimerkiksi Henry Wadsworth Longfellow käyttänyt kalevalamitan kaltaista runomittaa tunnetussa Amerikan intiaaneja kuvaavassa Hiawatha-runoelmassaan vuodelta 1855.
+Robert A. Heinlein kätki proosamuotoisen Time Enough for Love -romaaninsa lukuun ”Tale of the Adopted Daughter” kalevalamittaisia säkeitä.lähde?
+Siitä, millainen nykyrunous lasketaan kalevalamitaksi, on virinnyt erimielisyyttä. Suomessa toimii kaksi kalevalaiseen runomittaan erikoistunutta yhdistystä, Kalevalaisen Runokielen Seura ry (KaRuSe) ja Vienan karjalan ystävät ry. Näillä kahdella on erilainen käsitys kalevalamitasta. KaRuSe kannattaa klassista kalevalamittaa, ja pitää sen tiukoista säännöistä poikkeamista astumisena ulos kalevalamitasta. Vienan Karjalan Ystävät ry. hyväksyy vapaamman kalevalamitan ja kannustaa sen mukaan helppoon kalevalamitan omaksumiseen ja käyttöön.
+Seuraavassa on esitelty klassinen Kalevalan runokieleen pohjautuva kalevalamitta.
+Kalevalamittainen säe koostuu yleensä kahdeksasta tavusta, jolloin se jakautuu neljään kaksitavuiseen runojalkaan. Esimerkeissä runojalkojen rajat on osoitettu vinoviivoilla.
+yksin / päivät / valke/avat.Säkeen ensimmäinen runojalka voi toisinaan olla kolmitavuinen tai harvoissa poikkeustapauksissa jopa nelitavuinen, jolloin säkeessä on yhdeksän tai kymmenen tavua:
+Minä olen / onte/lo ty/veltä.Runojalkoja säkeessä on aina neljä, ja muut kuin ensimmäinen runojalka ovat aina kaksitavuisia.
+Kalevalamitan kaikki runojalat ovat (kolmi- ja nelitavuisia poikkeuksia lukuun ottamatta) trokeita. Trokee on kaksitavuinen runojalka, jossa runopaino on tavuista ensimmäisellä. Tätä runojalan ensimmäistä tavua sanotaan runojalan nousuksi. Vastaavasti runojalan jälkimmäinen tavu on sen lasku.
+Suomen kielessä sanan pääpaino on aina sen ensimmäisellä tavulla, ja tällaisen pääpainollisen tavun sijoittuminen säkeeseen riippuu siitä, onko se pitkä vai lyhyt. Tavut jaetaan lyhyisiin ja pitkiin seuraavasti:
+Lyhyitä ovat tavut, jotka päättyvät lyhyeen vokaaliin: esimerkiksi o, me, na, ki, ta, ra, u, pe, a.
+Pääsääntö koskee sanan ensimmäisen tavun eli ensitavun sijoittumista muissa kuin ensimmäisessä runojalassa. Yhdyssanojen jokaisen yhdysosan on noudatettava pääsääntöä, eli yhdyssanojen osia käsitellään kuin itsenäisiä sanoja.
+siitä / päivän / kiinni / saapi.Jos ensitavu on runojalan laskussa, sen on oltava lyhyt.
+ne koh/ta ko/tihin / saattoi.Säettä, jossa kaikki ensitavut ovat runojalan nousussa, sanotaan tasasäkeeksi (vanhempia nimityksiä perussäe, normaalisäe): paha / päivä / parran / päällä - Pohjan /  akka / harva/hammas - sini/sukka / äijön / lapsi - vaka / vanha / Väinä/möinen.
+Säettä, jossa ainakin yksi runojalka on murrettu eli pääpainollinen tavu on runojalan laskussa, sanotaan murtosäkeeksi (vanhempi nimitys murrelmasäe): laski / laulel/len ve/siä - selväl/lä me/ren se/lällä. Kalevalassa on lähes 300 sellaista murtosäettä, joissa sanojen kolmekin alkutavua joutuvat koronpoljennan kohteeksi: ja kai/ken e/lon vä/hyyttä - ei tääl/lä si/nun si/joa - ei ol/lut ve/no ko/toinen.
+Hyvässä kalevalamittaisessa runossa tasa- ja murtosäkeitä on suunnilleen yhtä paljon.
+Säkeen ensimmäinen runojalka on muodoltaan muita vapaampi. Sen ei tarvitse noudattaa pääsääntöä. Siinä voi myös olla kolme tai poikkeuksellisesti jopa neljä tavua. Jos ensimmäisessä runojalassa on enemmän kuin kaksi tavua, niiden olisi kuitenkin hyvä olla mahdollisimman kevyitä, mieluiten pääosin lyhyitä tavuja.
+Yksitavuisten sanojen ei tarvitse noudattaa pääsääntöä, vaan ne voivat sijoittua säkeessä mihin tahansa paitsi viimeiseen runojalkaan. Jos samassa runojalassa on kaksi yksitavuista sanaa, niistä pitempi tai muuten painokkaampi sijoittuu kuitenkin mieluummin nousuun ja lyhyempi tai painottomampi laskuun.
+Toinen ja kolmas runojalka eivät voi muodostua yhdestä nelitavuisesta sanasta. Yhdyssana tässä asemassa on kuitenkin sallittu. 
+Säännön nimi tulee siitä, että se määrää jättämään tasasäkeen puoliväliin sanajaon eli niin sanotun taitteen eli kesuuran.
+Säkeen viimeinen tavu ei saa olla pitkävokaalinen. Säe ei myöskään voi loppua yksitavuiseen sanaan.
+Viskurilaki ei ole sääntö vaan suositus. Sen mukaan pitemmät sanat pyrkivät viskautumaan säkeen loppupuolelle ja lyhyemmät sanat jäävät mieluummin säkeen alkuosaan. Erityisesti viisitavuiset ja pitemmät sanat tulisi sijoittaa säkeen loppuun, jos se on pääsääntöä noudattaen mahdollista.
+Alkusointu on yleensä säkeensisäinen tyylikeino. Vahvassa alkusoinnussa vähintään kaksi säkeen sanaa alkaa samalla konsonantin ja vokaalin yhdistelmällä, tai samalla vokaalilla:
+aivoni ajattelevi.Heikossa alkusoinnussa sanat ovat silloin, kun ne alkavat joko eri vokaaleilla tai samalla konsonantilla:
+tule tänne tarvittaissa!Kaikissa säkeissä ei tarvitse olla heikkoakaan alkusointua, ja useimmiten alkusoinnutettujen säkeiden sanoista vain kaksi on alkusoinnussa keskenään. Alkusoinnun ohella voi käyttää sisäsointua: siitä on kysymys, kun säkeen sanoissa on äänteellistä samankaltaisuutta muualla kuin alussa. Säkeiden loppusointuisuuteen kalevalamitassa ei periaatteessa pyritä. Loppusointua tosin muodostuu usein kerron vaikutuksesta, kun peräkkäisten säkeiden loppusanat ovat muoto-opillisesti samankaltaisia.
+Yksinkertaisimmillaan kerto tarkoittaa saman asian sanomista toisin sanoin peräkkäisissä säkeissä, mutta tähän tyylikeinoon kuuluu paljon muutakin. Peräkkäisissä säkeissä voidaan ilmaista kaksi eri näkökantaa asiaan tai niiden vastakohdat. Kerto voi joskus olla myös säkeen sisäistä, koostua useamman säkeen ryhmistä tai muodostaa luetteloita. Kalevalassa kertoa on käytetty paljon runsaammin kuin kansanrunoissa tai uudemmassa kalevalamittaisessa runoudessa.
+Anttonen, Pertti 1994: Ethnopoetic Analysis and Finnish Oral Verse. – Siikala, Anna-Leena & Vakimo, Sinikka (ed.): Songs beyond the Kalevala. Transformations of Oral Poetry. Helsinki: SKS, 113–37.
+Korhonen, Mikko 1987: Kalevalamitan varhaishistoriaa. Helsinki: Suomalais-Ugrilaisen Seuran aikakauskirja 81
+Kuusi, Matti 1952: Kalevalaisen säkeen, säeryhmän ja runon painavoituvuudesta. – Virittäjä 56, 241–261.
+Kuusi, Matti 1985/1979: Kalevalakielestä. – Perisuomalaista ja kansainvälistä. SKS:n Tietolipas 99. Helsinki: WSOY, 184–197. [Alk. Pielisen balladi ja muuta Pohjois-Karjalan kesäyliopiston "Runoriihi" 1987 -kilpailun satoa, 7–20.]
+Laitinen, Heikki 2003: Matkoja musiikkiin 1800-luvun Suomessa. Tampere: Tampere University Press.
+Lauerma, Petri 2002: Larin Parasken epiikan kielellisestä variaatiosta. Suomi 189. Helsinki: SKS.
+Leino, Pentti 1986: Language and metre. Metrics and the metrical system of Finnish. SF 31. Helsinki: SKS.
+Leino, Pentti 1994: The Kalevala Metre and its Development. – Siikala, Anna-Leena & Vakimo, Sinikka (ed.): Songs beyond the Kalevala. Transformations of Oral Poetry. Helsinki: SKS, 56–74.
+Leisiö, Timo 2000. Metri, rytmi, metrinen tyhjiö ja musiikillinen aika. – Musiikin suunta 2, 14–24.
+Niemi, A. R. 1922/1918: Vanhan suomalaisen runomitan synnystä. Suomi IV: 19. Helsinki: SKS.
+Oras, Janika 2004: Helmi Villa regilauluviisid – korrastatud mitmesesisus. – Mari Sarv (toim.): Regilaulu – loodud või saadud? Tartu: Eesti Kirjandusmuuseum. Eesti Rahvaluule Arhiiv, 89–121.
+Porthan, Henrik Gabriel 1983: Suomalaisesta runoudesta. Kääntänyt ja johdannon kirjoittanut Iiro Kajanto. Helsinki: SKS. [De Poësi Fennica 1766-1778].
+Sarv, Mari 1998: Language and poetic metre in regilaul (runo song). – Folklore. An Electronical Journal of Folklore 7. Tarto: Institute of the Estonian Language & Estonian Folklore Archives. http://haldjas.folklore.ee/folklore/vol7/maripar.htm [1.7.2006]
+Ravila, Paavo 1935: Vanhan suomalaisen runomitan probleema. – Virittäjä, s. 35–44.
+Timonen, Senni 2004: Minä, tila, tunne. Näkökulmia kalevalamittaiseen lyriikkaan. Helsinki: SKS.
+Väisänen, A. O. 1990/1944b: Kalevalanmitta ja runosävelmät. – Erkki Pekkilä (toim.): Hiljainen Haltioituminen. A. O. Väisäsen tutkielmia kansanmusiikista. Helsinki: SKS, 95–102. [Vir. 3.]
+Insinööri Ilmarinen: Kylähullun Kalevala.   Helsinki: Kylähullu-kirjat, R. Varis, 2001. ISBN 952-91-4112-2.    
+Insinööri Ilmarinen: Kylähullun kanteletar.   Helsinki: Kylähullu-kirjat, 2004. ISBN 952-91-6880-2.    
+Keskimäki, Tuomas: Yö vain ylläni lepäsi.   Helsinki: Salakirjat, 2010. ISBN 978-952-5774-13-9.    
+Keskimäki, Tuomas: Suohon eksynyt.   Helsinki: Salakirjat, 2012. ISBN 978-952-5774-21-4.    
+Murto, Aulis: Siitä syntyi Suomen laulu: Runokokoelma Kalevalan runokielellä.   Helsinki: Books on Demand, 2008. ISBN 978-952-498-147-7.    
+Niikko, Petri (toim.): Suomen kansan uusi runorumpu: Uusia kalevalaisia runoja 1900-luvun lopulta. Koonnut ja toimittanut Petri Niikko. Maalaukset ja grafiikka: Eeva Jokipelto ym.  Espoo: Vienan Karjalan ystävät, 1999. ISBN 951-98303-0-8.    
+Niikko, Petri (toim.): Runoräppänä: Suusta suuhun tarttuvia lauluja emolevyiltä: 186 suomalaisen runomitan helmeä. Koonnut ja toimittanut Petri Niikko.  Espoo: Vienan Karjalan ystävät, 2004. ISBN 951-98303-1-6.    
+Pääkkönen, Irmeli: Näitä kiviä.   Oulu: Pohjoinen, 1996. ISBN 951-749-280-4.    
+Rintala, Aulis (toim.): Suomalaisella mitalla, Kalevalan poljennolla. Kuvitus: Raija Kukkonen. Julkaisija: Kalevalaisen runokielen seura.  Tampere: Pilot-kustannus, 2004. ISBN 952-464-189-5.    
+Rintala, Aulis: Hölmöläisten valtakunta.   Tampere: Satukustannus, 2005. ISBN 951-866-693-8.    
+Rintala, Aulis: Kalevala eteläpohjalaisella murteella.   Tampere: Lumo, 2008. ISBN 978-952-5491-36-4.    
+Rintala, Aulis: Kalevala nykysuomeksi.    Pilot-kustannus, 2006. ISBN 952-464-408-8.    
+Rintala, Aulis: Kalevalamitan opas urbaanille runoniekalle. Julkaisija: Kalevalaisen runokielen seura KaRuSe.  Tampere: Uno-soft, 1999. ISBN 951-98185-0-2.    
+Rintala, Aulis: Kullervo pohojalaanen: Kalevalan Kullervo-taru Etelä-Pohjanmaan murteella. Kääntänyt Aulis Rintala. Kuvitus: Esa Riippa.  Jyväskylä: Atena, 2000. ISBN 951-796-223-1.    
+Survo, Arvo: Suur-Synty Kiesus: Apokryfi Korpikansan Survon Arvon kertomana.   Tampere: Kuvitar, 2006. ISBN 952-5589-06-4.
+Annist, August: Kalevala (koostanud Elias Lönnrot). Kirjastus Eesti Raamat 1985
+Annist, August & Niit, Ellen: Helkalaulud. Eino Leino Kaunimad laulud. Eesti Raamat 1972.
+Grünthal-Ridala, Villem: Sinine kari. Kogu ballaada ja legenda. Noor-Eesti Kirjastus 1930
+Kalevalaisen Runokielen Seura ry Perusteellisempi esitys kalevalamitan käytöstä sekä nykykalevalaisia runoja monen Kalevalan verran.
+Harri Perälän kehittämä Trokeemankeli tarkistaa, noudattavatko siihen syötetyt säkeet klassista kalevalamittaa.

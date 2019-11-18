@@ -1,0 +1,21 @@
+Unicode è un sistema di codifica che assegna un numero univoco ad ogni carattere usato per la scrittura di testi, in maniera indipendente dalla lingua, dalla piattaforma informatica e dal programma utilizzato.
+È stato compilato e viene aggiornato e pubblicizzato dall'Unicode Consortium, un consorzio internazionale di aziende interessate alla interoperabilità nel trattamento informatico dei testi in lingue diverse.
+Incorpora, nella primissima parte, la codifica ISO/IEC 8859-1, ma va molto oltre, codificando i caratteri usati in quasi tutte le lingue vive e in alcune lingue morte, nonché simboli matematici e chimici, cartografici, l'alfabeto Braille, ideogrammi ecc.
+Il codice assegnato al carattere viene rappresentato con U+, seguito dalle quattro (o sei) cifre esadecimali del numero che lo individua. Viene supportato dai moderni standard della programmazione e del markup come XML, Java, JavaScript, LDAP, CORBA 3.0, e da vari sistemi operativi.
+Attualmente non rappresenta ancora tutti i caratteri in uso nel mondo. Essendo ancora in evoluzione, si prefigge di coprire tutti i caratteri rappresentabili, garantendo la compatibilità e la non sovrapposizione con le codifiche dei caratteri già definiti, ma lasciando comunque dei ben precisi campi di codici "non usati", da riservare per la gestione autonoma all'interno di applicazioni particolari.
+Unicode era stato originariamente pensato come una codifica a 16 bit (quattro cifre esadecimali) che dava la possibilità di codificare 65.535 (2^16 -1)  caratteri. Tanto si riteneva essere sufficiente per rappresentare i caratteri impiegati in tutte le lingue scritte del mondo. 
+Ora invece lo standard Unicode, che tendenzialmente è perfettamente allineato con la norma ISO/IEC 10646, prevede una codifica fino a 21 bit e supporta un repertorio di codici numerici che possono rappresentare circa un milione di caratteri. 
+Ciò appare sufficiente a coprire anche i fabbisogni di codifica di scritti del patrimonio storico dell'umanità, nelle diverse lingue e negli svariati sistemi di segni utilizzati.
+Al 2009, solo una piccolissima parte di questa disponibilità di codici è assegnata. Per lo sviluppo dei codici sono infatti previsti 17 "piani" ("planes", in inglese), da 00 a 10hex, ciascuno con 65.536 posizioni (quattro cifre esadecimali), ma solo i primi tre e gli ultimi tre piani sono ad oggi assegnati, e di questi il primo, detto anche BMP, è praticamente sufficiente a coprire tutte le lingue più usate.
+Concretamente, questo repertorio di codici numerici è serializzato mediante diversi schemi di ricodifica, che consentono l'uso di codici più compatti per i caratteri usati più di frequente. È previsto l'uso di codifiche con unità da 8 bit (byte), 16 bit (word) e 32 bit (double word), descritte rispettivamente come UTF-8, UTF-16 e UTF-32.
+Il primo piano (piano 0), il Piano di base multilinguistico (BMP - Basic Multilingual Plane), è quello in cui sono stati assegnati la maggior parte dei caratteri. Il BMP contiene caratteri per quasi tutti i moderni linguaggi e un grande numero di caratteri speciali. La maggioranza dei codici assegnati ai caratteri nel BMP sono stati usati per codificare quelli cinesi, giapponesi e coreani (CJK).
+Unicode comprende quasi tutti i sistemi di scrittura attualmente utilizzati, fra i quali:
+In aggiunta a quelli citati, sono disponibili glifi appartenenti a molte lingue morte:
+Infine, lo Unicode comprende anche molti simboli, come quelli matematici e musicali.
+Negli ultimi anni una nuova versione è stata pubblicata praticamente ogni anno a seguito di una media di oltre 1.000 richieste di cambiamenti all'anno.
+DP 10646 1989 (Proposta di bozza della norma ISO 10646, indipendente dall'Unicode)
+DIS-1 10646 1990 (Prima bozza della norma ISO 10646, indipendente dall'Unicode)
+Unicode 1.0.1 giugno 1992 (Modificato per un eventuale allineamento alla norma ISO 10646)
+Unicode 1.1.0 giugno 1993 (Unicode e ISO unificate per la prima volta: i due codici sono identici allo standard ISO 10646-1: 1993)
+(EN)   Indice dei dati Unicode e dei dati Java, su fileformat.info. URL consultato il 20 Maggio 2018.
+(EN)  http://www.joelonsoftware.com/articles/Unicode.html Joel on software: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets

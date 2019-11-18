@@ -1,0 +1,23 @@
+Těleso ponořené do tekutiny, která je v klidu, je nadlehčováno silou rovnající se tíze tekutiny stejného objemu, jako je ponořená část tělesa.
+Je to zákon statiky, platí pro tekutiny v rovnováze. V proudící tekutině působí (kromě statické vztlakové dané A. zákonem) další síly, odporové a dynamické vztlakové.
+  .Toto odvození zůstává v platnosti i pro plyny. To podstatné je, že v nich tlak také klesá vlivem tíhové síly směrem dolů, takže síla působící na dno tělesa je větší než na horní stěnu. Na rozdíl od kapalin se však hustota plynů mění (v závislosti na nadmořské výšce), což však u těles běžných rozměrů nevadí.
+Mějme těleso, jako na úvodním obrázku, na které vlivem tlaku vody působí dvě síly (ostatní se vyruší). Protože síla F´´ působí ve větší hloubce, je logicky větší, tudíž převáží sílu F´. Rozdíl je tedy právě síla vztlaková. Síla vztlaková působí vždy nahoru.
+    {\displaystyle F_{vz}=\varrho \cdot g\cdot h''\cdot S-\varrho \cdot g\cdot h'\cdot S}
+Dostáváme tak následující možné případy výsledné síly, která působí na tuhé těleso.
+  )Tíhová síla, která působí na těleso, je větší než hydrostatická vztlaková síla. Výslednice sil směřuje dolů a těleso uvolněné z klidu tedy klesá.hustota tuhého tělesa je stejná jako hustota kapaliny (
+  )Tíhová síla je stejná jako hydrostatická vztlaková síla, má opačný směr, ale obecně jiné působiště, takže může vzniknout dvojice sil. Těleso uvolněné z klidu se v kapalině vznáší, tzn. nestoupá ani neklesá. Je sice v rovnováze sil, ale výsledný moment tíhové a vztlakové síly může být nenulový a tělesem otáčet.hustota tuhého tělesa je menší než hustota kapaliny (
+  )Tíhová síla působící na těleso je menší než hydrostatická vztlaková síla. Výslednice sil směřuje vzhůru, což způsobuje, že těleso uvolněné z klidu stoupá k volné hladině kapaliny, kde v rovnováze plave (jeho část se vynoří nad povrch kapaliny).
+Tíhová síla působící na těleso, které plave na hladině, je v rovnováze s hydrostatickou vztlakovou silou, která působí na ponořenou část tělesa. Je-li 
+Objem ponořené části tělesa je tím větší, čím menší je hustota kapaliny. Např. hustota ledu je asi 90 % z hustoty vody, a proto je z něj (v rovnováze) 90 % ponořeno (např. u plovoucích ledových ker). Tento princip se využívá k měření hustoty kapalin pomocí hustoměrů.
+Těleso nemusí být homogenní, jedná se zde o jeho průměrnou hustotu. Např. lodě mají uvnitř tolik vzduchu, že jejich průměrná hustota je nižší, než hustota vody a proto plavou.
+Na principu hydrostatického vztlaku fungují plavidla, např. lodě a ponorky, na principu aerostatického vztlaku fungují například balóny a vzducholodě.
+Na principu Archimédova zákona fungují hustoměry sloužící k měření hustoty kapalin. Vážením pevných těles ponořených do kapaliny lze určovat jejich hustotu.
+Celková (vztlaková) síla, jíž působí tekutina na povrch tělesa do ní ponořeného, je dána z definice tlaku p jeho integrálem přes povrch tělesa,
+    {\displaystyle {\vec {F}}_{\mbox{vz}}=-\oint _{\partial {\mathcal {V}}}p\,\mathrm {d} {\vec {S}}.}
+Minus je tam proto, že povrch je dle integračních konvencí orientován směrem ven. Podle integrální zobecněné Stokesovy věty platí
+    {\displaystyle \oint _{\partial {\mathcal {V}}}p\,\mathrm {d} {\vec {S}}=\int _{\mathcal {V}}\operatorname {grad} p\,\mathrm {d} V}
+    {\displaystyle {\vec {F}}_{\mbox{vz}}=-\int _{\mathcal {V}}\rho {\vec {g}}\mathrm {d} V=-\int _{\mathcal {V}}{\vec {g}}\mathrm {d} m=-{\vec {F}}_{G}}
+   je tíhová síla, která by působila na tekutinu v rovnováze zaujímající prostor tělesa.
+Představme si, že část tělesa ponořenou do tekutiny nahradíme toutéž tekutinou. Pokud je tekutina v klidu, v rovnováze, tak velikost celkové síly, kterou na ni působí okolní tekutina, musí být rovna velikost tíhové síly tekutiny tělesem vytlačené, ale její směr je opačný.
+Zákon je pojmenován podle řeckého matematika a fyzika Archiméda. K objevu se váže historka, podle níž Archimédés přišel na jeho podstatu při koupeli. Přemýšlel, jak odhalit podvod klenotníka, který nahradil zlato v královské koruně za jiný, méně ušlechtilý kov. Samotná myšlenka jej napadla při pozorování hladiny vody ve vaně, do které se ponořil. Objev jej prý uvedl do takového tranzu, že pobíhal nahý po městě s výkřiky „Heuréka!“ (Našel jsem!).
+Jozef Kvasnica, Antonín Havránek, Pavel Lukáč, Boris Sprušil: Mechanika. 2. vydání, Praha: Academia, 2004, ISBN 80-200-1268-0
