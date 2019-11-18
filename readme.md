@@ -9,10 +9,6 @@ The first 500 to 1000 pairs should have you covered sufficently, see (4) for det
 
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
 
-![Relevant kerning pairs sorted by frequency of occurrence](charts/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")
-![Filtered by page and book](charts/images/05a-pie-chart.png "Filtered by page and book")
-![Filtered kerning pairs](charts/images/05-pie-charts.png "Filtered kerning pairs")
-
 
 ## (1) Popular kerning pairs 
 Let’s start by looking at kern tables of existing fonts to collect more or less common kerning pairs statistically. As a sample I was content with the about 2700 font files of the [Google Fonts Archive](https://github.com/google/fonts). But you can apply this script to any font collection you might want to look at yourself. It uses parts of the [Adobe Type Tools](https://github.com/adobe-type-tools/kern-dump), see directory "kernDump". **72377** unique kerning pairs were used in these fonts. This means, for the set of 286 characters considered, dazzling **88 %** of the possible 81796 combinations are (more or less) used. 
@@ -102,6 +98,9 @@ From personal experience of setting cultural science texts most often, I would l
 ## Notes
 Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by interpunctuation ones.
 
+![Filtered by page and book](charts/images/05a-pie-chart.png "Filtered by page and book")
+![Filtered kerning pairs](charts/images/05-pie-charts.png "Filtered kerning pairs")
+
 The Google Fonts kern dump collected 88 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. If you are going to kern every pair of letters anyway, couldn't you do without the spacing? Feels like a dead end, especially because I ended up with 1000 to 2000 relevant kerning pairs only.
 
 Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphs) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow. <!-- Frage -->
@@ -113,6 +112,11 @@ I try to avoid overengineering here. The key components were written on a couple
 
 ## Code quality
 Sorry, these scripts are neither fully PEP8 compliant, nor following the Python naming conventions fully. Variable names are self explaining, but long (CamelCase). As a compromise I tend to favor slightly longer lines over forced line breaks for a better code overview. Do not hesitate to propose better (shorter) variable names and simplified, accessible code.
+
+
+![Relevant kerning pairs sorted by frequency of occurrence](charts/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")
+
+
 
 <!--
 To Do:
