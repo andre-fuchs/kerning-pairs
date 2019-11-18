@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: unicodedata2
+Version: 12.0.0
+Summary: Unicodedata backport for python 2/3 updated to the latest unicode version.
+Home-page: http://github.com/mikekap/unicodedata2
+Author: Mike Kaplinskiy
+Author-email: mike.kaplinskiy@gmail.com
+License: Apache License 2.0
+Download-URL: http://github.com/mikekap/unicodedata2
+Platform: any
+
+UNKNOWN
+
+

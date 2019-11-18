@@ -1,0 +1,5 @@
+Universal Polar Stereographic (UPS) er et koordinatsystem som brukes for å angi posisjoner på jordoverflaten i polarområdene. UPS brukes i kombinasjon med UTM-koordinater, som brukes i resten av verden, men som ikke kan brukes ved polene.
+Posisjonene angis som rettvinklete kartplanskoordinater. Det brukes en stereografisk projeksjon, og jorda antas å ha samme form som ellipsoiden i WGS84. En målestokkfaktor på 0,994 brukes i polpunktet. Koordinatene kalles nord og øst, men måles fra en origo som ligger 2 000 000 m sør eller nord og 2 000 000 m vest for polen. UPS brukes sør for 80° sør og nord for 84° nord.
+I Military grid reference system er den vestlige halvsirkelen i sør belte A, den østlige i sør B, den vestlige i nord Y og den østlige i nord Z.
+«Defense Mapping Agency Technical Manual 8358.1 Datums, Ellipsoids, Grids, and Grid Reference Systems» (PDF). Defense Mapping Agency. 1990. 
+«TM8358.2: The Universal Grids: Universal Transverse Mercator (UTM) and Universal Polar Stereographic (UPS)» (PDF). Defense Mapping Agency. 1989.

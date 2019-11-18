@@ -1,0 +1,48 @@
+Eukleidovská (někdy také elementární nebo Eukleidova) geometrie je založena na definicích a axiomech, které publikoval Eukleidés v díle Základy (lat. Elementa).
+Eukleidés se v Základech věnuje nejen geometrii, ale také měření a teorii čísel. Geometrie však byla jeho axiomatickým přístupem ovlivněna pravděpodobně nejvíce, proto dnes bývá Eukleidés spojován především s rozvojem geometrie.
+Dílo se skládá celkem ze 13 knih. Knihy I-VI jsou věnovány rovinné geometrii, knihy VII-IX jsou aritmetické a část jejich výsledku je aplikována na studium iracionalit v knize X. Knihy XI-XIII se zabývají prostorovou geometrií neboli stereometrií. Na začátku každé knihy jsou uvedeny definice (výměry) užívaných pojmů.
+První kniha vypracovává teorii trojúhelníku a rovnoběžníku. Na začátku první knihy jsou uvedeny i obecné principy (axiomy) a postuláty platné pro celé dílo.
+Nejsou to definice, jak je dnes chápeme, tj. vymezit nový termín nějakými již definovanými pojmy. V ideálním geometrickém světě nebylo čím vymezovat; tam totiž bylo vše nové, dosud nepojmenované.Jedná se o seznam velmi nepřímých popisů, které nám mají usnadnit pojmenování základních druhů geometrických objektů názvy.
+Navozujeme příslušné druhy geometrických objektů prostřednictvím pojmů vytvořených pro jim podobné jevy reálného světa.
+Když se postaví úsečka na úsečku tak, že vytváří navzájem stejně velké sousední úhly, je každý z těchto stejně velkých úhlů pravý a úsečky jsou k sobě kolmé.
+Kruh je rovinný útvar ohraničený jednou čarou (nazývanou kružnice), a to tak, že všechny úsečky, které jsou k ní vedeny z jednoho bodu, se navzájem rovnají.
+Průměr kruhu je úsečka vedená středem a končící na obou stranách kružnicí; průměr rovněž dělí kruh napůl.
+Přímočaré útvary jsou ohraničeny úsečkami; trojúhelník je ohraničen třemi úsečkami, čtyřúhelník čtyřmi a mnohoúhelník více než čtyřmi.
+Rovnostranný trojúhelník má všechny strany stejně dlouhé; rovnoramenný trojúhelník má jen dvě strany stejné, nepravidelný trojúhelník má tři nestejné strany.
+Pravoúhlý trojúhelník má pravý úhel; tupoúhlý trojúhelník má tupý úhel; ostroúhlý trojúhelník má tři ostré úhly.
+Čtverec je čtyřúhelník, který má všechny strany stejně dlouhé a úhly všechny pravé; obdélník je sice pravoúhlý, avšak není rovnostranný; kosočtverec je rovnostranný, ale není pravoúhlý; kosodélník má protější strany i úhly navzájem stejné, není však ani rovnostranný ani pravoúhlý.
+Rovnoběžky jsou takové úsečky, které leží v téže rovině a jejichž jakákoliv prodloužení se neprotínají.
+Jestliže úsečka protíná dvě úsečky tak, že na jedné straně je součet vnitřních přilehlých úhlů menší než dva pravé úhly, pak lze na této straně úsečky prodloužit tak, aby se tato jejich prodloužení protla.Eukleidovskou konstrukcí rozumíme takovou konstrukci, jejíž jednotlivé kroky jsou prováděny výhradně dle postulátů 1-3.
+Poslední postulát se dnes formuluje též takto: K dané přímce a bodu, který na ní neleží, lze sestrojit právě jednu rovnoběžku, která prochází daným bodem (tzv. postulát rovnoběžnosti).
+Nejedná se o axiomy v dnešním slova smyslu, ale spíše o všeobecně platná pravidla – zřejmé pravdy v ideálním antickém světě.
+Jestliže dva trojúhelníky mají shodné dvě strany i úhel jimi sevřený, pak jsou tyto trojúhelníky shodné. Mají shodné všechny strany i úhly. (sus)
+V rovnoramenném trojúhelníku jsou úhly při základně shodné. Prodloužíme-li shodné strany (ramena), úhly pod základnou budou též shodné.
+Shodují-li se dva trojúhelníky ve všech třech sobě odpovídajících stranách, pak mají shodné i všechny úhly (sss).
+Když mají dva úhly společnou úsečku a jejich součet je rovný dvěma pravým úhlům, pak leží zbývající ramena úhlu v jedné úsečce.
+Prodloužíme-li stranu trojúhelníku, bude vždy vnější úhel větší než kterýkoliv protější úhel vnitřní.
+Když z vrcholů jedné ze stran trojúhelníku sestrojíme úsečky, jež se protínají uvnitř trojúhelníka, bude součet těchto úseček menší než součet zbylých dvou stran trojúhelníku, budou však svírat větší úhel.
+Sestrojte trojúhelník daný velikostmi tří stran. Nutnou podmínkou je, aby součet kterýchkoliv dvou stran byl větší než strana zbývající.
+Jestliže mají dva trojúhelníky shodné dvě strany a úhel jimi sevřený je různý, pak jsou i zbývající strany různé.
+Jestliže mají dva trojúhelníky shodné dvě strany a třetí stranu různou, pak je také různý úhel sevřený shodnými stranami.
+Shodují-li se dva trojúhelníky ve dvou úhlech a jedné straně, pak mají shodné i zbývající strany a úhly. (usu)
+Protíná-li úsečka dvě rovnoběžky, pak jsou souhlasné i střídavé úhly rovné. Součet souhlasného a střídavého úhlu je rovný dvěma pravým úhlům.
+V každém trojúhelníku se vnější úhel, prodlouží-li se jedna ze stran trojúhelníku, rovná dvěma protilehlým vnitřním úhlům a součet všech tří vnitřních úhlů je rovný dvěma pravým úhlům.
+Úsečky spojující krajní body dvou shodných rovnoběžných úseček na stejné straně jsou také samy shodné a rovnoběžné. 
+Trojúhelníky se stejným obsahem a společnou základnou musí na téže straně ležet mezi společnými rovnoběžkami.
+Trojúhelníky se stejným obsahem a shodnou základnou musí na téže straně ležet mezi společnými rovnoběžkami.
+Když má trojúhelník s rovnoběžníkem společnou základnu a jsou-li sestrojeny mezi týmiž rovnoběžkami, má rovnoběžník dvakrát větší obsah než trojúhelník.
+Sestrojte rovnoběžník se stejným obsahem jako daný trojúhelník, je-li dán jeho vnitřní úhel.[řešení]
+Sestrojte rovnoběžník se stejným obsahem jako daný trojúhelník, je-li dán jeden jeho úhel a jedna strana.[řešení]
+Sestrojte rovnoběžník se stejným obsahem jako daný čtyřúhelník, je-li dán jeho vnitřní úhel. [řešení]
+V pravoúhlém trojúhelníku se obsah čtverce proti pravému úhlu rovná součtu obsahů čtverců u pravého úhlu. (Pýthagorova věta, při důkazu se objevuje formulace Eukleidovy věty o odvěsně.) [řešení]
+Jestliže v trojúhelníku obsah čtverce u jedné ze stran se rovná součet obsahů čtverců u zbývajících dvou stran trojúhelníku, pak úhel mezi těmito zbývajícími dvěma stranami je pravý. (Eukleidés toto tvrzení dokazuje pomocí předchozí věty).
+Věta 11: Rozdělte danou úsečku tak, aby se obsah obdélníka z celé a kratší části úsečky rovnal obsahu čtverce nad delší části úsečky. (Rozdělení úsečky zlatým řezem.)řešení
+Věta 12: V tupoúhlém trojúhelníku je čtverec strany proti tupému úhlu rovný součtu čtverců nad zbývajícími stranami zvětšenému o dvojnásobek obsahu obdélníka tvořeného ramenem tupého úhlu a jeho pravoúhlým průměten na vnější úsečku druhého ramena. (Kosinová věta pro tupoúhlé trojúhelníky.)
+Věta 13: V ostroúhlém trojúhelníku je čtverec strany proti jednomu úhlu rovný součtu čtverců nad zbývajícími stranami zmenšenému o dvojnásobek obsahu obdélníka tvořeného ramenem tohoto úhlu a jeho pravoúhlým průměten na vnitřní úsečku druhého ramena. (Kosinová věta pro ostroúhlé trojúhelníky.)
+Věta 14: Sestrojte čtverec, jenž má stejný obsah jako daný čtyřúhelník. (Při odvození je dokázána Eukleidova věta o výšce.) [řešení]
+Celá kniha je věnována kruhu a jeho vlastnostem. Elementárním vlastnosti úseček v kruhu jsou popsány větami 1-4, 7-9 a 14-15. Vzájemný vztah dvou kruhů, zvláště jejich dotyk, je studován ve větách 5,6,10-13. Tečna je zkonstruována a studována ve větách 16-19. Věty 20-34 jsou věnovány vlastnostem středového a obvodového úhlu, mocnost bodu ke kružnici je popsána ve větách 35-37.
+Věta 20: V kruhu je úhel při středu dvojnásobkem úhlu při kružnici, pokud mají úhly za základnu týž oblouk.
+Všech 16 vět tvoří problémy vepisování útvarů do kruhu. Postupně je do kruhu umístěna úsečka dané délky, trojúhelník podobný danému trojúhelníku, čtverec a pravidelný pětiúhelník, šestiúhelník a desetiúhelník. Dále jsou tyto útvary kruhu opsány
+Věta 10: Sestrojte rovnoramenný trojúhelník, jehož úhly při základně jsou dvakrát větší než úhel při zbývajícím vrcholu. řešení
+HEATH, Thomas. The Thirteen Books of Euclid's Elements. New York: Dover Publications, 1956. Dostupné online.
+ŠÍR, Zbyněk. Řecké matematické texty. Praha : Oikoymenh, 2011. 570 s. ISBN 978-80-7298-308-7. (česky)

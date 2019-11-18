@@ -1,0 +1,3 @@
+|laiks_no   = {{dat|xxxx|xx|xx|G|bez}} <!-- Raksta kandidatūras izvirzīšanas datums -->
+|laiks_līdz = {{dat|xxxx|xx|xx|D|bez}} <!-- Raksta kandidatūras apstiprināšanas vai noraidīšanas datums -->
+|saite      = Vērtīgu rakstu kandidāti/Arhīvs/... <!-- Iekšējā saite uz balsojumu bez sākuma daļas "Vikipēdija:" -->

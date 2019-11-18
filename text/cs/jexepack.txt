@@ -1,0 +1,10 @@
+Jexepack je v informatice program, který umožňuje vytváření z jakéhokoliv programu v Javě, komprimovaný 32bitový soubor typu .EXE, který lze spustit v operačním systému Windows. Tento exe soubor pak pracuje přesně tak, jak chceme tedy přesně stejně jako kterýkoli jiný program a umožňuje tedy i využití AWT, Swing (Java) nebo JavaFX. Podmínkou je mít nainstalovaný Jexepack minimálně v takové verzi, kterou vyžaduje právě používaná Java verze. V logickém důsledku to znamená, že aplikace JexePack neřeší problematiku snadnějšího šíření programů v Javě, protože je přímo závislý na nainstalovaném JRE.
+Skrytí veškerých programových souborů – hlavně .class před případnou rekompilací nebo neoprávněným zásahem.
+Aplikace JexePack podporuje přímé přiřazení ikony – .ico. V .jar lze ikonu řešit nepřímo přes Java Web Start
+plnohodnotné verze stojí $99.95. Ovšem je možné si zdarma stáhnout neregistrovanou verzi, která  má svá určitá omezení. Zejména, že při každém spuštění .exe souboru se nejdříve zobrazí okénko.
+Na cílovém počítači musí být vždy nainstalován příslušný Java Virtual Machine, jinak program nebude fungovat.
+Program funguje na principu zaarchivování všech zadaných souborů. Při spuštění se vytvoří podadresář v adresáři Temp windows, který obsahuje soubor jexepackboot.class. Ten dále extrahuje programové soubory do stejného adresáře. Po ukončení programu se celý adresář automaticky smaže.
+Závádění větších programů trvá déle, protože soubory se musí nejdříve extrahovat. Proto se program stává trochu nepoužitelný pro větší programy.
+Vytváření .exe souborů z programů v Javě, přes aplikaci Jexepack je vhodný pro menší programy, především
+Je třeba vytvořit přímo spustitelný soubor HelloWorldWindow.jar, pro který použijeme ikonu. Samotné vytvoření souboru HelloWorldWindow.exe pak představuje následující příkaz: 
+ jexepack.exe /out:HelloWorldWindow.exe /main:HelloWorldWindow.jar /minver:1.5 /jar:HelloWorldWindow.jar /icon:HelloWorld.ico /w HelloWorldWindow.jar

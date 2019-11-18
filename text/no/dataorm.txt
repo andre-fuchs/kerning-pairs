@@ -1,0 +1,5 @@
+Dataorm er en variant av et datavirus som ikke trenger noen vert for spredning. Den har de mekanismer selv som trengs for spredning, men opptrer forøvrig på samme måte som et datavirus.
+I tillegg til reproduksjon, kan både virus og ormer ha andre funksjoner. De kan være harmløse, og ikke ha annen funksjon enn spredning, til svært destruktive ved å slette alle data på harddisk og alle lagringsmedia som senere settes inn i maskinen. De kan være tidsbomber som går av på en gitt tid, eller logiske bomber som går av under en gitt forutsetning eller handling. Ofte er ormer benyttet for å avlytte brukeres passord og for å skaffe kontroll, og ta over maskinen. Ofte spres de gjennom e-post, og sender seg selv videre til alle på adresselista i e-postprogrammet. Det minste kjente dataviruset er på 13 byte.
+The Wildlist – liste over virus og dataormer «i det fri», dvs funnet av datasikkerhetsselskaper (engelsk)
+Jose Nazario diskuterer dataormer – oversikt over dataormer av en kjent sikkerhetsekspert (engelsk)
+Vernalex.com veiledning for å fjerne dataorm – informasjon om bakgrunn for dataormer, hvordan fjerne de og forebygging (engelsk)

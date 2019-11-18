@@ -1,0 +1,8 @@
+Hvězdný vítr je ustálený proud částic směřující z povrchu hvězdy do mezihvězdného prostředí. Prostřednictvím hvězdného větru může hvězda ztratit podstatnou část své hmotnosti.
+Koronální vítr se vyskytuje u chladných hvězd hlavní posloupnosti (mezi něž patří i naše Slunce). Tyto hvězdy mají horkou korónu. Velikost tepelné rychlosti nejrychlejších částic koróny převyšuje únikovou rychlost z povrchu hvězdy. Tyto částice unikají z blízkosti hvězdy a vytvářejí hvězdný vítr koronálního typu. Z makroskopického pohledu je koronální hvězdný vítr důsledkem rozpínání horké koróny.
+Nejjednodušším modelem koronálního hvězdného větru je tzv. Parkerův model hvězdného větru. Pokud předpokládáme, že hvězdný vítr je izotermický, pak za předpokladu sférické symetrie je možné pohybovou rovnici hvězdného větru zapsat jako
+    {\displaystyle v{\frac {{\text{d}}v}{{\text{d}}r}}=-{\frac {a^{2}}{\rho }}{\frac {{\text{d}}\rho }{{\text{d}}r}}-{\frac {GM}{r^{2}}},}
+   hmotnost hvězdy. Členy na pravé straně představují gradient tlaku plynu, který vede k expanzi větru a gravitační zrychlení. S užitím rovnice kontinuity můžeme tuto rovnici přepsat jako
+    {\displaystyle v{\frac {{\text{d}}v}{{\text{d}}r}}(1-{\frac {a^{2}}{v^{2}}})={\frac {2a^{2}}{r}}-{\frac {GM}{r^{2}}}.}
+Koronální hvězdný vítr je tedy možný pouze v oblastech, kde je rychlost zvuku srovnatelná s únikovou rychlostí, tedy v koróně hvězd.
+Parker, E. N.: Dynamics of the Interplanetary Gas and Magnetic Fields, 1958, Astrophysical Journal, 128, 664

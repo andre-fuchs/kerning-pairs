@@ -1,0 +1,6 @@
+Úhlová velikost objektu je úhel měřený pozorovatelem mezi krajními body objektu. 
+Obvyklé použití je v astronomii, kde se používá i termín úhlový průměr nebo zdánlivý průměr pro úhlovou velikost hvězdných těles (jde o úhlovou velikost tělesům a jevům průměru opsaného kruhu).
+S úhlovou velikostí souvisí i astronomická jednotka parsek (značka pc): Jeden parsek je vzdálenost, z které je úhlová velikost poloměru oběžné dráhy Země (cca 150 milionu km) rovna 1" (jedné úhlové vteřině). Respektive objekt ve vzdálenosti 1 pc se bude jevit na astronomických snímcích pořízených s odstupem půl roku až o 2 úhlové vteřiny posunutý.
+  , odkud získáme výsledek v radiánech. Úhlová velikost je potom přímo úměrná velikosti objektu a nepřímo úměrná jeho vzdálenosti od pozorovatele.
+    {\displaystyle \delta =2\arcsin \left({\frac {1}{2}}\,d_{\mbox{act}}/D\right);}
+V tomto článku byl použit překlad textu z článku Angular diameter na anglické Wikipedii.

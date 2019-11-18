@@ -1,0 +1,4 @@
+FTIR je zkratka z angl. Fourier transform infrared (spectroscopy) označující spektroskopickou techniku.
+Metoda je založena na absorpci infračerveného záření při průchodu vzorkem, při které proběhnou změny rotačně vibračních energetických stavů molekuly v závislosti na změnách dipólového momentu molekuly. Výsledné infračervené spektrum je funkční závislostí energie, většinou vyjádřené v procentech transmitance nebo jednotkách absorbance na vlnové délce dopadajícího záření.
+  Suma se provádí přes všechny frekvence přispívající k signálu pro získání signálu S(t) v časové doméně.
+Ellis, D.I. and Goodacre, R., Metabolic fingerprinting in disease diagnosis: biomedical applications of infrared and Raman spectroscopy, Analyst, 2006(131), 875-885. DOI:10.1039/b602376m

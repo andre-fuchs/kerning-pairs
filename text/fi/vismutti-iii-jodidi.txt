@@ -1,0 +1,3 @@
+Vismutti(III)jodidi (tai vismuttitrijodidi) on vismutin yhdiste jodin kanssa, jossa jodi esiintyy hapetusluvulla −I ja vismutti +III. Näin muodostuva yhdiste on BiI3. Se muodostaa vihreitä heksagonaalisia kiteitä, joiden kiderakenne on samanlainen kuin holmium(III)jodidilla.
+Bi2O3 (s) + 6 HI (aq) → 2 BiI3 (s) + 3 H2O (l)sekä myös vismuttikloridista vastaavalla tavalla, jolloin muodostuu sivutuotteena suolahappoa:
+Vismuttijodidilla on joskus ollut merkitystä kvalitatiivisessa epäorgaanisessa kemiallisessa analyysissä. Liuoksesta voidaan osoittaa Bi3+ -ionien olemassaolo lisäämällä siihen jotain muuta jodin lähdettä kuten kaliumjodidia; jos syntyy musta vismuttijodidisakka, liuoksessa oli vismuttia (vismuttijodidi on lähes veteen liukeamatonta).

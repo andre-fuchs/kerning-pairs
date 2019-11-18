@@ -1,0 +1,2 @@
+En reuleaux-trekant er en geometrisk form som fremkommer når tre sirkler passerer gjennom hverandres sentrum. Figuren har konstant diameter målt fra figurens tre hjørner.
+Siden en reuleaux-trekant har konstant diameter blir den brukt som form på komlokk, da lokket ikke kan falle gjennom hullet."Reuleaux-trekant har fått navn etter den tyske ingeniøren Franz Reuleaux. Han var en pioner innen maskiningeniørfaget gjennom overføring av mekanisk kraft, hvor han blant annet brukte formen reuleaux trekant i sine løsninger.

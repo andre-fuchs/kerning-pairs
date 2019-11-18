@@ -1,0 +1,4 @@
+Obsah je v geometrii veličina, která vyjadřuje velikost plochy. Jiné názvy jsou plocha, výměra, rozloha.
+Obsah je mírou (tedy charakteristikou velikosti) dané dvourozměrné části prostoru. Označuje se písmenem S.
+Někdy se toto slovo nesprávně používá také pro objem prostorových (třírozměrných) těles, který se označuje písmenem V.
+milimetr čtvereční (mm2): 1mm2 = 0.000001 m2nestandardní jednotkyakrměřidlaplanimetr, čtvercová síť

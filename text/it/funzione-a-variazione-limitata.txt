@@ -1,0 +1,28 @@
+In analisi matematica, una branca della matematica, una funzione di variabile reale si dice a variazione limitata se la sua "variazione totale" è finita. Intuitivamente, le funzioni a variazione limitata in una variabile sono quelle per cui la distanza percorsa da un punto che si muove lungo il suo grafico è finita in ogni intervallo finito. Una funzione che non è a variazione limitata è il cosiddetto "seno del topologo", cioè
+    {\displaystyle f(x)={\begin{cases}0,&{\mbox{se }}x=0\\\sin(1/x),&{\mbox{se }}x\neq 0\end{cases}}}
+In più dimensioni il significato della definizione è lo stesso, tranne per il fatto che il cammino dell'ipotetico punto non può essere tutto il grafico della funzione (che sarà in generale una superficie o una ipersuperficie), ma sarà ogni intersezione di tale grafico con un piano parallelo agli assi.
+Le funzioni a variazione limitata rivestono una notevole importanza nell'integrale di Riemann-Stieltjes e nel calcolo delle variazioni, poiché risultano essere le scelte naturali per trovare la soluzione in problemi di superficie minima come il problema di Didone.
+Si definiscono innanzitutto le variazioni (rispettivamente positiva, negativa e totale) di una funzione definita in un intervallo chiuso e limitato a valori reali 
+    {\displaystyle P_{a}^{b}(f)=\limsup _{\delta (P)\to 0}\sum _{i=0}^{n_{P}-1}[f(x_{i+1})-f(x_{i})]^{+}}
+    {\displaystyle N_{a}^{b}(f)=\limsup _{\delta (P)\to 0}\sum _{i=0}^{n_{P}-1}[f(x_{i+1})-f(x_{i})]^{-}}
+    {\displaystyle V_{a}^{b}(f)=\limsup _{\delta (P)\to 0}\sum _{i=0}^{n_{P}-1}|f(x_{i+1})-f(x_{i})|}
+  e che se la funzione è monotona a tratti, allora la sua variazione totale è la somma delle variazioni in ogni singolo intervallino di monotonia.
+   è a variazione limitata se e solo se si può scrivere come differenza di due funzioni monotone non decrescenti (decomposizione di Jordan). Una possibile decomposizione è ad esempio
+  in quanto variazione positiva e negativa sono quantità sempre maggiori o uguali a zero, quindi monotone al crescere dell'intervallo. Per lo stesso motivo, nella definizione di 
+    {\displaystyle \int _{\Omega }f(x)\,\mathrm {div} {\boldsymbol {\phi }}(x)\,dx=-\int _{\Omega }\langle {\boldsymbol {\phi }},Df(x)\rangle \qquad \forall {\boldsymbol {\phi }}\in C_{c}^{1}(\Omega ;\mathbb {R} ^{n})}
+    {\displaystyle V(f,\Omega ):=\sup \left\{\int _{\Omega }f\mathrm {div} {\boldsymbol {\phi }}\colon \phi \in C_{c}^{1}(\Omega ,\mathbb {R} ^{n}),\ \Vert {\boldsymbol {\phi }}\Vert _{L^{\infty }(\Omega )}\leq 1\right\}.}
+   è esattamente la norma del funzionale (visto come operatore lineare continuo) che esiste per ipotesi, dunque è necessariamente finita.
+    {\displaystyle \left|\int _{\Omega }f(x)\,\mathrm {div} {\boldsymbol {\phi }}\,dx\right|\leq V(f,\Omega )\Vert {\boldsymbol {\phi }}\Vert _{L^{\infty }(\Omega )}\qquad \forall {\boldsymbol {\phi }}\in C_{c}^{1}(\Omega ,\mathbb {R} ^{n})}
+  ; tale funzionale si estende allora per linearità e continuità a tutto lo spazio grazie al teorema di Hahn-Banach, quindi definisce una misura di Radon.
+È già stato dato un esempio di funzione che non è a variazione limitata. La stessa funzione, però, è a variazione limitata in ogni intervallo 
+  , poiché la "singolarità" è presente solo nell'origine. È quindi chiaro come questa sia una proprietà che dipende anche dalla forma del dominio.
+    {\displaystyle f(x)={\begin{cases}0,&{\mbox{se }}x=0\\x^{2}\sin(1/x),&{\mbox{se }}x\neq 0\end{cases}}}
+    {\displaystyle f(x)={\begin{cases}0,&{\mbox{se }}x=0\\x\sin(1/x),&{\mbox{se }}x\neq 0\end{cases}}}
+Un'importante classe di funzioni che risultano essere a variazione limitata sono le funzioni integrabili con derivata a sua volta integrabile, cioè gli elementi dello spazio di Sobolev 
+   (in una variabile e su un intervallo limitato, questa classe non è altro che la classe delle funzioni assolutamente continue, a meno di rappresentanti).
+In una variabile, dalla definizione risulta subito che una funzione BV è in particolare limitata. Inoltre, essa è derivabile quasi ovunque e ammette al più solo discontinuità di prima specie: questo discende dalla decomposizione di Jordan in differenza di due funzioni monotone (le funzioni monotone possiedono le proprietà dette). Risulta anche
+  Sempre riguardo agli aspetti di analisi funzionale, si dimostra anche che il funzionale variazione 
+    {\displaystyle {\frac {\partial f({\boldsymbol {u}}({\boldsymbol {x}}))}{\partial x_{i}}}=\sum _{k=1}^{p}{\frac {\partial {\bar {f}}({\boldsymbol {u}}({\boldsymbol {x}}))}{\partial u_{k}}}{\frac {\partial {u_{k}({\boldsymbol {x}})}}{\partial x_{i}}}\qquad \forall i=1,\ldots ,n}
+    {\displaystyle {\bar {f}}({\boldsymbol {u}}({\boldsymbol {x}}))=\int _{0}^{1}f\left({\boldsymbol {u}}_{\boldsymbol {\hat {a}}}({\boldsymbol {x}})t+{\boldsymbol {u}}_{-{\boldsymbol {\hat {a}}}}({\boldsymbol {x}})(1-t)\right)dt}
+  . Da questo teorema discende anche che il prodotto di due funzioni BV è ancora BV; ciò rende lo spazio 
+Osservazione: è possibile dimostrare che il prodotto di due funzioni a variazione limitata è ancora una funzione a variazione limitata senza fare ricorso alle derivate. In questo caso il risultato si estende alle funzioni a variazione limitata da un intervallo [0,T] a uno spazio di Banach X.

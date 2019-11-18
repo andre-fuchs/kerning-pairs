@@ -1,0 +1,2 @@
+Dispersioon on juhusliku suuruse varieeruvuse mõõt, ta näitab, kui palju uuritav suurus varieerub. Näiteks kui katseseerias (nt kümnekordsel täringuviskel) on kõigi katsete tulemus sama (nt 2 silma), siis katsete dispersioon on null. Mida suurem aga dispersioon on, seda enam erinevad katsete tulemused üksteisest.
+    {\displaystyle \operatorname {D} (X)=\operatorname {E} ((X-\operatorname {E} (X))^{2})=\operatorname {E} (X^{2})-(\operatorname {E} (X))^{2}}

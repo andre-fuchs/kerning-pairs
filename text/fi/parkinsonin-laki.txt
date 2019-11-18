@@ -1,0 +1,3 @@
+Parkinsonin lain mukaan "työ täyttää sille varatun ajan" ("Work expands so as to fill the time available for its completion"). Sääntö on saanut nimensä keksijänsä C. Northcote Parkinsonin mukaan, joka esitti sen ensin The Economist -lehdessä 19. marraskuuta 1955: ja sittemmin kirjassaan Parkinson's Law: The Pursuit of Progress (1958). Parkinson muotoili lain seuratessaan Brittiläisen imperiumin kehitystä.
+Parkinsonin lakia sovelletaan usein tietotekniikkaan: "Tieto täyttää sille varatun tallennuskapasiteetin".
+Laki voidaan yleistää muotoon minkä tahansa resurssin kulutus pyrkii nousemaan sen tarjonnan maksimiin. Erikoistapaus Parkinsonin laista on Downs-Thomsonin paradoksi, jonka mukaan liikenneruuhkat pahenevat mitä enemmän uusia teitä rakennetaan.

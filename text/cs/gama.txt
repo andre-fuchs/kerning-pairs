@@ -1,0 +1,3 @@
+V moderní řečtině reprezentuje buď znělou velární frikativu ([ɣ] IPA) nebo znělou palatální frikativu ([ʝ] IPA). Ve
+starořečtině reprezentovalo znělou velární plozivu ([ɡ] IPA). Před velárními souhláskami znamená jak v starořečtině tak v moderní řečtině velární nazálu ([ŋ] IPA).
+U+03B3 GREEK SMALL LETTER GAMMAV HTML je možné je zapsat pomocí &#915; respektive

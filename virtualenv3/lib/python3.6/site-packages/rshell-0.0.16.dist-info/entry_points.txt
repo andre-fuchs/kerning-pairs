@@ -1,0 +1,4 @@
+[console_scripts]
+pyboard = rshell.pyboard:main
+rshell = rshell.command_line:main
+

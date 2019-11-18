@@ -1,0 +1,7 @@
+Plánování experimentů, návrh experimentů či experimentální design je disciplína matematické statistiky, která se zabývá sběrem dat v situaci, kdy je získávaná informace zatížena nahodilostí. Součástí experimentu obvykle je intervence (zásah) experimentátora (například metoda ošetření pacienta), přičemž cílem je zjistit efekt této intervence. Dobře navržený experiment umožňuje usuzovat na kauzální působení intervencí. Základy moderní teorie plánování experimentů vyložil Ronald A. Fisher v knize The Design of Experiments (1935).
+Srovnání – pro posouzení efektu intervence je třeba porovnat objekty vystavené této intervenci a objekty, které jí vystaveny nebyly (tzv. kontrolní skupina).
+Randomizace (znáhodnění) – výběr jednotek, které budou pozorovány, vystaveny různým druhům intervence resp. budou zařazeny do kontrolní skupiny, se musí dít na základě pravděpodobnostního výběru.
+Replikace (opakování) – vícenásobné opakování měření umožní posoudit náhodnou variabilitu měřených veličin, a tím i určit přesnost měření.
+Blokový design, stratifikace – rozdělení experimentálních jednotek do bloků či strat, které vykazují podobné vlastnosti, umožní redukovat vliv zdrojů variability, které nejsou předmětem zkoumání.
+Faktoriální uspořádání – experiment může zkoumat vliv několika faktorů (různých intervencí) naráz, včetně jejich synergických efektů.
+Ortogonalita – faktoriální experiment má být navržen tak, aby umožňoval posoudit nezávisle vliv každého jednotlivého faktoru.

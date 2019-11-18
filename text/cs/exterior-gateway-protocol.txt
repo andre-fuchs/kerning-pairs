@@ -1,0 +1,2 @@
+Označení exterior gateway protocol (EGP) se používá pro směrovací protokoly sloužící k výměně směrovacích informací mezi autonomními systémy. Tato výměna je nezbytná pro komunikaci přes Internet. K nejznámějším EGP protokolům patří Exterior Gateway Protocol a Border Gateway Protocol.
+Protikladem EGP jsou protokoly IGP (Interior gateway protocol), které se používají pro výměnu směrovacích informací mezi směrovači uvnitř autonomního systému (například v rámci firemní lokální sítě). Tyto směrovací informace se pak používají pro směrování protokolů síťové vrstvy, jako je IP.

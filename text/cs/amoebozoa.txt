@@ -1,0 +1,44 @@
+Amoebozoa či česky měňavkovci je jedna z šesti skupin, na něž se dělí doména Eukaryota (jaderní). Počtem druhů jde o nejméně početnou skupinu. Je pojmenovaná podle toho, že se k ní řadí velké množství organismů amébovitého (měňavkovitého) typu.
+Pro Amoebozoa jsou typické panožky, tedy organely pohybu. Ten je způsobován v podstatě polymerizací a depolymerizací aktinu. Panožky jsou vždy lobopodiového či filopodiového typu, nikdy však nejde o axopodie ani typické retikulopodie.
+Pokud tyto organismy mají mitochondrie, pak vždy s tubulárními kristami. Jedna ze skupin však mitochondrie druhotně ztratila.
+Je pravděpodobné, že společný předek Amoebozoa měl jeden bičík; proti tomu však mluví skutečnost, že většina měňavkovců má dnes bičíky dva.Na povrchu bývají kryty šupinami či schránkou, které zvyšují jejich odolnost.
+Amoebozoa v současném pojetí byli vyčleněni od ostatních měňavkovitých eukaryot teprve na konci 20. století. Brzy poté však byli protistology uznáni jako jedna ze základních superskupin domény Eukarya.První komplexnější fylogenetické systémy podložené molekulárními daty navrhli Thomas Cavalier-Smith a Alexej V. Smirnov. Druhý systém brzy získal podporu a stal se, zejména pro nebičíkaté měňavkovce, standardem přebíraným i jinými systémy.
+Dlouho zůstávalo nevyjasněné postavení skupiny Breviata a jejich příslušnost k měňavkovcům. Některé molekulární fylogenetické studie vyčleňují Breviata spolu se sesterskou Subulatomonas a několika environmentálními vzorky do společné skupiny mimo Amoebozoa, a to buď jako bazální klad opisthokont, nebo bazální klad apusozoí nebo jako samostatný základní klad eukaryot. V moderních systémech již Breviata prokazatelně nefigurují jako součást Amoebozoa, neboť byli přesunuti do sesterské skupiny Obazoa.
+V r. 2011 byla vydána revidovaná klasifikace, na které spolupracovali autoři předchozích systémů. Systém navázal na systém eukaryot dle Thomase Cavaliera-Smithe, bere tedy Amoebozoa jako kmen. Na stejném principu je založen i zatím poslední kompletní systém z roku 2016. Zmiňuje i aktuální změny vyvolané souběžně vydanými fylogenetickými analýzami, s jejich zohledněním vypadá následovně (české názvy doplněny podle BioLib):
+Podkmen LOBOSA Carpenter, 1861, em. Cavalier-Smith, 2009 (P)Nadtřída Cutosa Cavalier-Smith, 2016
+Nadtřída Glycopoda Cavalier-Smith, 2016 (P)Třída Tubulinea Smirnov et al., 2005 em. Cavalier-Smith, 2016 (syn. Lobosea Cavalier-Smith, 2004) – lalokonozí
+Čeleď Amoebidae (Ehrenberg, 1838) Page, 1987 (Amoeba, Chaos, Polychaos, Parachaos, Trichamoeba, Deuteramoeba, Hydramoeba)
+Čeleď Hartmannellidae (P) Volkonsky, 1931 em. Smirnov et al., 2011 (Cashia, Copromyxa, Copromyxella, Glaeseria, Hartmannella, Ptolemeba, Saccamoeba)
+Čeleď Nolandellidae Cavalier-Smith, 2011 (syn. Nolandellidae Lahr & Katz, 2011) (Nolandella)
+Podřád Arcellina Haeckel, 1894 (P)Čeleď Arcellidae Ehrenberg, 1843 (Arcella, Pyxidicula, Antarcella)
+Čeleď Microcoryciidae de Saedeleer, 1934 (Amphizonella, Microcorycia, Diplochlamys, Parmulina, Zonomyxa, Penardochlamys)
+Čeleď Difflugiidae Wallich, 1864 (Difflugia, Swabia, Pentagonia, Maghrebia, Zivkovicia, Lagenodifflugia, Pontigulasia, Cucurbitella, Suiadifflugia, Sexangularia)
+Čeleď Lesquereusiidae Jung, 1942 (Lesquereusia, Microquadrula, Pomoriella, Quadrulella)
+Čeleď Nebelidae Taranek, 1882 (P) (Physochila, Argynnia, Nebela, Alocodera, Schoenbornia, Certesella, Cornutheca, Gibbocarina, Longinebela, Mrabella, Padaungiella, Planocarina, Porosia, Quadrulella, Apodera)
+Čeleď Plagiopyxidae Bonnet & Thomas, 1960 (Bullinularia, Geoplagiopyxis, Protoplagiopyxis, Paracentropyxis, Plagiopyxis, Hoogenradia, Planhoogenradia)
+Čeleď Trigonopyxidae Loeblich & Tappan, 1964 (Trigonopyxis, Cornuapyxis, Cyclopyxis, Geopyxella, Ellipsopyxis, Ellipsopyxella)
+Čeleď Cryptodifflugiidae Jung, 1942 (Cryptodifflugia, Meisterfeldia, Wailesella)
+Čeleď Trichosphaeriidae Sheehan & Banner, 1973 (Trichosphaerium, Pontifex, Atrichosa)
+Čeleď Leptomyxidae (P) (Pussard & Pons, 1976) Page, 1987 (Leptomyxa, Rhizamoeba)
+Čeleď Vannellidae Bovee, 1979 (Vannella, Clydonella, Lingulamoeba, Ripella, Paravannella, Pessonella)
+Čeleď Paramoebidae Poche, 1913 em. Kudryavtsev et al., 2011, 2015 (Paramoeba, Cunea, Pseudoparamoeba, Janickina, Korotnevella)
+Podřád Stygamoebina  Smirnov & Cavalier-Smith, 2011 stat. n. Cavalier-Smith, 2016
+Čeleď Dermamoebidae Cavalier-Smith & Smirnov, 2011 (Dermamoeba, Paradermamoeba)
+Čeleď Thecamoebidae Schaeffer, 1926, em. Smirnov et al., 2011 (Thecamoeba, Pseudothecamoeba, Thecochaos, Vermistella)
+Čeleď Acanthamoebidae Sawyer & Griffin, 1975 (Acanthamoeba, Dracoamoeba, Luapeleamoeba, Protacanthamoeba, Vacuolamoeba)
+Čeleď Goceviidae Cavalier-Smith & Smirnov, 2011 em. Kudryavtsev et al., 2014 (Gocevia, Paragocevia, Endostelium)
+Čeleď Cochliopodiidae (P) De Saedeleer, 1934 (Cochliopodium, Coenopodium, Ovalopodium)
+Infrakmen Semiconosia Cavalier-Smith, 2013 (P)Nadtřída Variosia Cavalier-Smith, 2016
+Čeleď Schizoplasmodiidae Cavalier-Smith, 2013 (Schizoplasmodium, Nematostelium, Ceratiomyxella)
+Čeleď Protosteliidae Olive, 1962 em. Cavalier-Smith, 2016 (Protostelium, Planoprotostelium)
+Čeleď Cavosteliidae Olive, 1964 em. Cavalier-Smith, 2013 (Cavostelium, Schizoplasmodiopsis, Tychosporium)
+Nadtřída Mycetozoa de Bary, 1859 ex Rostafinski, 1873 (=Eumycetozoa) – hlenky (bez protostelid)
+Podtřída Exosporeae Rostafinski, 1873 stat. n. Cavalier-Smith, 2016 (syn. Ceratiomyxomycetidae Martin, 1961)
+Podtřída Dictyostelia Olive, 1975 (nepřirozené tradiční rody Acytostelium, Dictyostelium, Polysphondylium)
+Podtřída Myxogastria Fries, 1829 stat. n. Cavalier-Smith, 1993 (syn. Myxomycetes Link, 1883) (=Myxogastrea =Myxomycetes)
+Řád Fuscisporida Cavalier-Smith, 2013 (Lamproderma, Stemonitis, Amaurochaete, Badhamia, Physarum)
+Čeleď Mastigamoebidae (P) Goldschmidt, 1907 (Dinamoeba, Mastigamoeba, Mastigina, Phreatamoeba)
+Čeleď Pelomyxidae Schultze, 1877 em. Cavalier-Smith, 2016 (Pelomyxa, Mastigella)
+Čeleď Stereomyxidae Grell, 1966 (Stereomyxa, Corallomyxa)Výše uváděný systém byl publikován s tím, že zdaleka není potvrzena holofyletičnost jednotlivých taxonů. Ty nejproblematičtější taxony jsou označeny symbolem (P), značícím velkou pravděpodobnost nepřirozenosti (parafyletičnost či dokonce polyfyletičnost skupiny) – poznámky a reference za tímto symbolem uvádějí důvody. Za dostatečně prokázanou lze považovat holofyletičnost pouze tří skupin vyšší úrovně než řád, a sice Tubulinea, Archamoebea a Myxogastrea, s menší jistotou pak i u (Eu)mycetozoa (s tím, že není jasné, zda některé rody z původních protostelidních hlenek do ní nadále přirozeně spadají; většina byla přesunuta do Variosea).
+Jak ukazuje rychlý vývoj klasifikace i fylogenetické analýzy zmíněné v následujícím oddílu, systematika měňavkovců nadále není ustálená a lze očekávat její další změny, zejména spojené s upřesňováním příbuzenských vztahů a s tím spojeným vylučováním nepřirozených taxonů, ale i s objevy dalších rodů.
+Pokrok ve vyjasňování vnitřních příbuzenských vztahů měňavkovců přinesla fylogenetická studie z r. 2017, na které se podíleli i čeští vědci. Potvrdila, že Breviata patří do širší přirozené sesterské skupiny k měňavkovcům zvané Obazoa (zahrnující také apusomonády a Opisthokonta), jakož i nepřirozenost podříše/podkmene Lobosa. Bazální větvení Amoebozoa podle ní probíhá mezi Discosea a skupinou nazvanou Tevosa, zahrnující Conosa a z původních Lobosa lalokonohá Tubulinea a již dříve nově identifikovanou skupinu Cutosea, tentokrát však v postavení sesterské skupiny k Conosa. V Conosa se bazálně odvětvují Variosea, zatímco pravé hlenky a panoženky vycházejí jako sesterské skupiny. Studie upřesnila i vnitřní vztahy v kladech Discosea a Tubulinea.

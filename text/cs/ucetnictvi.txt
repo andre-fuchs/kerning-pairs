@@ -1,0 +1,16 @@
+Účetnictví je nástroj pro sledování a zobrazení stavů, toků a výsledků ekonomické činnosti v peněžních jednotkách. Je uspořádaným systémem evidence s určitými, vesměs obecně platnými normami a definovanými pravidly.
+Jednou ze základních myšlenek, které ovlivňují vývoj účetnictví ve dvacátém století, je poznání, že způsob zobrazení podnikatelského procesu je třeba diferencovat podle toho, kdo je uživatelem účetních informací a jaké rozhodovací úlohy řeší. V této souvislosti rozeznáváme dva hlavní účetní systémy:
+manažerské účetnictví.Cílem finančního účetnictví je poskytnout informace externím subjektům (tzv. externím uživatelům účetních informací). Naopak manažerské účetnictví slouží k řízení vnitřních podnikových procesů a jeho výstupy jsou podkladem pro manažerská rozhodnutí na všech stupních podnikového vedení.
+Existují dva základní nosné pilíře finančního (podvojného) účetnictví, jimiž je předpoklad akruální báze a předpoklad trvání podniku. Od těchto dvou předpokladů se odvíjejí další principy a účetní zásady.
+Z akruální báze vyplývá, že výsledky transakcí a ostatních událostí jsou uznány v období, kdy k nim dochází (nikoli v okamžiku příjmu či výdeje peněz), zaznamenány v účetních knihách a zohledněny v účetních závěrkách za ta období, ke kterým se skutečně vztahují.
+Účetní informace dále vycházejí z předpokladu, že podnik bude v dohledné budoucnosti pokračovat ve své činnosti, a nemá tedy v úmyslu ani není nucen likvidovat nebo podstatně omezit rozsah činností (tzv. předpoklad trvání podniku).
+Účetnictví a postupy účtování jsou v České republice upraveny zákonem o účetnictví, který účetním jednotkám ukládá povinnost vést účetnictví jako soustavu účetních záznamů.
+jednoduché účetnictví.Daňovou evidenci přitom nelze považovat za „skutečné“ účetnictví, neboť nesplňuje nároky všeobecně kladené na účetnictví (například podvojný zápis). Pro vedení pouze daňové evidence je nutné splnit zákonem dané podmínky.
+Účetnictví poskytuje informace důležité pro řízení a rozhodování, ale slouží také ostatním uživatelům.
+Základní funkcí účetnictví je porovnávat stav majetku podniku zanesený v účetnictví se stavem skutečným. Dále pak poskytovat uživatelům základní informace, jak je daný podnik ekonomicky schopný, jaká je finanční situace podniku, jaké jsou hospodářské výsledky za určité časové období apod.
+Tyto údaje se používají především při tvorbě finančních poznatků, finančních analýz apod.
+Informace o stavu účetnictví jsou určeny pro pracovníky podniku, dále pro jiné externí pracovníky a uživatele, kteří se o podnik zajímají.
+Uživatelům jsou informace o finanční situaci podniku předkládány formou účetních výkazů. Tyto informace musí být především hodnověrné, srozumitelné, srovnatelné a správné.
+Kontrolní funkce – tato funkce umožňuje především kontrolu stavu majetku a hospodaření
+BRADA JIŘÍ. Základy účetnictví, 1. vydání [online]. VŠCHT v Praze, 2007. Dostupné online. ISBN 978-80-7080-636-4. 
+J. Strouhal a kol. (2011). Účetnictví 2011: velká kniha příkladů. Brno: Computer Press.

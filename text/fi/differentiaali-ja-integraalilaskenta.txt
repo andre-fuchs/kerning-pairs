@@ -1,0 +1,5 @@
+Differentiaali- ja integraalilaskenta on derivaatan ja integraalin käsitteeseen perustuva matematiikan haara, joka kehittyi algebrasta ja geometriasta. Sen kaksi keskeisintä laskutoimitusta ovat derivointi ja integrointi, jotka ovat toistensa käänteislaskutoimituksia.
+Englannin kielessä differentiaali- ja integraalilaskenta tunnetaan nimellä calculus (suora suomennos olisi kalkyyli) . Se on analyysin osa-alue .
+Differentiaali- ja integraalilaskennan keksivät Isaac Newton ja Gottfried Leibniz 1600-luvun lopulla.
+Differentiaali- ja integraalilaskentaa käytetään kaikilla fysikaalisten tieteiden aloilla, tietojenkäsittelytieteessä, tilastotieteessä, lääketieteessä ja taloustieteessä. Se on yleinen menetelmä matemaattisesti muotoillun ongelman optimaalisen ratkaisun löytämiseen.
+Pitkäranta, Juhani: Calculus Fennicus.   Helsinki: Avoimet oppimateriaalit ry, 2015. ISBN 978-952-7010-12-9, ISBN 978-952-7010-13-6 (pdf).

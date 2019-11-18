@@ -1,0 +1,4 @@
+A fényév a távolság csillagászatban használatos mértékegysége: egy fényév az a távolság, amelyet a fény légüres térben egy év alatt megtesz. Az idő mértékegységeinek analógiájaként beszélhetünk a fényév töredékeiről: fényóráról (amennyi utat a fény egy óra alatt megtesz), fénypercről (a fény egy perc alatt megtett útja) és fénymásodpercről (a fény egy másodperc alatt megtett útja).
+9,460730472600 × 1015 m = 9,4607 billió kilométer = kerekítve 9,5 petaméter (Pm)
+A fényév távolságegység. Egy fényév távolságból elinduló fénysugarat értelemszerűen csak egy évvel később lehet észlelni, ebben az esetben a távolság okozta késlekedés miatt az adott fénykibocsátó objektumnak az egy évvel korábbi fényét fogjuk látni. Ebből következik, hogy a csillagok és más égitestek elektromágneses hullámokkal közvetített állapotait időben késleltetve észleljük, attól függően, hogy milyen távolságra vannak.
+Az anyag megmenekülésének története, mi történt a 10-43 és a 10-32 másodperc között

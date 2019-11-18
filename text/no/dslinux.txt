@@ -1,0 +1,1 @@
+DS Linux er en tidligere Linuxdistribusjon som var portert til Nintendo DS. Den var således konstruert for å kjøre på 32-biter ARM mikroprosessorer. Distribusjonen kjørte en modifisert form av μClinux-kjernen, og var basert på uCLinux 2.6.14 (Linux-2.6.14-hsc0).

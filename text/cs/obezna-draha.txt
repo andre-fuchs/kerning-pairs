@@ -1,0 +1,11 @@
+Oběžná dráha nebo orbita je dráha, po které obíhá kosmické těleso kolem těžiště soustavy. Po oběžné dráze obíhá např. planeta, měsíc, asteroid, nebo kometa při oběhu kolem centrálního tělesa.
+Těžiště soustavy je v blízkosti centrálního tělesa (například v soustavě Země–Měsíc je asi 1 400 km pod povrchem Země).
+Aby byla oběžná dráha tělesa přesně určena, je nutné znát všechny elementy dráhy. Pokud jsou tyto veličiny známy, lze vypočítat polohu tělesa v libovolné době – minulé i budoucí.
+Oběžné dráhy planet jsou v podstatě eliptické a jsou definovány Keplerovými zákony, pomocí nichž mohou být elementy oběžné dráhy určeny z pozorování. Za pomocí počítačů lze poměrně přesně předem určit parametry pohybu těles na oběžné dráze.
+Aby byla oběžná dráha tělesa přesně určena, je potřeba znát všechny elementy dráhy:
+okamžik průchodu tělesa periapsidou dráhy.Dva z nich (sklon dráhy a délka vzestupného uzlu) definují polohu oběžné roviny, další dva určují elipsu (velká poloosa a excentricita dráhy), pátý (argument šířky pericentra) určuje orientaci elipsy v oběžné rovině a šestý je čas, kdy těleso prošlo nejbližším bodem k centrálnímu tělesu na své dráze. Když jsou tyto veličiny známé, lze vypočítat polohu tělesa v libovolném čase – minulém i budoucím.
+V případě umělých družic Země se přidává ještě sedmý dráhový element, takzvaná epocha. Ta definuje čas, ke kterému se vztahují ostatní elementy dráhy.
+Na rozdíl od dráhových elementů planet nebo hvězd dráhové elementy družic mají obvykle jen krátkou platnost. Nerovnoměrnosti v rozložení hmoty Země, přitažlivé síly ostatních těles, tření atmosféry a další faktory způsobují, že oběžné dráhy družic se rychle mění. Dráha družice kolem Země je proto ve skutečnosti neuzavřená křivka, která se jen při prvním přiblížení dá považovat za elipsu. Nejrychlejší změna se projevuje v orientaci roviny oběžné dráhy.
+Platnost dráhových elementů je proto omezena jen na krátký časový interval – pro potřebnou přesnost obvykle ne delší než několik dní. Obvykle má největší vliv tření atmosféry, takže dráhové elementy se nejrychleji mění u družic pohybujících se na nízkých drahách.
+V tomto článku byl použit překlad textu z článku Obežná dráha na slovenské Wikipedii.
+ORBITER Space Flight Simulator - simulátor letů do vesmíru pro PC/Win, freeware

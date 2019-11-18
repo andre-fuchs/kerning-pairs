@@ -1,0 +1,3 @@
+nucleobase, de gedeelten van nucleotiden die betrokken zijn bij het vormen van baseparen
+BaseN, waarbij N een getal is, een manier om een codering aan te geven. Zie onder andere binair, octaal, decimaal, hexadecimaal en base64
+BASE Company, een merknaam voor telecommunicatie in België, onderdeel van Telenet

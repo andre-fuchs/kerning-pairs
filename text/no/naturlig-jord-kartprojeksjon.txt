@@ -1,0 +1,1 @@
+Naturlig jord kartprojeksjonen er en pseudsylindrisk kartprojeksjon designet av Tom Patterson. Den er verken konform eller lik-området.

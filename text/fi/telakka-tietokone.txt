@@ -1,0 +1,2 @@
+Telakka on tietokoneiden oheislaite, joka liitetään kannettavaan tietokoneeseen. Telakassa on kaikki liittimet (USB, DVI jne), joita tarvitaan esimerkiksi erillisen näytön, tulostimien tai tietokoneen muiden oheislaitteiden kanssa.
+Eri lisälaitteiden kaapeleita ei siis tarvitse liittää itse kannettavan tietokoneen liittimiin, ja kannettava tietokone saadaan irrotettua telakasta ja vietyä paikasta toiseen ilman aikaa vievää liittimien kytkemistä ja irrottamista.

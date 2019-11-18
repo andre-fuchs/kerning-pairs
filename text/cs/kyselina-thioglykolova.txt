@@ -1,0 +1,8 @@
+Kyselina thioglykolová (TGA) (někdy též nazývaná kyselina merkaptooctová) je organická sloučenina, která obsahuje thiolovou i karboxylovou funkční skupinu. Jedná se o bezbarvou kapalinu s nepříjemným zápachem, která je mísitelná s polárními organickými rozpouštědly.
+TGA se vyrábí reakcí draselné nebo sodné soli kyseliny chloroctové s hydrogensulfidem alkalického kovu ve vodném prostředí. Lze ji taktéž získat z Bunteovy soli získané reakcí thiosíranu sodného s kyselinou chloroctovou.
+Kyselina thioglykolová se, především ve formě vápenaté či sodné soli, používá jako depilační prostředek. Také se z níé vyrábějí thioglykoláty, využívané například v bakteriologii na přípravu thioglykolátových živných půd. Struktura kondenzovaných taninů se studuje pomocí jejich thioglykolýzy (rozkladu kyselinou thioglykolovou).
+Organocínové deriváty isooktylesterů kyseliny thioglykolové slouží jako stabilizátory PVC. Obecný vzorec těchto látek je R2Sn(SCH2CO2C8H17)2.Použití TGA může změkčit nehty.
+Thioglykolát sodný se používá jako čistič kol, kde odstraňuje pozůstatky oxidů železa z ráfků. Železnaté kationty v kombinaci s kyselinou thioglykolovou vytvářejí červenofialový thioglykolát železitý.
+Kyselina thioglykolová je s pKa (ionizace do prvního stupně) 3,83 výrazně silnější než kyselina octová:
+HSCH2CO2− → −SCH2CO2− + H+Kyselina thioglykolová funguje, zejména při vyšších hodnotách pH, jako redukční činidlo. Oxiduje se na odpovídající disulfid (kyselinu dithiodiglykolovou):
+TGA, často jako dianion, tvoří komplexy s ionty kovů. Některé z těchto komplexu lze použít na zjištění přítomnosti železa, molybdenu, stříbra a cínu. TGA reaguje s diethylacetylmalonátem za vzniku kyseliny acetylmerkaptooctové a diethylmalonátu, redukčního činidla pro převod Fe3+ na Fe2+.

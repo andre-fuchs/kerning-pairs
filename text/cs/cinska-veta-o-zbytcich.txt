@@ -1,0 +1,12 @@
+Čínská věta o zbytcích (také známa jako Čínská věta o zbytku nebo Čínská zbytková věta) je matematické tvrzení z modulární aritmetiky. Pojednává o vlastnostech čísel v grupách kongruence modulo n (grupy 
+  ). Využívá se v algoritmech pro zpracování velkých čísel nebo v kryptografii. Nejstarší zmínkou o této větě je problém 26 z knihy Sun-c' Suan Ťing, kterou ve 3. století našeho letopočtu napsal čínský matematik Sun-c'.
+    {\displaystyle f:Z_{m_{1}\cdot \ldots \cdot m_{r}}\rightarrow Z_{m_{1}}\times \ldots \times Z_{m_{r}}}
+Nechť platí tvrzení "aritmetická formulace". Zobrazení f z tvrzení "algebraická formulace" je homomorfismus zřejmě. Dále 
+   poskytuje řešení soustavy z „teoreticky číselné formulace“. Jednoznačnost tohoto řešení plyne z prostoty f.
+Ať m1, m2 jsou libovolná přirozená čísla větší než 2. Označme d = GCD(m1,m2), kde GCD(a,b) se rozumí největší společný dělitel čísel a, b. Pak jsou následující dvě podmínky ekvivalentní:
+    {\displaystyle {\begin{matrix}x=a_{1}\ {\mbox{v}}\ Z_{m1}\\x=a_{2}\ {\mbox{v}}\ Z_{m2}\end{matrix}}}
+Platí d|(a2–a1) (tedy (a2–a1) je dělitelné d).Jestliže platí d|(a2–a1), je řešení určeno jednoznačně v ZM, kde M = LCM(m1,m2), kde funkcí LCM(a,b) se rozumí nejmenší společný násobek čísel a, b.
+Na základě této věty lze vytvořit algoritmus výpočtu zbytku po dělení velké mocniny zadaného čísla. Tento algoritmus má své uplatnění například v šifrovacím protokolu RSA.
+Čínská věta říká, že v rozmezí 1 až 35 je právě jedno číslo, které vyhovuje našemu zadání. Řekněme, že vojáků je a. Zapišme problém matematicky.
+Máme spočíst zbytek čísla 12316803 po dělení číslem 26741, neboli v Z26741. Nejprve musíme mít daný prvočíselný rozklad čísla 26741 = 112·13·17. Protože čísla 112, 13 a 17 jsou navzájem nesoudělná, je podle čínské věty o zbytcích číslo 12316803 v Z26741 určeno jednoznačně svými zbytky po dělení čísly 112, 13 a 17.
+(protože φ(112) = 110 ,φ(13) = 12 ,φ(17) = 16)Nyní použijeme čínskou vetu o zbytcích, kde m1 = 112, m2 = 13 a m3 = 17. Pak platí:

@@ -1,0 +1,10 @@
+A kationok pozitív  elektromos töltéssel rendelkező ionok. Pozitív töltésük elektronhiányos állapotukból következik, a részecskét felépítő elektronok száma kisebb a protonokénál.
+A kation töltésének nagyságát az őt felépítő protonok és elektronok számának különbsége adja: eggyel kevesebb elektron esetén egyszeresen pozitív, kettővel kevesebb esetén kétszeresen pozitív töltésű az ion.
+Kémiai jelük az őket alkotó részecskék jeléhez jobb felső indexbe tett „+” jel, többszörös töltésű ionok esetén pedig a „+”-jel előtt a töltés nagyságát is feltüntetjük: K+, Ca2+, Al3+ stb.
+Az egyszerű kationok egyetlen atomból képződnek oxidációval, azaz elektronleadással. Nevüket a megfelelő elem nevéhez illesztett „-ion” szócskával képezzük, így a Ca2+ neve kalciumion.
+Az összetett kationok elektronhiányos „molekulák”, több atomból épülnek fel. Nevüket az adott atomcsoportra jellemző név mögé illesztett „-ónium” végződéssel képezzük. Az ammóniából (NH3) képződő NH+4  tehát az ammóniumion.
+Kationok (és az anionok is) szabadon csak plazmaállapotban léteznek, normális körülmények között oldatban, ionrácsos vegyületben, sóolvadékban, tehát anionok által semlegesítve, kötött állapotban vannak.
+Az egyszerű kationok redukcióval (elektronfelvétel) alakulhatnak semleges töltésű atomokká.
+Ellentétes, negatív töltésű párjaik az anionok, melyekkel ionos kötés kialakulása révén ionrácsos vegyületeket alakítanak ki.
+A kation (κατιόν) görög szó, azt jelenti: lefelé menő. Michael Faraday-től származik az elnevezés, aki az elektrolízissel kapcsolatos elnevezések kérdésében barátjához, William Whewell(en) történészhez fordult.
+Carl H. Hamann, Andrew Hamnett, Wolf Vielstich: Electrochemistry, Wiley-VCH, Weinheim (2007).

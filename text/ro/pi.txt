@@ -1,0 +1,304 @@
+Numărul π (adesea scris pi) este o constantă matematică a cărei valoare este raportul dintre circumferința și diametrul oricărui cerc într-un spațiu euclidian; este aceeași valoare ca și raportul dintre aria unui cerc și pătratul razei sale. Simbolul π a fost propus pentru prima oară de matematicianul galez William Jones în 1706. Valoarea constantei este egală aproximativ cu 3,14159 în notația zecimală obișnuită (vezi tabelul din dreapta pentru reprezentarea în alte baze). π este una dintre cele mai importante constante din matematică și fizică: numeroase formule din matematică, inginerie și alte științe implică folosirea lui π.π este un număr irațional, adică valoarea sa nu poate fi exprimată exact sub formă de fracție m/n, cu m și n întregi. De aceea, reprezentarea sa zecimală nu are sfârșit și nu începe nici să se repete. Numărul este și transcendent, ceea ce înseamnă, printre altele, că nu există un șir finit de operații algebrice cu numere întregi (puteri, extrageri de radicali, sume etc.) al căror rezultat să fie egal cu valoarea lui; demonstrarea acestui fapt a fost o realizare relativ recentă în istoria matematicii și un rezultat semnificativ al matematicienilor germani ai secolului al XIX-lea. De-a lungul istoriei matematicii s-au depus eforturi semnificative de a determina π cu mai multă precizie și de a-i înțelege natura; fascinația acestui număr a intrat și în cultura nematematică.
+Litera grecească π, scrisă pi în alfabetul latin, a fost adoptată de la cuvântul grecesc „περίμετρος”, perimetros (în română: perimetru), mai întâi de William Jones în 1707; notația a fost popularizată apoi de Leonhard Euler în 1737.
+Numele literei grecești π este pi, scriere utilizată în unele situații în care nu este disponibil simbolul grecesc, sau în care utilizarea sa ar fi problematică. π corespunde literei române (latine) p. Nu se notează cu literă mare (Π) nici măcar la început de propoziție.
+Constanta se numește „π” deoarece este prima literă a cuvintelor grecești περιφέρεια (perifereia = periferie) și περίμετρος (perimetros = perimetru), probabil cu referire la utilizarea sa în formula de calcul a circumferinței (sau a perimetrului) unui cerc. π este caracterul Unicode U+03C0 („Litera grecească mică pi”).
+În geometria plană euclidiană, π este definit ca raportul dintre circumferința unui cerc și diametrul său:
+  Raportul C/d este constant, indiferent de dimensiunile unui cerc. De exemplu, dacă un cerc are de două ori diametrul d al unui alt cerc, el va avea de două ori circumferința C, păstrând raportul C/d.
+Altfel, π poate fi definit și ca raportul dintre aria (A) unui cerc și aria unui pătrat cu latura egală cu raza cercului:
+  Aceste definiții depind de rezultatele geometriei euclidiene, cum ar fi faptul că toate cercurile sunt asemenea. Aceasta poate fi considerată o problemă atunci când π apare în domenii matematice care altfel nu implică geometria. Din acest motiv, matematicienii preferă adesea să definească π fără referire la geometrie, alegând în schimb ca definiție una dintre proprietățile sale analitice. O alegere frecventă este definirea lui π ca fiind dublul celui mai mic număr pozitiv x pentru care cos(x) = 0. Formulele de mai jos ilustrează alte definiții echivalente.
+π este un număr irațional, sau altfel spus, el nu poate fi scris ca raport (rație) de două numere întregi. Ipoteza iraționalității lui π este menționată încă de Muhammad ibn Mūsā al-Khwārizmī în secolul al IX-lea. Maimonides menționează în secolul al XII-lea că este sigur de iraționalitatea lui π  . Însă demonstrația completă a fost realizată abia în 1768 de către Johann Heinrich Lambert. În secolul al XX-lea s-au construit demonstrații ce nu necesită decât cunoștințe de calcul integral. Una dintre acestea i se datorează lui Ivan Niven. O demonstrație oarecum similară este cea a lui Mary Cartwright.π este în același timp și număr transcendent, sau cu alte cuvinte, nu există niciun polinom cu coeficienți raționali care să-l aibă pe π ca rădăcină. Acest fapt a fost demonstrat la 26 noiembrie 1882 de către Ferdinand von Lindemann la un seminar matematic al Universității din Freiburg. O consecință importantă a transcendenței lui π este faptul că nu este construibil geometric. Întrucât coordonatele tuturor punctelor ce pot fi construite cu rigla și compasul sunt numere construibile, nu se poate construi cu rigla și compasul un pătrat cu arie egală cu cea a unui cerc dat. Aceasta are o importantă semnificație istorică, deoarece această problemă, numită "cuadratura cercului", este una dintre problemele elementare de geometrie cele mai ușor de înțeles datând din antichitate. În vremurile moderne numeroși amatori au încercat să rezolve problema, dar chiar dacă tentativele lor au fost uneori ingenioase, ele sunt întotdeauna sortite eșecului.
+Reprezentarea zecimală a lui π trunchiat la 50 de zecimale este:3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510
+Vedeți legăturile externe pentru variante cu mai multe zecimale.Deși reprezentarea zecimală a lui π a fost calculată cu mai mult de 1012 cifre, unele aplicații elementare, cum ar fi calculul circumferinței unui cerc, vor necesita mai puțin de 12 zecimale exacte. De exemplu, o valoare trunchiată la 11 zecimale este suficient de precisă pentru a calcula circumferința unui cerc de dimensiunile pământului cu precizie de un milimetru, iar una cu 39 de zecimale exacte este suficientă pentru a calcula circumferința oricărui cerc care încape în universul observabil cu o precizie comparabilă cu dimensiunea unui atom de hidrogen.Întrucât π este număr irațional, el are un număr infinit de zecimale care nu conțin secvențe ce se repetă. Acest șir infinit de cifre a fascinat numeroși matematicieni și s-au depus eforturi semnificative în ultimele secole pentru a calcula mai multe cifre zecimale și de a investiga proprietățile acestui număr. În ciuda muncii analitice și a calculelor realizate pe supercalculatoare care au calculat 10 mii de miliarde de cifre ale lui π, nu a apărut niciun șablon identificabil în cifrele găsite. Cifrele lui π sunt disponibile pe multe pagini web, și există software pentru calcularea lui π cu miliarde de cifre precizie pentru orice calculator personal.
+π poate fi estimat empiric prin desenarea unui cerc mare, urmată de măsurarea diametrului și circumferinței sale și împărțirea circumferinței la diametru. O altă abordare geometrică, atribuită lui Arhimede, este calculul perimetrului, Pn , unui poligon regulat cu n laturi circumscris unui cerc de diametru d. Atunci
+  Adică cu cât mai multe laturi are un poligon, cu atât mai apropiată este aproximarea lui π. Arhimede a determinat acuratețea acestei abordări comparând perimetrul poligonului circumscris cu diametrul unui poligon regulat cu același număr de laturi înscris în cerc. Folosind un poligon cu 96 de laturi, el a calculat că: 3+10⁄71 < π < 3+1⁄7.π poate fi calculat și folosind metode pur matematice. Majoritatea formulelor utilizate pentru calculul valorii lui π au proprietăți matematice dorite, dar sunt dificil de înțeles fără cunoștințe de trigonometrie și analiză matematică. Unele, însă, sunt foarte simple cum este de exemplu această formă a seriei Gregory-Leibniz:
+    {\displaystyle \pi =4\sum _{k=0}^{\infty }{\frac {(-1)^{k}}{2k+1}}={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}}-{\frac {4}{7}}+{\frac {4}{9}}-{\frac {4}{11}}\cdots .\!}
+  Deși această serie este ușor de scris și calculat, nu este evident de ce rezultatul ei este π. În plus, această serie converge atât de încet încât trebuie calculați aproape 300 de termeni pentru a obține o aproximare a lui π cu 2 zecimale exacte. Calculând această serie într-o manieră mai inteligentă, luând mediile sumelor parțiale, ea poate fi făcută să conveargă mult mai rapid. Fie
+    {\displaystyle \pi _{0,1}={\frac {4}{1}},\ \pi _{0,2}={\frac {4}{1}}-{\frac {4}{3}},\ \pi _{0,3}={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}},\ \pi _{0,4}={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}}-{\frac {4}{7}},\cdots \!}
+    {\displaystyle \pi _{i,j}={\frac {\pi _{i-1,j}+\pi _{i-1,j+1}}{2}}{\text{ pentru fiecare }}i,j\geq 1}
+   într-un timp de calcul echivalent cu calculul a 150 de termeni ai seriei originale cu metoda forței brute și 
+  , aproximare cu 9 zecimale exacte. Acest calcul este un exemplu de transformare van Wijngaarden.
+Cea mai veche utilizare atestată a unei bune aproximări a lungimii unei circumferințe în raport cu raza este 3+1/7, valoare folosită la proiectele piramidelor din Vechiul Regat al Egiptului. Marea Piramidă din Giza, construită în 2550-2500 î.e.n., a fost construită cu un perimetru de 1.760 cubiți și o înălțime de 280 cubiți; raportul 1.760/280 ≈ 2π. Egiptologi ca profesorii Flinders Petrie  și I.E.S Edwards au arătat că aceste proporții circulare au fost alese deliberat de către scribii și arhitecții Vechiului Regat, din motive simbolice.
+Aceleași proporții apotropaice fuseseră utilizate și la Piramida de la Meidum din anul 2600 î.e.n. Aceste aplicații au fost relevate arheologic, întrucât nu există dovezi scrise din perioada respectivă.
+Istoria veche a lui π în documente scrise urmează dezvoltarea matematicii în ansamblul ei. Unii autori împart progresul în trei perioade: perioada veche, în care π a fost studiat geometric, epoca clasică de după dezvoltarea analizei matematice în Europa în preajma secolului al XVII-lea, și era calculatoarelor numerice.
+Faptul că raportul dintre circumferința și diametrul unui cerc este același pentru toate cercurile indiferent de mărime, și că este cu puțin mai mare ca 3, a fost cunoscut în antichitate geometrilor Egiptului, Babilonului, Indiei și Greciei. Primele documente ce dovedesc aproximări ale acestui număr datează din preajma anului 1900 î.e.n.; acestea sunt 25/8 (Babilon) și 256/81 (Egipt), ambele aproximări de 1% ale valorii reale. Textul indian Shatapatha Brahmana dă pentru π valoarea 339/108 ≈ 3,139. Biblia evreiască pare să sugereze, în Cartea Regilor, că π = 3, aproximare semnificativ mai slabă decât alte estimări disponibile la momentul scrierii ei (600 î.e.n.). Interpretarea pasajului este în discuție, unii considerând că raportul 3:1 este cel între circumferința interioară și diametrul exterior al unui bazin cu pereți subțiri, raport ce ar putea fi destul de precis, în funcție de grosimea pereților.
+Arhimede (287–212 î.e.n.) a fost primul care a încercat să calculeze valoarea lui π cu rigurozitate. El și-a dat seama că această mărime poate fi limitată superior și inferior înscriind cercurile în poligoane regulate și calculând perimetrul poligoanelor exterioare și respectiv interioare:Folosind echivalentul unui poligon cu 96 de laturi, el a demonstrat că 3 + 10/71 < π < 3 + 1/7. Media acestor valori este aproximativ 3,14185.
+În secolele ce au urmat s-au făcut și alte dezvoltări în India și China. În preajma anului 265 e.n., matematicianul Liu Hui din Regatul Wei a găsit un algoritm iterativ simplu și riguros pentru calculul lui π la orice grad de precizie. El însuși a efectuat calculul până la un poligon cu 3072 laturi și a obținut o valoare aproximativă pentru π de 3,1416, după cum urmează:
+    {\displaystyle \pi \approx A_{3072}=3\cdot 2^{8}\cdot {\sqrt {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+1}}}}}}}}}}}}}}}}}}\approx 3,14159}
+  Ulterior, Liu Hui a inventat o metodă rapidă de calcul și a obținut valoarea aproximativă 3,1416 cu un poligon de doar 96 de laturi, profitând de faptul că diferența de arie a poligoanelor succesive formează o progresie geometrică de factor 4.
+În secolul al V-lea e.n. matematicianul indian Aryabhta a aproximat numărul pi ca 3,1416; el a fost primul care a și afirmat că este o aproximație și că valoarea originală este un număr irațional.
+Pe la 480, matematicianul chinez Zu Chongzhi a demonstrat că π ≈ 355/113, și a arătat că 3,1415926 < π < 3,1415927 cu ajutorul algoritmului lui Liu Hui aplicat pe un poligon cu 12288 laturi. Această valoare a fost cea mai precisă aproximare a lui π disponibilă în următorii 900 de ani.
+Până la începutul mileniului II, π a fost cunoscut cu o precizie de mai puțin de 10 zecimale exacte. Următoarea descoperire majoră în studierea lui π a venit cu dezvoltarea seriilor infinite și, ulterior, cu descoperirea analizei matematice, care în principiu permite calculul lui π cu orice precizie dorită prin adăugarea oricât de multor termeni. Pe la 1400, Madhava din Sangamagrama a găsit prima astfel de serie:
+    {\displaystyle {\pi }=4\sum _{k=0}^{\infty }{\frac {(-1)^{k}}{2k+1}}={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}}-{\frac {4}{7}}+\cdots \!}
+  Aceasta este cunoscută astăzi sub numele de seria Madhava–Leibniz sau seria Gregory-Leibniz deoarece a fost redescoperită de James Gregory și Gottfried Leibniz în secolul al XVII-lea. Din păcate, viteza de convergență este prea mică pentru a fi practic calculul mai multor cifre zecimale; trebuie adunați aproximativ 4000 de termeni pentru a îmbunătăți estimarea lui Arhimede. Transformând, însă, seria în
+    {\displaystyle \pi ={\sqrt {12}}\sum _{k=0}^{\infty }{\frac {(-3)^{-k}}{2k+1}}={\sqrt {12}}\sum _{k=0}^{\infty }{\frac {(-{\frac {1}{3}})^{k}}{2k+1}}={\sqrt {12}}\left(1-{1 \over 3\cdot 3}+{1 \over 5\cdot 3^{2}}-{1 \over 7\cdot 3^{3}}+\cdots \right)}
+  Madhava a reușit să calculeze π ca fiind 3,14159265359, cu 11 zecimale exacte. Acest record a fost depășit în 1424 de matematicianul persan Jamshīd al-Kāshī, care a calculat 16 zecimale ale lui π.
+Prima contribuție europeană majoră de după Arhimede a fost cea a matematicianului german Ludolph van Ceulen (1540–1610), care a folosit o metodă geometrică de calcul a 35 de zecimale ale lui π. El a fost atât de mândru de calculul său, căruia i-a dedicat o mare parte din viața sa, încât a cerut ca cifrele să-i fie gravate pe piatra de mormânt.În aceeași perioadă, în Europa au început să apară metodele analizei matematice și pentru determinarea seriilor și produselor infinite pentru cantități geometrice. Prima astfel de reprezentare a fost formula lui Viète,
+    {\displaystyle {\frac {2}{\pi }}={\frac {\sqrt {2}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2}}}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2+{\sqrt {2}}}}}}{2}}\cdot \cdots \!}
+  descoperită de François Viète în 1593. Un alt rezultat celebru este produsul lui Wallis,
+    {\displaystyle {\frac {\pi }{2}}=\prod _{k=1}^{\infty }{\frac {(2k)^{2}}{(2k)^{2}-1}}={\frac {2}{1}}\cdot {\frac {2}{3}}\cdot {\frac {4}{3}}\cdot {\frac {4}{5}}\cdot {\frac {6}{5}}\cdot {\frac {6}{7}}\cdot {\frac {8}{7}}\cdot {\frac {8}{9}}\cdots \ ={\frac {4}{3}}\cdot {\frac {16}{15}}\cdot {\frac {36}{35}}\cdot {\frac {64}{63}}\cdots \!}
+  descoperit de John Wallis în 1655. Isaac Newton a calculat și el o serie pentru π și a calculat 15 cifre, deși ulterior a mărturisit: „Mi-e rușine să vă spun la câte cifre am ajuns cu calculele, neavând altceva de făcut atunci.”În 1706 John Machin a fost primul care a calculat 100 de zecimale ale lui π, folosind formula
+    {\displaystyle {\frac {\pi }{4}}=4\,\arctan {\frac {1}{5}}-\arctan {\frac {1}{239}}\!}
+    {\displaystyle \arctan \,x=\sum _{k=0}^{\infty }{\frac {(-1)^{k}x^{2k+1}}{2k+1}}=x-{\frac {x^{3}}{3}}+{\frac {x^{5}}{5}}-{\frac {x^{7}}{7}}+\cdots \!}
+  Formulele de acest tip, denumite azi formule de tip Machin, au fost utilizate pentru a stabili câteva recorduri succesive și au rămas cea mai celebră metodă de calcul al lui π inclusiv în era calculatoarelor. Un record remarcabil a fost cel stabilit de geniul calculului Johann Dase, care în 1844 a folosit o formulă de tip Machin pentru a calcula 200 de zecimale ale lui π mintal la îndemnul lui Gauss. Cea mai bună valoare la sfârșitul secolului al XIX-lea i s-a datorat lui William Shanks, care a petrecut 15 ani calculând π cu 707 zecimale exacte, deși, din cauza unei greșeli, doar primele 527 erau corecte. (Pentru a evita astfel de greșeli, calculele moderne de orice fel se efectuează adesea de două ori, cu două formule diferite. Dacă rezultatele sunt identice, atunci este probabil că sunt și corecte.)
+Progresele teoretice din secolul al XVIII-lea au relevat noi informații despre natura lui π, informații ce nu ar fi apărut doar din calculele numerice. Johann Heinrich Lambert a demonstrat iraționalitea lui π în 1761, iar Adrien-Marie Legendre a demonstrat și el în 1794 că π2 este irațional. Când Leonhard Euler în 1735 a demonstrat celebra problemă Basel – găsirea valorii exacte a lui
+    {\displaystyle \sum _{k=1}^{\infty }{\frac {1}{k^{2}}}={\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{4^{2}}}+\cdots \!}
+  care este π2/6, el a demonstrat o profundă conexiune între π și numerele prime. Atât Legendre cât și Euler au speculat că π ar putea fi transcendent, ceea ce s-a demonstrat în 1882 de către Ferdinand von Lindemann.
+S-a spus despre cartea lui William Jones O nouă introducere în matematică din 1706 că este prima în care s-a folosit litera grecească π pentru această constantă, dar notația a devenit deosebit de populară după ce a adoptat-o Leonhard Euler în 1737. El a scris:
+Există numeroase alte feluri de a găsi lungimile sau ariile unor anumite linii curbe sau drepte, care ar putea facilita practica foarte mult; ca de exemplu, la cerc, diametrul este față de circumferință ca 1 față de (16/5 − 4/239) − 1/3(16/53 − 4/2393) + ... = 3.14159... = π
+Apariția calculatoarelor numerice în secolul al XX-lea au dus la o creștere a recordurilor de calcul al lui π. John von Neumann et al. au folosit ENIAC pentru a calcula 2037 de cifre ale lui π în 1949, un calcul care a durat 70 de ore. Alte mii de zecimale s-au obținut în următoarele decenii și milionul de cifre a fost depășit în 1973. Progresele nu s-au datorat doar hardware-ului mai rapid, ci și apariției unor noi algoritmi. Una dintre cele mai semnificative realizări a fost descoperirea transformatei Fourier rapide (FFT) în anii 1960, algoritm ce permite calculatoarelor să efectueze rapid operațiuni aritmetice pe numere extrem de mari.
+La începutul secolului al XX-lea, matematicianul indian Srinivasa Ramanujan a descoperit multe noi formule pentru π, unele remarcabile pentru eleganța și profunzimea lor matematică. Una dintre formulele sale este seria
+    {\displaystyle {\frac {1}{\pi }}={\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{(k!)^{4}396^{4k}}}\!}
+    {\displaystyle {\frac {426880{\sqrt {10005}}}{\pi }}=\sum _{k=0}^{\infty }{\frac {(6k)!(13591409+545140134k)}{(3k)!(k!)^{3}(-640320)^{3k}}}\!}
+  care dau 14 cifre zecimale cu fiecare termen. Frații Ciudnovski au folosit această formulă pentru a stabili câteva recorduri de calcul al lui π spre sfârșitul anilor 1980, inclusiv primul calcul cu peste un miliard (mai precis, 1.011.196.691) de cifre zecimale în 1989. Ea rămâne formula preferată pentru software-ul de calcul al lui π ce rulează pe calculatoarele personale, diferită de cele folosite de supercalculatoarele care au stabilit recorduri moderne.
+În timp ce seriile de regulă măresc acuratețea cu o cantitate fixă pentru fiecare termen adunat, există algoritmi iterativi care multiplică numărul de zecimale exacte la fiecare pas, având dezavantajul că fiecare pas implică, de obicei, calcule costisitoare. O mare realizare în acest sens a venit în 1975, când Richard Brent și Eugene Salamin au descoperit independent algoritmul Brent–Salamin, algoritm pur aritmetic care dublează numărul de zecimale exacte la fiecare pas. Algoritmul constă în inițializarea
+    {\displaystyle a_{0}=1\quad \quad \quad b_{0}={\frac {1}{\sqrt {2}}}\quad \quad \quad t_{0}={\frac {1}{4}}\quad \quad \quad p_{0}=1\!}
+    {\displaystyle a_{n+1}={\frac {a_{n}+b_{n}}{2}}\quad \quad \quad b_{n+1}={\sqrt {a_{n}b_{n}}}\!}
+    {\displaystyle t_{n+1}=t_{n}-p_{n}(a_{n}-a_{n+1})^{2}\quad \quad \quad p_{n+1}=2p_{n}\!}
+  efectuate până când an și bn sunt suficient de apropiate. Atunci, estimarea lui π este dată de
+  Folosind această schemă, 25 de iterații ajung pentru a atinge 45 de milioane de zecimale exacte. Un algoritm similar face acuratețea de 4 ori mai mare la fiecare pas și a fost descoperit de Jonathan și Peter Borwein. Metodele au fost utilizate de Yasumasa Kanada și echipa sa pentru a stabili majoritatea recordurilor de calcul al lui π din 1980, până la calculul cu 206.158.430.000 de zecimale exacte în 1999. Recordul actual este de 2.576.980.370.000 de zecimale și a fost stabilit de Daisuke Takahashi pe sistemul T2K-Tsukuba, un supercalculator de la Universitatea Tsukuba, de la nord-est de Tokyo.O importantă descoperire recentă este formula Bailey–Borwein–Plouffe (formula BBP), descoperită de Simon Plouffe și care își trage numele de la autorii lucrării în care a fost publicată, David H. Bailey, Peter Borwein și Simon Plouffe. Formula,
+    {\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right),}
+  permite extragerea oricărei cifre hexazecimale sau binare a lui π fără a le calcula pe cele dinaintea ei. Între 1998 și 2000, proiectul de calcul distribuit PiHex a utilizat o variantă a formulei BBP dezvoltată de Fabrice Bellard pentru a calcula bitul numărul 1.000.000.000.000.000 al lui π, care a fost 0.Dacă s-ar găsi o formulă de forma
+    {\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{b^{ck}}}{\frac {p(k)}{q(k)}},}
+  cu b și c numere întregi pozitive și cu p și q polinoame de grad fix cu coeficienți întregi (cum este cazul cu formula BPP de mai sus), ea ar deveni unul dintre cele mai eficiente mijloace de calcul a oricărei cifre a lui π din orice poziție în baza bc fără a calcula toate cifrele anterioare în acea bază, într-un timp care depinde doar de dimensiunea numărului întreg k și de gradul fix al polinoamelor. Plouffe a descris astfel de formule ca fiind cele de interes pentru calculul numerelor de clasa SC*, cu complexitate spațială logaritmic-polinomială și cu complexitate temporală aproape liniară, depinzând doar de ordinul de mărime al numărului k, necesitând resurse de calcul modeste. Formula anterioară (găsită de Plouffe pentru π cu b=2 și c=4, dar găsită nu doar pentru π, ci și pentru log(9/10) și pentru câteva alte constante iraționale), sugerează că π este un număr SC*.
+Șirul de numitori parțiali ai fracției continue simple a lui π nu prezintă niciun șablon evident:
+    {\displaystyle \pi =[3;7,15,1,292,1,1,1,2,1,3,1,14,2,1,1,2,2,2,2,1,84,\cdots ]}
+                                                                              1
+                                                                              1
+                                                                              +
+                                                                                
+                                                                                  
+                                                                                    
+                                                                                      
+                                                                                    
+                                                                                    
+                                                                                      
+                                                                                        1
+                                                                                      
+                                                                                    
+                                                                                  
+                                                                                  
+                                                                                    
+                                                                                      
+                                                                                    
+                                                                                    
+                                                                                      
+                                                                                        2
+                                                                                        +
+                                                                                        
+                                                                                          
+                                                                                            
+                                                                                              
+                                                                                                
+                                                                                              
+                                                                                              
+                                                                                                
+                                                                                                  1
+                                                                                                
+                                                                                              
+                                                                                            
+                                                                                            
+                                                                                              
+                                                                                                
+                                                                                              
+                                                                                              
+                                                                                                
+                                                                                                  1
+                                                                                                  +
+                                                                                                  
+                                                                                                    
+                                                                                                      
+                                                                                                        
+                                                                                                          
+                                                                                                        
+                                                                                                        
+                                                                                                          
+                                                                                                            1
+                                                                                                          
+                                                                                                        
+                                                                                                      
+                                                                                                      
+                                                                                                        
+                                                                                                          
+                                                                                                        
+                                                                                                        
+                                                                                                          
+                                                                                                            3
+                                                                                                            +
+                                                                                                            
+                                                                                                              
+                                                                                                                
+                                                                                                                  
+                                                                                                                    
+                                                                                                                  
+                                                                                                                  
+                                                                                                                    
+                                                                                                                      1
+                                                                                                                    
+                                                                                                                  
+                                                                                                                
+                                                                                                                
+                                                                                                                  
+                                                                                                                    
+                                                                                                                  
+                                                                                                                  
+                                                                                                                    
+                                                                                                                      1
+                                                                                                                      +
+                                                                                                                      
+                                                                                                                        
+                                                                                                                          
+                                                                                                                            
+                                                                                                                              
+                                                                                                                            
+                                                                                                                            
+                                                                                                                              
+                                                                                                                                1
+                                                                                                                              
+                                                                                                                            
+                                                                                                                          
+                                                                                                                          
+                                                                                                                            
+                                                                                                                              
+                                                                                                                            
+                                                                                                                            
+                                                                                                                              
+                                                                                                                                14
+                                                                                                                                +
+                                                                                                                                
+                                                                                                                                  
+                                                                                                                                    
+                                                                                                                                      
+                                                                                                                                        
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                        
+                                                                                                                                          1
+                                                                                                                                        
+                                                                                                                                      
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                      
+                                                                                                                                        
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                        
+                                                                                                                                          2
+                                                                                                                                          +
+                                                                                                                                          
+                                                                                                                                            
+                                                                                                                                              
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                    1
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                  
+                                                                                                                                                    1
+                                                                                                                                                    +
+                                                                                                                                                    
+                                                                                                                                                      
+                                                                                                                                                        
+                                                                                                                                                          
+                                                                                                                                                            
+                                                                                                                                                          
+                                                                                                                                                          
+                                                                                                                                                            
+                                                                                                                                                              1
+                                                                                                                                                            
+                                                                                                                                                          
+                                                                                                                                                        
+                                                                                                                                                        
+                                                                                                                                                          
+                                                                                                                                                            
+                                                                                                                                                          
+                                                                                                                                                          
+                                                                                                                                                            
+                                                                                                                                                              1
+                                                                                                                                                              +
+                                                                                                                                                              ⋱
+                                                                                                                                                            
+                                                                                                                                                          
+                                                                                                                                                        
+                                                                                                                                                      
+                                                                                                                                                    
+                                                                                                                                                  
+                                                                                                                                                
+                                                                                                                                              
+                                                                                                                                            
+                                                                                                                                          
+                                                                                                                                        
+                                                                                                                                      
+                                                                                                                                    
+                                                                                                                                  
+                                                                                                                                
+                                                                                                                              
+                                                                                                                            
+                                                                                                                          
+                                                                                                                        
+                                                                                                                      
+                                                                                                                    
+                                                                                                                  
+                                                                                                                
+                                                                                                              
+                                                                                                            
+                                                                                                          
+                                                                                                        
+                                                                                                      
+                                                                                                    
+                                                                                                  
+                                                                                                
+                                                                                              
+                                                                                            
+                                                                                          
+                                                                                        
+                                                                                      
+                                                                                    
+                                                                                  
+                                                                                
+    {\displaystyle {\pi =3+{}}{\cfrac {1}{7+{\cfrac {1}{15+{\cfrac {1}{1+{\cfrac {1}{292+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{2+{\cfrac {1}{1+{\cfrac {1}{3+{\cfrac {1}{1+{\cfrac {1}{14+{\cfrac {1}{2+{\cfrac {1}{1+{\cfrac {1}{1+\ddots }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+  Există, însă, fracții continue generalizate pentru π cu o structură perfect regulată, cum ar fi:
+    {\displaystyle \pi ={\cfrac {4}{1+{\cfrac {1^{2}}{2+{\cfrac {3^{2}}{2+{\cfrac {5^{2}}{2+{\cfrac {7^{2}}{2+{\cfrac {9^{2}}{2+\ddots }}}}}}}}}}}}=3+{\cfrac {1^{2}}{6+{\cfrac {3^{2}}{6+{\cfrac {5^{2}}{6+{\cfrac {7^{2}}{6+{\cfrac {9^{2}}{6+\ddots }}}}}}}}}}={\cfrac {4}{1+{\cfrac {1^{2}}{3+{\cfrac {2^{2}}{5+{\cfrac {3^{2}}{7+{\cfrac {4^{2}}{9+\ddots }}}}}}}}}}}
+Chiar cu mult timp înainte ca valoarea lui π să fie evaluată de calculatoarele electronice, memorarea unui număr record de cifre a devenit o obsesie a unor oameni.
+În 2006, Akira Haraguchi, un inginer japonez pensionar, s-a lăudat cu reținerea a 100.000 de zecimale exacte. Aceasta nu a fost însă verificată de Guinness World Records. Recordul înregistrat de Guinness la memorarea cifrelor lui π este de 67.890 de cifre, deținut de Lu Chao, un student de 24 de ani din China. I-au luat 24 de ore și 4 minute să recite fără greșeală până la a 67.890-a cifră zecimală a lui π.Există mai multe moduri de memorare a lui π, printre care și utilizarea de „pieme”, poezii care reprezintă numărul π astfel încât lungimea fiecărui cuvânt (în litere) reprezintă o cifră. Un astfel de exemplu de piemă, compus de Sir James Jeans: How I need (sau: want) a drink, alcoholic in nature (sau: of course), after the heavy lectures (sau: chapters) involving quantum mechanics. Primul cuvânt are 3 litere, al doilea are una, al treilea are 4, al patrulea 1, al cincilea 5, și așa mai departe. Echivalent, în limba română există fraza: „Așa e bine a scrie renumitul și utilul număr”. O altă variantă, mai exactă (o zecimală în plus) este: „Dar e bine a căuta lucrurile de foarte multe ori”, iar o altă variantă, tot în limba română, este: „Dar, e bine a vedea lucrurile de foarte multe ori” (3,141592653). Cadaeic Cadenza conține în acest fel primele 3834 de cifre ale lui π. Piemele fac parte din întregul domeniu de studiu al mnemotehnicilor pentru reținerea cifrelor lui π.
+Din cauza naturii transcendente a lui π, nu există expresii cu formă închisă pentru acest număr în termeni de numere și funcții algebrice. Printre formulele de calcul al lui π cu ajutorul aritmeticii elementare se numără seriile care dau un șir infinit de aproximări ale lui π. Cu cât se includ mai mulți termeni într-un calcul, cu atât mai aproape de π va fi rezultatul.
+De aceea, calculele numerice trebuie să folosească aproximări ale lui π. Pentru multe scopuri, 3,14 sau 22/7 este o aproximare suficientă, deși inginerii folosesc adesea 3,1416 (4 zecimale exacte) sau 3,14159 (5 zecimale exacte) pentru mai multă precizie. Aproximările 22/7 și 355/113, cu 2, respectiv 6 zecimale exacte, se obțin din dezvoltarea în fracții continue simple a lui π. Aproximarea 355⁄113 (3.1415929…) este cea mai bună aproximare ce poate fi exprimată cu un numărător și un numitor de 3 sau 4 cifre; următoarea aproximare acceptabilă este 103993/33102 (3.14159265301...) și necesită numere mult mai mari, din cauza structurii dezvoltării în fracție continuă.Prima aproximare numerică a lui π este aproape sigur valoarea 3. În cazuri în care nu se cere precizie mare, ar putea fi chiar acceptabilă. Faptul că 3 este o rotunjire prin lipsă rezultă din faptul că este raportul dintre perimetrul unui hexagon regulat înscris și diametrul cercului circumscris lui.
+Cea mai presantă întrebare deschisă despre π este dacă este număr normal—adică dacă orice bloc de cifre ce apare în π la fel de des ca în cazul unui număr generat „aleator”, și dacă aceasta este adevărată în orice bază întreagă de numerație, nu doar în baza 10. Actualmente nu se știe foarte mult; nu se cunoaște nici care dintre cifrele 0,…,9 apar infinit de des în expresia zecimală a lui π.Bailey și Crandall au demonstrat în 2000 că din existența formulei Bailey-Borwein-Plouffe menționată mai sus și a altora similare rezultă că normalitatea în baza 2 a lui π și a altor constante se poate reduce la o conjectură plauzibilă din teoria haosului.Nu se cunoaște nici dacă π și e sunt independente algebric, deși Iuri Nesterenko a demonstrat independența algebrică a numerelor {π, eπ, Γ(1/4)} în 1996.
+π este omniprezent în matematică, apărând chiar și în locuri fără o legătură evidentă cu cercurile din geometria euclidiană.
+Pentru orice cerc de rază r și diametru d = 2r, circumferința este πd și aria este πr2. Mai mult, π apare în formulele pentru arie și volum al multor forme geometrice bazate pe cerc, cum ar fi elipsa, sfera, conul și torul. Astfel, π apare în integralele definite care descriu circumferința, aria sau volumul unor forme generate de cercuri. În acest caz simplu, jumătate din aria discului unitate este dată de:
+  dă jumătate din circumferința cercului unitate. Forme mai complicate pot fi integrate ca corpuri de rotație.De la definiția pe cercul unitate a funcțiilor trigonometrice rezultă și că sinusul și cosinusul au perioada 2π. Astfel, pentru orice x real și orice număr întreg n, sin(x) = sin(x + 2πn) și cos(x) = cos(x + 2πn). Deoarece sin(0) = 0, sin(2πn) = 0 oricare ar fi un număr întreg n. De asemenea, măsura unui unghi de 180° este egală cu π radiani. Cu alte cuvinte, 1° = (π/180) radiani.
+În matematica modernă, π este adesea definit cu ajutorul funcțiilor trigonometrice, de exemplu ca cel mai mic număr pozitiv x pentru care cos x = 0, pentru a evita dependența nenecesară de subtilitățile geometriei euclidiene și ale integrării. Echivalent, π poate fi definit cu ajutorul funcțiilor trigonometrice inverse, de exemplu care π = 2 arccos(0) sau π = 4 arctan(1). 
+Expanding inverse trigonometric functions as power series is the easiest way to derive infinite series for π.
+  Apariția frecventă a lui π în analiza complexă poate fi legată de comportamentul funcției exponențiale de variabilă complexă, descrisă de formula lui Euler
+  unde i este unitatea imaginară ce satisface relația i2 = −1 și e ≈ 2.71828 este numărul lui Euler. Din această formulă rezultă că puterile imaginare ale lui e descriu rotații pe cercul unitate în planul complex; aceste rotații au o perioadă de 360° = 2π. În particular, rotația cu 180° φ = π are ca rezultat remarcabila identitate a lui Euler
+  O consecință este că funcția gamma a semiîntregilor este un multiplu rațional de √π.
+Deși nu este o constantă fizică, π apare frecvent în ecuații ce descriu principii fundamentale ale Universului, datorită relației sale cu natura cercului și, prin aceasta, de sistemul de coordonate polare. Utilizarea unor construcții cum ar fi unitățile Planck pot uneori să-l elimine pe π din formule.
+  Principiul de incertitudine al lui Heisenberg, care arată că incertitudinea măsurării poziției unei particule (Δx) și a impulsului (Δp) nu pot fi ambele oricât de mici în același timp:
+    {\displaystyle R_{ik}-{g_{ik}R \over 2}+\Lambda g_{ik}={8\pi G \over c^{4}}T_{ik}}
+  Legea lui Coulomb pentru forța electrică, descriind forțele ce acționează între două sarcini electrice (q1 și q2) aflate la o distanță relativă r:
+    {\displaystyle F={\frac {\left|q_{1}q_{2}\right|}{4\pi \varepsilon _{0}r^{2}}}}
+  Constanta legii a treia a lui Kepler, ce leagă perioada orbitală (P) și axa semimajoră (a) de masele (M și m) a două corpuri pe orbită unul în jurul altuia:
+În statistică și probabilități, există mai multe distribuții ale căror formule conțin π, printre care:
+funcția de densitate de probabilitate pentru distribuția normală cu media μ și deviația standard σ, datorită integralei gaussiene:
+    {\displaystyle f(x)={1 \over \sigma {\sqrt {2\pi }}}\,e^{-(x-\mu )^{2}/(2\sigma ^{2})}}
+   pentru orice funcție de densitate de probabilitate f(x), formulele de mai sus se pot utiliza pentru a produce alte formule integrale pentru π.Acul lui Buffon este o problemă adesea folosită pentru aproximarea empirică a lui π. Dacă se aruncă un ac de lungime L în mod repetat pe o suprafață cu linii paralele aflate la S unități de lungime distanță (cu S > L). Dacă acul este aruncat de n ori și de x ori dintre acestea el intersectează o linie dreaptă (x > 0), atunci se poate aproxima π cu ajutorul metodei Monte Carlo:
+  Deși acest rezultat este impecabil din punct de vedere matematic, el nu poate fi folosit pentru a determina mai mult de câteva cifre ale lui π prin experiment. Obținerea a doar trei cifre (inclusiv "3"-ul care este partea întreagă) corecte cu siguranță necesită milioane milioane de aruncări, și numărul de aruncări crește exponențial cu numărul de cifre dorit. Mai mult, orice greșeală de măsurare a lungimilor L și S se va transforma direct într-o eroare de aproximare a lui π. De exemplu, o diferență de un singur atom în lungimea unui ac de 10 centimetri va apărea la a 9-a cifră a rezultatului. În practică, incertitudinea de a determina dacă acul intersectează sau nu o linie când el pare să o atingă exact va limita acuratețea rezultatului la mai puțin de 9 cifre.
+O alternativă la π este notația τ, pentru raportul între circumferința cercului și raza sa (în loc de diametru), echivalent cu 2π.  Această constantă reprezintă numărul de radiani al unui cerc, astfel că unghiul la centru  care determină un sector de cerc este raportul între lungimea sectorului respectiv și cerc înmulțit cu τ radiani. Susținătorii lui tau afirmă că această relație directă simplifică studiul unghiurilor exprimate în radiani față de cazul în care s-ar utiliza π, unde fracția trebuie înmulțită și cu 2. Deși în mod convențional ca produsul "2π", τ apare în multe formule des folosite.
+Fascinația pentru numărul Pi a intrat și în cultura populară. Poate din cauza simplității definiției sale, conceptul de pi și, mai ales, expresia sa zecimală au pătruns în cultura populară într-un grad mult mai mare decât aproape orice altă construcție matematică. Este, probabil, cel mai semnificativ element pe care îl au în comun matematicienii și non-matematicienii. Relatările în presă despre noile calcule precise ale lui π (și alte tentative similare) sunt frecvente..
+La 7 noiembrie 2005, Kate Bush a lansat albumul, "Aerial" care conține cântecul "π" ale cărui versuri constau din cifrele lui π, începând cu „3,14”În urmă cu 25 de ani ziua de 14 martie a fost declarată de către Camera Reprezentanților din Statele Unite drept "Ziua numărului Pi" ("The Pi Day"), deoarece această dată din calendar se scrie "3/14". Ziua numărului Pi este celebrată în special în țările anglo-saxone, dar a început de curând să fie sărbătorită și în alte state. .
+Ziua pi este sărbătorită în școli și universități. Mai multe scandări de la MIT includ „3,14159!”.
+Beckmann, Petr (1976). A History of π. St. Martin's Griffin. ISBN 0-312-38185-9. 
+Câmpan, Florica (1965), Istoria numarului Pi, București: Editura Tineretului, OCLC 634931920 
+Câmpan, Florica (1977), Povestea numarului Pi (ed. a doua, revizuită și adăugită), București: Editura Albatros, OCLC 3708207 
+„100 de personalități care au schimbat destinul lumii - Arhimede” (8). DeAgostini. 27 noiembrie 2007. ISSN 1791-0765. 
+Arndt, Jörg și Haenel, Christoph (2000). Π [Pi], Algorithmen, Computer, Arithmetik. 3-540-66258-8. Mentenanță CS1: Nume multiple: lista autorilor (link) 
+Delahaye, Jean-Paul (2000). Le fascinant nombre π (ed. Belin, Pour la Science). 2-902918-25-9. 
+Jukov, A. (2007). Вездесущее число «пи» (Numărul omniprezent Pi). 5-94057-030-5.

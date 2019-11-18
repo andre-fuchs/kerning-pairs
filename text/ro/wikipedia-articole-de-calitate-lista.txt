@@ -1,0 +1,6 @@
+Legături spre paginile cu fragmentele de articol care apar pe pagina principală.
+Legături spre paginile care indică titlul articolului de calitate (pentru transformarea numărului de ordine în titlu).Tabelul se actualizează manual și servește la gestionarea paginilor care au efect asupra paginii principale.
+Wikipedia:Articol de calitate/Sus: pentru introducerea unei imagini în fragment
+Wikipedia:Articol de calitate/Jos: pentru trimiteri la articolul întreg, la pagina articolelor de calitate și la o selecție de alte cîteva articole.
+Wikipedia:Articol de calitate/Numărul curent: Numărul curent al articolului de calitate, care se schimbă la fiecare 10 secunde (la accesarea acestei pagini era 143).
+Format:Numărul articolelor de calitate: Numărul total de articole de calitate, în prezent 197.

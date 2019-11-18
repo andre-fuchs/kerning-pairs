@@ -1,0 +1,2 @@
+V geometrii je poloměr (rádius) délka úsečky, jejíž jeden koncový bod leží na kružnici (nebo hranici kruhu) a druhý koncový bod ve středu kruhu nebo kružnice. Obdobně pak lze mluvit o poloměru koule, válce atd. Poloměr představuje polovinu průměru.
+V přeneseném smyslu se pak o poloměru mluví např. v teorii grafů, kde se jím označuje vzdálenost od středu grafu k nejvzdálenějšímu uzlu.

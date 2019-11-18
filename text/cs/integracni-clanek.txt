@@ -1,0 +1,19 @@
+Integrační článek (integrátor) je elektrotechnická součástka, která v obvodu provádí matematickou funkci integrování – napětí na výstupu je integrálem napětí na vstupu podle času. Ideální integrační článek tak realizuje funkci
+Integrační článek má frekvenční charakteristiku dolnopropustného filtru – se zvyšující se frekvencí vstupního napětí výstupní napětí klesá. U ideálního integrátoru odpovídá desetinásobnému zvýšení frekvence desetinásobný pokles amplitudy, sklon jeho logaritmické amplitudové frekvenční charakteristiky tedy je −20 dB/dek.
+Integrační konstanta pasivního integrátoru s rezistorem a kondenzátorem je Ki  = RC, s rezistorem a cívkou Ki  = L/R.
+Na integrátoru dochází k fázovému posunutí mezi vstupním a výstupním signálem, které je opět závislé na frekvenci signálu: s rostoucí frekvencí se posuv zvyšuje, asymptoticky dosahuje pro vysoké frekvence -90°.
+Frekvence, při které dochází k poklesu napětí −3 dB (AU = 0,707), se označuje jako frekvence zlomu (zlomová frekvence). Fázový posuv je při něm roven -45°.
+Logaritmická amplitudová frekvenční charakteristika (LAFCH) integračního článku s rezistorem a kondenzátorem je:
+    {\displaystyle |F(j\omega )|_{dB}=20\log |F(j\omega )|=20\log 1-20\log {\sqrt {1+\omega ^{2}R^{2}C^{2}}}}
+  , můžeme jedničku v odmocnině zanedbat a dostáváme tak přímku s počátkem ve zlomové úhlové frekvenci 
+   která klesá se strmostí -20 dB/dek.Logaritmická amplitudová frekvenční charakteristika (LAFCH) integračního článku s rezistorem a cívkou je:
+    {\displaystyle |F(j\omega )|_{dB}=20\log |F(j\omega )|=20\log 1-20\log {\sqrt {1+\omega ^{2}{\frac {L^{2}}{R^{2}}}}}}
+  , můžeme jedničku v odmocnině zanedbat a dostáváme tak přímku s počátkem ve úhlové zlomové frekvenci 
+   (3 dB), to je také kmitočet, při kterém se impedance frekvenčně závislé součástky (C nebo L) vyrovná odporu použitého R.
+    {\displaystyle \varphi (\omega )={\mbox{arctg}}{\frac {{\mbox{Im}}\{F(j\omega )\}}{{\mbox{Re}}\{F(j\omega )\}}}=-{\mbox{arctg}}(\omega K_{i})}
+Z grafu funkce arkus tangens vyplývá že fázová charakteristika bude vycházet přibližně z počátku souřadných os (osa x je logaritmická, čili začíná jedničkou a proto přesně vzato nemůže fázová charakteristika vycházet z počátku), při úhlové frekvenci 
+Obecně lze říci že každému zlomu logaritmické amplitudové frekvenční charakteristiky o -20 dB/dek (resp + 20 dB/dek) odpovídá posun fáze o -90° (resp +90°), je-li monotónní (konstantně roste nebo klesá) je fázová frekvenční charakteristika konstantní.
+  . Červeně je naznačená logaritmická amplitudová frekvenční charakteristika, modře její skutečný průběh a zeleně fázová charakteristika.
+Integrační článek obsahuje nejméně jednu frekvenčně závislou součástku (kondenzátor, cívka). Nejjednodušším zapojením je pasivní zapojení využívající jeden kondenzátor či cívku. Aktivní elektronický integrátor obsahuje operační zesilovač s kondenzátorem ve zpětnovazební smyčce. Integrátor lze také koncipovat jako digitální součástku, např. složením převodníku napětí–frekvence s čítačem impulsů.
+Vladimír Haasz, Miloš Sedláček: Elektrická měření: Přístroje a metody. Nakladatelství ČVUT, Praha 1998. ISBN 80-01-01717-6
+Pinker Jiří, Koucký Václav: Analogové elektronické systémy 2. Západočeská univerzita, Plzeň 2004. ISBN 80-7043-284-5

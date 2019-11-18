@@ -1,0 +1,2 @@
+Transferázy (též transferasy) je třída enzymů katalyzující chemické reakce, při nichž dochází k přenosu funkčních skupin z jedné molekuly zvané donor (dárce) na druhou molekulu zvanou akceptor (příjemce). Transferázy třídíme podle přenášených skupin:
+aminotransferasy přenáší aminoskupinu (– NH2) obvykle z aminokyseliny atd.Reakci katalyzovanou transferázou jde schematicky zapsat jako:

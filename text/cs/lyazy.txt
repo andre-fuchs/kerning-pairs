@@ -1,0 +1,3 @@
+Lyáza (také lyasa) je enzym katalyzující rozklad chemických vazeb odlišným způsobem než u hydrolýzy nebo oxidace, často za vzniku dvojných vazeb nebo nových cyklických sloučenin. Podle mezinárodní klasifikace enzymů mají lyázy číslo EC 4.
+ATP → cAMP + PPikdy se adenosintrifosfát štěpí na cyklický adenosinmonofosfát při odštěpení anorganického difosfátu.Lyáza tedy katalyzuje nehydrolytické štěpení vazeb.
+Mezi lyázy patří např. synthasy (vytvářejí složitější produkty z jednoduchých substrátů bez štěpení ATP), dekarboxylasy, aldehydlyasy, dehydratasy.

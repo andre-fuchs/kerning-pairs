@@ -1,0 +1,8 @@
+Meitnerium is een scheikundig element met symbool Mt en atoomnummer 109. Het is een vermoedelijk grijs of zilverkleurig overgangsmetaal.
+Meitnerium is voor het eerst geproduceerd in 1982 door een Duits onderzoeksteam onder leiding van Peter Armbruster en Gottfried Münzenberg in het Heavy Ion Research te Darmstadt, door bismut-209 (209Bi) te bombarderen met ijzer-58 (58Fe). Hiermee was aangetoond dat nieuwe zware elementen konden worden gemaakt door andere kernen te laten fuseren.
+    {\displaystyle \,_{83}^{209}\mathrm {Bi} +\,_{26}^{58}\mathrm {Fe} \,\to \ \,_{109}^{266}\mathrm {Mt} +\,_{0}^{1}\mathrm {n} }
+  Het ontstane meitnerium (de isotoop meitnerium-266) vervalt zeer snel naar bohrium (halveringstijd 3,5 ms)
+De naam meitnerium is afgeleid van de Oostenrijks-Zweedse wetenschapper Lise Meitner, maar pas in 1997 werd deze naam door de IUPAC geratificeerd. Tot die tijd stond dit element bekend onder de systematische naam unnilennium (symbool Une).
+Er is slechts een klein aantal meitneriumatomen geproduceerd en hun levensduur is zeer kort. Daardoor is het vrijwel onmogelijk om onderzoek te doen naar de chemische en fysische eigenschappen. Vermoedelijk vertoont meitnerium grote overeenkomsten met het element iridium, omdat het zich in dezelfde groep bevindt. De in de eerste alinea genoemde vermoedelijke kleur van het element is ook hierop gebaseerd.
+Op aarde wordt meitnerium niet in de vrije natuur aangetroffen. Het kan alleen worden geproduceerd door lichtere atoomkernen te laten fuseren.
+Er zijn drie meitnerium isotopen bekend. 268Mt met een halveringstijd van 70 ms en het nog instabielere 266Mt met een halveringstijd van 3,4 ms.

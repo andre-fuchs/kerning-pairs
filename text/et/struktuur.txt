@@ -1,0 +1,12 @@
+Struktuur (ladina sõnast strūctūra ehitus, tarind) on terviku kõigi osade seoste kogum.
+Süsteemi struktuur on süsteemi organisatsiooniline, korrastuslik, konfiguratsiooniline ehk ehituslik külg.
+Struktuuri kui tunnetusliku objekti (sh kategooria) määratleb süsteemi elementide enamasti püsiv seostus ehk organiseerimisviis  . 
+Struktuuri mõistele aluse panijaks peetakse nii Immanuel Kanti, kui ka Georg Wilhelm Friedrich Hegelit. Tänapäeval on struktuuri mõistet laiendatud ja kitsendatud väga erinevatest aspektidest ning sellel puudub kõiki rahuldav, nii-öelda neutraalne määratlus. Levinud on struktuuri probleem- ja objekt-orienteeritud tõlgendused.
+Ollakse eri meelel, kas struktuur on püsiv või enamasti püsiv; kas on tegemist mingi seletamatu seosega või seostega elementide vahel, jne. Ilmne on, et keemilise protsessi puhul on tegemist aine struktuuri kiire muutumisega, evolutsioonilise protsessi puhul suhteliselt aeglase muutumisega ning alles stagnatsiooni puhul võib rääkida struktuuri püsivusest.
+1) Struktuur on kõigi reaalselt eksisteerivate süsteemide lahutamatu atribuut. 
+2) Seoses mateeria struktuuritasemete või -aspektide mitmekesisusega on mis tahes süsteem polüstruktuurne. 
+3) Struktuuri mõiste on tihedalt seotud seaduse, vormi, paratamatuse jt sugulaskategooriatega. 
+4) On jõutud arusaamisele, et struktuuri täpne definitsioon on antav matemaatiliselt isomorfismi ja invariantsuse mõiste abil.
+Struktuuri määratluse laialivalguvus on pannud tunnetus- ja süsteemiteoreetikuid seda mõistet täpsustama ja konkretiseerima  . Kõik katsed struktuuri olemust ära seletada viivad paratamatult graafide juurde, kasvõi nende diagrammide näol . Struktuuri, isomorfismi ja invariantsuse mõisted on lihtsalt ja piltlikult selgitatavad graafi struktuuri põhjal  .
+Struktuuri elementaarosisteks on selle elementidevahelised binaarsuhted. Reaalse objekti graafi kujul esitatud struktuur on tuvastatav selle binaarsuhete süvaidentifitseerimise teel saadud struktuurimudeli kujul. Struktuurimudel avab ka struktuuri sümmeetria omadused sümmeetriaklasside ehk orbiitide näol.
+Brigitte Wiesen. Struktur. Online-Wörterbuch Philosophie: Das Philosophielexikon im Internet

@@ -1,0 +1,12 @@
+Pramen je soustředěný přirozený vývěr podzemní vody na zemský povrch. Prameny se podle způsobu vývěru dělí na sestupné, výstupné a přelivné. Za příznivých hydrogeologických podmínek se od pramene vytvoří vodní tok, který odvádí vyvěrající vodu dále do vodní sítě. Jiným zdrojem vody je prosak, kde voda v místě nevyvěrá, ale pouze prosakuje. Pokud se na jednom místě vyskytuje více pramenů z téhož podzemního zdroje, označuje se místo jako prameniště.
+Některé prameny vyvěrají přímo do vodního toku, jezera, moře, označují se jako utajené prameny. Z některého pramene se může stát utajený pramen i lidskou činností (vyvěrá na dně rybníka).
+V České republice je pozorovací síť pramenů. U pozorovaných pramenů se provádí měření vydatnosti, teploty a pH. Jednotkou vydatnosti pramenů je l·s−1, při velkých vydatnostech m3·s−1. K měření vydatnosti pramenů se používají objemové a hydraulické metody. Objemové měření vydatnosti je přímé, voda je zachycována do měrných nádob. Hydraulické metody jsou postaveny na základě hydraulických rovnic a empirických vztahů.
+vrstevní – voda stéká pod povrchem po nepropustné vrstvě a v jednom místě proniká na povrch
+suťový – voda protéká pod sutí a na dolním konci suťoviště volně vytéká na povrch
+vrstevně-suťový – voda nejprve stéká pod povrchem a proniká do suťové vrstvy, z níž vytéká na povrch
+přelivný – voda se hromadí v podzemní zásobě, přes jejíž okraj přetéká na povrch
+výstupný – nejnižší bod vodního sloupce je pod úrovní pramene, vývěr je důsledkem tlaku přitékající vody:
+prameny teplé (s průměrnou teplotou vyšší než 20 °C):vlažné (hypotermální, do 37 °C),
+V minulosti byly prameny často předmětem lidové úcty; v západním světě byly v pohanských dobách často spojeny s různými bohy, v dobách křesťanských pak bývaly některé prameny zasvěceny svatým a byly považovány za léčivé.
+Pro prameny doopravdy „na počátku toku“ se též vžil výraz studánka. V případě, že voda ze zdroje byla pitná, stavěly se nad zdrojem různé stříšky, aby se omezil dopad nečistot do vody.
+KÖSSL, Roman; CHÁBERA, Stanislav. Základy fyzické geografie : přehled hydrogeografie. České Budějovice: Jihočeská univerzita, 1999. ISBN 80-7040-348-9. S. 104.

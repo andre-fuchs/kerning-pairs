@@ -1,0 +1,8 @@
+Il numero di Nusselt Nu è il gruppo adimensionale che esprime il rapporto tra il flusso di calore scambiato per convezione e il flusso di calore scambiato per conduzione.Il suo analogo per lo scambio di materia è il numero di Sherwood.
+d è la lunghezza caratteristica (in [m]), che dipende dal caso preso in esame (in particolare nel caso di flusso intubato è pari al diametro equivalente del condotto);
+Il numero di Nusselt si ottiene adimensionalizzando la legge di Fourier a partire dal gradiente termico:
+Il numero di Nusselt rappresenta l’incremento della potenza termica trasmessa per convezione attraverso uno strato di fluido rispetto a quella trasmessa per conduzione attraverso lo stesso strato.
+Il valore unitario (Nu = 1) è caratteristico della trasmissione del calore per conduzione pura attraverso lo strato di fluido. All'aumentare del valore di Nu risulta sempre più sviluppato il fenomeno della convezione. 
+Il numero di Nusselt viene utilizzato nei problemi di convezione termica, in quanto la sua determinazione permette di conoscere il coefficiente di scambio termico convettivo fra il fluido e la parete. Può perciò essere utile conoscerne il valore medio sulla parete in considerazione, ottenuto come media integrale:
+  Generalmente il numero di Nusselt è valutato in funzione del numero di Prandtl e,se la convezione è naturale, del numero di Grashof o del  numero di Reynolds (se la convenzione è forzata), a meno di un coefficiente C e degli esponenti n ed m a cui sono elevati gli altri due gruppi adimensionali.
+ Sandro Longo, Analisi dimensionale e modellistica fisica: principi e applicazioni alle scienze ingegneristiche, Springer, 2011, ISBN 88-470-1871-4.

@@ -1,0 +1,2 @@
+Svítivost udává prostorovou hustotu světelného toku zdroje v různých směrech. Svítivost lze určit pouze pro bodový zdroj, tj. pro zdroj, jehož rozměry jsou zanedbatelné v porovnání se vzdáleností zdroje od kontrolního bodu.
+Základní jednotka: kandela, značka jednotky: cdPozn.: Ve starší literatuře je taky možné se setkat s jednotkou svíčka, resp. Desetinná svíčka (např. u majáků).

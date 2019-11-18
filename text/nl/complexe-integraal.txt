@@ -1,0 +1,2 @@
+Complexe integralen zijn integralen (lijnintegralen) in het vlak van de complexe getallen. Dit betekent dus dat het integralen zijn van een complexe functie 
+Complexe integralen komen veel voor in wiskundige- en natuurkundige vraagstukken. Bepaalde stellingen over complexe integralen zijn van belang om differentiaalvergelijkingen op te lossen, of om reële integralen te bepalen die het reële of imaginaire deel van een complexe functie vormen. De belangrijkste complexe integralen zijn die van de zogenaamde holomorfe of analytische functies.

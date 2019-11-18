@@ -1,0 +1,2 @@
+Screen test je metoda pro výběr herce do daného filmu. Herec je obvykle postaven před kameru a je mu nařízeno, aby před ní vystupoval. Tím je pak stanovena jeho vhodnost pro daný film. Herci jsou často dány různé instrukce, podle kterých má vystupovat.
+Americký výtvarník a režisér Andy Warhol natočil řadu screen testů s většinou lidí, kteří navštívili jeho umělecký ateliér The Factory. Promítán byl například jeho film Screen Tests, který je kompilací takových screen testů.

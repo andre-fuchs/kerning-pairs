@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<script src="datasets/count_comparison.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<style>
+    .canvas {
+        max-width: 100%;
+        /* max-height: 500px;   */
+        margin-bottom: 3em; 
+    }
+    .pie {
+        max-width: 30%;
+    }
+    .pie-large {
+        max-width: 50%;
+    }
+    .piecharts, .bar {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bar .column-left {
+        width: 33%;
+    }
+    .bar .column-right {
+        width: 67%;
+    }
+</style>
+</head>
+<body>
+
+    <div style="height: 300px; margin: 2em 0">
+        <canvas id="canvas1" class="canvas"></canvas>
+    </div>
+
+<script>
+
+pieColors = {
+	red: 'rgb(255, 99, 132)',
+	orange: 'rgb(255, 159, 64)',
+	yellow: 'rgb(255, 205, 86)',
+	green: 'rgb(75, 192, 192)',
+	blue: 'rgb(54, 162, 235)',
+	purple: 'rgb(153, 102, 255)',
+	grey: 'rgb(127, 129, 133)'
+};
+
+Chart.defaults.global.defaultFontFamily = "'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif";
+Chart.defaults.global.legend.labels.usePointStyle = true;
+Chart.defaults.global.legend.labels.boxWidth = 15;
+Chart.defaults.global.tooltips.backgroundColor = '#000';
+
+// var ctx1 = canvas.getContext('2d');
+var ctx1 = document.getElementById('canvas1').getContext('2d');
+
+labels = labels.map(function (k) { 
+    return k.replace('&#x27;', '\'').replace('&quot;', '\'').replace('&amp;', '&').replace('&gt;', '>').replace('&lt;', '<');
+});
+
+var config1 = {
+    type: 'bar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'Total (' + countGreater1 + ')',
+            data: dataset_total,
+            backgroundColor: pieColors.blue,
+        }]
+    },
+    options: {
+        title: {
+            display: true,
+            text: 'Relevant Kerning Pairs Per Page' 
+        },
+        tooltips: {
+            mode: 'index',
+            intersect: false
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+            xAxes: [{
+                display: false,
+            }],
+            yAxes: [{
+                stacked: false,
+                ticks: {
+                    beginAtZero: true,
+                },
+            }]
+        }
+    }
+};
+
+var chart1 = new Chart(ctx1, config1);
+
+
+</script>
+
+</body>
+</html>

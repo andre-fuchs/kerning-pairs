@@ -1,0 +1,12 @@
+Atmosférický tlak je síla, kterou působí atmosféra planety (obvykle chápána Země) na jednotkovou plochu v daném místě.
+Atmosférický tlak dosahuje nejvyšších hodnot při hladině moře (popř. povrchu planety) a s rostoucí výškou klesá. Atmosférický tlak není stálý, ale kolísá na daném místě zemského povrchu kolem určité hodnoty. V historii Země byl menší než dnes.Tlak menší než barometrický (průměrný atmosférický tlak) se nazývá podtlak, tlak větší než barometrický se nazývá přetlak. Prostor s takřka nulovým tlakem se nazývá vakuum.
+Vzhledem k velké stlačitelnosti plynů není barometrický tlak lineární funkcí výšky, jako je tomu např. u kapalin (viz hydrostatický tlak). Mění-li se hustota s tlakem podle Boyleova-Mariottova zákona, můžeme v atmosféře vymezit vrstvu vzduchu o hustotě 
+    {\displaystyle {\frac {\mathrm {d} p}{p}}=-{\frac {\rho _{0}}{p_{0}}}g\mathrm {d} h}
+    {\displaystyle \rho =\rho _{0}\mathrm {e} ^{-{\frac {\rho _{0}g\Delta h}{p_{0}}}}}
+Tlak vzduchu je závislý na nadmořské výšce, na velikosti tíhového zrychlení, na mocnosti, teplotě a hustotě atmosféry v daném místě. Z důvodu snazšího porovnávání výsledků různých měření barometrického tlaku byl stanoven tzv. normální tlak vzduchu (normální atmosférický tlak) pn (též p0 ), zavedený jako průměrná hodnota tlaku vzduchu při mořské hladině na 45° s. š. při teplotě 15 °C a tíhovém zrychlení gn = 9,80665 ms-2. Je definovaný přesnou hodnotou:
+  Pomocí normálního tlaku vzduchu byla definována jednotka fyzikální atmosféra (značka atm):
+  Normální tlak v jiných zastaralých jednotkách (milibary, torry, technické atmosféry):
+    {\displaystyle p_{n}=1013,25\,{\rm {mbar}}=760\,{\rm {torr}}\,{\dot {=}}\,1,033227\,{\rm {at}}}
+V meteorologii měříme tlak nejčastěji pomocí rtuťových tlakoměrů, aneroidů a barografů.
+V meteorologii se atmosférický tlak vyjadřuje nejčastěji jednotkou hektopascal (hPa). Při použití rtuťových barometrů se stále užívá jednotka torr (milimetr rtuťového sloupce), která se dále přepočítává na hektopascaly.
+Měření atmosférického tlaku má velký význam v meteorologii, neboť atmosférický tlak (a především jeho změny a rychlost těchto změn) jsou důležité pro předpověď počasí. Např. zvýšení atmosférického tlaku obvykle znamená příchod slunečného počasí s malou oblačností, zatímco pokles tlaku ohlašuje příchod oblačnosti a deštivého počasí. Pro srovnatelnost údajů se pak používá, obdobně jako u výškoměrů, tlak přepočtený na hladinu moře (QNH či QFE).

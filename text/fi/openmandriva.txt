@@ -1,0 +1,1 @@
+OpenMandriva Lx on työpöytä- ja palvelinkäyttöön tarkoitettu Linux-jakelu, jonka on julkaissut voittoa tavoittelematon OpenMandriva-yhteisö. OpenMandriva projekti syntyi Mandriva Linuxin pohjalta sen kehityksen päätyttyä vuonna 2011.

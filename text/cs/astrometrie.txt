@@ -1,0 +1,9 @@
+Astrometrie je odvětví astronomie, které se zabývá přesnými měřeními a vysvětlováním pozice a pohybů hvězd a ostatních nebeských těles. Kvůli omezené přesnosti přístrojů se až do konce 19. století zdálo, že astrometrie bude stát na okraji vědeckého zájmu. Se zlepšujícími se přístroji a nástupem automatizace se informace získávané astrometrií staly velmi důležité při studiu a výzkumu pohybu a fyzikálního původu naší sluneční soustavy a naší galaxie Mléčná dráha.
+Jednou z možností využití astrometrie je hledání exoplanet. Je to v tomto oboru nejstarší metoda, používána asi 50 let.
+Zjišťujeme-li dlouhodobě a precizně polohu určité hvězdy, bude se po obloze pohybovat ne po přímce, ale po vlnovce s periodou jednoho roku, což souvisí s oběhem Země okolo Slunce. Odhlédneme-li od tohoto pohybu, bude se zkoumaná hvězda pohybovat po přímce. Pokud ovšem obíhá okolo hvězdy jinak neviditelná planeta, bude hvězdu svou gravitaci ovlivňovat a její pohyb se nebude jevit přímý, ale opět po vlnovce s periodou oběžné doby planety a s amplitudou úměrnou poměru hmotností hvězdy a planety.
+V hledání exoplanet za použití astrometrie byl nejznámější astronom Peter van de Kamp svými "objevy" dvou objektů u Barnardovy hvězdy. Domnělé objevy byly ve skutečnosti výsledkem chyby přístrojů.
+Ve sci-fi seriálu Star Trek: Vesmírná loď Voyager je astrometrická laboratoř jednou z často používaných scén.
+Ve sci-fi seriálu Battlestar Galactica je astrometrická laboratoř uváděna v mnoha dialozích.
+Jean Kovalevsky a P. Kenneth Seidelman, Fundamentals of Astrometry, Cambridge University Press, 2004, ISBN 0-521-64216-7.
+Hall of Precision Astrometry, University of Virginia Department of Astronomy, angličtina, 2006-08-10
+Walter, Hans G. (2000).Astrometry of fundamental catalogues : the evolution from optical to radio reference frames New York : Springer.

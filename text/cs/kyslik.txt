@@ -1,0 +1,36 @@
+Kyslík (chemická značka O, latinsky Oxygenium) je plynný chemický prvek, tvořící druhou hlavní složku zemské atmosféry. Je biogenním prvkem a jeho přítomnost je nezbytná pro existenci většiny živých organismů na této planetě. Autorem jeho českého názvu je Jan Svatopluk Presl. Při dýchání vzduchu o obsahu kyslíku větším než 75 % (za normálního atmosférického tlaku) však dochází k většinou nenávratnému poškození plic.
+15. století – Leonardo da Vinci sledoval vlastnosti vzduchu. Určil, že jedna z jeho složek podporuje hoření.
+1772 – Carl Wilhelm Scheele objevil kyslík a pojmenoval ho "ohnivý vzduch". Objev byl však publikován až v roce 1777.
+1774 – Joseph Priestley objevuje kyslík dva roky nezávisle po Scheeleovi. Publikuje však svůj objev jako první.
+1779 – Antoine Lavoisier navrhuje název „oxygen“ (kyselinu tvořící) pro „dýchatelnou“ část vzduchu, která se účastní hoření.
+1785 – van Marun popisuje pach kyslíku, mylně ho však přisuzuje unikátní formě kyslíku, ozonu O3
+1833 – Paul Bert upozorňuje na výhodu dýchání čistého kyslíku v procesu dekomprese - základy kyslíkové rekompresní lečby
+1840 – Christian Schönbein objevuje ozón, díky charakteristickému zápachu při používání elektrických přístrojů ve špatně větrané laboratoři.
+1858 – Werner von Siemens konstruuje první přístroj, který využívá tichého elektrického výboje k výrobě ozónu.
+1861 – William Odling navrhuje vzorec O3 pro ozón po reakci ozónu s jodidem draselným.
+1882 – J. W. Strutt objevuje, že atomová hmotnost kyslíku není přesně 16,00, ale 15,872.
+Kyslík je velmi reaktivní permanentní plyn, nezbytný pro existenci života na naší planetě. Slučování kyslíku s ostatními prvky se nazývá hoření, pokud je látka zahřátá na zápalnou teplotu. Jde prakticky vždy o exotermní reakci, která vede k uvolnění značného množství tepelné energie. Produkty hoření se nazývají oxidy (dříve kysličníky).
+Voda oceánů, které pokrývají 2/3 zemského povrchu, je hmotnostně z 90 % složena z kyslíku.
+V zemské kůře je kyslík majoritním prvkem, je přítomen téměř ve všech horninách. Jeho obsah je odhadován na 46 až 50 hmotnostních procent. V hlubších vrstvách zemského tělesa zastoupení kyslíku klesá a předpokládá se, že v zemském jádře je přítomen pouze ve stopách.Ve vesmíru je zastoupení kyslíku podstatně nižší. Na 1 000 atomů vodíku zde připadá pouze jeden atom kyslíku.
+Ve svých sloučeninách se kyslík vyskytuje převážně v mocenství O−II, výjimečně pak jako O−I a O+Ia také O −2  v superoxidech (KO2 superoxid draselný) a O −3  v ozonidech.
+Záporně dvojmocný kyslík je přítomen ve velmi široké škále sloučenin. Především jsou to oxidy, vlastnosti jednotlivých sloučenin jsou detailněji popsány v kapitolách příslušných jednotlivým prvkům.
+Kyslík je přítomen ve většině anorganických kyselin a jejich solí. Z těch nejdůležitějších je možno jmenovat uhličitany (CO3)−II, křemičitany (SiO3)−II, sírany (SO4)−II, dusičnany (NO3)− a fosforečnany (PO4)−III.
+Alkalické sloučeny hydroxidy se vyznačují přítomnosti skupiny -OH. Mezi nejznámější patří hydroxid sodný NaOH, draselný KOH a vápenatý, hašené vápno Ca(OH)2.
+Ve valenci O−I vystupuje kyslík v peroxidech, nejznámější z nich je peroxid vodíku H2O2. Tato kapalná sloučenina má silné oxidační účinky a v praxi se používá ve formě svých vodných roztoků v medicíně pro dezinfekci a v chemii jako oxidační činidlo. Peroxid sodný Na2O2 je pevná, hygroskopická látka, která nachází uplatnění jako velmi energetické oxidační činidlo.
+Pouze fluor vykazuje větší elektronegativitu než kyslík a tvoří s ním několik fluoridů, v nichž se kyslík vyskytuje v mocenství O+I i O+II. Všechny fluoridy kyslíku jsou značně nestálé, přesto však existuje reálná možnost jejich využití jako raketového paliva.
+Kyslík se vyskytuje ve velkém množství organických látek. Řada těchto sloučenin je součástí všech živých organismů, protože kyslík patří mezi základní biogenní prvky. Základní skupiny organických sloučenin s obsahem kyslíku jsou:
+Jedná se o neviditelnou složku vzduchu nutnou pro spalování prakticky každého fosilního paliva (technologická oxidace fosilních paliv)
+výroba elektrické energie – spalování fosilních paliv v tepelných elektrárnách (často v kombinaci s výrobou technologického tepla)
+výroba technologického tepla – spalování fosilních paliv v teplárnách (často v kombinaci s výrobou elektrické energie)
+nouzové osvětlování (kupř. svíčky, petrolejové lampy)Nežádoucí chemicko-technologický či fyzikálně-chemický proces, koroze kovů je způsobená nežádoucí oxidací kovů a dalšími doprovodnými chemickými reakcemi.
+Kyslík se prakticky výlučně vyrábí destilací zkapalněného vzduchu. Vyrobený kyslík se uchovává buď ve zkapalněném stavu ve speciálních Dewarových nádobách (viz obrázek) nebo plynný v ocelových tlakových lahvích. Vzhledem k vysoké reaktivitě čistého kyslíku je nezbytné, aby se nedostal do přímého kontaktu s organickými látkami. Proto se žádné součásti aparatury pro uchovávání a manipulaci s kapalným nebo stlačeným kyslíkem nesmí mazat organickými tuky nebo oleji.
+Kyslíkové koncentrátory jsou přístroje, které nepotřebují žádnou zásobu kyslíku v podobě lahví, ale umožňují vyvíjení vyšší koncentrace neomezeně, nebo dle nastavení.
+V medicíně se čistý kyslík používá při operacích a traumatických stavech pro podporu pacientova dýchání a lepšímu okysličení organismu. Směsi kyslíku s inertními plyny slouží potápěčům k potlačení dekompresní nemoci. Je součástí i všech ostatních dýchacích plynů, které se používají pro potápění do velkých hloubek.
+Také vysokohorští horolezci a letci se v nutných případech uchylují k dýchání čistého kyslíku. I piloti stíhacích letadel jsou vybaveni směsmi stlačených plynů, jejichž základní složkou je kyslík. To proto, že zvýšením koncentrace kyslíku se zvýší jeho parciální tlak a ulehčí se tak dýchání v řídké atmosféře a předejde vysokohorské nemoci.
+Američtí astronauti programu Apollo dýchali také atmosféru z téměř čistého kyslíku, což umožnilo snížit tlak v kabině zhruba na třetinu běžné hodnoty a tak odlehčit její hermetickou konstrukci. To se ale stalo osudným posádce Apolla 1, která ve vysoce hořlavé atmosféře uhořela. Všechny skafandry pro výstup do kosmu používají kyslíkovou atmosféru kvůli co nejnižšímu přetlaku, protože přetlak omezuje pohyblivost skafandru.
+Při hoření směsi kyslíku s acetylenem lze dosáhnout teploty cca 3 150–3 200 °C. Proto se kyslíko-acetylenový plamen využívá k řezání oceli a tavení kovů s vysokým bodem tání, například platinových kovů.
+Při výrobě oceli je nutné především odstranit z matrice železa přebytečný uhlík, který je ve formě karbidu železa. Tento přebytečný uhlík spolu s dalšími příměsmi se odstraňuje spálením obvykle v tzv. konvertoru, a to vháněním vzduchu v Bessemerově a Thomasově konvertoru nebo vháněním čistého kyslíku do roztaveného železa v kyslíkovém konvertoru), kde za vysoké teploty taveniny dochází k oxidaci přítomného uhlíku na plynné oxidy, které odcházejí jako spaliny.
+Kapalný kyslík většinou slouží jako okysličovadlo raketových motorů při letech kosmických lodí.
+Kyslík se používá jako jedna ze složek pro náplň některých typů palivových článků.
+Cotton F.A., Wilkinson J.: Anorganická chemie, souborné zpracování pro pokročilé, ACADEMIA, Praha 1973
+N. N. Greenwood – A. Earnshaw, Chemie prvků 1. díl, 1. vydání 1993 ISBN 80-85427-38-9

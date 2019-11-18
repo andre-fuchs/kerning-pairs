@@ -1,0 +1,3 @@
+Emisní mlhovina je mlhovina složená převážně z ionizovaného plynu (plazmatu), který emituje (vyzařuje) světlo různé barvy. Zdrojem ionizace bývá vysoce energetické elektromagnetické záření blízké hvězdy. Jde o typ difúzní mlhoviny.
+Obvyklým zdrojem ionizace je ultrafialové záření velmi žhavé hvězdy. Toto záření ohřívá okolní plyn a tím jej zbavuje elektronů. Elektrony se pak srážejí s atomy plynu a energii uvolní v podobě viditelného světla.
+Nejčetnějším typem emisní mlhoviny je HII oblast. Dále sem patří planetární mlhoviny nebo pozůstatky po výbuchu supernovy.

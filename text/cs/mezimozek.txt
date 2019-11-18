@@ -1,0 +1,7 @@
+Mezimozek (latinsky: diencephalon) je soubor mozkových struktur okolo třetí mozkové komory. Navazuje na horní konec mozkového kmene, uložen mezi hemisférami koncového mozku.
+Nápadně vyklenuté části jsou dva thalamy, které tvoří stěnu III. komory mozkové.
+thalamus: struktura umožňující převod nervových impulzů z periferie do mozkové kůry
+metathalamus: součást zrakové a sluchové dráhy (corpora geniculata lateralia a medialia)
+hypothalamus: ústředí mnoha vegetativních, endokrinních a emočních funkcí, je spojen s podvěskem mozkovým (hypofýza)
+epithalamus: tvořený šišinkou (corpus pineale), endokrinním orgánem produkujícím melatonin
+SINĚLNIKOV, R. D. a kolektiv. Atlas anatomie člověka. Svazek III. Praha: Státní zdravotnické nakladatelství, 1965. 400 s.

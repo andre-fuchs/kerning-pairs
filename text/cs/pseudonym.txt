@@ -1,0 +1,8 @@
+Pseudonym je krycí jméno nebo umělecká značka, pod kterou autor publikuje své dílo nebo pod kterým člověk z jiného důvodu vystupuje v rámci komunikace s ostatními lidmi.
+Bez souhlasu autora není možné totožnost autora prozradit. Právo na pseudonym je jedno ze základních osobních práv – autor má právo rozhodnout, zda a jakým způsobem má být jeho autorství při zveřejnění uvedeno.
+Ten, kdo prozradí pravé jméno autora, dopouští se porušení § 7 autorského zákona.
+Alternativní synonymum je slovo alias nebo vulgo (ve smyslu: jinak zvaný). Obě slova je možno použit i v případě přezdívky. V angličtině se používá alias a akronym aka (též a.k.a., ze slov also known as – též známý jako), který se někdy (chybně) promítne i do české mluvy.
+(obecně) alternativní pojmenování určitého objektu, například za účelem zkrácení jeho původního jména pro pohodlnější práci s ním,
+např. v SQL alternativní označení (nejčastěji) sloupce nebo tabulky pomocí klíčového slova AS,
+v některých skriptovacích jazycích funkce jiného jména, provádějící stejnou činnost (viz např. jejich seznam pro jazyk PHP na [1]),
+v některých hypertextových nápovědách to, co na wikipedii funguje jako přesměrovávací stránka (tedy heslo vytvořené pouze z toho důvodu, aby usměrnila uživatele),

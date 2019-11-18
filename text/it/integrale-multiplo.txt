@@ -1,0 +1,96 @@
+L'integrale multiplo è una forma di integrale definito esteso a funzioni di più variabili reali (ad esempio a funzioni della forma 
+Gli integrali definiti possiedono interpretazioni geometriche e fisiche significative: limitandosi per semplicità alle funzioni con valori positivi, mentre l'integrale definito per una funzione di una variabile rappresenta l'area della regione chiamata trapezoide compresa tra il suo grafico e l'asse delle ascisse, l'integrale definito per funzioni di due variabili (integrale doppio) fornisce la misura del volume del solido chiamato cilindroide compreso tra la superficie che ne dà il grafico e il piano contenente il suo dominio. In generale gli integrali definiti di funzioni di 3 o più variabili sono interpretabili come misure di ipervolumi, ovvero di volumi di solidi di 4 o più dimensioni, non rappresentabili quindi graficamente. Un integrale triplo, integrale definito di una funzione di tre variabili, è interpretabile fisicamente come misura della massa di un corpo che occupa lo spazio che corrisponde al dominio e che ha la densità variabile fornita dai valori della funzione stessa.
+La definizione di integrale di Riemann nel caso di funzioni di più variabili è concettualmente simile a quella di integrale in una sola variabile, ma è complessivamente più laboriosa a causa della varietà di insiemi su cui è eseguita l'integrazione. Le funzioni semplici con cui approssimare le funzioni sono infatti definite su un'unione finita di rettangoli nella forma:
+    {\displaystyle R=[a_{1},b_{1})\times [a_{2},b_{2})\times \cdots \times [a_{N},b_{N})}
+   è la dimensione dello spazio. La misura di Peano-Jordan di ogni rettangolo è:
+    {\displaystyle \phi (x_{1},\ldots ,x_{n})=\sum _{i=0}^{n}c_{i}\chi _{R_{i}}(x_{1},\ldots ,x_{n})}
+    {\displaystyle \int _{T}\phi (x_{1},\ldots ,x_{n})\mathrm {d} x_{1}\ldots \mathrm {d} x_{n}=\sum _{i=0}^{n}c_{i}m(R_{i})}
+   è detta quindi integrabile se può essere approssimata con qualunque precisione da funzioni semplici maggioranti e minoranti. In modo equivalente, se per ogni 
+    {\displaystyle \int _{T}\psi (x_{1},\ldots ,x_{n})\mathrm {d} x_{1}\ldots \mathrm {d} x_{n}-\int _{T}\phi (x_{1},\ldots ,x_{n})\mathrm {d} x_{1}\ldots \mathrm {d} x_{n}<\varepsilon }
+   del loro diametro. In modo equivalente, l'integrale è l'estremo superiore degli integrali delle funzioni semplici minoranti, che è uguale all'estremo inferiore degli integrali delle funzioni semplici maggioranti.
+   dove operare l'integrale sia un'unione finita di rettangoli: poiché l'unione è limitata, è sempre possibile estendere la funzione integranda su un rettangolo "ambiente" 
+    {\displaystyle g({\vec {x}})={\begin{cases}f({\vec {x}})\quad &{\vec {x}}\in T\\0&{\vec {x}}\in \Omega \setminus T\end{cases}}}
+  . Tale definizione è ben posta in quanto si verifica facilmente che l'integrabilità e il valore dell'integrale non dipendono dalla scelta di 
+Nel caso dell'integrale di Lebesgue, invece, la definizione non varia in nessun modo all'aumentare da una a più dimensioni, in quanto si basa solamente sulla misura degli insiemi. Anche in questo caso, per definire una misura su 
+  , si parte dai rettangoli e dalle loro combinazioni finite: queste formano un'algebra, su cui la misura definita precedentemente è σ-additiva. Allora, per il teorema di Carathéodory, questa può essere estesa ad una misura (detta misura di Lebesgue) sulla σ-algebra di Lebesgue.
+L'integrale multiplo condivide le proprietà che caratterizzano l'integrale per funzioni ad una variabile: è lineare, additivo (ovvero è possibile spezzare il dominio d'integrazione), monotono; il valore assoluto dell'integrale verifica
+    {\displaystyle \left|\int _{E}f(\mathbf {x} )\mathrm {d} \mathbf {x} \right|\leq \int _{E}|f(\mathbf {x} )|\mathrm {d} \mathbf {x} }
+  Valgono inoltre il teorema della media integrale e il teorema della media pesata.
+    {\displaystyle \int _{T}f(x,y)\mathrm {d} x\mathrm {d} y=\iint _{T}f(x,y)\mathrm {d} x\mathrm {d} y}
+    {\displaystyle \int _{S}f(x,y,z)\mathrm {d} x\mathrm {d} y\mathrm {d} z=\iiint _{S}f(x,y,z)\mathrm {d} x\mathrm {d} y\mathrm {d} z}
+  Nelle applicazioni più tecniche, come quelle nel campo dell'ingegneria, la tipologia dei problemi analizzata comporta quasi esclusivamente integrali doppi e tripli.
+Come nel caso di una sola variabile, la definizione di integrale di Riemann richiede di integrare funzioni limitate su insiemi limitati. Per estendere la definizione agli altri casi, il primo passo è prendere in esame le funzioni positive, e considerare una successione crescente di compatti (ovvero di chiusi limitati in cui 
+  ) dove la funzione è limitata, il cui limite (che coincide con la loro unione) sia l'insieme di integrazione 
+   è una successione crescente, e quindi ha un limite; data inoltre un'altra successione di insiemi con le stesse caratteristiche, ogni elemento di quest'ultima è compreso tra due elementi (non necessariamente consecutivi) della prima, e quindi per il teorema dei carabinieri il limite è lo stesso.
+Nel caso di funzioni a segno qualsiasi, è sufficiente dividerla nella sua parte positiva e nella sua parte negativa; l'integrale sarà quindi definito nel caso in cui possa essere definito separatamente per entrambe. Questo è equivalente a chiedere che l'integrale (improprio) del suo valore assoluto sia finito.L'integrale di Lebesgue, invece, non ha bisogno di questa costruzione, in quanto la sua definizione comprende già i casi in cui la funzione o il dominio d'integrazione non sono limitati.
+La risoluzione dei problemi con integrali multipli consiste nella maggior parte dei casi nel riuscire a ricondurre i calcoli ad una serie di integrali ad una variabile, gli unici direttamente risolvibili.
+In pochi casi particolari è possibile evitare calcoli diretti e ottenere subito il risultato dell'integrazione. Uno di questi è il caso di integrazioni di funzioni costanti su rettangoli: in tal caso, conoscendo la misura del dominio, basta moltiplicarla per il valore della costante 
+In altri casi si può sfruttare la disparità della funzione rispetto ad una variabile in congiunzione con la simmetria del dominio rispetto all'asse corrispondente, ottenendo un integrale nullo: ad esempio, la funzione 
+Un elemento essenziale nel calcolo degli integrali multipli è dato dalla possibilità di "spezzare" l'integrale in più dimensioni in diversi integrali su 
+  , dove può essere applicato, ad esempio, il teorema fondamentale del calcolo integrale. Si vorrebbe avere cioè una formula del tipo
+    {\displaystyle \int _{\mathbb {R} ^{N}}f(x_{1},\ldots ,x_{N})\mathrm {d} x_{1}\cdots \mathrm {d} x_{N}=\int _{\mathbb {R} ^{N-1}}\mathrm {d} x_{1}\cdots \mathrm {d} x_{N-1}\int _{\mathbb {R} }f(x_{1},\ldots ,x_{N})\mathrm {d} x_{N}}
+  dove, per semplicità di notazione, si considerano gli integrali sull'intero spazio (cui ci si può sempre ricondurre moltiplicando per la funzione caratteristica): in questo caso, si può risolvere prima l'integrale più a destra (trattando le prime 
+   variabili come costanti) e poi la parte restante, eventualmente portando fuori un'altra variabile (e così via). Questa formula tuttavia non è sempre valida. Nel caso più generale, i due teoremi fondamentali in questo caso sono il teorema di Tonelli e quello di Fubini: il primo garantisce la validità della formula nel caso di funzioni positive, mentre il secondo nel caso di funzioni il cui integrale del valore assoluto converge. Sono in un certo senso analoghi, rispettivamente, ai teoremi della convergenza monotona e della convergenza dominata per lo scambio delle operazioni di limite e integrale. Un altro caso in cui si può effettuare la riduzione, più particolare ma di considerevole interesse pratico, è nel caso che 
+Entrambi si riferiscono ad espressioni più generali di quella precedente: l'integrale può essere infatti diviso in due parti di qualunque dimensione (purché, ovviamente, la loro somma sia uguale alla dimensione di partenza). Sebbene la maggior parte degli integrali non abbia bisogno di questa generalizzazione, essa è utile, ad esempio, per il calcolo del volume delle ipersfere, cioè delle sfere 
+  , sebbene utile nella dimostrazione dei teoremi di Tonelli e Fubini, non è tuttavia agevole per il calcolo effettivo degli integrali. In questo caso si sfrutta la nozione di dominio semplice (detto anche normale): questo è un insieme in cui una coordinata è costantemente compresa tra i valori di due funzioni (misurabili) delle altre variabili. Ad esempio, nel caso di due variabili, l'integrale di 
+    {\displaystyle \int _{T}f(x,y)\mathrm {d} x\mathrm {d} y=\int _{a}^{b}\mathrm {d} x\int _{\alpha (x)}^{\beta (x)}f(x,y)\mathrm {d} y}
+    {\displaystyle \int _{T}f(x,y)\mathrm {d} x\mathrm {d} y=\int _{a}^{b}\mathrm {d} y\int _{\alpha (y)}^{\beta (y)}f(x,y)\mathrm {d} x.}
+A volte il dominio su cui bisogna integrare non è facilmente rappresentabile in forma normale (ad esempio perché dato in forma implicita). In questo caso si può ricorrere ad un cambio di variabili per aggirare il problema e integrare funzioni note su regioni "comode", ovvero domini semplici o comunque descrivibili in maniera più semplice. Formalmente, dati due insiemi 
+   e un diffeomorfismo (cioè un'applicazione biunivoca, differenziabile e con inversa differenziabile) 
+    {\displaystyle \int _{A}f(\mathbf {x} )\mathrm {d} \mathbf {x} =\int _{B}f(\Phi (\mathbf {y} ))|\det(J_{\Phi }(\mathbf {y} ))|\mathrm {d} \mathbf {y} }
+  . In pratica, le variabili vengono trasformate secondo il cambio di variabile, ma compare un "elemento di volume" corrispondente al determinante della jacobiana.
+    {\displaystyle E=\{x<y<2x,1<x+y<3\}=\left\{1<{\frac {y}{x}}<2,1<x+y<3\right\}}
+    {\displaystyle {\begin{pmatrix}-{\frac {v}{(u+1)^{2}}}&{\frac {1}{u+1}}\\{\frac {v}{(u+1)^{2}}}&{\frac {u}{u+1}}\end{pmatrix}}}
+    {\displaystyle \int _{E}f(x,y)\mathrm {d} x\mathrm {d} y=\int _{F}f\left({\frac {v}{u+1}},{\frac {uv}{u+1}}\right)|\det(J_{\Phi }(u,v))|\mathrm {d} u\mathrm {d} v=}
+    {\displaystyle =\int _{F}{\frac {u+1}{2v+uv}}{\frac {v}{(u+1)^{2}}}\mathrm {d} u\mathrm {d} v=\int _{F}{\frac {1}{(u+1)(u+2)}}\mathrm {d} u\mathrm {d} v}
+Alcuni cambi di variabile sono molto comuni: il primo, in due dimensioni, è il passaggio a coordinate polari, mentre gli altri due, in 
+  , se il dominio sul quale si deve integrare presenta una simmetria radiale o delle caratteristiche circolari, un cambio di variabile molto usato è il passaggio in coordinate polari. La relazione fondamentale per effettuare la trasformazione della funzione è
+    {\displaystyle {\frac {\partial (x,y)}{\partial (\rho ,\phi )}}={\begin{vmatrix}\cos \phi &-\rho \sin \phi \\\sin \phi &\rho \cos \phi \end{vmatrix}}=\rho .}
+    {\displaystyle \int _{D}f(x,y)\ dxdy=\int _{T}f(\rho \cos \phi ,\rho \sin \phi )\ \rho \ \mathrm {d} \rho \ \mathrm {d} \phi }
+  , essendo la misura di una lunghezza, può avere esclusivamente valori positivi.
+In più di due dimensioni, le coordinate polari sono generalizzate dalle coordinate sferiche e da quelle ipersferiche (per quattro o più dimensioni; sono dette anche "sferiche generalizzate" o semplicemente "sferiche"). In tre dimensioni una possibile trasformazione è
+    {\displaystyle {\frac {\partial (x,y,z)}{\partial (\rho ,\theta ,\phi )}}={\begin{vmatrix}\sin \phi \cos \theta &-\rho \sin \phi \sin \theta &\rho \cos \phi \cos \theta \\\sin \phi \sin \theta &\rho \sin \phi \cos \theta &\rho \cos \phi \sin \theta \\\cos \phi &0&-\rho \sin \phi \end{vmatrix}}=-\rho ^{2}\sin \phi .}
+  Il dominio di integrazione che meglio si adatta a questo passaggio è ovviamente la sfera.
+    {\displaystyle x_{1}=\rho \sin \phi _{1}\cdots \sin \phi _{n-3}\sin \phi _{n-2}\sin \phi _{n-1}}
+    {\displaystyle x_{2}=\rho \sin \phi _{1}\cdots \sin \phi _{n-3}\sin \phi _{n-2}\cos \phi _{n-1}}
+    {\displaystyle x_{3}=\rho \sin \phi _{1}\cdots \sin \phi _{n-3}\cos \phi _{n-2}}
+    {\displaystyle \left|\det {\frac {\partial (x_{i})}{\partial (r,\phi _{j})}}\right|=\rho ^{n-1}\sin ^{n-2}(\phi _{1})\sin ^{n-3}(\phi _{2})\cdots \sin(\phi _{n-2}).}
+  ) è parametrizzato attraverso le coordinate polari, mentre l'altezza rimane invariata: questo cambio di variabili è quindi adatto per domini con una base circolare o, comunque, in cui la difficoltà d'integrazione è slegata da una delle variabili (ad esempio se l'insieme di integrazione è un cilindro o un cono).
+  e, poiché l'ultima variabile rimane fissa ed è totalmente indipendente dalla variazione delle altre, l'elemento d'area coincide con quello del passaggio in coordinate polari, cioè è esattamente 
+    {\displaystyle {\frac {\partial (x,y,z)}{\partial (\rho ,\theta ,z)}}={\begin{vmatrix}\cos \theta &-\rho \sin \theta &0\\\sin \theta &\rho \cos \theta &0\\0&0&1\end{vmatrix}}=\rho (\cos \theta )^{2}+\rho (\sin \theta )^{2}=\rho .}
+Grazie ai metodi precedentemente descritti è possibile dimostrare il valore del volume di alcuni solidi.
+    {\displaystyle {\begin{aligned}{\text{Volume}}&=\int _{0}^{2\pi }\mathrm {d} \phi \int _{0}^{R}h\rho \;\mathrm {d} \rho \\&=h2\pi \left[{\frac {\rho ^{2}}{2}}\right]_{0}^{R}\\&=\pi R^{2}h\end{aligned}}}
+  SferaÈ di rapida dimostrazione la formula applicando il passaggio in coordinate sferiche della funzione costante 
+    {\displaystyle {\begin{aligned}{\text{Volume}}&=\int _{0}^{2\pi }\mathrm {d} \phi \int _{0}^{\pi }\sin \theta \;\mathrm {d} \theta \int _{0}^{R}\rho ^{2}\;\mathrm {d} \rho \\&=2\pi \int _{0}^{\pi }\sin \theta {\frac {R^{3}}{3}}\;\mathrm {d} \theta \\&={\frac {2}{3}}\pi R^{3}{\Big [}-\cos \theta {\Big ]}_{0}^{\pi }\\&={\frac {4}{3}}\pi R^{3}\end{aligned}}}
+  -simplesso)Il volume del tetraedro con vertice nell'origine e spigoli di lunghezza 
+   adagiati sui tre assi cartesiani può essere calcolato tramite le formule di riduzione considerando, ad esempio, la normalità rispetto al piano 
+    {\displaystyle {\begin{aligned}{\text{Volume}}&=\int _{0}^{l}\;\mathrm {d} x\int _{0}^{l-x}\;\mathrm {d} y\int _{0}^{l-x-y}\;\mathrm {d} z\\&=\int _{0}^{l}\;\mathrm {d} x\int _{0}^{l-x}(l-x-y)\;\mathrm {d} y\\&=\int _{0}^{l}\left(l^{2}-2lx+x^{2}-{\frac {(l-x)^{2}}{2}}\right)\;\mathrm {d} x\\&=l^{3}-ll^{2}+{\frac {l^{3}}{3}}-\left[{\frac {l^{2}}{2}}-lx+{\frac {x^{2}}{2}}\right]_{0}^{l}\\&={\frac {l^{3}}{3}}-{\frac {l^{3}}{6}}\\&={\frac {l^{3}}{6}}\end{aligned}}}
+A volte un integrale multiplo può semplificare il calcolo di un integrale in una sola variabile. Un esempio classico è il calcolo della funzione gaussiana, fondamentale nella teoria della probabilità, esteso a tutto l'intervallo reale. L'integrale da calcolare è
+    {\displaystyle I=\int _{-\infty }^{+\infty }e^{-{\frac {x^{2}}{2}}}\mathrm {d} x.}
+    {\displaystyle I^{2}=\left(\int _{-\infty }^{+\infty }e^{-{\frac {x^{2}}{2}}}\mathrm {d} x\right)\left(\int _{-\infty }^{+\infty }e^{-{\frac {y^{2}}{2}}}\mathrm {d} y\right)=\int _{\mathbb {R} ^{2}}e^{-{\frac {x^{2}}{2}}}e^{-{\frac {y^{2}}{2}}}\mathrm {d} x\mathrm {d} y=\int _{\mathbb {R} ^{2}}e^{-{\frac {x^{2}+y^{2}}{2}}}\mathrm {d} x\mathrm {d} y,}
+  ove si è usato il teorema di Tonelli. Passando in coordinate polari si ottiene
+    {\displaystyle I^{2}=\int _{0}^{2\pi }\mathrm {d} \theta \int _{0}^{+\infty }\rho e^{-{\frac {\rho ^{2}}{2}}}\mathrm {d} \rho }
+    {\displaystyle I^{2}=-\int _{0}^{2\pi }\mathrm {d} \theta \left[e^{-{\frac {\rho ^{2}}{2}}}\right]_{\rho =0}^{\rho =+\infty }=\int _{0}^{2\pi }\mathrm {d} \theta =2\pi }
+    {\displaystyle \int _{-\infty }^{+\infty }e^{-{\frac {x^{2}}{2}}}\mathrm {d} x={\sqrt {2\pi }}.}
+  Attraverso questa tecnica è possibile calcolare (riconducendo l'integrale a quello appena calcolato) il valore della funzione gamma in 
+    {\displaystyle \int _{0}^{+\infty }{\frac {x}{\sqrt {2}}}e^{-{\frac {x^{2}}{2}}}{\frac {\mathrm {d} x}{x}}={\frac {1}{\sqrt {2}}}\int _{0}^{+\infty }e^{-{\frac {x^{2}}{2}}}\mathrm {d} x.}
+Un interessante esempio di utilizzo dell'integrale multiplo è nel calcolo dei valori della funzione zeta di Riemann. Infatti 
+    {\displaystyle \zeta (2)=\sum _{n=1}^{+\infty }{\frac {1}{n^{2}}}=\sum _{n=0}^{+\infty }{\frac {1}{n+1}}{\frac {1}{n+1}}=\sum _{n=0}^{+\infty }\left(\int _{0}^{1}x^{n}\mathrm {d} x\right)\left(\int _{0}^{1}y^{n}\mathrm {d} y\right)=}
+    {\displaystyle =\sum _{n=0}^{+\infty }\left(\int _{[0,1]^{2}}x^{n}y^{n}\mathrm {d} x\mathrm {d} y\right)=\int _{[0,1]^{2}}\sum _{n=0}^{+\infty }x^{n}y^{n}\mathrm {d} x\mathrm {d} y=\int _{[0,1]^{2}}{\frac {1}{1-xy}}\mathrm {d} x\mathrm {d} y}
+  sfruttando il teorema della convergenza monotona per scambiare la serie e l'integrale. Effettuando la sostituzione
+    {\displaystyle \int _{[0,1]^{2}}{\frac {1}{1-xy}}\mathrm {d} x\mathrm {d} y=\int _{A}{\frac {2}{1-u^{2}+v^{2}}}\mathrm {d} u\mathrm {d} v}
+  , così come la funzione e quindi l'integrale può essere calcolato solo su metà del dominio, e poi spezzato come
+    {\displaystyle \zeta (2)=4\left(\int _{0}^{1/2}\mathrm {d} u\int _{0}^{u}{\frac {1}{1-u^{2}+v^{2}}}\mathrm {d} v+\int _{1/2}^{1}\mathrm {d} u\int _{0}^{1-u}{\frac {1}{1-u^{2}+v^{2}}}\mathrm {d} v\right)=}
+    {\displaystyle =4\left(\int _{0}^{1/2}{\frac {1}{\sqrt {1-u^{2}}}}\arctan \left({\frac {u}{\sqrt {1-u^{2}}}}\right)\mathrm {d} u+\int _{1/2}^{1}{\frac {1}{\sqrt {1-u^{2}}}}\arctan \left({\frac {1-u}{\sqrt {1-u^{2}}}}\right)\mathrm {d} u\right)}
+  e notando che in entrambi i casi la derivata dell'arcotangente è l'altro fattore (a parte per una costante 
+    {\displaystyle {\frac {\zeta (2)}{2}}=\left(\arctan \left({\frac {u}{\sqrt {1-u^{2}}}}\right)\right)^{2}{\Big |}_{0}^{1/2}-2\left(\arctan \left({\frac {1-u}{\sqrt {1-u^{2}}}}\right)^{2}\right){\Big |}_{1/2}^{1}=}
+    {\displaystyle =\arctan ^{2}\left({\frac {1}{\sqrt {3}}}\right)-\arctan ^{2}(0)-2\arctan ^{2}(0)+2\arctan ^{2}\left({\frac {1}{\sqrt {3}}}\right)={\frac {1}{2}}{\frac {\pi ^{2}}{6}}}
+In meccanica il momento d'inerzia viene calcolato come un integrale di volume (ovvero un integrale triplo) della densità pesata col quadrato della distanza dall'asse:
+  .Nell'ambito dell'elettromagnetismo le equazioni di Maxwell possono essere scritte sotto forma di integrali multipli per calcolare i campi elettrici e magnetici totali. Ad esempio il campo elettrico generato da una distribuzione di carica si ottiene tramite un integrale triplo di una funzione vettoriale:
+    {\displaystyle {\vec {E}}={\frac {1}{4\pi \epsilon _{0}}}\int {\frac {{\vec {r}}-{\vec {r}}'}{\left\|{\vec {r}}-{\vec {r}}'\right\|^{3}}}\rho ({\vec {r}}')\operatorname {d} ^{3}r'}
+Walter Rudin, Principi di analisi matematica, Milano, McGraw-Hill, 1991, ISBN 88-386-0647-1.
+ Robert A. Adams, Calcolo differenziale 2. Funzioni di più variabili, Milano, CEA, 2007, ISBN 88-408-1390-X.
+ Enrico Giusti, Analisi matematica 2, Torino, Bollati Boringhieri, 2003, ISBN 88-339-5706-3.
+(EN) Richard L. Wheeden e Antoni Zygmund, Measure and Integral - An introduction to Real Analysis, CRC Press, 1977, ISBN 0-8247-6499-4.
+ Integrale multiplo, su thes.bncf.firenze.sbn.it, Biblioteca Nazionale Centrale di Firenze. 
+(EN) Integrale multiplo, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

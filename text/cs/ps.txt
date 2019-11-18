@@ -1,0 +1,2 @@
+Psí (majuskulní podoba Ψ, minuskulní podoba ψ, řecký název ψῖ) je třiadvacáté písmeno řecké abecedy a v řecké číselné soustavě má hodnotu 700. V moderní řečtině i ve starořečtině jeho výslovnost odpovídá kombinaci českých písmen /ps/.
+U+03C8 GREEK SMALL LETTER PSI.V HTML je možné je zapsat pomocí &#936; respektive &#968;, případně pomocí HTML entit &Psi; respektive &psi;.

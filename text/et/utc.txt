@@ -1,0 +1,2 @@
+UTC (lühend inglise keelest Universal Time Coordinated) on alates 1972. aastast kehtiv maailmaaeg. See koordineeritud maailmaaeg asendab varem kasutusel olnud Greenwichi kohalikku keskmist päikeseaega GMT (Greenwich Mean Time).
+UTC-aja signaale edastatakse analoograadiosaatjate kaudu igal täistunnil, kusjuures uus tund algab kuuenda piibi algushetkel. Raadiosignaalide digitaalse edastuse korral (näiteks netiraadios) saabuvad ajasignaalid mitmesekundise viivitusega. Internetis edastavad täpset aega ajaserverid võrguaja protokolli järgi.

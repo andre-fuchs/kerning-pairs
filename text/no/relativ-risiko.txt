@@ -1,0 +1,2 @@
+Relativ risiko (RR) er et forholdstall som angir hvor mye større sannsynlighet det er for en hendelse i én gruppe i forhold til en annen.
+F.eks. om man har to grupper: gruppe A og gruppe B. Gruppe A består av personer mellom 40-50 år, og gruppe B av personer mellom 50-60 år. Hvis RR for en sykdom i gruppe B er 2, betyr det at det er dobbelt så sannsynlig at en person i gruppe B utvikler sykdommen som i gruppe A.

@@ -1,0 +1,24 @@
+A plazmidoknak nevezzük a baktériumokban, az archeákban, valamint egyes élesztőgombákban, algákban és növényfajokban található, az örökítő információk sejtek közötti átadását a kromoszómáktól függetlenül is lehetővé tevő determinánsokat. A plazmidok általában gyűrű alakú és kettős szálú DNS-molekulák.
+A plazmid fogalmát 1953-ban vezette be Joshua Lederberg amerikai molekuláris biológus.Angol írásmódja és szinonimái: plasmid, extrachromosomal element, extrachromosomal genetic element, paragene.
+Noha vannak olyan plazmidok is, amelyek képesek integrálódni a kromoszómákba, a plazmidok többsége  autonóm marad a citoplazmában. A plazmidokban található gének a kromoszómáktól eltérő tulajdonságokat hordoznak, olyanokat, amelyek a szervezet számára rendes körülmények között nem lennének létfontosságúak.
+A plazmidok a kromoszómáktól függetlenül replikálódhatnak (másolódhatnak) és egyik sejtből a másikba átadódhatnak.A plazmidok a nem rokon fajok közti génáramlás, más néven a horizontális géntranszfer egyik lehetséges eszközét képezik.
+A plazmidokban hordozott információk átvihetik az ellenállóképességet antibiotikumokkal szemben, akár különböző kórokozó fajok között is.
+Arra is képessé tehetik a baktériumot, hogy mérgeket szintetizáljon konkurens baktériumok ellen.Plazmidok a történelmileg első és ma is a leggyakrabban alkalmazott klónozó vektorok.
+A járványügyi tipizálás a plazmidprofil meghatározásával kihasználja, hogy a plazmidok száma és nagysága jellemző az egyes baktériumtörzsekre.
+A genetikai információ átadásának legismertebb módja a vertikális géntranszfer, mikor az utódszervezet a genetikai információt szülőjétől örökli.
+A sok baktériumnál már megfigyelt  horizontális géntranszfer esetében viszont a genetikai információ átadása  nem szülő- és utódszervezetek között zajlik, sőt esetleg nem is rokon fajok között.
+Sok baktériumnál megfigyelték az örökítőanyag sejtek közötti átvitelét. Ennek három fő módja van. A transzformáció során a baktérium képes a környezetében levő DNS-t felvenni. Az így felvett DNS gyakran nem kerül be a baktérium kromoszómájába, hanem plazmidként található meg a sejtben. Gének kerülhetnek be a baktériumba a transzdukció útján is, ekkor egy bakteriofág illeszt a bakteriális kromoszómába idegen DNS-t. A harmadik mód a konjugáció, amikor közvetlen sejtkapcsolat útján cserélődik ki DNS. A horizontális géntranszfer természetes körülmények között gyakori jelenség.
+A mesterséges horizontális géntranszfer plazmidok segítségével a génsebészet fontos eszköze.
+Esethalmozódás, járvány esetén kitenyésztik a baktériumtörzseket, és megállapítják a bennük hordozott plazmidok számát és méretét. A kapott mintázat a plazmidprofil. Ezt a már ismert baktériumok plazmidprofiljával összevetve megállapítható az azonosság vagy különbözőség.
+Agrobacterium tumefaciens által hordozott tumor-indukáló plazmid, természetes körülmények között a növényi kromoszómákba épül be és gyökérgolyvát okoz. Ennek a plazmidnak a "lefegyverzett" változatait - amelyekből a tumorkeltő képességet eltávolították - vektorokként (hordozókként) használják egyes növényfajok genetikai anyagának módosításában.
+Ebben a szakaszban angol nyelvű szövegek várnak még lefordításra. Ezek láthatóvá válnak a szakasz szerkesztésekor. Segíts te is!
+1903: Walter S. Suttón és Theodor Boveri egymástól függetlenül kialakított hipotézise arról, hogy az átöröklés egységei a kromoszómákban találhatóak, és fizikailag lokalizálhatóak.
+1910: Thomas Hunt Morgan  leírása az ecetmuslica örökletes tulajdonságainak kapcsolatáról egyes specifikus kromoszómákkal, a sejtmagbeli génanalízis kezdetei.
+1920-as évek - 1940:  Embrionális megfigyelések, melyek arra utaltak, hogy öröklődő, öröklődést befolyásoló elemek vannak a citoplazmában.
+1946: Joshua Lederberg és Edward Tatum komoly bizonyítékot mutattak fel az E. coli K-12 törzsének ivaros szaporodási fázisának létezésére.
+1949-1951: Joshua Lederberg, Cavalli és Heslot: a legtöbb E. coli törzs nem párosodik a K-12-vel.
+1950: Andre Lwoff és Antoinette Gutmann tisztázták a fágok lizogén fázisának természetét.
+1951: Esther Lederberg felfedezte a lizogén λ fágot az E. coli K-12-es törzsében.
+1960-1961: T. Akiba, T. Koyama, Y. Isshiki, S. Kimua, és T. Fukushima, és T. Watanabe és T. Fukusawa
+ISPB – International Society for Plasmid Biology and other Mobile Genetic Elements A plazmid biológia és más mobil genetikai összetevők nemzetközi társasága.  (angolul)
+Ecosystem Health Glossary (angol nyelven). [2009. június 6-i dátummal az eredetiből archiválva]. (Hozzáférés: 2009. január 21.)

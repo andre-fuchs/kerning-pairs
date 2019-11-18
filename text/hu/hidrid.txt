@@ -1,0 +1,40 @@
+Kovalens hidridek: nemfémekkel, félfémekkel. Pl. HCl, H2S, NH3, CH4, AsH3, B2H6 stb.
+Interszticiális hidridek: az ötvözetekhez hasonló tulajdonságokkal rendelkeznek, a legtöbb átmenetifémmel létrejönnek
+Általános megfogalmazásban a legegyszerűbb alapvegyületek olyan molekulák, amelyekben hidrogének mellett csak egy másik elem egyetlen atomja található. Ezeket a vegyületeket nevezzük egycentrumos hidrideknek.
+Egyes elemek képesek arra, hogy összekapcsolódjanak és láncokat képezzenek. Ha az egymáshoz kapcsolódó atomokhoz csak hidrogének kapcsolódnak, többcentrumos hidridek jönnek létre.
+Az egycentrumos hidridek szabályos elnevezése úgy történik, hogy a központi atomra utaló névhez az -án végződést illesztjük (hasonlóan az alkán névhez). 
+A szén, az oxigén és a nitrogén esetében azonban a megfelelő egycentrumos hidridek széles körben ismertek, ezért elnevezésükre történelmi okokból a szabályos nevek helyett a tradicionális neveket használjuk (a hidridek egységes kezelése miatt a H2O esetében nem a szokásos írásmódot használtuk).
+A víz és az ammónia esetében a triviális nevek csak az alapvegyületek neveiként használhatók, a szubsztituált származékok elnevezésére már nem.
+Szabályos elnevezésük úgy történik, hogy a láncot alkotó elem neve elé a láncot létrehozó atomok számára utaló sokszorozó előtagot (di-, tri-, tetra-, penta- stb.) illesztjük.
+A nitrogén és az oxigén esetében a többatomos alapvegyületek elnevezésére a szabályos nevek (diazán, dioxidán) helyett a tradicionális neveket (hidrazin, hidrogén-peroxid) is használni lehet. 
+A szénlánc egyes szénatomjait más atomokkal helyettesíthetjük. A szénatomokat helyettesítő atomokat heteroatomoknak nevezzük. Az oxigén, a nitrogén és a kén a leggyakoribb heteroatomok a szerves kémiában. A heteroatomok jelölésére az úgynevezett a végű előtagokat használjuk.
+A lánc számozását arról az oldalról kezdjük, amelyikhez közelebb van az első heteroatom. 
+A heteroatomokat tartalmazó vegyületek fenti, szabályos elnevezését akkor alkalmazzuk a szerves kémiában, amikor egy alkán két vagy több, nem láncvégi szénatomját helyettesítjük heteroatomokkal.
+Ha a szénatom heteroatommal történő helyettesítésekor alkohol, éter vagy amin keletkezik, akkor azok nevezéktana a mérvadó, nem az itt leírtak.
+Ezekben a vegyületekben a hidrogén hidridion, H− formájában van jelen. Jellemzően az alkálifémek és alkáliföldfémek hidridjei tartoznak ide.
+Hevítve olvadáspontjuk alatt elbomlanak (kivéve a lítium-hidridet). Termikus stabilitásuk egy oszlopon belül lefelé haladva csökken, reakciókészségük pedig nő.
+Vízzel (protonforrással) heves reakcióba lépnek. Hidrolízis közben hidrogén képződik:
+A IV-VII. főcsoportok elemei (C, N, O, F...) a hidrogénnel kovalens kötésű, sztöchiometrikus összetételű hidrideket képeznek (szénhidrogének, ammónia, víz, HF...). Ezen oszlopok nemfémes elemeinek, valamint a kisebb rendszámú félfémeknek a hidridjei stabilak, azonban különösen a fémek hidridjei bomlékonyabb, instabil vegyületek. A nemfémek hidridjeiben a hidrogén elektronegativitása a kisebb, relatív parciális töltése pozitív. A IV. csoportban a szimmetrikus molekulaszerkezet miatt a hidridek apolárosak lesznek. Mivel ezek a hidridek molekularácsos vegyületek, és a molekulák közötti kötőerők nem túl erősek, olvadás- és forráspontjuk viszonylag alacsony (gázok vagy folyadékok).
+A kovalens hidridek forráspontja: oszlopon belül a rendszámmal nő, kivéve a 2. periódus hidridjeit (HF, H2O, NH3), ahol hidrogénkötés is van.
+A halogének hidridjei erősen polárosak. Vízben jól oldódnak, kiváló protondonorok, erős savak:
+HX + H2O → H3O+ + X−A kalkogének hidridjei valamivel kevésbé polárosak. Vízben jól oldódnak, gyenge savak:
+NH3 + H2O → NH4+ + OH−A szén hidridjei vízben rosszul oldódnak, magasabb hőmérsékleten, katalizátor jelenlétében reakcióba lépnek:
+B2H6 + 6 H2O = H3BO3 + 6 H2A boránok oxigén jelenlétébe hevesen, nagy hőfelszabadulás mellett elégnek.
+Amorf és epitaxiális  Si-, Ge-, Si-Ge- stb. rétegek, dielektrikumok leválasztásához,
+Dópoláshoz (pl. vezetőképesség, optikai tulajdonságok jelentős módosítása kis mennyiségű adalék hozzáadásával) és ion-implantációhoz
+Az interszticiális (fémes, fémszerű) hidridek jellemzően a d- és f-mező elemeinek hidridjei.
+Fémes hidrideket az átmenetifémek képeznek. Ezek a hidridek rendelkeznek a fémekre jellemző tulajdonságokkal: nagy hővezető képesség, elektromos vezetőképesség, szilárdság, fémes fényű felület és néhány esetben elfogadható mechanikai tulajdonságok. Jellemző rájuk, hogy széles hidrogéntartalom tartományban homogén anyagként viselkednek. 
+A fémszerű hidridek (pl. a lantanidák, aktinidák, a króm, a mangán, a vas- és a platinacsoport esetében) átmeneti jellegűek a sók és a hidrogénnek fémben való oldata között.
+Változó sztöchiometriájú, ötvözetszerű fémes hidridek, a hidrogénatom elektronja π-orbitálon delokalizált
+a hőmérséklettől (általában növekvő hőmérséklettel csökken, kivétel a Pt, Fe, Ni: a hőmérséklet növekedésével egy ideig nő, majd csökken (a rács tágulása és a hidrogénatom kinetikus energiája verseng)A hidrogéntartalom növekedésével legtöbbjük - de nem mind – fázisátalakuláson (hidrid képződés) megy keresztül.
+A hidridképző fémek esetén kis hidrogéntartalomnál még csak oldott állapotban van jelen hidrogén. Ennek mennyisége a fémet körülvevő gázban lévő H2 parciális nyomásának növekedésével folyamatosan nő. Amikor az oldott hidrogén mennyisége elér egy, a hőmérséklettől is függő küszöbértéket, a fém-hidrogén szilárd oldatban megindul a hidrid kristályok képződése, ami elsőrendű fázisátalakulás. Mint minden elsőrendű fázisátalakulás, ez is nukleációval járó folyamat. Új kristályszerkezet, új szimmetriaviszonyok alakulnak ki, állandó sztöchiometriával. Az új fázis kialakulása törésszerű változást okoz az entrópiában és a térfogatban, a nyomástól függetlenné válik a hidrogéntartalom.
+A hagyományos kristályos hidrogéntároló anyagokban kis hidrogéntartalmak esetén a hidrogén kis mérete miatt a rácsot alkotó fém atomok közötti intersztíciós helyeket foglalja el.
+A BeH2, AlH3 (diagonálszabály) molekulaszerkezete átmenet az ionos és a kovalens kötés közt.
+A berillium, magnézium, az alumínium a hidrogénnel nem reagál, a közvetve nyert hidridek polimerizálódnak, pl. az (AlH3)2 fehér, kristályos massza, melyet redukálószerként használnak.
+Fém-hidridekkel kisebb helyen lehet tárolni a hidrogént, mint nagy nyomáson gáz alakjában vagy alacsony hőmérsékleten folyadék formájában.
+Szerkezeti sajátságok: a komplex hidridekben megjelennek az ionos és a kovalens tulajdonságok is
+Na2B4O7  +  7 SiO2  +  16 Na + 8 H2   =   4 NaBH4  +  7 Na2SiO3	(mérsékelt nyomás/450-500°C)
+Az üzemanyagtárolás területén talán a komplex hidridek rendelkeznek a legnagyobb lehetőségekkel arra, hogy egyszerre nyújtsanak nagy tömeg% hidrogént és kívánatos kibocsátási/elnyelési kinetikát A palládium, a nikkel, a cirkónium felhasználásával is végeztek ígéretes kutatásokat.
+A fémhidridek képesek szerkezetükben lekötni és eltárolni, majd hőnek kitéve kiereszteni a hidrogént. Ezután egy üzemanyagcella rendszerben a hidrogént oxigénnel vegyítve elektromosság termelődik. A GM és a Sandia, az Egyesült Államok Nemzeti Nukleárisbiztonsági Minisztériumának laboratóriuma, egy négyéves, 10 milliárd dolláros program keretein belül fogja kifejleszteni és tesztelni azokat a tartályokat, melyek egy összetett hidridben, a nátrium alumínium hidridben, röviden nátrium alanátban tárolják a hidrogént.LiBH4, NaBH4, LiAlH4: sokoldalú redukálószerek
+Garaguly József: Hidrogén abszorpció-deszorpció vizsgálata amorf ötvözetekben, in-situ ellenállásmérésekkel
+https://web.archive.org/web/20061201010504/http://www.inc.bme.hu/hu/subjects/sztlen/eavazlat/h2_mod2.pdf

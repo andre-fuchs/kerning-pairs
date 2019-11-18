@@ -1,0 +1,5 @@
+Fluorovodík, systematicky fluoran, je za normální teploty bezbarvý, jedovatý plyn. Vzniká přímým slučováním vodíku s fluorem:
+H2 + F2 → 2HFza vývoje tepla (exotermní reakce). Průmyslově se vyrábí rozkladem minerálu fluoritu (kazivce) (fluoridu vápenatého) kyselinou sírovou za vysoké teploty (okolo 250 °C):
+CaF2 + H2SO4 → CaSO4 + 2HF.Snadno se rozpouští ve vodě na bezbarvý, silně žíravý roztok kyseliny fluorovodíkové. Fluorovodík je silně žíravý a při styku s kůží nebo sliznicemi působí velmi bolestivé a špatně se hojící rány. Leptá sklo.
+Fluorovodík se používá při výrobě hliníku a uranu a v organické syntéze zejména při výrobě polymerů (například teflonu) a chladicích směsí freonů.
+VOHLÍDAL, JIŘÍ; ŠTULÍK, KAREL; JULÁK, ALOIS. Chemické a analytické tabulky. 1. vyd. Praha: Grada Publishing, 1999. ISBN 80-7169-855-5.

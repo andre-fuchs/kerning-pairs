@@ -1,0 +1,3 @@
+Sběr dat je označením pro moderní ukládaní informací, především za pomoci identifikačních prostředků, jakými jsou například čtečky čárového kódu, terminály, snímače apod.
+Nejčastěji jsou tyto přístroje používány ve sféře obchodu, uplatnění však naleznou spíše ve skladech, kde pomáhají k identifikaci zboží.
+Ačkoli si mnozí z nás pod sběrem dat představí čtení čárového kódu, dnes již se technologie natolik zmodernizovaly, že již není třeba přímého kontaktu s terminálem. Existují také čtečky tzv. RFID čipů. Tyto přenašeče informací mohou dosahovat velikost menší než desetihaléř a přesto obsahovat všechny potřebné informace. Čtečky RFID čipů jsou schopny jeho přítomnost zaznamenat i ze vzdálenosti několika metrů a uložit data do své paměti.

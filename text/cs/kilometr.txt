@@ -1,0 +1,5 @@
+Kilometr (označení km) je jednotka délky v metrické soustavě, která se rovná tisíci metrů. Může být zapsán vědeckou notací jako 1×10³ m (inženýrská notace) nebo 1 E+3 m (exponenciální notace) – oboje znamená 1 000 × 1 m.
+Kilometr se jako jednotka délky používá zejména pro měření vzdálenosti v dopravě, vzdálenosti v rámci Země a v nejbližším vesmírném okolí. Je z něj odvozen kilometr za hodinu, běžně používaná jednotka rychlosti.
+Odpovídající jednotka plochy je čtvereční kilometr (= milion čtverečních metrů) a odpovídající jednotka objemu je krychlový kilometr (= miliarda krychlových metrů).
+cca 3 281 stop (1 stopa = 0,0003048 km)1 světelný rok činí 9 460 730 472 580 km (cca 10 bilionů km)
+pikometr <<< nanometr <<< mikrometr <<< milimetr < centimetr < decimetr < metr < dekametr < hektametr < kilometr <<< megametr

@@ -1,0 +1,2 @@
+Een tabel is een geordende lijst van gegevens, een element uit een tabel heet een cel. In tabel is in veel gevallen bedoeld om gegevens overzichtelijk te presenteren. Op een rij staan dan bijvoorbeeld de voornaam van een contact, de achternaam, straat, huisnummer, postcode, woonplaats of nog andere gegevens vermeld.
+Binnen de wiskunde bestaat de matrix, wat een tabel is met speciale eigenschappen. In het dagelijkse spraakgebruik wordt de term "matrix" ook vaker gebruikt voor een tabel die strikt wiskundig gezien geen matrix is.

@@ -1,0 +1,3 @@
+De ongelijkheid van Jensen is een stelling uit de kansrekening, genoemd naar de Deense  wiskundige Johan Jensen.
+Hierbij kan het rechterlid van de ongelijkheid eventueel oneindig zijn. De ongelijkheid blijft gelden als 
+Hieruit volgt dat in het bijzonder geval van een kansmaat, de Lp-ruimten een dalende ketting van verzamelingen vormen:

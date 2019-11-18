@@ -1,0 +1,22 @@
+Křemičitany (silikáty) jsou kyslíkaté sloučeniny křemíku. Jsou to látky vesměs nerozpustné ve vodě až na křemičitany alkalických kovů Na2SiO3 (vodní sklo, kapalné sklo) a K2SiO3. Křemičitany vápenaté, hlinité a železité jsou rozpustné v kyselinách a jsou součástí přírodních minerálních surovin pro průmysl stavebních hmot. Všechny křemičitany lze rozpustit v koncentrovaných roztocích alkalických hydroxidů nebo za vysokých teplot v jejich taveninách. Křemičitany jako minerály jsou nerosty nekovového vzhledu a obvykle jsou součástmi hornin. Jsou to nejrozšířenější látky v zemské kůře.
+Spolu s křemenem patří křemičitany k nejrozšířenějším nerostům zemské kůry. Základní stavební jednotky křemičitanů jsou čtyřstěny (tetraedry) SiO44− (náboj 4−). Podle způsobu sdružování čtyřstěnů (tetraedrů) rozlišujeme 7 skupin silikátových minerálů:
+tektosilikáty (skeletové křemičitany)Do skupiny tektosilikátů jsou zahrnuty i přírodní modifikace SiO2.
+Olivíny (Mg, Fe, Mn, Ni)2SiO4 – pevné roztoky forsteritu Mg2SiO4, fayalitu Fe2SiO4, tefroitu Mn2SiO4 a liebenbergitu Ni2SiO4; tetraedr; tvoří vyrostlice v tmavých horninách (čedič, gabro); tvrdost: 5 – 6; křehký, skelný; odrůda: chrysolit – drahokamová kvalita; Podkrkonoší, Doupov, Konstantinovy Lázně, Rudé moře, meteority, Německo a další; tvoří horninu – peridotit (olivínovec)
+Granáty vyskytují se často v přeměněných horninách; jsou podobné tvarem, ale mají různé složení: A3B2(SiO4) ... A = Mg/Fe/Mn/Ca ... B = Al/Fe; existuje nepřehledné množství smíšených odrůd; granáty mají různé barvy kromě modré; krystaly hojnoploché, kulovité – kosočtverečný dvanáctistěn (dodekaedr) a čtyřiadvacetistěn (ikositetraedr); vyplavené nalézány ve štěrcích, jinak v přeměněných horninách – mramorech, rulách, chloritech, svorech
+pyrop – český granát – Mg3Al2(SiO4)3; šperkový kámen, zasazuje se do stříbra; nalézá se v Českém ráji; malinké červené krystalky
+kyanit – Al2SiO5; název podle modré barvy; Brazílie, Švýcarsko, Bečov, Frymburk, Pancíř
+topaz – Al2SiO4(F, OH); existuje v mnoha barevných variantách; kosočtverečná soustava; tvrdost 8; v pegmantitech a žulách; v přeměněných horninách nebo vyvřelých horninách; Brazílie, Ukrajina (v rudné oblasti), v Česku: Cínovec, Horní Slavkov
+„skupinové“ silikáty s dvojicemi čtyřstěnů Si2O76 − (disilikátový anion) často v kombinaci s jednotlivými čtyřstěny SiO44 −
+vesuvián – Ca10(Mg,Fe)2Al4(SiO4)5(Si2O7)2(OH)4; Hazlov; v přeměněných horninách
+beryl – Be3Al2Si6O18; obsahuje berylium, které se z něj získává; šestiboké sloupce; zbarvení do zelena; tvrdost 7,5 (drahokamová); skelný lesk; Písek, Poběžovice – drahokamová kvalita; Brazílie, Kolumbie, Ural, Egypt
+turmalín – (Na,Ca)(Al,Li,Mg)3-(Al,Fe,Mn)6(Si6O18)(BO3)3(OH)4; velmi rozmanité barevné podoby; různé chemické složení; brousí se do prstenů;
+řada enstatit-ferrosilit – (Mg,Fe)SiO3 – tuhé roztoky enstatitu MgSiO3 a ferrosilitu FeSiO3
+řada diopsid-hedenbergit – tuhé roztoky diopsidu CaMgSi2O6 a hedenbergitu CaFeSi2O6 i s příměsí sodíku – augit (Ca,Na)(Mg,Fe,Al)(Si,Al)2O6
+řada sodných pyroxenů – tuhé roztoky jadeitu NaAlSi2O6 a aegirinu (akmitu) NaFe3+Si2O6
+řada cummingtonitu = tuhé roztoky cummingtonitu Fe2Mg2Si8O22(OH)4 a gruneritu Fe7Si8O22(OH)2
+řada tremolitu – tuhé roztoky tremolitu Ca2Mg5Si8O22(OH)2 s actinolitem Ca2(Mg,Fe)5Si8O22(OH)2
+sodné amfiboly zahrnují glaukofán Na2Mg3Al2Si8O22(OH)2, riebeckit (azbest) Na3Fe2+3Fe3+2Si8O22(OH)2 a arfvedsonit Na3(Fe,Mg)4FeSi8O22(OH)2
+„skeletové“ silikáty se čtyřstěny tvořícími prostorovou (3D) síť [AlxSiyO2(x+y)]x −
+alkalické živce – neúplná řada tuhých roztoků ortoklasu KAlSi3O8 a albitu NaAlSi3O8 směsný minerál nazván anortoklas (Na,K)AlSi3O8; draselný živec KAlSi3O8 se vyskytuje ve třech modifikacích: vedle ortoklasu existuje také mikroklin (KAlSi3O8) a sanidin (KAlSi3O8)
+plagioklasy = úplná řada tuhých roztoků albitu NaAlSi3O8 a anortitu CaAl2Si2O8; pro poměr Na:Ca = 4:1 je užíván název oligoklas, pro 3:2 andesin, pro 2:3 labradorit a pro 1:4 bytownit
+sodalit – Na8(AlSiO4)6Cl2 a příbuzný minerál haüyn (Na,Ca)4-8Al6Si6(O,S)24(SO4,Cl)1-2

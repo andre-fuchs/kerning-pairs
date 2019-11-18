@@ -1,0 +1,33 @@
+Hustota představuje hodnotu dané veličiny vztažené k jednotkovému objemu (bývá také označována jako objemová hustota), jednotkovému obsahu plochy (pak se hovoří o plošné hustotě) nebo jednotkové délce (pak se hovoří o lineární hustotě).
+Používá se nejen ve fyzice (např. hustota hmotnosti, objemová hustota částic, hustota elektrického náboje apod.), ale také v jiných oborech vědy (viz např. hustota pravděpodobnosti, hustota zalidnění, optická hustota).
+Je-li uveden pojem hustota bez dalšího upřesnění, je tím téměř vždy myšlena hmotnost jednotkového objemu.
+Stejný význam má veličina objemová hmotnost, zaváděná pro pórovité a sypké látky.
+Hustota, zřídka označovaná také "přesněji" jako hustota hmotnosti či zastarale měrná hmotnost, je fyzikální veličina, která vyjadřuje hmotnost objemové jednotky látky. Hustota se značí: ρ [ró]
+Další používané jednotky: gram na centimetr krychlový g/cm3, kilogram na litr kg/l
+Měřidla: hustoměr, pyknometr, Mohrovy vážky a další, pro hrubé stanovení postačí odměrný válec
+  Hustota v jednotlivých částech tělesa nemusí být stejná, ale může se měnit. Hustota se také může měnit v čase (při studiu tuhých těles lze však závislost na čase obvykle zanedbat). Obecně je tedy hustota funkcí souřadnic a času, tzn. 
+V takovém případě je potřeba sledovat hustotu v různých částech tělesa, přičemž její velikost získáme ze vztahu
+  Pokud je těleso popisováno soustavou hmotných bodů, potom lze hmotnostní element 
+   vyjádřit jako součet hmotností jednotlivých bodů, které se nacházejí v objemu 
+Uvažujeme-li s rovnoměrným rozložením látky v prostoru (např. v mechanice kontinua), lze pro získání hustoty v daném bodě použít vztah
+    {\displaystyle \rho ={\frac {\mathrm {d} m}{\mathrm {d} V}}=\lim _{\Delta V\to 0}{\frac {\Delta m}{\Delta V}}}
+  ,kde naznačená derivace se bere v tzv. "makroskopickém smyslu", tedy limitní proces končí na elementech objemu, ve kterých se neprojevuje částicová struktura látek.
+Ve speciálních případech, kdy se lokální hustota mění skokem a derivace ani ve výše uvedeném makroskopickém smyslu neexistuje (pórovité látky, sypké látky), existuje pouze průměrná hodnota pro větší elementy objemu. V těchto případech se doporučuje nazývat tuto veličinu objemovou hmotností.
+Zejména v technických, ale i některých dalších oborech (stavební inženýrství, zemědělství) se při popisu vlastností sypkých a pórovitých látek rozlišuje hustota (anglicky particle density) a objemová hmotnost (anglicky bulk density).
+Bude-li žula v kompaktní formě, bude mít krychle o straně 1 m hmotnost cca 2700 kg, hustota bude tedy 2700 kg/m3.
+Bude-li materiálem žulový štěrk, do nádoby stejného objemu se vejde pouze cca 2000 kg štěrku (obsahujícího i vzduchové mezery), objemová hmotnost bude tedy 2000 kg/m3.
+Stejně tak pytel brambor má jinou objemovou hmotnost než je hustota samotného bramboru.
+Podobné platí pro pórovité formy látek – např. kompaktní forma nějakého plastu má větší hustotu než je objemová hmotnost jeho pěnové formy.
+Objemová hmotnost je definována jako poměr hmotnosti tělesa ku celkovému objemu Vc tělesa včetně pórů, mezer a dutin, tedy objemu stanoveného z tzv. vnějších rozměrů.
+Objemová hmotnost látky je veličina závislá nejen na hustotě vlastní látky (v kompaktním stavu), ale i na hustotě látky vyplňující póry.
+Zpravidla jsou póry vyplněny suchým vzduchem (nebo jiným plynem) s hustotou zanedbatelnou vzhledem k hustotě vlastní látky.
+V takovém případě je objemová hmotnost dané formy látky vždy menší nebo rovna hustotě této látky, rovnost platí pro kompaktní formu bez pórů:
+   .Vztah je v tomto přiblížení jednoznačně určen poměrem objemu pórů V0 a objemu celkového Vc, tzv. pórovitostí (značené zpravidla nc).
+Pórovitost je možné stanovit i ze známé objemové hmotnosti a hustoty materiálu, z toho plyne následující vztah:
+    {\displaystyle n_{\mathrm {c} }={\frac {V_{0}}{V_{\mathrm {c} }}}=1-{\frac {\rho _{V}}{\rho }}}
+   .V praxi jsou běžné i případy, kdy látku vyplňující póry nelze zanedbat. Pokud je část póru vyplněna vodou, tak je třeba vždy uvést konkrétní vlhkost materiálu, protože jeho objemová hmotnost je větší než v suchém stavu.
+Dřevo má hustotu dřevní báze pro všechny druhy dřev skoro stejnou hodnotu a to kolem 1530 kg/m3.
+Objemová hmotnost v suchém stavu je pro např. buk 720 kg/m3, v čerstvém stavu 980 kg/m3.
+Za dřevo s nejmenší objemovou hmotností (v suchém stavu) se považuje balsa s hodnotou 130 kg/m3.
+Na opačném konci žebříčku je guajak posvátný s hodnotou 1360 kg/m3, tedy velmi blízkou hustotě dřevní báze bez pórů.
+Hustota jednotky plochy, většinou 1 m2, vyjadřovaná v g/m2. Uvádí se u papíru, textilií, tkanin a jiných materiálů.

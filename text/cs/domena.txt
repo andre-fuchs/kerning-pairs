@@ -1,0 +1,2 @@
+fyzická oblast stejné magnetizace (elektromagnetické polarizace) ve feromagnetiku (feroelektriku) – praktické využití například v datových médií na principu magnetického záznamu a čtení.
+Doména Windows – logická skupina počítačů sdílející společnou centrální adresářovou databázi (předchůdce Active Directory)

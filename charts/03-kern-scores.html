@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<script src="datasets/count_comparison.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<style>
+    .canvas {
+        max-width: 100%;
+        margin-bottom: 3em; 
+    }
+</style>
+</head>
+<body>
+    <canvas id="canvas11" class="canvas"></canvas>
+
+<script>
+
+pieColors = {
+	red: 'rgb(255, 99, 132)',
+	orange: 'rgb(255, 159, 64)',
+	yellow: 'rgb(255, 205, 86)',
+	green: 'rgb(75, 192, 192)',
+	blue: 'rgb(54, 162, 235)',
+	purple: 'rgb(153, 102, 255)',
+	grey: 'rgb(127, 129, 133)',
+    neongreen: 'rgb(0, 255, 0)'
+};
+
+Chart.defaults.global.defaultFontFamily = "'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif";
+Chart.defaults.global.legend.labels.usePointStyle = true;
+Chart.defaults.global.legend.labels.boxWidth = 15;
+Chart.defaults.global.tooltips.backgroundColor = '#000';
+
+var ctx11 = document.getElementById('canvas11').getContext('2d');
+var limit = 3000;  // crashes if more
+
+labels_kernVector = labels_kernVector.map(function (k) { 
+    return k.replace('&#x27;', '\'').replace('&quot;', '\'').replace('&amp;', '&').replace('&gt;', '>').replace('&lt;', '<');
+});
+
+var config11 = {
+   type: 'horizontalBar',
+   data: {
+      labels: labels_kernVector.slice(0, limit),
+      datasets: [{
+         label: 'Frequency',
+         data: dataset_kernVectorCounts.slice(0, limit),
+         backgroundColor: pieColors.blue,
+      },
+      {
+         label: 'Popularity',
+         data: dataset_kernVectorUses.slice(0, limit),
+         backgroundColor: pieColors.purple,
+      },
+      {
+         label: 'Necessity',
+         data: dataset_kernVectorValuesNormalized.slice(0, limit),
+         backgroundColor: pieColors.red,
+      },
+      {
+         label: 'Whitelist Bonus',
+         data: dataset_kernVectorBonus.slice(0, limit),
+         backgroundColor: pieColors.neongreen,
+      }]
+   },
+   
+    options: {
+        title: {
+            display: true,
+            text: 'Most Relevant Kerning Pairs by Kern Score'
+        },
+        tooltips: {
+            mode: 'index',
+            intersect: false
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+            yAxes: [{
+                stacked: true,
+                ticks: {
+                    fontSize: 12, 
+                    fontFamily: "'Courier', monospace", 
+                    fontColor: '#000', 
+                    callback: function(value, index, values) {
+                        return (index + 1) + '   ' + dataset_kernVectorCounts[index] + '   ' + dataset_kernVectorUses[index] + '   ' + dataset_kernVectorValuesNormalized[index] + '   ' + dataset_kernVector[index] + '   ' + value;
+                    }
+                }
+            }],
+            xAxes: [{
+                stacked: true,
+                ticks: {
+                    beginAtZero: true,
+                },
+            }]
+        },
+    }
+};
+
+
+
+var chart11 = new Chart(ctx11, config11);
+
+chart11.canvas.parentNode.style.height = limit * 10 + 'px';
+
+</script>
+
+</body>
+</html>

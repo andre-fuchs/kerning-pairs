@@ -1,0 +1,3 @@
+Galaxy Zoo je online astronomický projekt, který žádá své účastníky, aby ručně klasifikovali milióny galaxií. Projekt byl inspirován projektem Stardust@home, ve kterém NASA požádala veřejnost, aby ji pomohla prohledat obrázky z jedné mise ke kometě. Ke klasifikaci galaxií je nutno napřed udělat jednoduchý test.
+Na základě úspěchu tohoto projektu vznikla platforma Zooniverse, na které prohýbají další projekty využívající princip občanské vědy.
+Galaxy Zoo probíhá ve spolupráci mezi univerzitami z Oxfordu a Portsmouthu, univerzity Johna Hopkinse v Baltimore a Fingerprint Digital Media v Belfastu.

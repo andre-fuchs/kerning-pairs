@@ -1,0 +1,4 @@
+V matematice, fyzice a dalších přírodních a technických vědách se pojmem konstanta označuje nějaké pevně dané číslo (nebo neměnná veličina), jehož hodnota ovšem nemusí být známá. Opakem konstanty je proměnná, která může nabývat (potenciálně) libovolné hodnoty.
+Používají se zejména v obecných matematických vzorcích, kde označují člen nezávislý na parametru. Například lineární rovnice se zapisuje ve tvaru 
+  , což znamená, že k i q jsou nějaká pevně daná čísla nezávislá na proměnné x.
+Některé konstanty mají svá jména, protože se často vyskytují v různých vzorcích. Mezi ty základní patří:

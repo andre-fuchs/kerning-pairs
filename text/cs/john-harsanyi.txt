@@ -1,0 +1,9 @@
+John Charles Harsanyi (maďarsky Harsányi János Károly; 29. května 1920 Budapešť – 9. srpna 2000 Berkeley) byl maďarsko-australsko-americký ekonom, který v roce 1994 získal spolu s Johnem Forbesem Nashem a Reinhardem Seltenem Cenu Švédské národní banky za rozvoj ekonomické vědy na památku Alfreda Nobela za „průkopnickou analýzu rovnováhy v teorii nekooperativních her“.
+Je znám především svou prací v teorii her a její aplikací do ekonomie, a to hlavně zavedením Bayesovských her. Zabýval se také využitím teorie her v politice a morální filosofii (konkrétně utilitarismu).
+"Cardinal Utility in Welfare Economics and in the Theory of Risk-Taking", Journal of Political Economy (1953)
+"Cardinal Welfare, Individualistic Ethics and Interpersonal Comparisons of Utility", Journal of Political Economy(1955)
+"Bargaining in Ignorance of the Opponent's Utility Function", Journal of Conflict Resolution (1962)
+"Games with Incomplete Information Played by "Bayesian" Players, I-III. Part I. The Basic Model", Management Science, Vol. 14, No. 3, Theory Series (1967)
+Essays on Ethics, Social Behavior, and Scientific Explanation, Dordrecht, Holland: Reidel Publishing Company (1976)
+Rational Behavior and Bargaining Equilibrium in Games and Social Situations, Cambridge, United Kingdom: Cambridge University Press (1977)
+A General Theory of Equilibrium Selection in Games (with Reinhard Selten), Cambridge, MA: MIT-Press. (1988)

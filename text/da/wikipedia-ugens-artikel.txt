@@ -1,0 +1,3 @@
+Ugens artikel er et projekt hvor vi finder den bedst mulige artikel til at vise på forsiden i en hel uge. Artiklerne bliver nomineret og valgt på denne side ud fra nogle fastsatte kriterier.
+Projektet er en del af skanwikis ugens artikel-projekt, hvor der på den danske, norske og svenske forside skiftevis vises en ugens artikel fra et af de andre sprog. 
+Hvis ugens artikel på forsiden ikke viser denne uges artikel, så er det sandsynligvis fordi cachen ikke er opdateret korrekt.

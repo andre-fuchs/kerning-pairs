@@ -1,0 +1,6 @@
+Systém (či soustava) je celek složený z částí, které na sebe vzájemně působí. Mezi částmi systému mohou probíhat toky informací, hmoty a energie.
+deterministické × stochastické – podle toho, zda systém vykazuje jednoznačné nebo náhodné (statisticky popsatelné) chování,
+tvrdé × měkké – tvrdé systémy jsou spojovány s dobře strukturovanými problémy (řešení lze poměrně snadno algoritmizovat), naopak v měkkých systémech vystupuje celá řada faktorů, jejich struktura není přesně definována, údaje jsou neurčité a neúplné.
+V systémech může nastat zpětná vazba, kdy některá výstupní veličina opětovně ovlivňuje některou ze vstupních veličin, a tedy i samotný systém. Projevy se liší podle typu vazby.
+Některé systémy se samovolně vyvíjejí ke stabilitě (dynamické či statické rovnováze), která se může projevit vyšší neuspořádaností (disipativní systémy) nebo naopak vyšší uspořádaností či organizovaností (autoorganizující se systémy), některé mají naopak tendenci být nestabilní, což vede až k destrukci nebo revoluční přeměně systému, tzv. katastrofě.
+Obecný rámec pro popis systémů poskytují teorie systémů a kybernetika. Matematická analýza poskytuje matematický aparát pro popis vývoje systémů (diferenciální, fourierovský a podobně). Revolučními scénáři vývoje systémů se zabývá teorie katastrof.

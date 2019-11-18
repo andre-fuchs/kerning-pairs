@@ -1,0 +1,9 @@
+Philidorova obrana (kód podle ECO: C41) je jedním z nejstarších šachových zahájení. Charakterizují ji tahy:
+Občas vzniká i z Pircovy obrany po 1. e4 d6 2. d4 Jf6 3. Jc3 e5 (nebo 3… Jbd7 4. Jf3 e5) 4. Jf3 Jbd7
+Na vrcholové úrovni se příliš často nevyskytuje, v poslední době ale zaznamenává mírné oživení.
+Poprvé byla zmíněna již v göttingenském rukopise pocházejícím z r. 1471. Toto zahájení úspěšně hrál a rozebral jeden z nejlepších šachistů 18. století François-André Danican Philidor. Philidor, který si zakládal na pěšcové struktuře, tento tah doporučoval, protože 2… Jc6 podle něj blokuje pěšce c7.
+V 19. století slavil úspěchy P.Morphy na tento tah s odpovědí 3… f5, dnes se tento postup považuje za nekorektní.
+Černý volí mezi dvěma rozcestími, po 3. d4 buď mění pěšce exd4, čímž přenechá bílému převahu v centru, které se později snaží napadat nebo volí Hanhamovu variantu, kde v pasivnější pozici drží v centru napětí a připravuje protihru na dámském křídle.
+3… Sg4? 4. dxe5 Sxf3 5. Dxf3 získal bílý jasnou převahu ve známé partii Morphy–vévoda z Brunšviku a hrabě Isouard (Paříž 1858)
+3… f5?! tento tah se dnes se považuje za příliš riskantní, bílý může odpovědět 4.Sc4 s aktivní pozicí
+4… Jbd7 se nazývá Hanhamova varianta 5. Sc4 Se7 6. 0-0 0-0 7. Ve1 (méně časté je 7. De2) 7… c6 8. a4! Výchozí pozice varianty. Bílý zde má aktivnější rozestavení figur. Černý ale není vůbec bez šancí a díky pevné pozici je jeho hra plně obranyschopná.

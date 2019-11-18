@@ -1,0 +1,9 @@
+Walter Pitts (23. huhtikuuta 1923 – 14. toukokuuta 1969) oli yhdysvaltalainen loogikko, joka työskenteli kognitiivisen psykologian alalla. Hän tutki neuraalisen toiminnan teoreettisia muotoiluja ja emergenttejä prosesseja. Hänen tutkimuksensa koskettivat kognitiotiedettä, psykologiaa, filosofiaa, neurotieteitä, tietojenkäsittelytiedettä, tekoälytytkimusta, neuroverkkotutkimusta ja kybernetiikkaa.
+Pitts muistetaan ennen kaikkea yhdessä Warren McCullochin kanssa kirjoittamastaan artikkelista "A Logical Calculus of Ideas Immanent in Nervous Activity" (1943).
+Warren McCulloch & Walter Pitts, A Logical Calculus of Ideas Immanent in Nervous Activity, 1943, Bulletin of Mathematical Biophysics 5:115–133.
+Warren McCulloch & Walter Pitts, On how we know universals: The perception of auditory and visual forms, 1947, Bulletin of Mathematical Biophysics 9:127–147.
+Howland, R., Jerome Lettvin, Warren McCulloch, Walter Pitts, & P. D. Wall, Reflex inhibition by dorsal root interaction, 1955, Journal of Neurophysiology 18:1–17.
+Wall, P. D., Warren McCulloch, Jerome Lettvin & Walter Pitts, Effects of strychnine with special reference to spinal afferent fibres, 1955, Epilepsia Series 3, 4:29–40.
+Jerome Lettvin, Humberto Maturana, Warren McCulloch, & Walter Pitts, What the Frog's Eye Tells the Frog's Brain, 1959, Proceedings of the Institute of Radic Engineers 47: 1940–1959
+Humberto Maturana, Jerome Lettvin, Warren McCulloch, & Walter Pitts, Anatomy and physiology of vision in the frog, 1960, Journal of General Physiology, 43:129–175
+Robert Gesteland, Jerome Lettvin & Walter Pitts, Chemical Transmission in the Nose of the Frog, 1965, J.Physiol. 181, 525–529.
