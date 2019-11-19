@@ -11,33 +11,29 @@
         margin-bottom: 3em; 
     }
     .pie {
-        max-width: 30%;
+        max-width: 25%;
     }
-    .pie-large {
-        max-width: 50%;
+    .spacer.pie {
+        width: 25%;
     }
     .piecharts, .bar {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
     }
-    .bar .column-left {
-        width: 33%;
-    }
-    .bar .column-right {
-        width: 67%;
-    }
 </style>
 </head>
 <body>
 
 
-<canvas id="canvas9" class="canvas pie pie-large"></canvas>
+
 
 <div class="piecharts">
+    <canvas id="canvas9" class="canvas pie"></canvas>
     <canvas id="canvas7" class="canvas pie"></canvas>
     <canvas id="canvas3" class="canvas pie"></canvas>
     <canvas id="canvas8" class="canvas pie"></canvas>
+    <div class="spacer pie">&nbsp;</div>
     <canvas id="canvas4" class="canvas pie"></canvas>
     <canvas id="canvas6" class="canvas pie"></canvas>
     <canvas id="canvas5" class="canvas pie"></canvas>
@@ -298,12 +294,12 @@ var config9 = {
     options: {
         title: {
             display: true,
-            text: Math.round(countGreater100/countTotal * 1000) / 10 + ' % on every page',
+            text: Math.round(countGreater100/countTotal * 1000) / 10 + ' % on every page ' + Math.round((countGreater10 - countGreater100)/countTotal * 1000) / 10 + ' % on every 10 pages ' + Math.round((countGreater1 - countGreater10)/countTotal * 1000) / 10 + ' % on every 100 pages ',
             fontColor: pieColors.blue
         },
         responsive: true,
         legend: {
-            display: true
+            display: false
         },
     }
 };

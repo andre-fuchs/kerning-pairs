@@ -14,7 +14,7 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 
 * [relevant_kerning.txt](count/total/relevant_kerning.txt) 
 
-The first 500 to 1000 pairs should have you covered sufficently, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
+The first 1000 to 2000 pairs should have you covered sufficently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
 
@@ -27,7 +27,8 @@ Screenshot. [Find HTML file here](charts/01-kern-dump.html)
 
 ## (2) Potential kerning pairs
 Another approach to determine possible kerning pairs is combinatorial. The form of each letter can be described by simple numerical values. The values on the adjacent sides or two neighboring letters can be summed up to determine whether this is a possible kerning pair. Like everything that is considered here, this also depends on the design of the font. For a grotesque sans serif typeface—as a proof of concept—a resolution of 3 by 5 units was sufficient for each side (-1, 0 or 1 for ascender, x-height, half-x-height, baseline, descender). More complex serif typefaces might need a higher resolution. 20554 kerning pairs could be generated this way. Compared to the **11899** "popular" kerning pairs, **11924** other possible ones could be added to the list. I found this approach to generate way less noise than the popular vote before.
-
+[![Title](charts/images/shapes.png "Title")](shapes/00-letter-shapes.html) 
+Excerpt. [Find HTML file here](shapes/00-letter-shapes.html)
 
 ## (3) Frequently occurring kerning pairs
 To bring down the runaway number of **23823** pairs to something more manageable let's count how frequent they occur in real-world texts. All texts used as samples were fetched from Wikipedia, mostly within their "Featured Article" category to assure a certain level of quality. In total, the letter pairs of about a 1 GB of text (respectively 2683 [books](Link-to-books-explanation-anchor)) in 24 languages were counted so far. 
