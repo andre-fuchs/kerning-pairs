@@ -7,17 +7,22 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 
 The first 500 to 1000 pairs should have you covered sufficently, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
-![Relevant kerning pairs sorted by frequency of occurrence](charts/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")
-
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
 
+### Table Of Content
+* [(1) Popular kerning pairs](#1-popular-kerning-pairs)
+* [(2) Potential kerning pairs](#2-potential-kerning-pairs)
+* [(3) Frequently occurring kerning pairs](#3-frequently-occurring-kerning-pairs)
+* [(4) Relevant kerning pairs](#4-relevant-kerning-pairs)
+* [Personal Whitelisting](#personal-whitelisting)
+* [Notes](#notes)
 
-## (1) Popular kerning pairs 
+## (1) Popular kerning pairs
 Let’s start by looking at kern tables of existing fonts to collect more or less common kerning pairs statistically. As a sample I was content with the about 2700 font files of the [Google Fonts Archive](https://github.com/google/fonts). But you can apply this script to any font collection you might want to look at yourself. It uses parts of the [Adobe Type Tools](https://github.com/adobe-type-tools/kern-dump), see directory "kernDump". **72377** unique kerning pairs were used in these fonts. This means, for the set of 286 characters considered, dazzling **88 %** of the possible 81796 combinations are (more or less) used. 
 
 This use count contains a lot of noise caused by subjective decisions and/or group based kerning. It helped a lot to cut off the long tail at some place. In the end, I removed all values lower than 20 percent of the maximum value. Which sounds a lot, but it leaves us with **11899** remaining popular kerning pairs. In Script 3G you can decide for yourself where you would like to make this cut, if desired. Find the uncut list here [Link]
 ![Google Fonts Kern Dump Use Counts](charts/images/01-kern-dump.png "Google Fonts Kern Dump Use Counts") 
-
+Screenshot. [Find HTML file here](charts/01-kern-dump.html)
 
 ## (2) Potential kerning pairs
 Another approach to determine possible kerning pairs is combinatorial. The form of each letter can be described by simple numerical values. The values on the adjacent sides or two neighboring letters can be summed up to determine whether this is a possible kerning pair. Like everything that is considered here, this also depends on the design of the font. For a grotesque sans serif typeface—as a proof of concept—a resolution of 3 by 5 units was sufficient for each side (-1, 0 or 1 for ascender, x-height, half-x-height, baseline, descender). More complex serif typefaces might need a higher resolution. 20554 kerning pairs could be generated this way. Compared to the **11899** "popular" kerning pairs, **11924** other possible ones could be added to the list. I found this approach to generate way less noise than the popular vote before.
@@ -65,6 +70,9 @@ The more text you examine, the more letter pairs you find. The total count is di
 [ChartKerningPairsEN/LetterPairsEN/head+tail/averageVSonePerBook]
 -->
 
+![Relevant kerning pairs sorted by frequency of occurrence](charts/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")
+Screenshot: Final result. Long tail already cut off. [Find HTML file here](charts/04-relevant-count.html)
+
 The long tail of less frequent pairs gets the longer the more you count in total. All values are normalized to an average number per book to better compare the languages. One *book* stands for 100 *pages* of text of 3000 characters each. I decided to cut off all unusual pairs which occur less than once per book. You can move that line if desired. 
 
 More frequently occurring pairs of letters quickly find a more stable place in the head of this ranking. The accuracy of this count for the more common pairs increases less and less the more text you look at. Looking at the ("only") about 2000 kerning pairs I end up with, it is not necessary to examine more texts.
@@ -76,6 +84,7 @@ Uppercase variants of all letter pairs are also taken into account.
 8558 of these kerning pairs occur at least once per book, 5298 at least once in 10 pages, 2542 at least once per page.
 
 ![Potential Kerning Pair Counts by Language](charts/images/02-count-by-language.png "Potential Kerning Pair Counts by Language")
+Excerpt. [Find HTML file here](charts/02-count-by-language.html)
 
 
 
@@ -86,8 +95,8 @@ All three variables get normalized before adding them to a relevance score, that
 
 Looking at the resulting chart by frequency values only, it is noticeable that about the first 500 Kerning pairs occur at least once per page; About the first 1000 once in 10 pages; And the total 2132 once in 100 pages. You decide where to stop and how much group based kerning you want to apply.
 
-
 ![Final Kern Score Charts](charts/images/03-kern-scores.png "Final Kern Score Charts")
+Excerpt. [Find HTML file here](charts/03-kern-scores.html)
 
 
 ## Personal Whitelisting
@@ -97,8 +106,9 @@ From personal experience of setting cultural science texts most often, I would l
 ## Notes
 Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by interpunctuation ones.
 
-![Filtered by page and book](charts/images/05a-pie-chart.png "Filtered by page and book")
+<!--![Filtered by page and book](charts/images/05a-pie-chart.png "Filtered by page and book")-->
 ![Filtered kerning pairs](charts/images/05-pie-charts.png "Filtered kerning pairs")
+Screenshot. [Find HTML file here](charts/05-pie-charts.html)
 
 The Google Fonts kern dump collected 88 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. If you are going to kern every pair of letters anyway, couldn't you do without the spacing? Feels like a dead end, especially because I ended up with 1000 to 2000 relevant kerning pairs only.
 
