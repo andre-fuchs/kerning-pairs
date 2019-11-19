@@ -12,36 +12,36 @@ from tqdm import tqdm
 
 
 LANGUAGES = [
-    # 'cs',
-    # 'cz',
-    # 'de',
-    # 'en',
-    # 'es',
-    # 'et',
-    # 'fi',
-    # 'fr',
-    # 'hu',
-    # 'it',
-    # 'nl',
-    # 'no',
-    # 'pl',
-    # 'pt',
-    # 'se',
-    # 'sv',
-    'da',
-    'hr',
-    'sl',
-    'lt',
-    'tr',
-    'lv',
-    'ro',
-    'sk',
-    'sq',
+    'cs',
+    'cz',
+    'de',
+    'en',
+    'es',
+    'et',
+    'fi',
+    'fr',
+    'hu',
+    'it',
+    'nl',
+    'no',
+    'pl',
+    'pt',
+    'se',
+    'sv',
+    "da",
+    "hr",
+    "sl",
+    "lt",
+    "tr",
+    "lv",
+    "ro",
+    "sk",
+    "sq",
 ]
 
 
 def filter_text(line):
-    if '==' in line or len(line) < 80:
+    if "==" in line or len(line) < 80:
         return False
     else:
         return True
@@ -52,13 +52,13 @@ removed = 0
 
 # https://codereview.stackexchange.com/a/145128
 for LANGUAGE in LANGUAGES:
-    for path in tqdm(glob.glob('text/' + LANGUAGE + '/*.txt')):
+    for path in tqdm(glob.glob("text/" + LANGUAGE + "/*.txt")):
 
-        with open(path, 'r') as file:
+        with open(path, "r") as file:
             lines = file.readlines()
-        with open(path, 'w') as file:
+        with open(path, "w") as file:
             lines = filter(filter_text, lines)
-            file.writelines(lines) 
+            file.writelines(lines)
             checked += 1
 
         if os.path.getsize(path) == 0:
@@ -66,8 +66,8 @@ for LANGUAGE in LANGUAGES:
                 os.remove(path)
                 removed += 1
             except OSError:
-                print('Error', path)
+                print("Error", path)
 
 
-print('Checked', checked)
-print('Removed Total', removed)
+print("Checked", checked)
+print("Removed Total", removed)

@@ -113,24 +113,22 @@ Screenshot. [Find HTML file here](charts/05-pie-charts.html)
 
 The Google Fonts kern dump collected 88 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. If you are going to kern every pair of letters anyway, couldn't you do without the spacing? Feels like a dead end, especially because I ended up with 1000 to 2000 relevant kerning pairs only.
 
-Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphs) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow. <!-- Frage -->
+Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphs) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? <!-- Frage -->
 
 This approach combines objective factors (occurence, kern value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
 
-I try to avoid overengineering here. The key components were written on a couple of train rides. Documentation took much longer.
+I try to avoid overengineering.
 
-
+<!--
 ## Code quality
 Sorry, these scripts are neither fully PEP8 compliant, nor following the Python naming conventions fully. Variable names are self explaining, but long (CamelCase). As a compromise I tend to favor slightly longer lines over forced line breaks for a better code overview. Do not hesitate to propose better (shorter) variable names and simplified, accessible code.
-
+-->
 
 <!--
 To Do:
 * Exponential Decay vs Hyperbola
 * Improve "padding" of kern text
 * Add Opionated grouped kern text
-* Combine 2a and 2b to avoid import Error ("module" begins with number)
-    * In general LETTERS should be importable from anywhere
 * Gesamt used > 2%: 56319  // Script 01b anpassen
 * To get rid of some noise, count values below 2% of the maximum got removed.
 * Occurrence vs. Appearance (TRANSLATION)

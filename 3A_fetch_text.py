@@ -20,12 +20,12 @@ start = timeit.default_timer()
 
 
 LANGUAGES = [
-    'sk',
+    "sk",
 ]
 
 CATEGORY = {
     # 'sk': 'Wikipédia:Dobré články',
-    'sk': 'Wikipédia:Najlepšie články'
+    "sk": "Wikipédia:Najlepšie články"
     # 'ro': 'Wikipedia articole de calitate',
     # 'lv': 'Vērtīgi raksti',
     # 'lt': 'Vertingi straipsniai',
@@ -34,7 +34,7 @@ CATEGORY = {
     # 'de': 'Wikipedia:Lesenswert',
     # 'en': 'Featured articles',
     # 'fr': 'Article de qualité',
-    # 'es': 'Wikipedia:Artículos_destacados',   
+    # 'es': 'Wikipedia:Artículos_destacados',
     # 'pt': '!Artigos bons',
     # 'it': 'Wikipedia:Voci_di_qualità',
     # 'nl': 'Wikipedia:Uitgelicht'
@@ -49,7 +49,7 @@ def make_directory(language):
 
 def fetch_categorymembers(categorymembers, level=0, max_level=1):
     for page in tqdm(categorymembers.values()):
-        file = open('text/' + LANGUAGE + '/' + slugify(page.title) + '.txt', 'w')
+        file = open("text/" + LANGUAGE + "/" + slugify(page.title) + ".txt", "w")
         file.write(page.text)
         ### TEMPORARY
         # title = page.title.replace('Diskussion:', '')
@@ -64,17 +64,16 @@ def fetch_categorymembers(categorymembers, level=0, max_level=1):
 
 for LANGUAGE in tqdm(LANGUAGES):
     wiki_wiki = wikipediaapi.Wikipedia(
-        language=LANGUAGE,
-        extract_format=wikipediaapi.ExtractFormat.WIKI
+        language=LANGUAGE, extract_format=wikipediaapi.ExtractFormat.WIKI
     )
     ### TEMPORARY
     # wikipedia.set_lang(LANGUAGE)
     ### TEMPORARY
-    category = wiki_wiki.page('Category:' + CATEGORY.get(LANGUAGE))
+    category = wiki_wiki.page("Category:" + CATEGORY.get(LANGUAGE))
     # print(category.categorymembers)
-    make_directory('text/' + LANGUAGE)
+    make_directory("text/" + LANGUAGE)
     fetch_categorymembers(category.categorymembers)
 
 
 stop = timeit.default_timer()
-print('Execution Time: ', stop - start)
+print("Execution Time: ", stop - start)
