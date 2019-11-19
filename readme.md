@@ -13,7 +13,6 @@
 Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurrence in texts, popularity among type designers and the necessary kerning value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A* (plus all kinds of quotes), 24 languages so far and various typeface styles.
 
 * 🍀✨ [count/total/relevant_kerning.txt](count/total/relevant_kerning.txt) 
-* 🍀✨ [count/fonts/googleFontsKernVectorList.json](count/fonts/googleFontsKernVectorList.json) 
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
