@@ -10,11 +10,11 @@
 * [Notes](#notes)
 
 ## Know when to stop
-Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurance in texts, popularity among type designers and the necessary kern value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A*, 24 languages so far and various typeface styles.
+Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurrence in texts, popularity among type designers and the necessary kerning value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A*, 24 languages so far and various typeface styles.
 
 * [relevant_kerning.txt](count/total/relevant_kerning.txt) 
 
-The first 1000 to 2000 pairs should have you covered sufficently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
+The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
 
@@ -79,7 +79,7 @@ The long tail of less frequent pairs gets the longer the more you count in total
 
 More frequently occurring pairs of letters quickly find a more stable place in the head of this ranking. The accuracy of this count for the more common pairs increases less and less the more text you look at. Looking at the ("only") about 2000 kerning pairs I end up with, it is not necessary to examine more texts.
 
-All lists of kerning pairs by language get merged into a global total. This resulting list contains the highscore values to avoid discrimination of local peculiarities. For example, the potential kerning pair "ij" appears remarkably frequently in Dutch only and should be given appropriate attention, even if it appears negligibly rarely on the global average.
+All lists of kerning pairs by language get merged into a global total. This resulting list contains the high-score values to avoid discrimination of local peculiarities. For example, the potential kerning pair "ij" appears remarkably frequently in Dutch only and should be given appropriate attention, even if it appears negligibly rarely on the global average.
 
 Uppercase variants of all letter pairs are also taken into account.
 
@@ -90,9 +90,9 @@ Excerpt. See full count here: [charts/02-count-by-language.html](charts/02-count
 
 
 ## (4) Relevant kerning pairs
-From the previous statistics and I conclude that the relevance of a potential kerning pair should be judged by occurrence, popularity and kern value itself. 
+From the previous statistics and I conclude that the relevance of a potential kerning pair should be judged by occurrence, popularity and kerning value itself. 
 
-All three variables get normalized before adding them to a relevance score, that I call ***Kern Score***. This means that the values of each variable is scaled to the corresponding total average value of 1. And a *Kern Score* of *3* could mean the sum of just average occurrence + average popularity + average kern value (1 + 1 + 1). It could also mean an extremely rare pair, which requires a very strong kerning and is considered by many typographers for some reason (0.00001 + 1.499999 + 1.5). Both are equally relevant in the kern charts.
+All three variables get normalized before adding them to a relevance score, that I call ***Kern Score***. This means that the values of each variable is scaled to the corresponding total average value of 1. And a *Kern Score* of *3* could mean the sum of just average occurrence + average popularity + average kerning value (1 + 1 + 1). It could also mean an extremely rare pair, which requires a very strong kerning and is considered by many typographers for some reason (0.00001 + 1.499999 + 1.5). Both are equally ranked in the charts.
 
 Looking at the resulting chart by frequency values only, it is noticeable that about the first 500 Kerning pairs occur at least once per page; About the first 1000 once in 10 pages; And the total 2132 once in 100 pages. You decide where to stop and how much group based kerning you want to apply.
 
@@ -101,11 +101,11 @@ Excerpt. The small personal whitelist bonus gets noticeable after the upper 500 
 
 
 ## Personal Whitelisting
-From personal experience of setting cultural science texts most often, I would like to pay more attention to the quotation marks. First of all all of their stylistic alternates should be taken into account. So I summed up all comparable pair counts and generated all possible variants. In the end I wasn't fully convinced by their frequency of occurence in these sample texts from Wikipedia. Different kinds of texts – other than encyclopedic – would be necessary to cover more special cases. Instead, in order to keep this project manageable, I prefer a personal **whitelist** of kerning pairs, which I would like to see ranked higher. A bonus value 0.5 added to the score works just fine for my purposes. This does not affect the top of the ranking, as you can see in the charts. Feel free to edit this *whitelist* in script 4A.
+From personal experience of setting cultural science texts most often, I would like to pay more attention to the quotation marks. First all of their stylistic alternates should be taken into account. So I summed up all comparable pair counts and generated all possible variants. In the end I wasn't fully convinced by their frequency of occurrence in these sample texts from Wikipedia. Different kinds of texts – other than encyclopedic – would be necessary to cover more special cases. Instead, in order to keep this project manageable, I prefer a personal **whitelist** of kerning pairs, which I would like to see ranked higher. A bonus value 0.5 added to the score works just fine for my purposes. This does not affect the top of the ranking, as you can see in the charts. Feel free to edit this *whitelist* in script 4A.
 
 
 ## Notes
-Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by interpunctuation ones.
+Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by inter-punctuation ones.
 
 <!--![Filtered by page and book](charts/images/05a-pie-chart.png "Filtered by page and book")-->
 [![Filtered kerning pairs](charts/images/05-pie-charts.png "Filtered kerning pairs")](charts/05-pie-charts.html)
@@ -115,9 +115,9 @@ The Google Fonts kern dump collected 88 % of all possible letter pairs to be pot
 
 Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphs) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? <!-- Frage -->
 
-This approach combines objective factors (occurence, kern value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
+This approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
 
-I try to avoid overengineering.
+Let's try to avoid over-engineering.
 
 <!--
 ## Code quality
@@ -134,5 +134,4 @@ To Do:
 * Occurrence vs. Appearance (TRANSLATION)
 * Personal Additions
     *     - Comparison with other lists/quotes/references
-Blackify PEP8
 -->
