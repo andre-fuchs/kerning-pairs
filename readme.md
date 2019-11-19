@@ -10,16 +10,17 @@
 * [Notes](#notes)
 
 ## Know when to stop
-Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurrence in texts, popularity among type designers and the necessary kerning value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A*, 24 languages so far and various typeface styles.
+Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurrence in texts, popularity among type designers and the necessary kerning value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A* (plus all kinds of quotes), 24 languages so far and various typeface styles.
 
-* [relevant_kerning.txt](count/total/relevant_kerning.txt) 
+👉 [count/total/relevant_kerning.txt](count/total/relevant_kerning.txt) 
+👉 [count/total/relevant_kerning_pairs.json](count/total/relevant_kerning_pairs.json) 
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
 
 ## (1) Popular kerning pairs
-Let’s start by looking at kern tables of existing fonts to collect more or less common kerning pairs statistically. As a sample I was content with the about 2700 font files of the [Google Fonts Archive](https://github.com/google/fonts). But you can apply this script to any font collection you might want to look at yourself. It uses parts of the [Adobe Type Tools](https://github.com/adobe-type-tools/kern-dump), see directory "kernDump". **72377** unique kerning pairs were used in these fonts. This means, for the set of 286 characters considered, dazzling **88 %** of the possible 81796 combinations are (more or less) used. 
+Let’s start by looking at kern tables of existing fonts to collect more or less common kerning pairs statistically. As a sample I was content with the about 2700 font files of the [Google Fonts Archive](https://github.com/google/fonts). But you can apply this script to any font collection you might want to look at yourself. It uses parts of the [Adobe Type Tools](https://github.com/adobe-type-tools/kern-dump), see directory "kernDump". **72377** unique kerning pairs were used in these fonts. This means, for the set of 300 characters considered, dazzling **80 %** of the possible 90000 combinations are (more or less) used. 
 
 This use count contains a lot of noise caused by subjective decisions and/or group based kerning. It helped a lot to cut off the long tail at some place. In the end, I removed all values lower than 20 percent of the maximum value. Which sounds a lot, but it leaves us with **11899** remaining popular kerning pairs. In Script 3G you can decide for yourself where you would like to make this cut, if desired. Find the uncut list [here.](count/fonts/googleFontsKernDumpList.json)
 [![Google Fonts Kern Dump Use Counts](charts/images/01-kern-dump.png "Google Fonts Kern Dump Use Counts")](charts/01-kern-dump.html) 
@@ -94,7 +95,7 @@ From the previous statistics and I conclude that the relevance of a potential ke
 
 All three variables get normalized before adding them to a relevance score, that I call ***Kern Score***. This means that the values of each variable is scaled to the corresponding total average value of 1. And a *Kern Score* of *3* could mean the sum of just average occurrence + average popularity + average kerning value (1 + 1 + 1). It could also mean an extremely rare pair, which requires a very strong kerning and is considered by many typographers for some reason (0.00001 + 1.499999 + 1.5). Both are equally ranked in the charts.
 
-Looking at the resulting chart by frequency values only, it is noticeable that about the first 500 Kerning pairs occur at least once per page; About the first 1000 once in 10 pages; And the total 2132 once in 100 pages. You decide where to stop and how much group based kerning you want to apply.
+Looking at the resulting chart by frequency values only, it is noticeable that about the first 1000 kerning pairs occur at least once per page; About the first 2000 once in 10 pages; And the total 3736 once in 100 pages. You decide where to stop and how much group based kerning you want to apply.
 
 [![Final Kern Score Charts](charts/images/03-kern-scores.png "Final Kern Score Charts")](charts/03-kern-scores.html)
 Excerpt. The small personal whitelist bonus gets noticeable after the upper 500 pairs. [See full chart here](charts/03-kern-scores.html)
@@ -111,7 +112,7 @@ Besides the many unknown kerning pairs added by foreign languages, I am surprise
 [![Filtered kerning pairs](charts/images/05-pie-charts.png "Filtered kerning pairs")](charts/05-pie-charts.html)
 Screenshot. [Find HTML file here](charts/05-pie-charts.html)
 
-The Google Fonts kern dump collected 88 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. If you are going to kern every pair of letters anyway, couldn't you do without the spacing? Feels like a dead end, especially because I ended up with 1000 to 2000 relevant kerning pairs only.
+The Google Fonts kern dump collected 80 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. If you are going to kern every pair of letters anyway, couldn't you do without the spacing? Feels like a dead end, especially because I ended up with 1000 to 2000 relevant kerning pairs only.
 
 Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphs) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? <!-- Frage -->
 
