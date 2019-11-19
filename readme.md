@@ -21,7 +21,7 @@ In case you want to reproduce parts of this work: All scripts are self-explanato
 ## (1) Popular kerning pairs
 Let’s start by looking at kern tables of existing fonts to collect more or less common kerning pairs statistically. As a sample I was content with the about 2700 font files of the [Google Fonts Archive](https://github.com/google/fonts). But you can apply this script to any font collection you might want to look at yourself. It uses parts of the [Adobe Type Tools](https://github.com/adobe-type-tools/kern-dump), see directory "kernDump". **72377** unique kerning pairs were used in these fonts. This means, for the set of 286 characters considered, dazzling **88 %** of the possible 81796 combinations are (more or less) used. 
 
-This use count contains a lot of noise caused by subjective decisions and/or group based kerning. It helped a lot to cut off the long tail at some place. In the end, I removed all values lower than 20 percent of the maximum value. Which sounds a lot, but it leaves us with **11899** remaining popular kerning pairs. In Script 3G you can decide for yourself where you would like to make this cut, if desired. Find the uncut list [here](count/fonts/googleFontsKernDumpList.json)
+This use count contains a lot of noise caused by subjective decisions and/or group based kerning. It helped a lot to cut off the long tail at some place. In the end, I removed all values lower than 20 percent of the maximum value. Which sounds a lot, but it leaves us with **11899** remaining popular kerning pairs. In Script 3G you can decide for yourself where you would like to make this cut, if desired. Find the uncut list [here.](count/fonts/googleFontsKernDumpList.json)
 [![Google Fonts Kern Dump Use Counts](charts/images/01-kern-dump.png "Google Fonts Kern Dump Use Counts")](charts/01-kern-dump.html) 
 Screenshot. [Find HTML file here](charts/01-kern-dump.html)
 
@@ -88,7 +88,6 @@ Uppercase variants of all letter pairs are also taken into account.
 Excerpt. [Find HTML file here](charts/02-count-by-language.html)
 
 
-
 ## (4) Relevant kerning pairs
 From the previous statistics and I conclude that the relevance of a potential kerning pair should be judged by occurrence, popularity and kern value itself. 
 
@@ -97,7 +96,7 @@ All three variables get normalized before adding them to a relevance score, that
 Looking at the resulting chart by frequency values only, it is noticeable that about the first 500 Kerning pairs occur at least once per page; About the first 1000 once in 10 pages; And the total 2132 once in 100 pages. You decide where to stop and how much group based kerning you want to apply.
 
 [![Final Kern Score Charts](charts/images/03-kern-scores.png "Final Kern Score Charts")](charts/03-kern-scores.html)
-Excerpt. [Find HTML file here](charts/03-kern-scores.html)
+Excerpt. The small personal whitelist bonus gets noticeable after the upper 500 pairs. [See full chart here](charts/03-kern-scores.html)
 
 
 ## Personal Whitelisting
