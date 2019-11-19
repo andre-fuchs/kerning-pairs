@@ -1,6 +1,15 @@
 # The Ultimate List of Kerning Pairs
-## Know when to stop
 
+#### Table Of Content
+* [Result: Know when to stop](#know-when-to-stop)
+* [(1) Popular kerning pairs](#1-popular-kerning-pairs)
+* [(2) Potential kerning pairs](#2-potential-kerning-pairs)
+* [(3) Frequently occurring kerning pairs](#3-frequently-occurring-kerning-pairs)
+* [(4) Relevant kerning pairs](#4-relevant-kerning-pairs)
+* [Personal Whitelisting](#personal-whitelisting)
+* [Notes](#notes)
+
+## Know when to stop
 Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurance in texts, popularity among type designers and the necessary kern value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A*, 24 languages so far and various typeface styles.
 
 * [relevant_kerning.txt](count/total/relevant_kerning.txt) 
@@ -8,14 +17,6 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 The first 500 to 1000 pairs should have you covered sufficently, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
 In case you want to reproduce parts of this work: All scripts are self-explanatory and numbered according to the following article. Some parts may also be useful for other works, e.g. the large sample size of texts in many languages. 
-
-### Table Of Content
-* [(1) Popular kerning pairs](#1-popular-kerning-pairs)
-* [(2) Potential kerning pairs](#2-potential-kerning-pairs)
-* [(3) Frequently occurring kerning pairs](#3-frequently-occurring-kerning-pairs)
-* [(4) Relevant kerning pairs](#4-relevant-kerning-pairs)
-* [Personal Whitelisting](#personal-whitelisting)
-* [Notes](#notes)
 
 ## (1) Popular kerning pairs
 Let’s start by looking at kern tables of existing fonts to collect more or less common kerning pairs statistically. As a sample I was content with the about 2700 font files of the [Google Fonts Archive](https://github.com/google/fonts). But you can apply this script to any font collection you might want to look at yourself. It uses parts of the [Adobe Type Tools](https://github.com/adobe-type-tools/kern-dump), see directory "kernDump". **72377** unique kerning pairs were used in these fonts. This means, for the set of 286 characters considered, dazzling **88 %** of the possible 81796 combinations are (more or less) used. 
