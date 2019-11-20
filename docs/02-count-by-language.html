@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<script src="datasets/count_comparison.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<style>
+    .canvas {
+        max-width: 100%;
+        margin-bottom: 3em; 
+    }
+    .bar {
+        display: flex;
+    }
+    .bar .column-left {
+        width: 33%;
+    }
+    .bar .column-right {
+        width: 67%;
+    }
+</style>
+</head>
+<body>
+
+<div class="bar">
+    <div class="column column-left">
+        <canvas id="canvas2A" class="canvas" style="width: 500px;"></canvas>
+    </div>
+    <div class="column column-right">
+        <canvas id="canvas2" class="canvas"></canvas>
+    </div>
+</div>
+
+<script>
+/* TO DO:
+    - Horizontal Guidelines:
+        https://github.com/chartjs/chartjs-plugin-annotation
+        https://codepen.io/anon/pen/EPjQXO?editors=0010
+    - Resort after filtering: 
+        https://jsfiddle.net/fx0a6o6q/3/ or https://jsfiddle.net/fx0a6o6q/1/
+        https://stackoverflow.com/a/31405527
+    - Zooming on Button Click
+        https://github.com/chartjs/chartjs-plugin-zoom/issues/43#issuecomment-446419649
+*/
+
+
+// https://krazydad.com/tutorials/makecolors.php
+var frequency = .2,
+    colors = Array();
+for (var i = 0; i < 24; ++i) {
+    red   = Math.round(Math.sin(frequency*i + 0) * 127 + 128);
+    green = Math.round(Math.sin(frequency*i + 2) * 127 + 128);
+    blue  = Math.round(Math.sin(frequency*i + 4) * 127 + 128);
+    colors.push('rgba(' + red + ', ' + green + ', ' + blue + ', 0.4)')
+}
+
+
+Chart.defaults.global.defaultFontFamily = "'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif";
+Chart.defaults.global.legend.labels.usePointStyle = true;
+Chart.defaults.global.legend.labels.boxWidth = 15;
+Chart.defaults.global.tooltips.backgroundColor = '#000';
+
+// var ctx1 = canvas.getContext('2d');
+var ctx2 = document.getElementById('canvas2').getContext('2d');
+var ctx2A = document.getElementById('canvas2A').getContext('2d');
+
+
+labels = labels.map(function (k) { 
+    return k.replace('&#x27;', '\'').replace('&quot;', '\'').replace('&amp;', '&').replace('&gt;', '>').replace('&lt;', '<');
+});
+
+
+
+var config2A = {
+    type: 'horizontalBar',
+    data: {
+        labels: labels.slice(0, countGreater100),
+        datasets: [{
+            label: 'Kern Values',
+            data: dataset_vectors.slice(0, countGreater100),
+            backgroundColor: dataset_colors,
+        }]
+    },
+    options: {
+        title: {
+            display: true,
+            text: 'Kern Values + Uses'
+        },
+        tooltips: {
+            mode: 'index',
+            intersect: false
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+            yAxes: [{
+                stacked: true,
+                ticks: {
+                    fontSize: 12, 
+                    fontFamily: "'Courier', monospace", 
+                    fontColor: '#000', 
+                    callback: function(value, index, values) {
+                        return index;
+                    }
+                }
+            }],
+            xAxes: [{
+                stacked: false,
+                ticks: {
+                    beginAtZero: true,
+                },
+            }]
+        },
+        legend: {
+            display: false,
+        },
+    }
+};
+
+// labels = [for (label of labels) label.toUpperCase()]
+
+var config2 = {
+   type: 'horizontalBar',
+   data: {
+      labels: labels.slice(0, countGreater100),
+      datasets: [
+      {
+         label: 'CS',
+         data: dataset_cs.slice(0, countGreater100),
+         backgroundColor: colors[0]
+      },
+      {
+         label: 'DA',
+         data: dataset_da.slice(0, countGreater100),
+         backgroundColor: colors[1]
+      },
+      {
+         label: 'DE',
+         data: dataset_de.slice(0, countGreater100),
+         backgroundColor: colors[2]
+      },
+      {
+         label: 'EN',
+         data: dataset_en.slice(0, countGreater100),
+         backgroundColor: colors[3]
+      },
+      {
+         label: 'ES',
+         data: dataset_es.slice(0, countGreater100),
+         backgroundColor: colors[4]
+      },
+      {
+         label: 'ET',
+         data: dataset_et.slice(0, countGreater100),
+         backgroundColor: colors[5]
+      },
+      {
+         label: 'FI',
+         data: dataset_fi.slice(0, countGreater100),
+         backgroundColor: colors[6]
+      },
+      {
+         label: 'FR',
+         data: dataset_fr.slice(0, countGreater100),
+         backgroundColor: colors[7]
+      },
+      {
+         label: 'HR',
+         data: dataset_hr.slice(0, countGreater100),
+         backgroundColor: colors[8]
+      },
+      {
+         label: 'HU',
+         data: dataset_hu.slice(0, countGreater100),
+         backgroundColor: colors[9]
+      },
+      {
+         label: 'LT',
+         data: dataset_lt.slice(0, countGreater100),
+         backgroundColor: colors[10]
+      },
+      {
+         label: 'LV',
+         data: dataset_lv.slice(0, countGreater100),
+         backgroundColor: colors[11]
+      },
+      {
+         label: 'IT',
+         data: dataset_it.slice(0, countGreater100),
+         backgroundColor: colors[12]
+      },
+      {
+         label: 'NL',
+         data: dataset_nl.slice(0, countGreater100),
+         backgroundColor: colors[13]
+      },
+      {
+         label: 'NO',
+         data: dataset_no.slice(0, countGreater100),
+         backgroundColor: colors[14]
+      },
+      {
+         label: 'PL',
+         data: dataset_pl.slice(0, countGreater100),
+         backgroundColor: colors[15]
+      },
+      {
+         label: 'PT',
+         data: dataset_pt.slice(0, countGreater100),
+         backgroundColor: colors[16]
+      },
+      {
+         label: 'RO',
+         data: dataset_ro.slice(0, countGreater100),
+         backgroundColor: colors[17]
+      },
+      {
+         label: 'SE',
+         data: dataset_se.slice(0, countGreater100),
+         backgroundColor: colors[18]
+      },
+      {
+         label: 'SL',
+         data: dataset_sl.slice(0, countGreater100),
+         backgroundColor: colors[19]
+      },
+      {
+         label: 'SK',
+         data: dataset_sk.slice(0, countGreater100),
+         backgroundColor: colors[20]
+      },
+      {
+         label: 'SQ',
+         data: dataset_sq.slice(0, countGreater100),
+         backgroundColor: colors[21]
+      },
+      {
+         label: 'SV',
+         data: dataset_sv.slice(0, countGreater100),
+         backgroundColor: colors[22]
+      },
+      {
+         label: 'TR',
+         data: dataset_tr.slice(0, countGreater100),
+         backgroundColor: colors[23]
+      }]
+   },
+   
+    options: {
+        title: {
+            display: true,
+            text: 'Count By Language'
+        },
+        tooltips: {
+            mode: 'index',
+            intersect: false
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+            yAxes: [{
+                stacked: true,
+                ticks: {
+                    fontSize: 12, 
+                    fontFamily: "'Courier', monospace", 
+                    fontColor: '#000', 
+                    callback: function(value, index, values) {
+                        return value;
+                    }
+                }
+            }],
+            xAxes: [{
+                stacked: false,
+                ticks: {
+                    beginAtZero: true,
+                },
+            }]
+        },
+        legend: {
+            display: true,
+            position: 'right',
+        },
+    }
+};
+
+var randomScalingFactor = function() {
+    return Math.round(Math.random() * 100);
+};
+
+
+
+
+
+
+var chart2 = new Chart(ctx2, config2);
+var chart2A = new Chart(ctx2A, config2A);
+
+
+chart2.canvas.parentNode.style.height = countGreater100 * 10 + 'px';
+chart2A.canvas.parentNode.style.height = countGreater100 * 10 + 'px';
+
+</script>
+
+</body>
+</html>
