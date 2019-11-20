@@ -78,7 +78,7 @@ The more text you examine, the more letter pairs you find. The total count is di
 
 The long tail of less frequent pairs gets the longer the more you count in total. All values are normalized to an average number per book to better compare the languages. One *book* stands for 100 *pages* of text of 3000 characters each. I decided to cut off all unusual pairs which occur less than once per book. You can move that line if desired. 
 
-More frequently occurring pairs of letters quickly find a more stable place in the head of this ranking. The accuracy of this count for the more common pairs increases less and less the more text you look at. Looking at the ("only") about 2000 kerning pairs I end up with, it is not necessary to examine more texts.
+More frequently occurring pairs of letters quickly find a more stable place in the head of this ranking. The accuracy of this count for the more common pairs increases less and less the more text you look at. Looking at the ("only") couple of thousand kerning pairs I end up with, it is not necessary to examine more texts.
 
 All lists of kerning pairs by language get merged into a global total. This resulting list contains the high-score values to avoid discrimination of local peculiarities. For example, the potential kerning pair "ij" appears remarkably frequently in Dutch only and should be given appropriate attention, even if it appears negligibly rarely on the global average.
 

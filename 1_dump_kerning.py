@@ -343,9 +343,12 @@ def extractKerning(path):
 
 # Fonts Source:
 # https://github.com/google/fonts/archive/master.zip
+# Not included in this repository by default
 PATH = "fonts/google-webfonts/fonts-master"
+# defaultdicts are the fastest way to count by far that I found, compared to Pandas DataFrame for instance
 counts = defaultdict(lambda: defaultdict(lambda: 0))
 values = defaultdict(lambda: defaultdict(lambda: 0))
+# list all paths including TTF files
 paths = [y for x in os.walk(PATH) for y in glob(os.path.join(x[0], "*.ttf"))]
 countTotal = len(paths)
 
