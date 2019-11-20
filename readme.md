@@ -28,8 +28,8 @@ This use count contains a lot of noise caused by subjective decisions and/or gro
 
 ## (2) Potential kerning pairs
 Another approach to determine possible kerning pairs is combinatorial. The form of each letter can be described schematically by simple numerical values. The values on the adjacent sides or two neighboring letters can be summed up to determine whether this is a possible kerning pair. Like everything that is considered here, this also depends on the design of the font. For a grotesque sans serif typeface—as a proof of concept—a resolution of 3 by 5 units was sufficient for each side (-1, 0 or 1 for ascender, x-height, half-x-height, baseline, descender). More complex (serif) typefaces might need a higher resolution. 20554 kerning pairs could be generated this way. Compared to the **11899** most "popular" kerning pairs, **11924** other possible ones could be added to the list. I found this approach to generate way less noise than the popular vote before.
-[![Title](docs/images/shapes.png "Title")](shapes/00-letter-shapes.html) 
-<sup>Excerpt. Find full set here: [shapes/00-letter-shapes.html](shapes/00-letter-shapes.html)</sup>
+[![Title](docs/images/shapes.png "Title")](docs/00-letter-shapes.html) 
+<sup>Excerpt. Find full set here: [docs/00-letter-shapes.html](docs/00-letter-shapes.html)</sup>
 
 ## (3) Frequently occurring kerning pairs
 To bring down the runaway number of **23823** pairs to something more manageable let's count how frequent they occur in real-world texts. All texts used as samples were fetched from Wikipedia, mostly within their "Featured Article" category to assure a certain level of quality. In total, the letter pairs of about a 1 GB of text (respectively 2683 [books](Link-to-books-explanation-anchor)) in 24 languages were counted so far. 
@@ -73,8 +73,8 @@ The more text you examine, the more letter pairs you find. The total count is di
 [ChartKerningPairsEN/LetterPairsEN/head+tail/averageVSonePerBook]
 -->
 
-[![Relevant kerning pairs sorted by frequency of occurrence](docs/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")](docs/04-relevant-count.html)
-<sup>Screenshot: Final result. Long tail already cut off. [docs/04-relevant-count.html](docs/04-relevant-count.html)</sup>
+[![Relevant kerning pairs sorted by frequency of occurrence](docs/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")](https://andre-fuchs.github.io/kerning-pairs/04-relevant-count.html)
+<sup>Screenshot: Final result. Long tail already cut off. [docs/04-relevant-count.html](https://andre-fuchs.github.io/kerning-pairs/04-relevant-count.html)</sup>
 
 The long tail of less frequent pairs gets the longer the more you count in total. All values are normalized to an average number per book to better compare the languages. One *book* stands for 100 *pages* of text of 3000 characters each. I decided to cut off all unusual pairs which occur less than once per book. You can move that line if desired. 
 
@@ -121,9 +121,9 @@ The Google Fonts kern dump collected 80 % of all possible letter pairs to be pot
 This project's approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
 
 
-#### Wishlist
+#### Wishlist/Upcoming
 * Text generation out of words, with each word containing a kerning pair in the language it got its highest count.
-* Grouped kerning pairs in a text file or multiple text files to allow to concentrate on specific kinds of characters at a time. Maybe starting with the absolute must-haves/misfits.
+* Sorting out the essential must-haves/misfits for rough work
 
 <!--
 ## Code quality

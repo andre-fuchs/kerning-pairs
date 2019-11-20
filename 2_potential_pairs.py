@@ -320,7 +320,7 @@ letters = {
 
 # Generate SVGs
 for letter, shapes in tqdm(letters.items()):
-    dwg = svgwrite.Drawing("shapes/" + str(ord(letter)) + ".svg", size=("16", "16"))
+    dwg = svgwrite.Drawing("docs/shapes/" + str(ord(letter)) + ".svg", size=("16", "16"))
     for y in [0, 4, 8, 12, 16]:
         dwg.add(dwg.line((0, y), (16, y), stroke="gray", stroke_width=".2"))
 
