@@ -89,7 +89,7 @@ Uppercase variants of all letter pairs are also taken into account.
 [![Potential Kerning Pair Counts by Language](docs/images/02-count-by-language.png "Potential Kerning Pair Counts by Language")](https://andre-fuchs.github.io/kerning-pairs/02-count-by-language.html)
 
 <sup>[…]
-Juxtaposition of kerning value (size of left bar), popularity (brightness of left bar) and frequency of occurence in all languages (size of right bars). See full count here: [docs/02-count-by-language.html](https://andre-fuchs.github.io/kerning-pairs/02-count-by-language.html)</sup>
+Juxtaposition of kerning value (size of left bar), popularity (color intensity of left bar) and frequency of occurence in all languages (size of right bars). See full count here: [docs/02-count-by-language.html](https://andre-fuchs.github.io/kerning-pairs/02-count-by-language.html)</sup>
 
 
 ## (4) Relevant kerning pairs
