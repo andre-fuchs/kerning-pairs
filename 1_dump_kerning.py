@@ -345,12 +345,14 @@ def extractKerning(path):
 # https://github.com/google/fonts/archive/master.zip
 # Not included in this repository by default
 PATH = "fonts/google-webfonts/fonts-master"
-# defaultdicts are the fastest way to count by far that I found, compared to Pandas DataFrame for instance
+# defaultdicts are the fastest way to count by far that I found, 
+# compared to Pandas DataFrame for instance
 counts = defaultdict(lambda: defaultdict(lambda: 0))
 values = defaultdict(lambda: defaultdict(lambda: 0))
-# list all paths including TTF files
+# list paths of all TTF files
 paths = [y for x in os.walk(PATH) for y in glob(os.path.join(x[0], "*.ttf"))]
 countTotal = len(paths)
+
 
 for index, path in enumerate(paths):
     print(str(index + 1) + "/" + str(countTotal), path)
@@ -360,7 +362,9 @@ for index, path in enumerate(paths):
         try:
             nLeftSideBearing = font["hmtx"].metrics["n"][1]
             spaceWidth = font["hmtx"].metrics["space"][0]
+            # Compute a reference space to make kerning values comparable with others
             referenceSpace = (nLeftSideBearing + spaceWidth / 4) / 2
+            # Parse kern dump
             for pair, value in fontKernDump.items():
                 # Filtering character set
                 if all(key in CHARACTERS for key in (pair[0], pair[1])):
@@ -368,6 +372,8 @@ for index, path in enumerate(paths):
                     counts[CHARACTERS[pair[0]]][CHARACTERS[pair[1]]] += 1
                     values[CHARACTERS[pair[0]]][CHARACTERS[pair[1]]] += normalizedValue
         except:
+            # Only very kern dumps went wrong and stopped the whole script
+            # So I added try-except here to ignore these errors
             print("At least we tried.")
 
 
@@ -385,6 +391,9 @@ for left_letter in counts:
             )
         )
 list = sorted(list, key=lambda x: x[1][0], reverse=True)
+
+
+# I ended up not using the Pandas DataFrame
 # dataframe = pd.DataFrame.from_dict(dictionary, orient='index')
 
 
