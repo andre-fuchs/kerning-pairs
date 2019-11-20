@@ -65,7 +65,7 @@ To bring down the runaway number of **23823** pairs to something more manageable
 
 <sup> &ast; All counts cleaned: Characters outside the mentioned Unicode blocks got filtered out.</sup>
 
-The more text you examine, the more letter pairs you find. The total count is directly proportional to the number of letter pairs found. For each language the sorted counts form a hyperbola, see the exemplary chart below. 
+The more text you examine, the more letter pairs you find. The total count is directly proportional to the number of letter pairs found. For each language the sorted counts form a hyperbola with a very long tail, see the exemplary chart below. 
 
 <!--
 * [Graph] zeigen. x-Achse: Total Count, y-Achse: Letter Count ... tops out
@@ -74,7 +74,7 @@ The more text you examine, the more letter pairs you find. The total count is di
 -->
 
 [![Relevant kerning pairs sorted by frequency of occurrence](docs/images/04-relevant-count.png "Relevant kerning pairs sorted by frequency of occurrence")](https://andre-fuchs.github.io/kerning-pairs/04-relevant-count.html)
-<sup>Screenshot: Final result. Long tail already cut off. [docs/04-relevant-count.html](https://andre-fuchs.github.io/kerning-pairs/04-relevant-count.html)</sup>
+<sup>Screenshot: Final result. 3736 pairs only, tail already cut off (it gets up to 4 times as long) [docs/04-relevant-count.html](https://andre-fuchs.github.io/kerning-pairs/04-relevant-count.html)</sup>
 
 The long tail of less frequent pairs gets the longer the more you count in total. All values are normalized to an average number per book to better compare the languages. One *book* stands for 100 *pages* of text of 3000 characters each. I decided to cut off all unusual pairs which occur less than once per book. You can move that line if desired. 
 
