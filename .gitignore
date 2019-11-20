@@ -3,3 +3,6 @@ kernDump/
 virtualenv3/
 00_references/
 .vscode/
+charts/images/shapes.svg
+.DS_Store
+__pycache__/
