@@ -12,7 +12,8 @@
 ## Know when to stop
 Find a list of kerning pairs below, ordered by relevance. The relevance score is determined by frequency of occurrence in texts, popularity among type designers and the necessary kerning value. This repository is intended for type designers looking for sample texts for the most complete [kerning](https://en.wikipedia.org/wiki/Kerning) necessary. This list will help you assess which kerning pairs you should look at and where to stop. It takes into account the [Unicode blocks](https://en.wikipedia.org/wiki/Latin_script_in_Unicode) from *Basic Latin* to *Latin Extended A* (plus all kinds of quotes), 24 languages so far and various typeface styles.
 
-* 🍀✨ [count/total/relevant_kerning.txt](count/total/relevant_kerning.txt) 
+* 🍀✨ [result/relevant_kerning_with_padding.txt](result/relevant_kerning_with_padding.txt)
+* 🍀✨ [result/relevant_kerning_raw.txt](result/relevant_kerning_raw.txt) 
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
@@ -105,19 +106,24 @@ From personal experience of setting cultural science texts most often, I would l
 
 
 ## Notes
+Let's try to avoid over-engineering.
+
 Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by inter-punctuation ones.
 
 <!--![Filtered by page and book](charts/images/05a-pie-chart.png "Filtered by page and book")-->
 [![Filtered kerning pairs](charts/images/05-pie-charts.png "Filtered kerning pairs")](charts/05-pie-charts.html)
 <sup>Screenshot. [Find HTML file here](charts/05-pie-charts.html)</sup>
 
-The Google Fonts kern dump collected 80 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. If you are going to kern every pair of letters anyway, couldn't you do without the spacing? Feels like a dead end, especially because I ended up with 1000 to 2000 relevant kerning pairs only.
+The Google Fonts kern dump collected 80 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. The current system is still based on movable type letterpress printing. Made out of metal or wood the sides of a glyph were made straight to keep them in line/register. In a digital format it might make more sense to describe the sides of a glyph as a more complex shape (by the designer) to allow for an (automatically generated) advanced spacing without any kerning necessary.
 
-Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphs) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? <!-- Frage -->
+<!--Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphsapp) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? --> <!-- Frage -->
 
-This approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
+This project's approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
 
-Let's try to avoid over-engineering.
+
+#### Wishlist
+* Text generation out of words, with each word containing a kerning pair in the language it got its highest count.
+* Grouped kerning pairs in a text file or multiple text files to allow to concentrate on specific kinds of characters at a time. Maybe starting with the absolute must-haves/misfits.
 
 <!--
 ## Code quality

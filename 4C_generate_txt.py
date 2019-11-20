@@ -12,8 +12,12 @@ import json
 
 
 with open("count/fonts/googleFontsKernVectorList.json", "r") as input_json, open(
-    "count/total/relevant_kerning.txt", "w"
-) as output:
+    "result/relevant_kerning_with_padding.txt", "w"
+) as outputPadded, open(
+    "result/relevant_kerning_raw.txt", "w"
+) as outputRaw:
     relevantGlobalKerningPairs = json.load(input_json)
-    kerningTXT = ["nonu" + v[0] + "nuou\n" for v in relevantGlobalKerningPairs]
-    output.writelines(kerningTXT)
+    kerningPadded = ["nonu" + v[0] + "nuou\n" for v in relevantGlobalKerningPairs]
+    kerningList =  [v[0] + " " for v in relevantGlobalKerningPairs]  # better .join() instead?
+    outputPadded.writelines(kerningPadded)
+    outputRaw.writelines(kerningList)

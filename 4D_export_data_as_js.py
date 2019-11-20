@@ -194,6 +194,6 @@ with open("count/fonts/googleFontsKernVectorList.json", "r") as input:
     outputJS += "dataset_kernVector = ['" + "', '".join(map(str, scores)) + "']; \n"
 
 
-with open("charts/datasets/count_comparison.js", "w") as output:
+with open("docs/datasets/count_comparison.js", "w") as output:
     output.write(outputJS)
     # print(keys[:20], totalValues[:20])
