@@ -87,6 +87,7 @@ Uppercase variants of all letter pairs are also taken into account.
 8558 of these kerning pairs occur at least once per book, 5298 at least once in 10 pages, 2542 at least once per page.
 
 [![Potential Kerning Pair Counts by Language](docs/images/02-count-by-language.png "Potential Kerning Pair Counts by Language")](https://andre-fuchs.github.io/kerning-pairs/02-count-by-language.html)
+[…]
 <sup>Excerpt. See full count here: [docs/02-count-by-language.html](https://andre-fuchs.github.io/kerning-pairs/02-count-by-language.html)</sup>
 
 
@@ -98,7 +99,10 @@ All three variables get normalized before adding them to a relevance score, that
 Looking at the resulting chart by frequency values only, it is noticeable that about the first 1000 kerning pairs occur at least once per page; About the first 2000 once in 10 pages; And the total 3736 once in 100 pages. You decide where to stop and how much group based kerning you want to apply.
 
 [![Final Kern Score Charts](docs/images/03-kern-scores.png "Final Kern Score Charts")](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)
-<sup>Excerpt. The small personal whitelist bonus gets noticeable after the upper 500 pairs. [See full chart here](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
+[…]
+[![Final Kern Score Charts](docs/images/03-kern-scores-B.png "Final Kern Score Charts")](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)
+[…]
+<sup>Excerpt. After the upper 400 pairs occurence is not dominating the other summands and the small personal whitelist bonus gets noticeable. [See full chart here](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
 
 
 ## Personal Whitelisting
@@ -123,7 +127,7 @@ This project's approach combines objective factors (occurrence, kerning value) a
 
 #### Wishlist/Upcoming
 * Text generation out of words, with each word containing a kerning pair in the language it got its highest count.
-* Sorting out the essential must-haves/misfits for rough work
+* Sorting out the essential must-haves/misfits for a less intimidating, beginner friendly version
 
 <!--
 ## Code quality
