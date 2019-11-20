@@ -28,8 +28,8 @@ This use count contains a lot of noise caused by subjective decisions and/or gro
 
 ## (2) Potential kerning pairs
 Another approach to determine possible kerning pairs is combinatorial. The form of each letter can be described schematically by simple numerical values. The values on the adjacent sides or two neighboring letters can be summed up to determine whether this is a possible kerning pair. Like everything that is considered here, this also depends on the design of the font. For a grotesque sans serif typeface—as a proof of concept—a resolution of 3 by 5 units was sufficient for each side (-1, 0 or 1 for ascender, x-height, half-x-height, baseline, descender). More complex (serif) typefaces might need a higher resolution. 20554 kerning pairs could be generated this way. Compared to the **11899** most "popular" kerning pairs, **11924** other possible ones could be added to the list. I found this approach to generate way less noise than the popular vote before.
-[![Title](docs/images/shapes.png "Title")](docs/00-letter-shapes.html) 
-<sup>Excerpt. Find full set here: [docs/00-letter-shapes.html](docs/00-letter-shapes.html)</sup>
+[![Title](docs/images/shapes.png "Title")](https://andre-fuchs.github.io/kerning-pairs/00-letter-shapes.html) 
+<sup>Excerpt. Find full set here: [docs/00-letter-shapes.html](https://andre-fuchs.github.io/kerning-pairs/00-letter-shapes.html)</sup>
 
 ## (3) Frequently occurring kerning pairs
 To bring down the runaway number of **23823** pairs to something more manageable let's count how frequent they occur in real-world texts. All texts used as samples were fetched from Wikipedia, mostly within their "Featured Article" category to assure a certain level of quality. In total, the letter pairs of about a 1 GB of text (respectively 2683 [books](Link-to-books-explanation-anchor)) in 24 languages were counted so far. 
