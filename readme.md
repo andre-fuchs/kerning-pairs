@@ -124,7 +124,7 @@ The Google Fonts kern dump collected 80 % of all possible letter pairs to be pot
 
 <!--Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphsapp) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? --> <!-- Frage -->
 
-This project's approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though. 
+This project's approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though and the whitelist bonus is rather small. 
 
 
 #### Wishlist/Upcoming
