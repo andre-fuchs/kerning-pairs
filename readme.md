@@ -130,6 +130,7 @@ This project's approach combines objective factors (occurrence, kerning value) a
 #### Wishlist/Upcoming
 * Text generation out of words, with each word containing a kerning pair in the language it got its highest count.
 * Sorting out the essential must-haves/misfits for a less intimidating, beginner friendly version
+* I might favor HTML tables over these canvas based charts to add more interactive features with DataTables.js
 
 <!--
 ## Code quality
