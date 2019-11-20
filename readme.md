@@ -104,7 +104,7 @@ Looking at the resulting chart by frequency values only, it is noticeable that a
 [![Final Kern Score Charts](docs/images/03-kern-scores-B.png "Final Kern Score Charts")](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)
 
 <sup>[…]
-Excerpt. After the upper 400 pairs occurence is not dominating the other summands and the small personal whitelist bonus gets noticeable. [See full chart here](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
+Excerpt. After the upper 400 pairs occurence is not dominating the other summands and the little personal whitelist bonus gets noticeable. [See full chart here](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
 
 
 ## Personal Whitelisting
