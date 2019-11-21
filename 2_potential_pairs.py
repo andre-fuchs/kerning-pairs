@@ -323,7 +323,8 @@ letters = {
 # Generate SVGs
 for letter, shapes in tqdm(letters.items()):
     dwg = svgwrite.Drawing("docs/shapes/" + str(ord(letter)) + ".svg", size=("16", "16"))
-    dwg.add(dwg.rect((0, 0), (16, 16), fill="#bbbbbb", stroke="#bbbbbb", stroke_width=".2"))
+    # background
+    dwg.add(dwg.rect((2, 0), (12, 16), fill="#bbbbbb", stroke="#bbbbbb", stroke_width=".2"))
     
     for y in [0, 4, 8, 12, 16]:
         # horizontal grid lines
@@ -377,7 +378,7 @@ for letter, shapes in tqdm(letters.items()):
         )
     )
 
-    g = dwg.g(style="font-size: 16; font-family: Helvetica;")
+    g = dwg.g(style="font-size: 16; font-family: Arial, Helvetica, sans-serif;")
     g.add(
         dwg.text(letter, insert=(8, 12), text_anchor="middle")
     )  # settings are valid for all text added to 'g'
