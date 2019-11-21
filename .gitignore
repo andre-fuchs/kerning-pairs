@@ -1,6 +1,7 @@
 fonts/google-webfonts/
 kernDump/
 virtualenv3/
+virtualenv4/
 00_references/
 .vscode/
 charts/images/shapes.svg

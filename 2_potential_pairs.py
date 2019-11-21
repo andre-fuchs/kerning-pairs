@@ -1,3 +1,4 @@
+
 """
 List all possible kerning pairs combinatorial. 
 Specifying possible kerning for each character's shape via numbers.
@@ -90,6 +91,7 @@ letters = {
     "e": ((-1, -1, 1, -1, -1), (-1, -1, 1, -1, -1)),
     "f": ((-1, 1, -1, -1, -1), (1, 1, -1, -1, -1)),
     "g": ((-1, -1, 1, 0, -1), (-1, 0, 0, 0, -1)),
+    "h": ((0, 0, 0, 0, -1), (-1, -1, 0, 0, -1)),
     "i": ((0, 0, 0, 0, -1), (0, 0, 0, 0, -1)),
     "j": ((0, 0, 0, 0, 1), (0, 0, 0, 0, -1)),
     "k": ((0, 0, 0, 0, -1), (-1, 0, -1, 0, -1)),
@@ -321,37 +323,63 @@ letters = {
 # Generate SVGs
 for letter, shapes in tqdm(letters.items()):
     dwg = svgwrite.Drawing("docs/shapes/" + str(ord(letter)) + ".svg", size=("16", "16"))
+    dwg.add(dwg.rect((0, 0), (16, 16), fill="#bbbbbb", stroke="#bbbbbb", stroke_width=".2"))
+    
     for y in [0, 4, 8, 12, 16]:
-        dwg.add(dwg.line((0, y), (16, y), stroke="gray", stroke_width=".2"))
+        # horizontal grid lines
+        dwg.add(dwg.line((0, y), (16, y), stroke="#dddddd", stroke_width=".2"))
 
+    # left side shape
     dwg.add(
         dwg.polygon(
             zip(
                 tuple(map(lambda x: x * -2 + 2, shapes[0])) + (2, 2),
                 (0, 4, 8, 12, 16) + (16, 0),
             ),
+            stroke="#dddddd",
+            fill="#dddddd",
+            stroke_width=".2",
+        )
+    )
+    dwg.add(
+        dwg.polyline(
+            zip(
+                tuple(map(lambda x: x * -2 + 2, shapes[0])),
+                (0, 4, 8, 12, 16),
+            ),
             stroke="red",
-            fill="red",
+            fill="none",
             stroke_width=".2",
         )
     )
 
+    # right side shape
     dwg.add(
         dwg.polygon(
             zip(
                 tuple(map(lambda x: x * 2 + 14, shapes[1])) + (14, 14),
                 (0, 4, 8, 12, 16) + (16, 0),
             ),
-            stroke="red",
-            fill="red",
+            stroke="#dddddd",
+            fill="#dddddd",
             stroke_width=".2",
         )
     )
-    # dwg.add(dwg.text(letter, insert=(8, 8), fill='red'))
+    dwg.add(
+        dwg.polyline(
+            zip(
+                tuple(map(lambda x: x * 2 + 14, shapes[1])),
+                (0, 4, 8, 12, 16),
+            ),
+            stroke="blue",
+            fill="none",
+            stroke_width=".2",
+        )
+    )
 
     g = dwg.g(style="font-size: 16; font-family: Helvetica;")
     g.add(
-        dwg.text(letter, insert=(4, 12))
+        dwg.text(letter, insert=(8, 12), text_anchor="middle")
     )  # settings are valid for all text added to 'g'
     dwg.add(g)
 
