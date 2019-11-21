@@ -4,5 +4,6 @@ virtualenv3/
 00_references/
 .vscode/
 charts/images/shapes.svg
+charts/images/shapes.ai
 .DS_Store
 __pycache__/
