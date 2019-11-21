@@ -32,7 +32,7 @@ Another approach to determine possible kerning pairs is combinatorial. The form 
 <sup>Excerpt. Find full set here: [docs/00-letter-shapes.html](https://andre-fuchs.github.io/kerning-pairs/00-letter-shapes.html)</sup>
 
 ## (3) Frequently occurring kerning pairs
-To bring down the runaway number of **23823** pairs to something more manageable let's count how frequent they occur in real-world texts. All texts used as samples were fetched from Wikipedia, mostly within their "Featured Article" category to assure a certain level of quality. In total, the letter pairs of about a 1 GB of text (respectively 2683 [books](Link-to-books-explanation-anchor)) in 24 languages were counted so far. Unfortunately GitHub truncates directories to 1000 files, so I cannot share the full package here.
+To bring down the runaway number of **23823** pairs to something more manageable let's count how frequent they occur in real-world texts. All samples were fetched from Wikipedia, mostly within their "Featured Article" category to assure a certain level of quality. In total, the letter pairs of about a 1 GB of text (respectively 2683 [books](Link-to-books-explanation-anchor)) in 24 languages were counted so far. Unfortunately GitHub truncates directories to 1000 files, so I cannot share the full package here.
 
 
 | Language   | Code | Total Count* | … in books | Letter Pairs* | Common Kerning Pairs | … in % |     
