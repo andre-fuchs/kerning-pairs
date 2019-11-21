@@ -93,7 +93,7 @@ Juxtaposition of kerning value (size of left bar), popularity (color intensity o
 
 
 ## (4) Relevant kerning pairs
-From the previous statistics and I conclude that the relevance of a potential kerning pair should be judged by occurrence, popularity and kerning value itself. 
+From the previous statistics I conclude that the relevance of a potential kerning pair should be judged by occurrence, popularity and kerning value itself. 
 
 All three variables get normalized before adding them to a relevance score, that I call ***Kern Score***. This means that the values of each variable is scaled to the corresponding total average value of 1. And a *Kern Score* of *3* could mean the sum of just average occurrence + average popularity + average kerning value (1 + 1 + 1). It could also mean an extremely rare pair, which requires a very strong kerning and is considered by many typographers for some reason (0.00001 + 1.499999 + 1.5). Both are equally ranked in the charts.
 
@@ -124,7 +124,7 @@ The Google Fonts kern dump collected 80 % of all possible letter pairs to be pot
 
 <!--Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphsapp) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? --> <!-- Frage -->
 
-This project's approach combines objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though and the whitelist bonus is rather small. 
+This project's approach combines more objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though and the whitelist bonus is rather small.
 
 
 #### Wishlist/Upcoming
