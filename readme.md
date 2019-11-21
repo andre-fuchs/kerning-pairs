@@ -104,7 +104,7 @@ Looking at the resulting chart by frequency values only, it is noticeable that a
 [![Final Kern Score Charts](docs/images/03-kern-scores-B.png "Final Kern Score Charts")](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)
 
 <sup>[…]
-Excerpt. After the upper 400 pairs occurence is not dominating the other summands and the little personal whitelist bonus gets noticeable. [See full chart here](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
+Excerpt. After the upper 400 pairs occurence is not dominating the other summands and the little personal whitelist bonus gets noticeable. See full chart here: [docs/03-kern-scores.html](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
 
 
 ## Personal Whitelisting
@@ -118,7 +118,7 @@ Besides the many unknown kerning pairs added by foreign languages, I am surprise
 
 <!--![Filtered by page and book](docs/images/05a-pie-chart.png "Filtered by page and book")-->
 [![Filtered kerning pairs](docs/images/05-pie-charts.png "Filtered kerning pairs")](https://andre-fuchs.github.io/kerning-pairs/05-pie-charts.html)
-<sup>Screenshot. [Find HTML file here](https://andre-fuchs.github.io/kerning-pairs/05-pie-charts.html)</sup>
+<sup>Screenshot of [docs/05-pie-charts.html](https://andre-fuchs.github.io/kerning-pairs/05-pie-charts.html)</sup>
 
 The Google Fonts kern dump collected 80 % of all possible letter pairs to be potentially relevant for kerning! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. The current system is still based on movable type letterpress printing. Made out of metal or wood the sides of a glyph were made straight to keep them in line/register. In a digital format it might make more sense **to describe the sides of a glyph as a more complex shape** (by the designer) to allow for an (automatically generated) **advanced spacing without any kerning necessary**.
 
