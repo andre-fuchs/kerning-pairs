@@ -122,7 +122,7 @@ Besides the many unknown kerning pairs added by foreign languages, I am surprise
 
 The Google Fonts kern dump collected 80 % of all possible letter pairs to be potentially kerned! This rather overwhelming number allows the question of whether spacing a font can be solved in a fundamentally different way. The current system is still based on movable type letterpress printing. Made out of metal or wood the sides of a glyph were made straight to keep them in line/register. In a digital format it might make more sense **to describe the sides of a glyph as a more complex shape** (by the designer) to allow for an (automatically generated) **advanced spacing without any kerning necessary**.
 
-<!--Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphsapp) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? --> <!-- Frage -->
+<!--Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphsapp) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? -->
 
 This project's approach combines more objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though and the whitelist bonus is rather small.
 
