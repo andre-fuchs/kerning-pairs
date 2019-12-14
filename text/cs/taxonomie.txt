@@ -1,6 +1,0 @@
-Taxonomie (biologie) — věda, která se zabývá teorií a praxí klasifikace organismů
-Flynnova taxonomie — klasifikace metody paralelismu na úrovni provádění instrukcí
-Systém pro správu obsahu — klasifikace informací v informatice resp. v matematické informatice
-Bloomova taxonomie — hodnocení rozdílných cílů a dovedností, které nastavili učitelé pro studenty
-Kategorizace — postup, při kterém jsou myšlenky a předměty rozeznávané a rozlišované
-Ontologie (informatika) — výslovný (explicitní) a formalizovaný popis určité problematiky

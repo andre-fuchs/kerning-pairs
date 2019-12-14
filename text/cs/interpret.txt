@@ -1,2 +1,0 @@
-interpret (hudba) – v hudbě jde o člověka provozujícího hudbu, kterou složil jiný člověk
-interpret (software) – v informatice jde o software, který slouží jisté formě virtualizace

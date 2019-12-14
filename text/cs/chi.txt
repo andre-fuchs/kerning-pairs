@@ -1,3 +1,0 @@
-Chí (majuskulní podoba Χ, minuskulní podoba χ, řecký název Χῖ) je dvaadvacáté písmeno řecké abecedy a v řecké číselné soustavě má hodnotu 600.
-V HTML je možné je zapsat pomocí &#935; respektive &#967;. Lze je také zapsat pomocí HTML entit
-V LaTeXu se pro majuskulní chí používá X z latinky a minuskulní chí se píše příkazem \chi.

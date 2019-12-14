@@ -1,6 +1,0 @@
-In logica matematica, per ogni linguaggio formale con un insieme di termini dall'universo di Herbrand, la base di Herbrand definisce ricorsivamente l'insieme di tutte le formule atomiche che possono essere composte formando predicati dai termini dell'universo di Herbrand. Una base di Herbrand di un linguaggio del primo ordine 
-La base di Herband è un insieme numerabile, i cui elementi possono essere ordinati. Per esempio, possono essere disposti in una successione ordinata 
-  , un termine di Herbrand è un termine base (ground term, ovvero un termine che non contiene variabili)
-   non contiene quantificatori), il sistema di Herbrand è l'insieme (anche infinito) di formule chiuse generato per sostituzione 
-    {\displaystyle H(\forall xP(x)\in Q(x)))=\{P(f(a))\in Q(f(a)),P(g(a,b))\in Q(g(a,b)),...\}\,\!}
-    {\displaystyle H(\forall x\forall yR(x,y))=\{R(f(a),f(a)),R(g(a,b),f(a)),R(f(a),g(a,b)),...\}\,\!}

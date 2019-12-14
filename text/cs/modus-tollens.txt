@@ -1,3 +1,0 @@
-Ve výrokové logice Modus tollens, také Modus tollendo tollens či popírání důsledku je pravidlo usuzování, jehož forma je následující:
-Není pravda, že pojedu autem a zároveň autobusem. Pojedu autem. Z toho vyplývá, že nepojedu autobusem.Není možné, aby vyhráli červení i modří. Vyhráli červení. Z toho vyplývá že modří nevyhráli.Nelze aby pršelo a nepršelo zároveň. Prší. Neplatí tedy že neprší.
-V tomto článku byly použity překlady textů z článků Modus tollens na anglické Wikipedii a Modus ponendo tollens na anglické Wikipedii.

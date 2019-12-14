@@ -1,4 +1,0 @@
-Primární transkript (též hnRNA – heterogenní nukleární RNA, prekurzorová RNA či také pre-RNA) je označení pro RNA bezprostředně po jejím vzniku. RNA vzniká v buňce transkripcí a velmi brzy prochází jistými posttranskripčními úpravami, jako je přidání poly(A) konce a čepičky nebo splicing. Předtím, než jmenovanými úpravami projde, se právě označuje jako primární transkript.
-Mezi primární transkripty patří například pre-mRNA (z níž posttranskripční modifikací vznikne mRNA), pri-miRNA (z níž vznikne úpravou miRNA) či pre-rRNA.
-ROBERT C. KING; WILLIAM D. STANSFIELD; PAMELA K. MULLIGAN. A Dictionary of Genetics, Seventh Edition. [s.l.]: Oxford University Press, 2006. 
-RÉDEI, George P. Encyclopedia of Genetics, Genomics, Proteomics, and Informatics. 3rd Edition. vyd. [s.l.]: Springer, 2008. ISBN 978-1-4020-6753-2.

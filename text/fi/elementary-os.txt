@@ -1,1 +1,0 @@
-Elementary OS on Ubuntun LTS:ään (pitkäaikaisen tuen julkaisu, engl. Long Term Support) pohjautuva Linux-jakelupaketti, joka sisältää Pantheon-nimisen käyttäjäystävällisen työpöytäympäristön. Pantheon on kirjoitettu Vala-ohjelmointikielellä ja GTK+ 3 -toolkitillä.

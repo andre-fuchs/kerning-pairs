@@ -1,5 +1,0 @@
-Reaktsioonivõime ehk reageerimisvõime ehk keemiline reaktiivsus on keemias tihti kasutatav üldmõiste, mis iseloomustab keemilise aine võimet osaleda keemilistes reaktsioonides: kas aine reageerib või mitte ja kui kiiresti reageerib. 
-Mingi aine reaktsioonivõime ei ole alati üheselt määratletav erinevate tingimuste ja erinevate protsesside jaoks, kuna see sõltub mitmesugustest teguritest. Rääkides reaktsioonivõimest peetakse reeglina silmas mingit kindlat tüüpi protsesse ja tingimusi või räägitakse erinevate ainete suhtelisest reaktsioonivõimest või selle muutusest tingimuste muutumisel. 
-Aine reaktsioonivõime on seotud nii protsessi kineetiliste kui ka termodünaamiliste parameetritega: kvantitatiivseks näitajaks on reaktsiooni kiiruskonstandi väärtus ja pöörduvate reaktsioonide korral on selleks tasakaalukonstandi väärtus.
-Keemiliste ainete reaktsioonivõime tähenduses on kasutatud ka mõistet „aktiivsus”, ehkki see termin tähendab lahustatud aine efektiivset kontsentratsiooni. 
-Tänapäeval võimaldavad arvutid leida kvantitatiivseid struktuur-aktiivsus/omadus sõltuvusi (QSAR või QSPR mudelid), mis seovad aine omaduse ja keemilise struktuuri.

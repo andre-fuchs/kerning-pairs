@@ -1,4 +1,0 @@
-Pascal (značka Pa) je jednotka tlaku. Udává, jak velká síla (v newtonech) působí na jednotkovou plochu (1 m²), tzn. je ekvivalentní N/m².
-Jednotka byla pojmenována po francouzském matematikovi a fyzikovi Blaise Pascalovi (1623–1662).
-Megapascal (MPa) odpovídá síle jednoho newtonu působící na plochu jednoho čtverečního milimetru (1 N/mm² = 1 MPa). Proto je běžný ve strojírenství, kde je milimetr běžně používanou jednotkou délky (v zemích používajících soustavu SI). Megapascal je ve strojírenství používán nejen jako jednotka tlaku (např. stlačeného plynu apod.), ale též jako jednotka napětí pro kontinuum vystavené působení vnější síly.
-    {\displaystyle {\rm {Pa={\frac {N}{m^{2}}}={\frac {kg\cdot m}{m^{2}\cdot s^{2}}}={\frac {kg}{m\cdot s^{2}}}}}}

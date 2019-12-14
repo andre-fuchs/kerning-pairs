@@ -1,7 +1,0 @@
-Joule (v češtině nejčastěji [džaul] či [džoul]) je jednotka práce a energie, jeho značka je J. V soustavě SI patří joule mezi odvozené jednotky, ze základních jednotek SI je odvozen vztahem:
-1 Joule je definován jako práce, kterou koná síla 1 N působící po dráze 1 m ve směru pohybu.
-Jednotka joule byla pojmenována na počest anglického fyzika Jamese P. Joulea. K zapamatování základních jednotek, ze kterých je složena, lze využít rovnici E = mc² (E je energie v joulech, m hmotnost v kilogramech, c rychlost světla v metrech za sekundu).
-Protože jednotka 1 joule je relativně malá, používají se v praxi její násobky (kilojoule, megajoule, gigajoule, terajoule), případně se používají jednotky odvozené z jednotky výkonu (1 Watt) – například kilowatthodina (kWh). Samotné jednotce joule je pak ekvivalentní wattsekunda.
-1 kWh = 3 600 000 J = 3,6 MJ = 1,343 PS (hodin koňské síly)Starší jednotky energie jsou kalorie (značka cal) a erg. Pro malé energie na atomární úrovni se používá též jednotka elektronvolt (značka eV).
-1 kcal = 1000 cal = 4187 J (energie nutná za standardních podmínek k ohřátí 1 kg vody o 1 °C)
-1 eV = 1,602×10−19 JV souvislosti se spotřebou energie se občas vyskytuje i jednotka zvaná ekvivalent tuny ropy (Ton of Oil Equivalent – TOE nebo toe). Odpovídá energii získané z jedné tuny ropy. Řidčeji se objevují jednotky jako ekvivalent barelu ropy (Barrel of oil equivalent – BOE). Další zavedené jednotky jsou BTU (British Thermal Unit – britská tepelná jednotka), therm a tTNT (tuna trinitrotoluenu).

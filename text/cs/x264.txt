@@ -1,3 +1,0 @@
-x264 je svobodná knihovna pro kódování videa podle patentově zatíženého standardu H.264/MPEG-4 AVC. Knihovna je uvolněná pod licencí GPL a je vyvíjená v rámci projektu VideoLAN.
-x264 byl původně vyvíjen Laurentem Aimarem, ale poté, co byl v roce 2004 zaměstnán společností ATEME, vývoj ukončil. Vývoj poté převzal Loren Merritt. Dnes je x264 vyvíjen především Lorenem Merrittem, Jasonem Garrettem-Glaserem, Stevenem Waltersem, Antonem Mitrofanovem, Henrikem Gramnerem a Danielem Kangem.
-Projekt obsahuje jak rozhraní pro příkazovou řádku, tak API. Program pro příkazovou řádku je užíván mnoha grafickými uživatelskými prostředími, například Staxrip nebo MeGUI. Další, jako třeba HandBrake nebo FFmpeg, používají jeho API.

@@ -1,5 +1,0 @@
-Posun je jeden z režimů jízdy železničních vozidel, kdy – na rozdíl od vlaku – není jízda řízena jízdním řádem, ale osobou způsobilou k řízení posunu (výpravčí, posunovač, strojvedoucí, vlakvedoucí atd.). Posunový díl obvykle neopustí obvod dopravny, ve které se posun provádí.
-V českých dopravních předpisech je definován též posun mezi dopravnami (PMD), kdy posunový díl vjede na trať. Musí jej sjednat výpravčí sousedních dopraven, protože musí být zajištěna volnost trati podobně jako v případě jízdy vlaku.
-rychlost 40 km/h, jsou-li vozidla tažena, nebo jedná-li se o jízdu samostatného hnacího vozidla
-rychlost 30 km/h, jsou-li vozidla sunutaPři najíždění na vozidla (např. za účelem svěšení) nesmí být překročena rychlost 5 km/h
-SŽDC D1 - Dopravní a návěstní předpis. Praha: Správa železniční dopravní cesty, 2013.

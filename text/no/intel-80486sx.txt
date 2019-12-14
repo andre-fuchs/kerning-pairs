@@ -1,2 +1,0 @@
-Intel 80486SX² er en fjerde generasjon 32-biter x86 mikroprosessor som er utviklet av Intel Corporation. Mikroprosessoren ble lansert i september 1991.
-Mikroprosessoren var en modifisert utgave av Intel 80486DX med flytetallsenheten inaktivert. Den var ment som en lavkost mikroprosessor.

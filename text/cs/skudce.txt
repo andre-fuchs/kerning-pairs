@@ -1,5 +1,0 @@
-Škůdce je živočich, který jakýmkoliv způsobem vadí člověku v jeho činnosti. Např. přenašeči nemocí, zemědělští škůdci (škodliví plži), atd.
-Věda zabývající se přemnožováním (gradacemi) škůdců (např. lesních nebo zemědělských) se nazývá gradologie.
-Tzv. life tables (úmrtnostní tabulky), tj. demografické analýzy populací (například hmyzu), poskytují užitečný nástroj zejména v predikci vývoje populací škůdců, jejich přirozených nepřátel či ohrožených druhů hmyzu. Tento přístup je dále využitelný při odhadu a modelování vlivu populace predátora na populaci škůdce, a tedy v biologické kontrole.
-poskytuje vědecky podložené hodnocení pro rozhodnutí o přijetí fytosanitárních opatření, tj. úředních opatření proti zavlékání a šíření škodlivých organismů rostlin
-pravděpodobnost zavlečení, usídlení a dalšího šíření a rozsah potenciálních dopadů

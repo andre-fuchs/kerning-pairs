@@ -1,4 +1,0 @@
-IMAP (lyhenne sanoista Internet Message Access Protocol) on sähköpostien lukemiseen tarkoitettu protokolla. IMAP säilyttää viestit palvelimella ja tukee palvelimella olevia hakemistoja, eli viestit voidaan järjestellä eri hakemistoihin. IMAP:n avulla palvelimella oleviin sähköpostiviesteihin voidaan päästä käsiksi useilta eri koneilta, kunhan vain käytetty sähköpostiohjelma tukee sitä. IMAP-protokolla ei kuitenkaan tue kalenterin synkronointia eri laitteiden välillä, toisin kuin esimerkiksi Exchange-protokolla.
-IMAP-protokollan loi Mark Crispin vuonna 1986 vaihtoehdoksi POP-protokollalle. IMAP:sta on myös mobiililaitteille tarkoitettu versio, Push-IMAP.
-IMAP:in huonoja puolia ovat esimerkiksi se, että se aiheuttaa palvelimelle enemmän kuormitusta kuin POP, ja vaatii palvelimelta enemmän levytilaa.
-RFC 3501 - Internet message access protocol - version 4rev1Tällä hetkellä käytössä oleva IMAP protokolla on versio 4 eli IMAP4.

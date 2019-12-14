@@ -1,3 +1,0 @@
-A patogenezis (pathos=fájdalom, genesis=fejlődés) olyan mechanizmus, melynek során egy etiológiai tényező betegséget okoz. A patogenezis a betegségek lefolyását, változásait, a gyógyulás folyamatát írja le.
-Nekrózis (necrosis), vagy szöveti bomlásA legtöbb betegségben egy időben több patomechanizmus is zajlik. Például bizonyos tumor fajta az immunrendszer hibájából fakad, de ehhez egyéb defektusok is társulhatnak. Így egy betegség okait és a lefolyásának idejét, formáját nehéz leírni, hiszen szinte minden esetben több tényező is szerepet játszik benne. Ezek lehetnek szerzett hibák, genetikai defektusok, fertőzések.
-A pathologia alapjai (Kumar, Cotran, Robbins, 1992, Semmelweis Kiadó, ISBN 9638154233)

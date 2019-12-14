@@ -1,1 +1,0 @@
-LIRC, en forkortelse for Linux Infrared remote control, er en fri og åpen programvare som gjør brukere istand til å motta og sende infrarøde signaler ved hjelp av fjernkontrollere i et Linux-basert datasystem. LIRC ble integrert i Linuxkjernen i versjon 2.6.35 den 1. august 2010.

@@ -1,2 +1,0 @@
-    {\displaystyle \sin \varphi ={\frac {\sigma _{z}-\sigma _{x}}{\sigma _{z}+\sigma _{x}-2c\,\mathrm {cotg} \,\varphi }}}
-    {\displaystyle \sin \varphi ={\frac {\sigma _{x}-\sigma _{z}}{\sigma _{z}+\sigma _{x}+2c\mathrm {cotg} \varphi }}}

@@ -1,7 +1,0 @@
-Stabiilseid isotoope on kaks, massiarvud 3 ja 4. Radioaktiivsetest isotoopidest stabiilseima massiarv on 6 ja poolestusaeg 0,8 sekundit.
-Heelium-4 on oma tuuma stabiilsuse tõttu valdav heeliumi isotoop looduses. Universumis, peajada tähtedes ja hiidplaneetides on see prootiumi (vesinik-1) järel levikult teine kõigi keemiliste elementide isotoopidest.
-Et He aatomite vahelised tõmbejõud on äärmiselt nõrgad, on He keemistemperatuur kõigi elementide seas madalaim.
-Isotoopidevahelised erinevused füüsikalistes omadustes tugevamad kui ühelgi teisel elemendil.
-Heelium-4 keeb normaalrõhul temperatuuril 4,2 kelvinit, heelium-3 aga temperatuuril 3,2 kelvinit, olles kõigist ainetest madalaima keemistemperatuuriga. Normaalrõhul ei tahku ei heelium-3 ega heelium-4. Nad on ainsad ained, mis absoluutsel nulltemperatuuril ei ole normaalrõhul tahked. Tahke heelium tekib suurema rõhu all.
-Nii heelium-3 kui ka heelium-4 muutuvad keemistemperatuurist madalamal temperatuuril ülivoolavaks. Absoluutse nulltemperatuuri lähedastel temperatuuridel nad ei segune: heelium-3 lahustub heeliumis-4 piiratud ulatuses, heelium-4 heeliumis-3 aga üldse mitte.
-Heelium avastati spektroskoobi abil kõigepealt Päikesel. Avastajaks oli prantsuse astronoom Pierre Jules Janssen. Avastus toimus 18. augustil 1868. Sama aasta 20. oktoobril avastas heeliumi Janssenist sõltumata ka inglise astronoom Norman Lockyer. Alles 28 aastat hiljem õnnestus see element ka Maal avastada.

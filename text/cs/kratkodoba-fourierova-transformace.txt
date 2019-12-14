@@ -1,4 +1,0 @@
-Jako krátkodobá Fourierova transformace (short-time Fourier transform, STFT) se označuje Fourierova transformace aplikovaná na analyzovanou funkci postupně po krátkých úsecích, které vybírá pomocí reálného symetrického okna. Tím řeší problém souběžného určení času i frekvence, na kterých je rozmístěna energie signálu (funkce). Tato transformace tedy provádí časově-frekvenční analýzu.
-STFT analyzuje signál po krátkých úsecích, které vybírá pomocí jeho součinu s reálným symetrickým oknem 
-    {\displaystyle \operatorname {S} \,f(u,\omega )=\langle f,g_{u,\omega }\rangle =\int _{-\infty }^{+\infty }\!f(t)\,g(t-u)\,e^{-i\omega t}\,\mathrm {d} t}
-  .Z definice je zřejmé, že změna rozlišení ve frekvencích vyžaduje přepočítání celé transformace s jinou velikostí okna. Tento problém se snaží odstranit vlnková transformace.

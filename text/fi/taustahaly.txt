@@ -1,2 +1,0 @@
-Taustahäly on signaalin ohessa välittyviä kohteeseen kuulumattomia ääniä. Äänityksissä taustahäly on taustakohinaa. Taustahälyn suhdetta signaaliin sanotaan signaali-kohina -suhteeksi (s/n-ratio).
-Taustahälyä on esimerkiksi tehtaan koneiden äänet. Taustahälyä on ihmisjoukon puheensorina, joka vaikeuttaa toisen henkilön puheen kuuntelemista.

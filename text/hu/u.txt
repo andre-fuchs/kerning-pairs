@@ -1,1 +1,0 @@
-A latin ábécé 21., a magyar ábécé 35. betűje. Számítógépes használatban az ASCII kódjai: nagybetű – 85, kisbetű – 117.

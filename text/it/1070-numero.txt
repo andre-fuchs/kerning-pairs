@@ -1,2 +1,0 @@
-È un numero composto da 8 divisori: 1, 2, 5, 10, 107, 214, 535, 1070. Poiché la somma dei suoi divisori (escluso il numero stesso) è 874 < 1070, è un numero difettivo.
-È parte delle terne pitagoriche (642, 856, 1070), (1070, 2568, 2782), (1070, 11424, 11474), (1070, 57240, 57250), (1070, 286224, 286226).

@@ -1,5 +1,0 @@
-FCKeditor je open source WYSIWYG textový editor, který lze použít na webových stránkách. Zaměřuje se na nízkou náročnost a okamžitou použitelnost (nemusí se instalovat). 
-Jádro je napsané v JavaScriptu, na straně serveru pak může být rozhraní Active-FoxPro, ASP, ASP.NET, ColdFusion, Java, JavaScript, Lasso, Perl, PHP a Python. 
-FCK v názvu značí Frederico Caldeira Knabben, původního programátora a tvůrce projektu Benevolent Dictator for Life.
-FCKeditor je kompatibilní s velkou většinou webových prohlížečů jako: Windows Internet Explorer 5.5+ (Windows), Firefox 1.0+, Safari 3.0+, Opera 9.50+, Mozilla 1.3+ a Netscape 7+.
-Stránka projektu na SourceForge.netV tomto článku byl použit překlad textu z článku FCKeditor na anglické Wikipedii.

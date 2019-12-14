@@ -1,4 +1,0 @@
-A HATNet, azaz Hungarian Automated Telescope Network (Magyar Automatikus Távcsőhálózat) kis, 11 cm átmérőjű csillagászati távcsövekből álló hálózat, mellyel eredetileg fényes változócsillagok automatikus fényességmérését tervezték végezni. A távcsövek eddigi legfontosabb eredménye negyvenegy exobolygórendszer felfedezése volt. Létrehozója Bakos Gáspár, mellette számos magyar csillagász is dolgozik a programban.
-Fred Lawrence Whipple Obszervatóriumban (FLWO, Arizona), négy távcső (HAT-1, HAT-5, HAT-6, HAT-7)
-AusztráliaKét, a program keretében épült távcsövet (HAT-3, HAT-4) dél-koreai csillagászok vásároltak meg, későbbi sorsuk nem ismeretes.
-Bakos, Gáspár: Ötölés HAT-elés, 2008. augusztus 1. (Hozzáférés: 2008. október 7.)

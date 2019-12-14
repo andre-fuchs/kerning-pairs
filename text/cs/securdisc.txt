@@ -1,6 +1,0 @@
-SecurDisc je technologie pro ochranu dat na optických médiích CD/DVD, případně na Blu-ray nebo HD-DVD. Jedná se o společný výtvor firem LG Electronics a Nero. SecurDisc byl oficiálně představen v březnu 2007.
-SecurDisc kombinuje použití hardwaru a softwaru pro zajištění ochrany, kontroly dat nebo ověření původu dat pomocí elektronického podpisu.
-Kontrola úplnosti dat – Detekuje pozměněná data prostřednictvím kontrolního součtu (tzv. checksum).
-Spolehlivost dat – Zajišťuje zvýšení spolehlivost uložení dat prostřednictvím redundantního ukládání a systému správy vadných dat (defective zone).
-Ochrana proti kopírování vyžaduje hardwarovou podporu mechaniky, kterou v současné době nabízejí pouze některé mechaniky od LG (podporu nelze přidat do starších modelů pouhou úpravou firmware). Vyžaduje také speciální PDF prohlížeč.
-Média chráněná pomocí SecurDisc zatím umí zapisovat pouze Nero Express (od verze 7.4.909.0). Pro čtení těchto médií je zapotřebí Nero InCD Reader verze 5.5.1.17 nebo vyšší.

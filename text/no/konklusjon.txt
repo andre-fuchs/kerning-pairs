@@ -1,7 +1,0 @@
-En konklusjon er en slutning tatt på grunnlag av en rekke premisser overveielser, observasjoner eller undersøkelser. Det er et viktig begrep innenfor feltene vitenskap, logikk og filosofi.
-Innen logikken er konklusjonen den slutningen som følger basert på to eller flere premisser i en deduksjon. Konklusjonen kan være gyldig (sann) eller ugyldig (usann):
-En gyldig deduktiv slutning med gale premisser, eller brudd på logikkens lover gir en usann, eller ugyldig, konklusjon:
-Føllesdal, Dagfinn (1932-) (2000). Argumentasjonsteori, språk og vitenskapsfilosofi. Oslo: Universitetsforl. ISBN 8200129942. 
-Baune, Øyvind (1939-) (1993). Språk, logikk og argumentasjonsteori. Oslo: [Ø. Baune]. ISBN 8290905092. 
-Gullvåg, Ingemund (1987). Rasjonalitet, forståelse og forklaring: innføring i argumentasjonsteori, logikk og vitenskapsfilosofi. [Trondheim]: Tapir. ISBN 8251908086. 
-Bjørdal, Frode (1996). Kritisk tenkning: en analytisk innføring i språk, logikk og argumentasjon. [Oslo]: Cappelen akademisk forl. ISBN 8245600504. 

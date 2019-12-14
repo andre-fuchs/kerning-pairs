@@ -1,4 +1,0 @@
-Sipërfaqja është vend gjeometrik i tri ose më shumë pikave në hapësirë dhe zakonisht shënohet me S.
-Për kuptimin e Sipërfaqes është mirë që të kihet parasysh përkufizimi i pikës në hapësirë D={{
-   marrim bashkësinë e pikave në hapësirë që në matematikë formulohet si bashkësia: S= {
-   quhet barazia e sipërfaqes S. Çka d.m.th shprehja gjeometrike e ekuacionit me tri të panjohura është Sipërfaqja S, e cila, në të vërtetë, është një vend gjeometrik i pikave në hapësirë.

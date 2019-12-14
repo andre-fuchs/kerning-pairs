@@ -1,3 +1,0 @@
-Inspraakorgaan Chinezen, een belangenvereniging voor de Chinese bevolkingsgroep in Nederland.
-International Ornithological Congress, een serie congressen van vogeldeskundigen.
-Inversion of Control (of dependency injection), een programmeertechniek om objecten onwetend te laten over de herkomst van andere objecten. Objecten die nodig zijn worden aangeleverd door een externe entiteit (container).

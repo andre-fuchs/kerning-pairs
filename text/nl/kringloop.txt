@@ -1,4 +1,0 @@
-Een kringloop of cyclus is een proces waarbij een aantal stadia elkaar opvolgt, maar uiteindelijk de uitgangstoestand weer wordt bereikt. Schematisch kan een kringloop daarom worden weergegeven door de stadia in een cirkel te tekenen. 
-de toestanden van de viertaktmotor of tweetaktmotor in de techniek (zie ook Carnotproces)
-bij hergebruik van materialen en goederen via kringloopwinkels, kringloopbedrijven en/of kringloopstations
-de biochemische en ecologische kringloop van stoffen in de ecologie: koolstofkringloop, stikstofkringloop, waterkringloop en zuurstof

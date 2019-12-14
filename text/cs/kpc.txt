@@ -1,7 +1,0 @@
-Parsek, také parsec (značka jednotky pc) je jednotka vzdálenosti, používaná hlavně v odborné literatuře v astronomii. Jeden parsek je vzdálenost, z níž má 1 astronomická jednotka (1 AU) úhlový rozměr jedné vteřiny, tedy 1 pc = 1 AU / tg 1″ ≈ 206 265 AU ≈ 3,262 ly ≈ 3,086×1016 m.
-Vzdálenost d, vyjádřená v parsecích, je převrácenou hodnotou poloviny půlroční paralaxy p, vyjádřené v obloukových vteřinách:
-d = 2/p, pro čas půl roku při kolmém pohledu (2 AU), při uplatnění pravidla pro malé úhly: a = tg a.Jednotka se však uvažuje okamžitě, bez nutnosti čekání při praktickém měření, protože pak už by se uplatnila i sekulární paralaxa, tedy pohyb soustav uvnitř galaxie.
-V praxi se pro vyjadřování větších vzdáleností běžně používají násobky této jednotky, a to
-megaparsek (značka Mpc, 1 Mpc = 106 pc), který je nejběžnější délkovou jednotkou v extragalaktické astronomii.
-První stanovení vzdáleností hvězd na základě měření jejich roční paralaxy (hvězda 61 Cyg v souhvězdí Labutě) uskutečnil v roce 1838 německý astronom Friedrich Wilhelm Bessel. Návrh pojmenovat tuto jednotku, v té době již běžně používanou jako jednotka vzdálenosti v astronomii astron publikoval v odborné literatuře Frank Watson Dyson v roce 1913. Jiný astronom, Carl Charlier, navrhl název siriometer, ale nakonec se ujal návrh parsec, který podal Herbert Hall Turner.
-Název této jednotky vznikl spojením prvních slabik ze slov paralaxa a sekunda, respektive v angličtině z parallax a second.

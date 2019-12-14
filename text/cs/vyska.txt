@@ -1,3 +1,0 @@
-Výška označuje obvykle vertikální vzdálenost dvou bodů. Výška označuje vzdálenost nad určitou úrovní (vzhůru). Vzdálenost pod danou úrovní (dolů) bývá označována jako hloubka.
-Výška označuje vertikální vzdálenost (obvykle směrem vzhůru). Společně s délkou a šířkou slouží k určení rozměrů v trojrozměrném prostoru. Fyzikální veličina, která slouží k určení výšky, se označuje jako délka.
-Výška (astronomie) – výška nebeského objektu nad horizontem, obvykle měřená v úhlových stupních.

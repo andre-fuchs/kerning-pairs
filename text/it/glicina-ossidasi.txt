@@ -1,4 +1,0 @@
-La glicina ossidasi è un enzima appartenente alla classe delle ossidoreduttasi, che catalizza le seguenti reazioni:
-N-etilglicina + H2O + O2 ⇄ gliossilato + etilammina + H2O2Si tratta di una flavoproteina contenente FAD legato non covalentemente. L'enzima di Bacillus subtilis è attivo nei confronti di glicina, sarcosina, N-etilglicina, D-alanina, D-α-amminobutirrato, D-prolina, D-pipecolato ed N-metil-D-alanina. Si tratta di un enzima differente dalla D-amminoacido ossidasi numero EC 1.4.3.3 perché è attivo anche sulla sarcosina e sul D-pipecolato.
- Job, V., Marcone, G.L., Pilone, M.S. and Pollegioni, L., Glycine oxidase from Bacillus subtilis. Characterization of a new flavoprotein, in J. Biol. Chem., vol. 277, 2002,  pp. 6985–6993, Entrez PubMed 11744710.
- Nishiya, Y. and Imanaka, T., Purification and characterization of a novel glycine oxidase from Bacillus subtilis, in FEBS Lett., vol. 438, 1998,  pp. 263–266, Entrez PubMed 9827558.

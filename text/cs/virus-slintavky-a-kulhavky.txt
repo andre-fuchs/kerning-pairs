@@ -1,5 +1,0 @@
-Virus slintavky a kulhavky (zkratka FMDV z anglického Foot-and-mouth disease virus) je původcem slintavky a kulhavky. Jedná se o RNA virus z čeledi Picornaviridae, rodu Aphtovirus. Kromě FMDV patří do rodu Aphtovirus ještě virus rinitidy koní. K viru jsou vnímaví téměř všichni sudokopytníci, ale i další zvířata.
-Virová partikule viru FMDV obsahuje (+) RNA genom, který se skládá zhruba 8500 nukleotidů. RNA genom se dělí na část open reading frame (ORF) kolem níž jsou dvě části nekódující proteiny (non coding regions – NCR)
-Virová partikule FMDV je složena z neobalené kapsidy ikosahedrické symetrie o velikosti 25–30 nm složené ze 60 asymetrických podjednotek strukturálních proteinů VP1, VP2, VP3 a VP4.
-Na základě různé protilátkové odpovědi se FMDV dělí na celkem 7 známých sérotypů (A, O, C, SAT1, SAT2, SAT3, ASIA-1) a kolem 60 subtypů. Na světe nejrozšířenější je sérotyp O. Antigenní místa jsou lokalizována především na tzv. G-H smyčce proteinu VP1.
-Virus se dobře se kultivuje na buněčných kulturách BHK-21, BK. Virus lze pomnožovat i na laboratorních myších a morčatech.

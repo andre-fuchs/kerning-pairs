@@ -1,6 +1,0 @@
-La galattosio 1-deidrogenasi (NADP+) è un enzima appartenente alla classe delle ossidoreduttasi, che catalizza la seguente reazione:
-D-galattosio + NADP+ ⇄ D-galattonolactone + NADPH + H+L'enzima agisce anche su L-arabinosio, 6-deossi- and 2-deossi-D-galattosio.
- Cline, A.L. and Hu, A.S.L., The isolation of three sugar dehydrogenases from a psuedomonad, in J. Biol. Chem., vol. 240, 1965,  pp. 4488–4492, Entrez PubMed 5845847.
- Cline, A.L. and Hu, A.S.L., Enzymatic characterization and comparison of three sugar dehydrogenases from a pseudomonad, in J. Biol. Chem., vol. 240, 1965,  pp. 4493–4497, Entrez PubMed 5845848.
- Cline, A.L. and Hu, A.S.L., Some physical properties of three sugar dehydrogenases from a pseudomonad, in J. Biol. Chem., vol. 240, 1965,  pp. 4498–4502, Entrez PubMed 5845849.
- Schiwara, H.W. and Domagk, G.F., Über den Abbau der Desoxyzucker durch Bakterienenzyme. V. Anreicherung und Charakterisierung einer NADP-abhängigen Abequosedehydrogenase aus Pseudomonas putida, in Hoppe-Seyler's Z. Physiol. Chem., vol. 349, 1968,  pp. 1321–1329, Entrez PubMed 4387016.

@@ -1,4 +1,0 @@
-La M (chiamata emme in italiano) è l'undicesima lettera dell'alfabeto italiano e la tredicesima dell'alfabeto latino moderno, ma rappresenta anche la maiuscola della lettera mi nell'alfabeto greco e in quello cirillico.
-Nell'alfabeto fonetico internazionale, [m] rappresenta un suono nasale bilabiale.
-La M deriva dalla lettera greca Mi (Μ μ), che a sua volta derivava dal fenicio Mem. Quest'ultimo traeva la sua origine probabilmente dal simbolo dell'acqua negli alfabeti iconografici, e si pensa che derivi appunto dal geroglifico che rappresentava una N nell'antico egizio e che passò a M in semitico perché con tale suono cominciava la parola "acqua" in questa lingua.
-Il codice ASCII per la M è 77 (01001101 binario, 4D esadecimale); per la m è 109 (01101101 binario, 6D esadecimale).

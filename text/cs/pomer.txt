@@ -1,4 +1,0 @@
-Dělení je v aritmetice binární operace mezi dvěma čísly daného číselného oboru, která je opačná (někdy se také používá termín inverzní) k operaci násobení. Vztah dělení k násobení je tedy analogický, jako vztah odčítání ke sčítání.
-   nelze přiřadit jednoznačný výsledek. Zkoumání toho, co se děje při dělení dvou hodnot, které se blíží k nule, vede k pojmu limita.I když odhlédneme od dělení nulou, množina přirozených ani celých čísel číslech není uzavřená vůči operaci dělení, tj. podíl dvou celých čísel nemusí být celé číslo. Pro některé účely lze tento problém odstranit používáním dělení se zbytkem, obvyklým způsobem je přejít na výpočty s racionálními čísly, jejichž množina je vůči operaci dělení uzavřená, stejně jako množina reálných nebo komplexních čísel.
-Obecněji se dělení dá definovat v rámci tělesa T jako násobení inverzním prvkem.
-Dobré vnímání podílu (poměru) souvisí s dobrými matematickými schopnostmi člověka.

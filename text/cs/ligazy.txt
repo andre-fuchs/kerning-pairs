@@ -1,5 +1,0 @@
-Ligáza (z latiny ligāre – spojit nebo slepit dohromady) či také syntetáza je enzym katalyzující napojování molekul za současného odštěpení molekuly s malou molární hmotností (tj. s malým množstvím atomů).
-Účastní se tak například spojování Okazakiho fragmentů DNA (tzv. DNA ligáza). Velký význam mají ligázy v genetickém inženýrství pro konstrukci rekombinantní DNA. Existují však DNA- i RNA-ligázy.
-Ab + cD → A–D + b + ckde malá písmena označují nízkomolekulární molekuly, které se při katalytickém spojování odštěpí.
-K ligázám patří i aminoacyl-tRNA syntetáza, katalyzující napojení aminokyseliny k příslušné tRNA.
-Běžné pojmenování enzymů ligáz obsahuje slovo "ligáza", tak jako například DNA ligáza, enzym často používaný v molekulární biologii ke spojení DNA fragmentů. Další běžné pojmenování ligáz je synthetázy, jelikož jsou používány při syntézách nových molekul, nebo též karboxylázy když jsou použity při navázání oxidu uhličitého do molekuly.

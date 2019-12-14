@@ -1,3 +1,0 @@
-De facto je latinský výraz vyjadřující „ve skutečnosti“ nebo „v praxi“. Často se používá jako protiklad k latinskému de iure (což znamená „podle práva“) v případech, kdy se skutečnost nebo praxe odlišuje od právních předpisů a jiných regulací. 
-Určitá věc nebo uspořádání se dokonce může prosadit i jako de facto standard, tedy praktická norma, protože oficiální norma (de iure) neexistuje, je málo užívaná (případně jinak nevhodná). V takových případech je normální či očekávané řídit se de facto standardem.
-Příkladem de facto standardu je série dokumentů Request for Comments, které specifikují mnoho protokolů používaných na Internetu – např. široce používaný HTTP protokol, který slouží pro přenos webových stránek a dalších dat.

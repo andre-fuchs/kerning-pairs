@@ -1,1 +1,0 @@
-Questa categoria raggruppa le voci in funzione del mese in cui sono entrate in vetrina; le voci vengono inserite automaticamente nelle rispettive categorie tramite l'utilizzo del template {{Vetrina}}.

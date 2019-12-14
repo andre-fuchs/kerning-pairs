@@ -1,3 +1,0 @@
-Šířka označuje obvykle horizontální, vodorovná vzdálenost dvou bodů srovnatelně vzdálených vůči  pozorovateli při horizontálním pohledu, tj. levého a pravého bodu. U podlouhlých objektů (prkno, silnice, údolí) to bývá kratší horizontální rozměr a větší je pak "délka" v užším významu.
-Vzdálenost v horizontálním směru je označována jako šířka. Společně s délkou a výškou slouží k určení rozměrů v trojrozměrném prostoru. Fyzikální veličina, která slouží k určení šířky, se označuje jako délka v obecném smyslu (bez ohledu na směr).
-Šířka energetického stavu, též šířka energetické hladiny – fyzikální veličina používaná v atomové, jaderné a subjaderné fyzice

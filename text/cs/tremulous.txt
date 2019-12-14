@@ -1,7 +1,0 @@
-Tremulous je týmová 3D akční počítačová hra odehrávající se v prostředí vesmírných základen, dolů a výzkumných komplexů. Soupeří mezi sebou lidé a vetřelci.
-Hra je postavena na modifikovaném enginu Quake 3, který nevyužívá schopnosti moderních grafických karet.
-Základním principem je zničit základnu nepřátelského týmu, který se pokouší o totéž, přičemž oba týmy se snaží o co nejefektivnější obranu základny. Hra končí po zabití všech hráčů a zničení všech spawnů (telenode/egg).
-Lepší zbraně ale nelze získat ihned, každá strana musí určitý počet fragů, potřebných pro přejití na vyšší stupeň. Stupně jsou celkem 3.
-Při startu hry každá strana má vybudováno základní vybavení báze. Bázi lze přesunout na jiné místo, ale vyžaduje to značnou koordinaci týmu a schopnosti stavitele. Každá budova vyžaduje určitý čas k dokončení.
-Lidé staví pomocí Construction kitu a Advanced Construction kitu. Stavitel má k dispozici omezené množství stavěcích bodů (building points).
-Unvanquished je počítačová hra založená na Tremulous za použití jiného enginu (Daemon), která byla poprvé zveřejněna v roce 2012 a je pod aktivním vývojem. Obsahuje mnoho původních map a umožňuje spouštět oficiální Tremulous mapy, dostupné jako komunitní balíčky s vylepšenými texturami a zvuky. Některé oficiální Unvanquished mapy začaly jako komunitní mapy pro Tremulous.

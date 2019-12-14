@@ -1,6 +1,0 @@
-Ilmakehän optiset ilmiöt ovat ilmakehässä näkyviä ilmiöitä. Ne voidaan luokitella seuraavasti (esimerkkeineen):
-valon diffraktio sumu- ja pilvipisaroissa tai jääkiteissä  (kehät ja väripilvet, sumukaari, helmiäispilvet)
-valon diffraktio siitepöly-, itiöpöly- tai levähiukkasissa (siitepölykehät, itiöpölykehät ja levien valoilmiöt)
-valon diffraktio hyvin pienissä ilman aerosoleissa, kuten savuhiukkasissa tai tuliperäisen tuhkan hiukkasissa (bishopin rengas)
-valon taipuminen ja kulkusuunnan muuttuminen taitekertoimeltaan keskenään erilaisissa ilmakerroksissa (taittumisilmiöt kuten kangastukset)
- Kuvia tai muita tiedostoja aiheesta Ilmakehän optinen ilmiö Wikimedia CommonsissaUrsan Taivaanvahti-havaintojärjestelmä, jonne voi syöttää havaintoja ilmakehän optisista valoilmiöistä

@@ -1,6 +1,0 @@
-zpravidla osmičkou, arabskou číslicí „8“, původně (indicky) „٨“; tutéž číselnou hodnotu má i hebrejské písmeno chet
-Osm je třetí nejmenší složené číslo. Je třetí mocninou čísla dvě, jeho jedinými děliteli jsou tak předchozí mocniny čísla dvě: 1, 2 a 4.
-Osmičková soustavaČíslo osm je základem osmičkové (oktalové) soustavy, která se používá například v Unixu pro zápis práv k souborům nebo v některých programovacích jazycích k zápisu číselných konstant.
-Tvar arabské číslice osmičky je po otočení o 90 stupňů je základem pro znak nekonečna: ∞. Ten zavedl anglický matematik John Wallis v 17. století.
-Koordinační číslo (počet nejbližších sousedů) částice (atomu, iontu či molekuly) v krystalové struktuře tvořené prostorově centrovanými elementárními buňkami je 8
-V rámci judaismu odpovídá číslo osm řádu nadpřirozena.V Číně je číslu osm přikládán velký význam; znamená také „mnoho“. Hongkongská městská čipová karta sloužící jako jízdní doklad v místní dopravě nese název „Octopus“ (latinsky a anglicky chobotnice, původně ve starořečtině "osminoh"), původní čínský název znamenal „průkaz osmi příjezdů“, ve volném překladu „dostat se kamkoliv“. Logem karty je Möbiův pás v podobě znaku nekonečna, vlastně ležaté arabské číslice 8.

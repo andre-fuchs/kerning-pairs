@@ -1,3 +1,0 @@
-Dia je diagramový program napsaný v jazyce C jako součást projektu GNOME a dostupný pro řadu platforem, mimo jiné Linux (a jiné UN*Xy a Unixy), Mac OS X a Microsoft Windows. Podporuje rozšíření napsaná v Pythonu a je dostupný pod licencí GNU GPL, jedná se tedy o svobodný software.
-Má podporu pro vývojové diagramy, schémata elektrických obvodů, síťové diagramy, ERM, UML. Nové prvky lze přidat pomocí XML souborů používajících podmnožinu formátu SVG.
-V tomto článku byl použit překlad textu z článku Dia (software) na anglické Wikipedii.

@@ -1,8 +1,0 @@
-Met klank in het algemeen wordt het totaal aan eigenschappen van een geluid aangeduid. Een klank kan gedefinieerd worden aan de hand van zes kenmerken:
-de toonhoogte van de laagste toon waaruit de klank is opgebouwd (ook wel grondtoon of pitch genoemd): deze wordt bepaald door de trillingsfrequentie van de lucht. Zijn de luchttrillingen niet regelmatig, dan ontbreekt een vaste frequentie. Dergelijk geluid wordt ruis genoemd.
-de klankkleur (ook wel timbre genoemd): deze wordt bepaald door de verhouding van de sterkte van de overige trillingen waaruit de geluidsgolf is samengesteld in verhouding tot de grondtoon. We noemen de trillingen waarvan de frequenties veelvouden van de grondtoon zijn: de boventonen.
-de luidheid of het volume: de luchtdrukverschillen die door de geluidsgolven worden geproduceerd.
-de duur van het uitdempen van het geluid (hoe langer deze is, des te helderder het geluid klinkt).
-Klank wordt in de taalkunde in het bijzonder gebruikt om een spraakklank aan te duiden.
-De wetenschappen die zich specifiek met spraakklanken bezighouden heten fonetiek (voor talige klanken in het algemeen), fonologie (voor de ordening van klanken tot spraak) en fonotaxis (voor de specifieke klankorganisatie die aan een bepaalde taal eigen is).
-Een betekenisonderscheidende spraakklank heet een foneem, en onderscheidt zich van een allofoon (zie ook klankinventaris en klankinventaris van het Nederlands).

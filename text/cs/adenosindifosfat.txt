@@ -1,3 +1,0 @@
-Adenosindifosfát (ADP) je jeden z nukleotidů. Skládá se z nukleové báze adeninu, ribózy a dvou fosfátů. Vzniká defosforylací ATP (adenosintrifosfátu) činností enzymů ATPáz, naopak ATP syntáza z něj vytváří opět ATP, které se významně podílí na přenosu energie v buňce. 
-ADP se na ATP mění například při fotosyntéze (pomocí sluneční energie) nebo při buněčné respiraci (pomocí energie získané rozkladem glukózy).
-V tomto článku byl použit překlad textu z článku Adenosine diphosphate na anglické Wikipedii.

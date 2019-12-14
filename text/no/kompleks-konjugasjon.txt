@@ -1,3 +1,0 @@
-Et komplekskonjugat er resultatet av en operasjon på et komplekst tall. I det komplekse tallsystemet innebærer konjugering å avbilde tallet som dets speiling om den reelle aksen. Komplekskonjugatet av et tall 
-    {\displaystyle {\overline {z}}={\overline {re^{i\theta }}}=re^{-i\theta }\quad r\in \mathbb {R} \quad \theta \in [0,2\pi ]}
-    {\displaystyle {\overline {\left({\frac {z}{w}}\right)}}={\frac {\overline {z}}{\overline {w}}}}

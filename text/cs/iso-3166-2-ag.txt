@@ -1,1 +1,0 @@
-Kódy ISO 3166-2 pro Antiguu a Barbudu identifikují 6 farností a 2 dependenci. První část (AG) je mezinárodní kód pro Antiguu a Barbudu, druhá část sestává ze dvou číslic identifikujících farnost či dependenci.

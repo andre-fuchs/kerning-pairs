@@ -1,5 +1,0 @@
-Pikemalt artiklis EpifaunaEpifaunasse kuuluvad selgrootud loomad, kes elavad valdavalt veekogu põhja või mulla pinnal.
-Pikemalt artiklis InfaunaInfaunasse kuuluvad selgrootud veeloomad, kes elavad eelistatult veekogude põhjasetetes.
-Pikemalt artiklis MeiofaunaMeiofaunasse arvatakse väikesed bentilised selgrootud, kelle suurus jääb vahemikku 0,04...1 mm.
-Pikemalt artiklis MikrofaunaMikrofauna moodustavad loomad (näiteks üherakulised organismid, protistid, keriloomad jne) kelle suurus on alla 0,2 mm.
-Süstemaatika alusel saab rääkida spetsiifilisest faunast: näiteks mingi ala linnud moodustavad linnustiku ehk ornitofauna, kalad ihtüofauna.

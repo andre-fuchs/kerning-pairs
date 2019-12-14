@@ -1,9 +1,0 @@
-SQUID neboli supravodivé kvantové interferenční zařízení je využíváno k měření velmi malých magnetických polí až na hranici řádu femto.
-Základním kamenem pro sestrojení tohoto zařízení bylo objevení Josephsonova jevu v roce 1962. Tento jev je založen na přechodu
-supravodič-izolant(dielektrikum)-supravodič, kde lze díky kvantovému tunelování Copperových párů měřit velmi malé rozdíly napětí.
-V roce 1964 byl Robertem Jaklevicem, Johnem Lambem, Arnoldem Silverem a Jamesem Mercereauem
-z Ford Research Labs sestaven první DC SQUID, který využívá dva a více přechodů. RF SQUID sestavený J. E. Zimmermanem a A. Silverem o rok později využívá pouze jeden tento přechod.
-Standardně je jako hlavní složka zařízení použit niob ochlazený pomocí tekutého hélia, což je nejpřesnější ale cenově velmi náročné. V dnešní době je možno využít nových vysokoteplotních slitin, například YBa2Cu3O7-x, za použití tekutého dusíku jako chladiva. Tato metoda je ekonomičtější, avšak je vhodná pouze pro aplikace vyžadující menší přesnost.
-Existují dva typy zařízení SQUID – RF a DC. Protože typ RF obsahuje pouze jeden Josephsonův přechod je mnohem jednodušší a tedy
-i levnější. Oproti typu DC, který využívá paralelního spojení přechodů do supravodivé smyčky, má však horší citlivost a přesnost.
-SQUID využívá především lékařství, kde se zaznamenávají například mozkové signály, které vyvolávají magnetická pole v řádech 10−13 T. Jsou zde tedy nutné ty nejpřesnější přístroje. V geologii je SQUID využíváno při průzkumu ložisek materiálů.

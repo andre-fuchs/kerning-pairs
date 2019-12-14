@@ -1,1 +1,0 @@
-Categoria di servizio usata dal template {{Numero voci in Vetrina}} per calcolare il numero di voci in vetrina su it.wiki.

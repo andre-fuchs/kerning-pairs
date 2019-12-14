@@ -1,2 +1,0 @@
-ISO 3166-2:FJ er Fijis del av ISO 3166-2, som er del av ISO 3166-standarden utgitt av International Orginazation for Standardization (ISO), som definerer koder for navna til hovedinndelingene (f.eks. delstater eller fylker) av alle land med kode i ISO 3166-1. 
-Hver kode består av to deler, atskilt av en bindestrek. Første del er FJ, ISO 3166-1 alfa-2-koden for Fiji. Andre del er en bokstav.

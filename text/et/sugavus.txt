@@ -1,5 +1,0 @@
-Sügavus on mingi objekti põhja kaugus selle pealispinnast; enamasti mõõdetakse sügavust mingis konkreetses punktis. 
-Teatud mõttes on sügavus kõrguse vastand: kui kõrgust mõõdetakse nulltasandist ülespoole, siis sügavust allapoole. Mõnes kontekstis võivad sügavus ja kõrgus olla ka sünonüümid: vaadi sügavus on sama mis vaadi kõrgus.
-Geograafias on oluline veekogude sügavus: veekogu iseloomustavad näiteks selle suurim sügavus ja keskmine sügavus, sama sügavusega punkte veekogu põhjas ühendab aga mõtteline samasügavusjoon. Matemaatikas ja tehnikas käsitletakse sügavust sageli ühe mõõtmena koos pikkuse ja laiusega või neile vastandatult.
-Mõnes kontekstis räägitakse sügavusest ka kujundlikult, näiteks kui arvutigraafikas peetakse silmas värvi sügavust või finantsturgude analüüsis turusügavust.
-Kommutatiivses ja homoloogilises algebras on sügavus ringide ja moodulite tähtis invariant.

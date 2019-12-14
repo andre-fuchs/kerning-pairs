@@ -1,1 +1,0 @@
-Prvočíselná funkce – matematická funkce udávající počet prvočísel menších než dané číslo

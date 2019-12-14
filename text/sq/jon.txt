@@ -1,8 +1,0 @@
-Në jon është një atom ose një molekulë në të cilin numri i plotë i elektroneve nuk është i barabartë me numrin e plotë të protoneve, duke i dhënë atomit ose molekulës ngarkesë elektrike pozitive ose negative. Jonet mund të krijohen, me mënyra kimike ose fizike, përmes jonizimit.
-Në kimi, nëse një atom neutral e humb(liron) një apo më shumë elektrone, ai ka një ngarkesë pozitive dhe njihet si kation.
-Nëse një atom fiton(pranon) elektrone, ai ka ngarkesë negative dhe nihet si anion.
-Me ane te eksperimenteve te shumta është vertetuar se protonet dhe elektronet kane ngarkese elektrike.Dhe,pikerisht kjo ngarkese elektrike është shkaku i te gjitha dukurive elektrike dhe magnetike qe i verejm ne natyrë .
-Ekzistojn dy lloje ngarkesash elektrike:pozitive dhe negative.Ngarkesa elektrike e elektronit është negative dhe shenohet me (-e) ,kurse ajo e protonit është (+e).
-Pra,protoni dhe elektroni kane sasi te njejt te elektricitetit,por me shenja te kunderta.
-Ngarkesa e pergjithshme elektrike e atomit ne gjendje normale është zero dhe këtë e quajme elektronetruale.Kshtu p.sh.,atomi i hidrogjenit (H) dhe i litiumit (Li) ne gjendje normale kane ngarkesen e pergjithshme q te barabarte me zero.pra:
-Kjo Vlen për cdo atom qe ndodhet ne gjendje normale dhe me këtë ngarkesat elektrike mund t'i neutralizojm ose t'i anulojme vetem me ngarkesa te njejta; por me shenja te kunderta.Kjo do te thote se shuma e pergjithshme e ngarkeses elektrike duhet te mbetet e njejte.

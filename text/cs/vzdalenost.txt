@@ -1,8 +1,0 @@
-Vzdálenost je výraz pro odlehlost dvou bodů nebo útvarů (rovnocenných, bez vzájemného rozlišení, bez orientace směru) a pro vyjádření jejich vzájemné polohy. Ve fyzice zpravidla označuje prostorovou nebo časovou odlehlost věcí, v matematice však musí splňovat více kritérií.
-Zvláštní případ vzdálenosti je dálka, kdy rozlišujeme výchozí, počáteční bod, místo pozorovatele, "odkud" a vzdálený, koncový, cílový bod, "kam". V běžném hovoru se zpravidla od pojmu "vzdálenost" neodlišuje.
-  (x,y) = 0 právě když x = y. (Vzdálenost je vždy kladná jsou-li dané body různé, jsou-li stejné, je nulová).
-  (y,z). (Vzdálenost dvou bodů není nikdy vyšší, než součet vzdáleností do třetího bodu od bodu prvního a od bodu druhého).Takovouto funkci nazýváme metrika. Dvojice (M,
-Vzdálenost je definována i pro dva geometrické útvary (např. bod a přímka, přímka a rovina).
-Vzdálenost 2 útvarů se rovná nejmenší vzdálenosti 2 bodů, kde jeden bod patří jednomu útvaru a druhý bod druhému. Proto ji měříme na kolmici.
-Ve fyzice označuje dráha délku trajektorie, kterou těleso (hmotný bod) urazí za určitou dobu. Dráha je tedy vzdálenost, kterou těleso (hmotný bod) urazí mezi dvěma časovými okamžiky a měří se podél trajektorie. Dráha je charakteristikou mechanického pohybu.
-Uvažujeme-li těleso (hmotný bod) pohybující se po zvolené trajektorii, pak je dráha mezi dvěma body na této trajektorii vždy větší nebo rovna nejkratší vzdálenosti těchto bodů (dráha je rovna této vzdálenosti v případě přímočaré trajektorie).

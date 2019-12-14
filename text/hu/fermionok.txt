@@ -1,4 +1,0 @@
-Fermionoknak nevezzük a feles vagy félegész (1/2; 3/2; 5/2…) spinű részecskéket. Azonos részecskék esetén teljesen antiszimmetrikus kvantumállapotot alkotnak. Teljesül rájuk a Pauli-elv, amely szerint nem lehet két azonos részecske azonos kvantumállapotban, szemben a bozonokkal. Enrico Fermiről nevezték el. Adott hőmérsékleten egy energiaszint átlagos betöltöttségét fermionok esetén a Fermi-Dirac-statisztika határozza meg.
-Minden elemi részecske vagy fermion, vagy bozon. Az anyagi részecskék fermionok, a közvetítő részecskék és a Higgs-bozon bozonok. Fermionokból felépülő összetett részecskék lehetnek bozonok is (mint például a mezonok), fermionok is (mint. például a barionok), teljes spinüktől függően.
-A Pauli-elv felelős az elektronhéjak stabilitásáért, s így a kémia létezéséért, vagy a degenerált anyag stabilitásáért extrém nagy nyomás esetén (például neutroncsillag).
-Sólyom Jenő: Az alacsony hőmérsékletek titkai, V. Bozonok és fermionok (animációval)

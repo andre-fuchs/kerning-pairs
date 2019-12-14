@@ -1,8 +1,0 @@
-Mars Sample Return Mission eli MSR on NASAn ja ESAn yhteisprojekti Maahan näytteitä tuovasta Mars -luotaimesta. Alustavien suunnitelmien mukaan luotain voitaisiin laukaista vuonna 2018. Nopeimmankin aikataulun mukaan paluualus voisi palata Maahan noin 2023.
-Suunnitelmien mukaan alus lähetettäisiin kahdessa osassa. Aluksi lähetettäisiin kiertoradalle paluuosa pitkäkestoisella siirtymäradalla. Myöhemmin lähetettäisiin laskeutujaluotain.
-Kantoraketteina voisi olla Ariane 5 tai Yhdysvaltain suunnitteluasteella oleva EELV. Myös Ares V -kantoraketin pitäisi olla luotaimen laukaisuvuonna jo käyttövalmis.
-Mahdollisesti laskeutujaan liitetään mönkijä, jonka tehtävänä olisi keräillä lähiympäristöstä kiinnostavalta näyttäviä kohteita. Ilman mönkijää laskeutuja varustetaan robottikäsivarsin joilla keräillään maanäytteitä laskeutumispaikan ympäristöstä.
-Maan laboratoriot voisivat tutkia näytteitä tehokkaammin kuin aiemmissa luotaimissa olleet varsin tehottomat koestusvälineet. Automaattilento käy harjoittelusta myöhemmin mahdollisesti tehtävää miehitettyä lentoa ajatellen.
-Alustavien tietojen mukaan projekti maksaisi 5,5 - 8 miljardia euroa, joka on jopa kymmenkertainen verrattuna yksittäiseen luotaimeen. 
-Mars-laskeutujia on menetetty muun muassa epäonnistuneissa laskeutumisissa. Tämän jälkeen Marsia on kuitenkin kartoitettu kiertoradalta, joten hyvän laskeutumispaikan löytyminen on helpompaa.
-Aiemmat luotaimet ovat tehneet yksisuuntaisen matkan. MSR:n on noustava pinnalta, jonka johdosta mukana on oltava polttoainetta. Tämä on toki tehty ennen Kuussa, niin miehitettynä kuin miehittämättömänä. Marsin painovoima on kuitenkin huomattavasti suurempi, jolloin mukana on oltava enemmän polttoainetta.

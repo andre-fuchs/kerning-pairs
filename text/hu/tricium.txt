@@ -1,4 +1,0 @@
-A trícium a hidrogén radioaktív izotópja. Atommagja egy protonból és két neutronból áll. Szobahőmérsékleten gáz halmazállapotú. Felezési ideje 12,32 év, hélium-3 izotóppá bomlik.
-A trícium természetes körülmények között akkor áll elő, ha kozmikus sugarak lépnek reakcióba a légköri gázokkal. Például ha egy neutron nitrogénnel ütközik, szén és trícium a reakció eredménye. 
-A tríciumból kiszabaduló elektronok előidézik a foszfor ragyogását, így a két elemből önmegvilágító eszközök készíthetők, például vészkijárat jelzések. 
-Elsőként Walter Russell jósolta meg a trícium létét az 1920-as években. Előállítani Ernest Rutherfordnak sikerült először 1934-ben, egy másik hidrogén izotópból, a deutériumból. Willard Libby jött rá, hogyan lehet a tríciummal a víz, és így a bor korát megállapítani.

@@ -1,8 +1,0 @@
-Pojem digitální data označuje veličiny, vyjádřené v diskrétní (nespojité) číselné formě (obvykle v binární soustavě pomocí jedniček a nul), nebo zařízení založená na obdobném principu. S digitálními daty pracuje v současnosti většina počítačů. 
-Název digitální je odvozen z anglického digit – číslice nebo prst, které pochází z latinského digitus – prst. Odkazuje tedy na to, co se dá spočítat na prstech nebo obecněji, co lze očíslovat pomocí přirozených čísel. 
-Rozdíl mezi digitálními a analogovými systémy je ve formě vstupu, zpracování, výstupu a zobrazování dat. Digitální systémy používají diskrétní veličiny, u nichž daná hodnota může nabývat několika definovaných stavů, zatímco veličiny v analogových systémech se mohou měnit spojitě a mohou nabývat libovolných hodnot v rámci daných mezí. Analogové veličiny lze převést na digitální procesem zvaným digitalizace nebo A/D převod.
-Digitální systémy nemusí být elektronické, diskrétní (nespojitý) charakter má velmi mnoho neelektrických veličin. 
-K nejstarším člověkem používaným systémům digitální komunikace patří kouřové signály. Analogový signál (spojitě stoupající kouř) je převáděn na digitální (zakrýváním ohně a tvořením obláčků)
-DNA je též diskrétní systém, ve kterém jsou informace uloženy v nukleových kyselinách a jsou kódovány trojicemi vytvářenými ze čtyř nukleotidů, které označujeme písmeny A, C, G, a T/U
-Běžné abecedy, Morseovu abecedu a Braillovo písmo lze též považovat za digitální systém
-Diskrétní systém tvoří řada přirozených čísel (1, 2, 3, ...) a vše co lze pomocí těchto čísel označit člověkem (očíslovat)

@@ -1,2 +1,0 @@
-Gnutella on ensimmäinen puhtaasti hajautettu vertaisverkkojärjestelmä. Verkossa ei ole keskuspalvelinta, vaan tiedostoja siirretään suoraan verkon käyttäjien välillä. 
-Nullsoft julkaisi ensimmäisen Gnutella-asiakasohjelman vuonna 2000, mutta lopetti pian ohjelman kehittämisen lainsäädännöllisistä syistä. Muut käyttäjät kuitenkin ottivat selville ohjelman toimintaperiaatteen ja uusia Gnutella-ohjelmistoja julkaistiin nopeaan tahtiin.

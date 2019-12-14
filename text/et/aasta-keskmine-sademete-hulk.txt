@@ -1,6 +1,0 @@
-Aasta keskmine sademete hulk on kliimanäitaja, mis iseloomustab mingi koha keskmist sademete hulka vaatlusperioodi jooksul.
-Aasta keskmine sademete hulk arvestatakse mingis kohas tehtud mitmeaastaste (vähemalt 30 aasta) vaatluste alusel. Selleks vaatlusperioodi jooksul saadetud andmed aastasest sademete hulgast liidetakse ja jagatakse vaatlusperioodi aastate arvuga.
-Vähim aasta keskmine sademete hulk on Dakhla oaasis (Egiptus) 1 mm; Iquiques (Tšiili) 3 mm.
-Suurim aasta keskmine sademete hulk on Mawsynramis, Meghalayas 11 873 mm, Waialeale mäe nõlvadel Kauai saarel 11 684 mm ja Cherrapunjis 11 430 mm.
-Vähim aasta keskmine sademete hulk on saartel ja läänerannikul 500–550 mm aastas.
-Suurim aasta keskmine sademete hulk on kõrgustike läänenõlvadel üle 800 mm aastas.

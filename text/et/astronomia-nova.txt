@@ -1,4 +1,0 @@
-"Astronomia nova" ("Uus astronoomia") on Johannes Kepleri esimene raamat Kepleri seaduste kohta. Raamat ilmus 1609. aastal.
-Selle uurimuse koostamisel kasutas Kepler pärast Tycho Brahe surma (1601) järele jäänud vaatlusmaterjali Marsi orbiidi kohta. Käsikiri valmis 1605 ning ta andis selle üle oma tööandjale Rudolf II-le. Rahanappuse ja autoriõiguslike probleemide tõttu Tycho Brahe pärijatega ilmus raamat alles neli aastat hiljem.
-planeedid liiguvad mööda ellipsikujulisi orbiite, mille ühes fookuses on Päike;
-planeedid ei liigu sellel orbiidil konstantse kiirusega, vaid kiirus muutub nõnda, et Päikese ja planeedi keskpunkte ühendav sirglõik katab võrdsete ajavahemike jooksul ellipsi osad, mille pindalad on võrdsed.Kümmekond aastat hiljem lisas Kepler raamatus "Harmonices Mundi" kolmanda seaduse, mille kohaselt planeedi ja Päikese vahelise kauguse kuup on võrdelises seoses planeedi aasta kestusega.

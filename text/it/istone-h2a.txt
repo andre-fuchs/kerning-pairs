@@ -1,3 +1,0 @@
-L'istone H2A è uno dei cinque principali istoni, proteine coinvolte nella struttura della cromatina nelle cellule eucariotiche. L'H2A è caratterizzato da un dominio globulare principale e da una lunga coda all'N-terminale; è coinvolto nella struttura delle fibre a 10 nm ("beads on a string").
-Il termine "istone H2A" è intenzionalmente non specifico, e si riferisce a un'ampia varietà di proteine altamente simili che spesso differiscono solo per pochi amminoacidi. Tra le varianti note si possono includere H2A.1, H2A.2, H2A.X, e H2A.Z.
-H2A è codificato da numerosi geni nel genoma umano, tra i quali H2AFB1, H2AFB2, H2AFB3, H2AFJ, H2AFV, H2AFX, 

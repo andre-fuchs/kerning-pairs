@@ -1,4 +1,0 @@
-Prostetická skupina je kofaktor, nízkomolekulární nebílkovinná složka enzymů, která je na tento enzym pevně vázána kovalentní vazbou. Její funkcí je přenos atomů, jejich skupin nebo elektronů v průběhu biochemické reakce, prostetická skupina spotřebovaná v reakci se substrátem se pak zregeneruje v následné reakci s jinou látkou. Prostetické skupiny jsou naprosto nutné k zajištění aktivity enzymu, tvoří totiž součást aktivního centra.
-Prostetická skupina může být tvořena organickou nebo i anorganickou látkou, typicky iontem kovu, kov může být také zabudovaný do organické kostry skupiny.
-Enzym s navázanou prostetickou skupinou se nazývá holoenzym, bílkovinná složka bez kofaktoru je pak apoenzym, který nemá katalytickou funkci.
-Hem (porfyrin se zabudovaným iontem železa), prostetická skupina hemoglobinu a cytochromů dýchacího řetězce

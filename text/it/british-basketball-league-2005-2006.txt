@@ -1,1 +1,0 @@
-(*) Brighton Bears penalizzato di un punto per aver schierato un giocatore in posizione irregolare.

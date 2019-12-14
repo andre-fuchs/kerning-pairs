@@ -1,2 +1,0 @@
-Binærkompatibilitet refererer til hvorvidt to ulike versjoner av (den samme eller forskjellig) kompilert programvare er innbyrdes kompatible.
-For operativsystemer som benytter binærdistribusjon av programvare, er binærkompatibilitet viktig for å unngå feil.

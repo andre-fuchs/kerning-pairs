@@ -1,4 +1,0 @@
-Tuhnutí je skupenská přeměna, při které se kapalina mění na pevnou látku. Typickým příkladem je změna vody na led a nebo lávy na pevnou horninu.
-K tuhnutí dochází při ochlazení kapaliny na teplotu tuhnutí. Teplota tuhnutí je různá pro různé látky. Velikost teploty tuhnutí je pro krystalické látky stejná jako teplota tání. Teplota tání (tuhnutí) závisí na druhu látky a na tlaku, u vody pak také na jejím znečištění dalšími příměsemi – salinita vody.
-K tuhnutí při jedné hodnotě teploty dochází u chemicky čistých látek a eutektických slitin. Pro jiné směsi dochází k tuhnutí v určitém rozsahu teplot.
-Teplo, které kapalina odevzdá při tuhnutí, se nazývá skupenské teplo tuhnutí, jeho velikost je pro stejnou látku stejná jako skupenské teplo tání.

@@ -1,1 +1,0 @@
-Aria Maestosa je svobodný editor MIDI a sekvencer, který je vyvíjen pod licencí GNU. Využívá se při skládání, aranžování nebo upravování souborů MIDI. Uživatelské rozhraní programu je jednoduché a intuitivní.[zdroj?] Zobrazuje jednotlivé stopy MIDI díla. Tyto stopy mohou být podány v podobě not, klavíru (váleček), kytarové tabulatury nebo bicích. Má taktéž správu ovladačů MIDI.

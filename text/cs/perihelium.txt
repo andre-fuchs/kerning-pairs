@@ -1,4 +1,0 @@
-Perihélium (též přísluní či perihel) je nejbližší místo (perifokus) ke Slunci, jímž prochází těleso, které se kolem Slunce pohybuje po kuželosečce.
-Bod, ve kterém se těleso na své dráze nejvíce vzdálí od Slunce, je afélium. Perihélium a afélium tvoří apsidy dráhy. Vzdálenost tělesa od Slunce v perihéliu lze stanovit podle výrazu:
-kde a je velká poloosa a e je excentricita dráhy. Vzdálenost tělesa od Slunce v aféliu je:
-Časový okamžik, kdy těleso prochází na své dráze perihéliem, se nazývá čas přechodu perihéliem. Je jedním z elementů dráhy. Země přechází perihéliem začátkem ledna, v současné době okolo 4. ledna, dva týdny po zimním slunovratu. Vlivem poruch vyvolaných ostatními planetami nastává stočení perihélia planet.

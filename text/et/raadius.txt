@@ -1,1 +1,0 @@
-Raadius (ladina keeles radius - kiir) on matemaatiline lõik, mis ühendab ringjoone või sfääri punkti selle ringjoone või sfääri keskpunktiga. Tähistab ka selle lõigu pikkust.

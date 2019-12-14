@@ -1,4 +1,0 @@
-Gramnegativní bakterie mají buněčnou stěnu tvořenou převážně lipopolysacharidy a svrchu překrytou druhou membránou. Následkem toho vycházejí tyto bakterie z Gramova barvení zbarvené růžově na rozdíl od grampozitivních bakterií, které se jeví jako modrofialové.
-Gramnegativní bakterie obsahují v buněčné stěně 17 aminokyselin včetně aromatických. Netvoří spory, množí se příčným dělením. Některé druhy tvoří pouzdra či pochvy. Pohybují se pomocí bičíků nebo plazivě po substrátu.
-Mnozí zástupci gramnegativních bakterií jsou patogeny, obecně se považují za nebezpečnější než zástupci skupiny grampozitivních bakterií. Důvod je zpravidla spatřován v některých komponentech jejich buněčné stěny, zejména pak v liposacharidové vrstvě.
-Mezi nejdůležitější skupiny gramnegativních bakterií patří proteobakterie (rody Escherichia, Salmonella, Pseudomonas, Moraxella, Helicobacter, Stenotrophomonas, Bdellovibrio, Legionella etc.), sinice, spirochéty, Chlorobiaceae a Chloroflexi etc.

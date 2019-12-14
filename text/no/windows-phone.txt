@@ -1,5 +1,0 @@
-Windows Phone var et mobil-operativsystem utviklet av Microsoft som deres etterfølger til Windows Mobile. Mens forgjengeren fokuserte på bedriftsmarkedet, er dette operativsystemet laget for forbrukermarkedet, og da spesielt smarttelefoner. Det ble lansert i Europa, Singapore, Australia og New Zealand 21. oktober 2010, i USA og Canada 8. november, Mexico 24. november og i Asia tidlig i 2011. 
-Microsoft offentliggjorde at de utviklet Windows Phone den 15. februar 2010 på Mobile World Congress 2010 i Barcelona.
-Original Equipment Manufacturer-selskaper som vil bruke OSet på sine modeller ble offentliggjort i februar 2010. Disse var Dell, Garmin-Asus, HTC, HP, LG, Samsung, Sony Ericsson, Toshiba og Qualcomm. HP trakk seg etterpå for å fokusere på sitt eget OS webOS.
-Steve Ballmer i Microsoft annonserte 11. oktober 2010 at 10 ulike modeller som benyttet Windows Phone 7 laget av HTC, Dell, Samsung, og LG skulle bli lansert samme høst i Europa og Nord-Amerika.
-Nokia ble annonsert som ny produsent av Windows Phone-telefoner 11. februar 2011. De første telefonene fra Nokia som bruker Windows Phone 7.5 vil bli annonsert på Nokia World 2011.[trenger oppdatering]

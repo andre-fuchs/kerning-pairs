@@ -1,2 +1,0 @@
-Chemické složení vyjadřuje druh a zastoupení atomů v dané látce. Pomocí tohoto údaje nelze jednoznačně identifikovat látku, protože nepopisuje strukturu dané látky.
-Látky, které mají stejné chemické složení, ale uspořádání atomů v jejich molekulách je jiné se nazývají izomery. Příkladem dvojice izomerů je např.

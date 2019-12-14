@@ -1,2 +1,0 @@
-Merkkinen mitta on mittateoriassa hyödyllinen mitan yleistys. Se kulkee kirjallisuudessa myös nimellä täysadditiivinen joukkofunktio.
-Tästä itse asiassa seuraa niin sanottu Jordanin esityslause, jonka mukaan jokainen merkkinen mitta on jonkin kahden mitan erotusfunktio.

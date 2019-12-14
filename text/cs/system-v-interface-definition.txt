@@ -1,1 +1,0 @@
-System V Interface Definition (SVID) je standard, který popisuje AT&T UNIX System V jako jsou systémová volání, standardní knihovnu jazyka C, nutné programy a zařízení. Jedná se o důležitý krok standardizace UNIXu. Význam tohoto standardu byl zastíněn vznikem standardů POSIX a Single UNIX Specification, které byly zčásti na SVID založeny.

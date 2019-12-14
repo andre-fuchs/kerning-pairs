@@ -1,3 +1,0 @@
-Peer-to-peer – aplikační síťový protokol pro přenos dat mezi dvěma počítači v síti
-Precision Time Protocol – protokol definovaný normou IEEE1588 umožňující přesnou časovou synchronizaci v počítačových sítích
-pomocné technické prapory – Vojenské tábory nucených prací (VTNP) v poválečném Československu

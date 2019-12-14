@@ -1,2 +1,0 @@
-Lyshet er en egenskap som det er vanlig å tillegge farger. Vi har en umiddelbar fornemmelse av om en farge er lys eller mørk, eller en mellomting. Lyshet kan mer presist defineres som intensiteten av det lyset som treffer øyet når vi betrakter fargen. Lyshet har i seg sjøl ingen farge, men er en egenskap som kan tillegges alle kulører og valører.
-I noen fargemodeller – f.eks. i HSL-modellen – er lyshet en parameter (fargekanal) som definerer fargenyanser. Lyshet gis da en verdi – f.eks. på en skala fra 0 til 100.

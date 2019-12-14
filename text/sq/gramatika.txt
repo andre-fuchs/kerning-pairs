@@ -1,7 +1,0 @@
-Gramatika studion mënyrën e përdorimit të fjalëve me njëra-tjetrën në ligjërim.
-Gramatika është dega më e rëndësishme e gjuhësisë, sepse ajo studion strukturën e gjuhës e kjo është ana më themelore e gjuhës. Me këtë fjalë kuptojmë shkencën që merret me studimin e rregullave të ndryshimit të fjalëve dhe të bashkimit të tyre në togfjalësh e në fjali.
-Morfologjia merret me studimin e rregullave, sipas të cilave fjalët pësojnë ndryshime si dhe klasifikimin e tyre nëpër klasa.Ne morfologji  hyne fjalet qe jane me rregulla gramatikore si togefjalëshin.Morfologjia ka :emër,mbiemer,folje,ndajfolje,lidhëz,përemër.
-Sintaksa merret me studimin e rregullave të bashkimit të fjalëve në togfjalësh e në fjali dhe të fjalive në periudhë.
-Sintaksa si emër vjen nga Greqishtja e vjetër dhe është folje q.d.t.th. bashkë-paraqitje, bashkë-vendosje.
-Sintaksa merret me kombinacionin e fjalëve nga njësitë më të vogla deri tek njësitë më të mëdha siç është fjalia.
-Sintaksa nuk mund te ndahet nga komponentët e tjerë të gramatikës, siç janë morfologjia (p.sh. siç është fleksioni dhe leksikoni morfologjik) , fonologjia (p.sh. siç është theksi dhe lëvizja e tonit), semantika (p.sh kuptimi i fjalëve dhe i fjalive që quhen dhe kritere semantike).

@@ -1,6 +1,0 @@
-Bolidová síť je soustava bolidových kamer určená k fotografické registraci meteorů a bolidů na větším území. Jednotlivé kamery jsou v síti rozmístěny tak, aby souvisle pokrývaly sledované území.
-Vhodně umístěné bolidové kamery mohou sice zaznamenat bolidy až do vzdálenosti 400 km, ale přesnější pozorování jsou možná jen do přibližně poloviční vzdálenosti (vzdálenější meteory jsou již příliš nízko nad obzorem).
-Je vhodné, aby byl bolid zachycen na stanicích, jejichž spojnice není rovnoběžná se směrem letu bolidu – jinak bude vypočtená poloha a výška letu zatížena výrazně větší chybou, než při šikmém nebo kolmém směru letu
-Výše umístěné stanice mají výhodu v trochu vyšším dohledu a také při inverzním počasí (níže položené stanice mohou mít zataženo, zatímco na horách je jasno).Bolidové kamery se proto podle možnosti umisťují ve vzdálenosti přibližně 100 km, optimálně na horách. Svoji roli však hraje mnoho dalších vlivů, především nerušený výhled do všech směrů, dostupnost pro obsluhu, přívod elektrické energie, dostupnost datové sítě (nejlépe pevná linka nebo Wi-Fi) apod. 
-Evropská bolidová síť – budovat ji začal Zdeněk Ceplecha koncem 50. let 20. století a funguje dodnes
-Australská bolidová síť – autorem návrhu bolidové sítě je Pavel Spurný; začala se budovat v roce 2001

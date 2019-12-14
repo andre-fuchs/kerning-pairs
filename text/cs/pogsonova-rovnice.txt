@@ -1,1 +1,0 @@
-   jsou jejich hustoty zářivého toku. Souvisí se skutečností, že zatímco soustava SI je založena na metrickém (lineárním) systému, lidské smysly podléhají Weber-Fechnerovmu zákonu a vnímají své okolí logaritmicky. Oko má dynamický rozsah asi 10 řádů, co je mnohem víc než většina přístrojů.

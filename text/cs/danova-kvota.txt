@@ -1,3 +1,0 @@
-Daňová kvóta je makroekonomický ukazatel, který vyjadřuje celkovou úroveň daňové (plus poplatkové) zátěže v dané zemi. Může být jednoduchá, nebo složená (celková daňová kvóta):
-Jednoduchá daňová kvóta vyjadřuje podíl daní (bez příspěvků na sociální a zdravotní zabezpečení) na HDP.
-Složená (Celková) daňová kvóta má mnohem vyšší vypovídací schopnost, neboť vyjadřuje podíl všech daní a jiných povinných plateb (např. pojištění zdravotní a sociální) na HDP.

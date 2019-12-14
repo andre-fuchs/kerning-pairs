@@ -1,2 +1,0 @@
-PLUTO, a Pipeline Under The Ocean rövidítése, kódnév a csapatok normandiai partraszállását követő olajellátására
-Pluto, Apache Pluto, a JSR 168 Java portlet specifikáció referencia implementációja

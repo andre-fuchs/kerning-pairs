@@ -1,1 +1,0 @@
-Un gruppo diciclico, nella teoria dei gruppi, è un gruppo non abeliano di ordine 4n, usualmente denotato con Dicn, per qualche n>1, che nasce dall'estensione tramite un gruppo ciclico di ordine 2, Cn, di un altro gruppo, solitamente anch'esso ciclico.

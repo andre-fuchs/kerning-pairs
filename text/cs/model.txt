@@ -1,5 +1,0 @@
-koncepční model – entita představující jinou entitu na základě podobnostipřírodní a technické vědy
-datový model – popis struktury a vztahů dat (např. vnitropodnikové dopravy továrny)
-model (logika) – základní pojem matematické teorie modelů, seskupení objektů, na němž jsou definovány nějaké vztahy a funkce jako realizace formální teorie
-mentální model – vnitřní představa člověka reprezentující okolní svět a vztahy v něm
-evropský sociální model – koncept spojující evropské společnosti v jejich životním stylu, společenských hodnotách a sociální politiceprofese

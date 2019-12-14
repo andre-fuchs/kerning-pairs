@@ -1,2 +1,0 @@
-AND – označení logického součinu (též konjunkce), což je binární logická operace
-v programování symbol AND označuje buď operátor konjunkce nebo bitový operátor – pochází z anglické spojky and (česká spojka a)

@@ -1,1 +1,0 @@
-Awesome er en dynamisk vindusbehandler for vindussystemet X som er utviklet i programmeringsspråkene C og Lua. Lua brukes også for konfigurering og utvidelse av vindusbehandleren. Dens utvikling begynte som en fork av dwm. Dens formål er å være ekstremt raskt og liten, men likevel svært lett å tilpasse ved bruk av tastaturet.

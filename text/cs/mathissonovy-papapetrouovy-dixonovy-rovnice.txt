@@ -1,6 +1,0 @@
-Ve fyzice, přesněji v obecné teorii relativity, soustava Mathissonových-Papapetrouových-Dixonových rovnic popisuje pohyb (klasické) testovací částice se dvěma vnitřními stupni volnosti -- hmotností (monopólem) a spinem (dipólem), ve vnějším gravitačním poli. Jsou odvozeny ze zákonů zachování a je pro ně charakteristické, že obecně algebraicky nespojují 4-hybnost a 4-rychlost spinující částice, což mimo jiné znamená, že 4-hybnost a 4-rychlost částice nemusejí být paralelní.
-Mathissonovy-Papapetrouovy-Dixonovy rovnice představují podurčený systém: 10 rovnice (4+6) pro 13 neznámých (3 složky 
-  ). Je tedy nutné jej doplnit dalšími rovnicemi. Obvyklou volbou jsou podmínky kladené na bivektor spinu 
-Papapetrou A., Spinning Test-Particles in General Relativity. I, Proc. Roy. Soc. London A. roč. 209. DOI: 10.1098/rspa.1951.0200
-Dixon W. G., Dynamics of Extended Bodies in General Relativity. I. Momentum and Angular Momentum, Proc. Roy. Soc. London A, 1970, roč. 314. DOI: 10.1098/rspa.1970.0020
-Semerák O., Spinning test particles in a Kerr ﬁeld – I, Mon. Not. R. Astron. Soc. 1999, roč. 308. DOI: 10.1046/j.1365-8711.1999.02754.x

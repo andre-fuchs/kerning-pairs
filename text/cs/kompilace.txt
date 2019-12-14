@@ -1,1 +1,0 @@
-v informatice převod algoritmu zapsaného v nějakém programovacím jazyce do strojového kódu překladačem

@@ -1,3 +1,0 @@
-Luettelo Tampereen puistoista sisältää Tampereen tärkeimpiä kaupunkimaisen ympäristön hoidettuja puistoja. Listaan eivät kuulu metsäiset ulkoilualueet.
-Kaupunginosat: Tampereen virastokartta; Tampereen karttapalvelu, (valitse alareunasta ”Virastokartta”)
-Syrjäalueilla, joilla ei ole kaupunginosia, käytetään tilastoalueita: Tampereen tilastoalueet; Tampereen karttapalvelu, (valitse karttataso Hallinnolliset yksiköt / Tilastoalueet)

@@ -1,5 +1,0 @@
-De International Press Telecommunications Council (IPTC) is een wereldwijde samenwerkingsverband van kranten en tijdschriften voor wat betreft de technische normering van de uitgaven en is in 1965 opgericht.
-IPTC 7901: Standaard voor de uitwisseling van teksten, ontwikkeld in 1979 en wordt vandaag de dag nog gebruikt voor agentschappen in Midden-Europa.
-Samen met de NAA (Newspaper Association of America) wordt de zogenaamde IPTC-NAA Standard, of beter, het 'Information Interchange Model (IIM)', omstreeks 1991 ontwikkeld.In basis geschikt voor allerlei soorten media en het is bekend geworden doordat het veel in Adobe Photoshop wordt gebruikt.
-NITF: Het eerste Norm-Formaat van de IPTC die op XML is gebaseerd, dient voor alles voor uitwisseling van teksten.
-NewsML: Ook opXML gestoelde Norm-Formaat voor de uitwisseling van Multimedia informatie. Dit kan tekst, beeld, grafiek e.d. betreffen.

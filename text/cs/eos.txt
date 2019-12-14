@@ -1,4 +1,0 @@
-E/OS – plán spouštění jakéhokoliv programu navrženého pro jakýkoliv operační systém bez potřeby instalovat jiný operační systém
-počítačové prostředí (computing environment) na College of Engineering v North Carolina State University
-Ethernet Over SONET/SDH – komunikační protokol pro přenos ethernetových rámců (frame) prostřednictvím vláknových sítí
-Economies of scale – anglická zkratka pro ekonomický pojem, jenž vyjadřuje úspory z výroby ve velkém

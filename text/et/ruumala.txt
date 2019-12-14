@@ -1,3 +1,0 @@
-Ruumala on füüsikaline suurus, mille abil väljendatakse keha mahtu või aine mahulist kogust. Tavapäraselt (kolmemõõtmelises ruumis) leitakse ruumala mõõdetava ruumiosa kolme mõõtme – pikkuse, laiuse ja kõrguse – korrutisena.
-Ruumala tähis füüsikalise suurusena on V, mis tuleneb ladina sõnast volūmen ('raamat, rull, pööre').
-SI-süsteemis on ruumala põhiühik kuupmeeter. Igapäevaelus kasutatakse ka muid ruumalaühikuid, millest üks levinumaid on liiter. 1 liiter = 1 kuupdetsimeeter.

@@ -1,9 +1,0 @@
-Navigace je postup a činnost, jimiž lze kdekoliv na zeměkouli stanovit svou polohu a nalézt cestu ke stanovenému cíli, která je podle zvolených kritérií nejvhodnější (například nejrychlejší, nejkratší atd.).
-Termín je odvozen z latinského navigare (plavit se na lodi), jehož význam se metonymicky přenesl na zjišťování polohy a směru a na volbu trasy a metaforicky rozšířil na další druhy dopravy a další činnosti.
-Dějiny navigace souvisí s migrací lidí a objevováním nových zemí pomocí mořeplavby. Některé národy se zabývaly objevováním v takové míře, že tím vstoupily do dějin. Patří mezi ně Egypťané, Féničané, staří Řekové, Arabové, Vikingové, Portugalci, Španělé, Holanďané, Francouzi, Angličané, Polynésané či Mikronésané.
-pomocí orientačního značení (dopravní značení, turistické značení, označování ulic, označování domů, vlastní značení atd. )
-terestricky pomocí kompasu (magnetický nebo gyroskopický), logu, hloubkoměru, námořní mapy
-astronavigace pomocí polohy Slunce, Měsíce a hvězd – pomocí úhloměru a přesných hodin
-radionavigačními přístroji – pomocí radiomajáků (NDB, VOR), měřiče vzdálenosti DME a radiokompasu
-globálním družicovým polohovým systémem pomocí umělých družic – např. systémy GPS, GLONASS nebo Galileo
- Slovníkové heslo navigace ve WikislovníkuLectures in Navigation by Ernest Gallaudet Draper

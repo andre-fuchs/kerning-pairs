@@ -1,7 +1,0 @@
-Trpasličí planeta je objekt sluneční soustavy, který je podobný planetě a musí splňovat následující kritéria:
-má dostatečnou hmotnost, aby jeho gravitace překonala vnitřní síly a dosáhl hydrostatické rovnováhy
-není satelitemTato definice se až na svůj třetí bod shoduje s definicí planet. Byla schválena na XXVI. valném shromáždění Mezinárodní astronomické unie (IAU) v Praze 24. srpna 2006. Do té doby bylo Pluto počítáno mezi planety.
-Trpasličí planety nejsou podmnožinou planet. Naopak pod trpasličí planety patří tzv. plutoidy – trpasličí planety obíhající Slunce až za drahou Neptunu.
-Mezinárodní astronomická unie uznává pět trpasličích planet. Kromě Cerery jde ve všech případech o plutoidy.
-Je pravděpodobné, že tato kategorie se v budoucnu rozroste o další objekty. Kandidáty jsou např. planetka Vesta nebo velká transneptunická tělesa (Sedna, Quaoar, Orcus, ...).
-Lokální šablona odkazuje na jinou kategorii Commons než přiřazená položka Wikidat:

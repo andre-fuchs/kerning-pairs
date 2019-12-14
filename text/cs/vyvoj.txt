@@ -1,3 +1,0 @@
-Vývoj je označení pro soustavný proces, během kterého dochází ke změně aktuálního stavu do stavu nového. Cílem vývoje je na základě zkušenosti, plánu, či náhodné chyby vyvíjet stále lepší verze.
-Vývoj může být přirozený nebo umělý. Pod přirozený vývoj spadá veškerý vývoj, který není přímo řízen zásahem bytosti zvenčí a je nezávislý na její vůli. Mezi umělé změny patří takové, které jsou přímo ovlivňovány bytostí za účelem zlepšení stávající věci zájmu. Mezi umělé vývoje se může zařadit například vývoj software, kdy na základě objevovaných chyb a nových nápadů dochází k opravám a zlepšováním starší verze.
-Fylogeneze, vývoj druhů v průběhu milionů let podle evoluční teorie (přirozeným výběrem).

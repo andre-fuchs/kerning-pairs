@@ -1,3 +1,0 @@
-A fénymásodperc a hosszúság egyik mértékegysége, amelyet főleg a csillagászatban használnak. Definíciója szerint az a távolság, amit a fény teljes vákuumban egy másodperc alatt megtesz, azaz 299 792 458 méter. Érdemes megjegyezni, hogy ezt az értéket pontosnak tekinthetjük, mivel a métert (1983 óta) a fénymásodperchez képest határozzák meg.
-A fényperc 60 fénymásodperc, a fényóra pedig 60 fényperc, vagyis 3600 fénymásodperc. A fényév 31 557 600 fénymásodperc.
-A Föld és a Nap közti átlagos távolság (vagyis 1 csillagászati egység) 499 fénymásodperc, ill. 8,317 fényperc.A fénymásodperchez kicsinyítőprefixumokat is tehetünk, például fény-nanoszekundum, ami szinte pontosan 30 cm-rel egyenlő.

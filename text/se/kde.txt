@@ -1,2 +1,0 @@
-KDE sahtta instalerejuvvot GNU/Linuxa ja Unix-lágan operatiivavuogádagain. KDE gávdnot sámegillii, sáhtát instalerejuvvot ja válljet sámegillii Kubuntu GNU/Linuxa distribušuvnna.
-Skolelinux prošeakta álggahii davvi sámegieljorgalusaid. Norgga Sámediggi lea ruhtadan jorgaleami (Skolelinux ja KDE) ovdánahttima geassemánu 2003 rájes giita juovlamánu 2004 rádjái.Wubi 11.10 lea almmustahttit. Wubi birgekeahttá instalerejuvvo ja váldit eret juste dego Windows prográmmait. Kubuntu gávdnot sámegillii.

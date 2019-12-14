@@ -1,2 +1,0 @@
-ISO 3166-2:GS er Sør-Georgia og Sør-Sandwichøyenes del av ISO 3166-2, som er del av ISO 3166-standarden utgitt av International Organization for Standardization, som definerer koder for navna til hovedinndelingene (f.eks. delstater eller fylker) av alle land med kode i ISO 3166-1.
-Det er for tiden ikke definert noen ISO 3166-2-koder for Sør-Georgia og Sør-Sandwichøyene. Området har ingen definerte underinndelinger.

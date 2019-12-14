@@ -1,4 +1,0 @@
-Europa Jupiter System Mission (EJSM) je plánovaná průzkumná mise dvou automatických sond k Jupiteru a jeho měsícům.Sondy mají hlavně zkoumat měsíce Io , Europa , Ganymed a Callisto a Jupiterovu magnetosféru. Mise je naplánována na rok 2020 a sondy mají k Jupiteru dorazit v roce 2026. Na misi se společně podílejí NASA, která má pro projekt postavit sondu Jupiter Europa Orbiter, a ESA, která připraví sondu Jupiter Ganymede Orbiter.Současně je možné, že se do projektu připojí i japonská kosmická agentura JAXA se svým plánovaným modulem Jupiter Magnetospheric Orbiter.
-Cílem mise je stanovit, zda Jupiterův systém splňuje podmínky pro obyvatelnost pro živé organismy se zaměřením na měsíce Europa a Ganymed. K dosažení tohoto cíle byly stanoveny úkoly:
-Průzkum hlubokých vnitřních struktur Ganymeda a jeho vnitřního magnetického pole.
-Porozumět formování povrchových útvarů, včetně míst s minulou či současnou aktivitou a vytipovat místa pro budoucí povrchový průzkum.

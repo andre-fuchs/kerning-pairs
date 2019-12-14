@@ -1,7 +1,0 @@
-mass kui inertne mass väljendab keha inertsi ehk võimet säilitada oma liikumise kiirust (selle muutmiseks on tarvis rakendada jõudu);
-mass kui raske mass väljendab keha võimet tõmmata ligi teisi kehi ehk osaleda gravitatsioonilises vastastikmõjus. Ekslikult mõistetakse mõnikord massi all ka kaalu.Inertne mass ja raske mass on ekvivalentsed, kusjuures nende ekvivalentsus on klassikalises mehaanikas kogemuslik tõsiasi, millel puudub teoreetiline põhjendus. Oletus nende masside võrdsusest, Einsteini ekvivalentsuprintsiip, on Einsteini üldrelatiivsusteooria aluseks.
-Massi tähistatakse enamasti sümbolitega m või M, mis tulenevad ladina sõnast massa ("mass, raskus, tainas, kamakas"); ladina sõna kasutus füüsikalises tähenduses sai alguse Isaac Newtoni 1687. aastal avaldatud teosest "Philosophiæ Naturalis Principia Mathematica". Massi mõõtühik SI-süsteemis on kilogramm (kg).
-  .See seos ei võimalda siiski massi mõõtmist kui puudub sõltumatu printsiip jõu defineerimiseks ja mõõtmiseks. Kuid vastavalt Newtoni III seadusele kahe vastastikmõjustuva keha korral jõud, millega esimene keha mõjub teisele, on võrdvastupidine jõuga, millega teine keha mõjub esimesele. Järelikult absoluutväärtuselt 
-  , mis lubab nende kehade inertsete masside suhte leida kiirenduste mõõtmise teel.
-Gravitatsioonijõud mõjub kehi ühendava sirge sihil ning tõmbab neid teineteise poole. Selle jõu moodul on 
-  kus m1 ja m2 on kehade (rasked) massid, r nendevaheline kaugus ja G gravitatsioonikonstant.

@@ -1,2 +1,0 @@
-Planetaire migratie, baanverandering van planeten tijdens de vorming van een planetenstelsel
-Softwaremigratie, overgang naar een nieuwere versie van software in verband met wegvallende support, te beperkte functionaliteit, verdwijnende kennis, verouderde infrastructuur, etc.
