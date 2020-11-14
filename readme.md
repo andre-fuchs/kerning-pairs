@@ -6,7 +6,7 @@
 * [(2) Potential kerning pairs](#2-potential-kerning-pairs)
 * [(3) Frequently occurring kerning pairs](#3-frequently-occurring-kerning-pairs)
 * [(4) Relevant kerning pairs](#4-relevant-kerning-pairs)
-* [(5) Sample Text (**Update**)](#5-sample-text)
+* [(5) Sample Text (**UPDATE**)](#5-sample-text)
 * [Personal Whitelisting](#personal-whitelisting)
 * [Notes](#notes)
 
@@ -16,7 +16,7 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 * 🍀✨ [result/relevant_kerning_raw.json](result/relevant_kerning_raw.json) 
 * 🍀✨ [result/relevant_kerning_with_padding.txt](result/relevant_kerning_with_padding.txt)
 * 🍀✨ [result/relevant_kerning_clustered.txt](result/relevant_kerning_clustered.txt)
-* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt) 💜 **NEW** 💕
+* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt) 💜 **NEW**💕
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
@@ -109,6 +109,10 @@ Looking at the resulting chart by frequency values only, it is noticeable that a
 Excerpt. After the upper 400 pairs occurence is not dominating the other summands and the little personal whitelist bonus gets noticeable. See full chart here: [docs/03-kern-scores.html](https://andre-fuchs.github.io/kerning-pairs/03-kern-scores.html)</sup>
 
 
+## (5) Sample Text
+In addition to the raw lists of kerning pairs, this repository contains a sample text now. It is composed with the most common and relevant words including all languages and kerning pairs. I am aiming for reasonably compression here. The distribution/frequency of the letters/pairs/words resembles a real text. Sort of. This is the most fuzzy part, which surely requires more manual editing.
+
+
 ## Personal Whitelisting
 From personal experience of setting cultural science texts most often, I would like to pay more attention to the quotation marks. First all of their stylistic alternates should be taken into account. So I summed up all comparable pair counts and generated all possible variants. In the end I wasn't fully convinced by their frequency of occurrence in these sample texts from Wikipedia. Different kinds of texts – other than encyclopedic – would be necessary to cover more special cases. Instead, in order to keep this project manageable, I prefer a personal **whitelist** of kerning pairs, which I would like to see ranked higher. A bonus value 0.5 added to the score works just fine for my purposes. This does not affect the top of the ranking, as you can see in the charts. Feel free to edit this *whitelist* in script 4A.
 
@@ -127,10 +131,6 @@ The Google Fonts kern dump collected 80 % of all possible letter pairs to be pot
 <!--Technically kerning pairs can be stored in the KERN table or the GPOS table (e.g. Glyphsapp) following the Opentype specifications. The KERN table can store up to about 11000 pairs without overflow, I've read. How many pairs could the GPOS table store? -->
 
 This project's approach combines more objective factors (occurrence, kerning value) and more subjective ones (popularity, personal whitelist). Popularity is measured statistically though and the whitelist bonus is rather small.
-
-
-## (5) Sample Text
-In addition to the raw lists of kerning pairs, this repository contains a sample text now. It is composed with the most common and relevant words including all languages and kerning pairs. I am aiming for reasonably compression here. The distribution/frequency of the letters/pairs/words resembles a real text. Sort of. This is the most fuzzy part, which surely requires more manual editing.
 
 
 #### Wishlist/Upcoming
