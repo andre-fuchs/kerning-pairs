@@ -6,7 +6,7 @@
 * [(2) Potential kerning pairs](#2-potential-kerning-pairs)
 * [(3) Frequently occurring kerning pairs](#3-frequently-occurring-kerning-pairs)
 * [(4) Relevant kerning pairs](#4-relevant-kerning-pairs)
-* [(5) Sample Text (**Corona Update**)](#5-sample-text)
+* [(5) Sample Text (**Update**)](#5-sample-text)
 * [Personal Whitelisting](#personal-whitelisting)
 * [Notes](#notes)
 
@@ -16,7 +16,7 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 * 🍀✨ [result/relevant_kerning_raw.json](result/relevant_kerning_raw.json) 
 * 🍀✨ [result/relevant_kerning_with_padding.txt](result/relevant_kerning_with_padding.txt)
 * 🍀✨ [result/relevant_kerning_clustered.txt](result/relevant_kerning_clustered.txt)
-* 💜💕 [result/relevant_words.txt](result/relevant_words.txt) ✅**NEW**✅
+* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt) 💜 **NEW** 💕
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
@@ -130,7 +130,7 @@ This project's approach combines more objective factors (occurrence, kerning val
 
 
 ## (5) Sample Text
-In addition to the raw lists of kerning pairs, this repository contains a sample text now. It is composed with the most common and relevant words including all languages and kerning pairs. I am not aiming for maximum compression here. Instead, the distribution/frequency of the letters/pairs/words resembles a real text. Sort of. This is the most fuzzy part, which surely requires more manual editing.
+In addition to the raw lists of kerning pairs, this repository contains a sample text now. It is composed with the most common and relevant words including all languages and kerning pairs. I am aiming for reasonably compression here. The distribution/frequency of the letters/pairs/words resembles a real text. Sort of. This is the most fuzzy part, which surely requires more manual editing.
 
 
 #### Wishlist/Upcoming
