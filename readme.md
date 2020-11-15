@@ -110,7 +110,7 @@ Excerpt. After the upper 400 pairs occurence is not dominating the other summand
 
 
 ## (5) Sample Text
-The sample texts are composed with the most common words in the most respective languages for each kerning pair. I am aiming for reasonably compression here. These compositions should resemble real life examples of texts. They get more fuzzy/messi/noisy towards the end due to the more noisy "long tail" discussed before. This noise could be reduced best by manual editing, I think.
+The sample texts are composed with the most common words in the most respective languages for each kerning pair. I am aiming for reasonably compression here. These compositions should resemble real life examples of texts. They get more fuzzy/messy/noisy towards the end due to the more noisy "long tail" discussed before. This noise could be reduced best by manual editing, I think.
 
 Useful by-products might be the lists of most commong words in each language, for instance: 
 [count/by_language/en/words.json](count/by_language/en/words.json) 
