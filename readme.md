@@ -16,7 +16,7 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 * 🍀✨ [result/relevant_kerning_raw.json](result/relevant_kerning_raw.json) 
 * 🍀✨ [result/relevant_kerning_with_padding.txt](result/relevant_kerning_with_padding.txt)
 * 🍀✨ [result/relevant_kerning_clustered.txt](result/relevant_kerning_clustered.txt)
-* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt) 💜 **NEW**💕
+* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt) 💜 **NEW** 💕
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
@@ -110,7 +110,10 @@ Excerpt. After the upper 400 pairs occurence is not dominating the other summand
 
 
 ## (5) Sample Text
-In addition to the raw lists of kerning pairs, this repository contains a sample text now. It is composed with the most common and relevant words including all languages and kerning pairs. I am aiming for reasonably compression here. The distribution/frequency of the letters/pairs/words resembles a real text. Sort of. This is the most fuzzy part, which surely requires more manual editing.
+The sample texts are composed with the most common words in the most respective languages for each kerning pair. I am aiming for reasonably compression here. These compositions should resemble real life examples of texts. They get more fuzzy/messi/noisy towards the end due to the more noisy "long tail" discussed before. This noise could be reduced best by manual editing, I think.
+
+Useful by-products might be the lists of most commong words in each language, for instance: 
+[count/by_language/en/words.json](count/by_language/en/words.json) 
 
 
 ## Personal Whitelisting
@@ -118,7 +121,9 @@ From personal experience of setting cultural science texts most often, I would l
 
 
 ## Notes
-Let's try to avoid over-engineering.
+Let's try to avoid over-engineering. 
+
+It is not necessary to kern all possible kerning pairs. A relatively small fraction of them gets the job done just fine. For ever smaller marginal gains the corresponding effort rises more and more unreasonably. This is called "diminishing returns" in economics.
 
 Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by inter-punctuation ones.
 
