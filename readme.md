@@ -123,7 +123,7 @@ From personal experience of setting cultural science texts most often, I would l
 ## Notes
 Let's try to avoid over-engineering. 
 
-It is not necessary to kern all possible kerning pairs. A relatively small fraction of them gets the job done just fine. For ever smaller marginal gains the corresponding effort rises more and more unreasonably. This is called "diminishing returns" in economics.
+It is not necessary to kern all possible kerning pairs. A relatively small fraction of them gets the job done just fine. For ever smaller marginal gains the corresponding effort rises more and more unreasonably. This is called **diminishing returns** in economics.
 
 Besides the many unknown kerning pairs added by foreign languages, I am surprised especially by pairs including the space character. Secondly uppercase letter pairs are more relevant, of course, followed by inter-punctuation ones.
 
