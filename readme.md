@@ -6,7 +6,7 @@
 * [(2) Potential kerning pairs](#2-potential-kerning-pairs)
 * [(3) Frequently occurring kerning pairs](#3-frequently-occurring-kerning-pairs)
 * [(4) Relevant kerning pairs](#4-relevant-kerning-pairs)
-* [(5) Sample Text (**UPDATE**)](#5-sample-text)
+* [(5) Sample Text](#5-sample-text)
 * [Personal Whitelisting](#personal-whitelisting)
 * [Notes](#notes)
 
@@ -16,7 +16,7 @@ Find a list of kerning pairs below, ordered by relevance. The relevance score is
 * 🍀✨ [result/relevant_kerning_raw.json](result/relevant_kerning_raw.json) 
 * 🍀✨ [result/relevant_kerning_with_padding.txt](result/relevant_kerning_with_padding.txt)
 * 🍀✨ [result/relevant_kerning_clustered.txt](result/relevant_kerning_clustered.txt)
-* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt) 💜 **NEW** 💕
+* 🍀✨ [result/relevant_words.txt](result/relevant_words.txt)
 
 The first 1000 to 2000 pairs should have you covered sufficiently in all languages, see (4) for details. Depending on your typeface’s style you don't have to kern each and everyone of them, of course. 
 
