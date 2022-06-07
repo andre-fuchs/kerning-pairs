@@ -117,7 +117,7 @@ Useful by-products might be the lists of most common words in each language, for
 
 
 ## Personal Whitelisting
-From personal experience of setting cultural science texts most often, I would like to pay more attention to the quotation marks. First all of their stylistic alternates should be taken into account. So I summed up all comparable pair counts and generated all possible variants. In the end I wasn't fully convinced by their frequency of occurrence in these sample texts from Wikipedia. Different kinds of texts – other than encyclopedic – would be necessary to cover more special cases. Instead, in order to keep this project manageable, I prefer a personal **whitelist** of kerning pairs, which I would like to see ranked higher. A bonus value 0.5 added to the score works just fine for my purposes. This does not affect the top of the ranking, as you can see in the charts. Feel free to edit this *whitelist* in script 4A.
+From personal experience of setting cultural studies texts most often, I would like to pay more attention to the quotation marks. First all of their stylistic alternates should be taken into account. So I summed up all comparable pair counts and generated all possible variants. In the end I wasn't fully convinced by their frequency of occurrence in these sample texts from Wikipedia. Different kinds of texts – other than encyclopedic – would be necessary to cover more special cases. Instead, in order to keep this project manageable, I prefer a personal **whitelist** of kerning pairs, which I would like to see ranked higher. A bonus value 0.5 added to the score works just fine for my purposes. This does not affect the top of the ranking, as you can see in the charts. Feel free to edit this *whitelist* in script 4A.
 
 
 ## Notes
