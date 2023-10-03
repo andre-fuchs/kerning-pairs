@@ -45,7 +45,7 @@ typed-ast==1.5.1
 typing_extensions==4.0.1
 uflash==2.0.0
 unicodedata2==14.0.0
-urllib3==1.26.8
+urllib3==1.26.17
 virtualenv==20.13.0
 virtualenv-clone==0.5.7
 wikipedia==1.4.0
