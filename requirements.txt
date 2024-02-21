@@ -6,7 +6,7 @@ certifi==2023.7.22
 cffi==1.15.0
 chardet==4.0.0
 charset-normalizer==2.0.10
-cryptography==42.0.2
+cryptography==42.0.4
 defcon==0.10.0
 distlib==0.3.4
 ecdsa==0.17.0
