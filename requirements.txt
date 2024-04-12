@@ -15,7 +15,7 @@ filelock==3.4.2
 fonttools==4.43.0
 fs==2.4.14
 fuzzywuzzy==0.18.0
-idna==3.3
+idna==3.7
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.6.1
