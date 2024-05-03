@@ -40,7 +40,7 @@ six==1.16.0
 soupsieve==2.3.1
 svgwrite==1.4.1
 toml==0.10.2
-tqdm==4.62.3
+tqdm==4.66.3
 typed-ast==1.5.1
 typing_extensions==4.0.1
 uflash==2.0.0
